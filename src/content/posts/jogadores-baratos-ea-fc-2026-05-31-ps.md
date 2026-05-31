@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:57.000Z
+pubDatetime: 2026-05-31T19:58:02.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,15 +31,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Vincenzo Grifo | 92 | LM | — | 14k coins | 0% |
 | Gianluca Vialli | 91 | ST | — | 15k coins | -4.8% |
-| Alexia Putellas | 91 | CM | Liga F | 15k coins | -4.8% |
 | Dimitar Berbatov | 91 | ST | — | 15k coins | -7.7% |
+| Rodri | 90 | CDM | Premier League | 8k coins | +41.4% |
 | Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | 0% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +1% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +11.6% |
+| Erling Haaland | 90 | ST | Premier League | 10k coins | +2.1% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 12k coins | -2% |
-| Frida Maanum | 90 | CAM | — | 13k coins | -13.3% |
 | Alexandre Penetra | 90 | CB | — | 13k coins | 0% |
+| Frida Maanum | 90 | CAM | — | 14k coins | -10% |
 | Enzo Francescoli | 90 | CAM | — | 14k coins | -6.8% |
 | Ingrid Syrstad Engen | 90 | CB | — | 15k coins | +9.1% |
 
@@ -50,9 +49,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (91, ST)** da —, a apenas **15k coins**
 
-- **Alexia Putellas (91, CM)** da Liga F, a apenas **15k coins**
-
 - **Dimitar Berbatov (91, ST)** da —, a apenas **15k coins**
+
+- **Rodri (90, CDM)** da Premier League, a apenas **8k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
 

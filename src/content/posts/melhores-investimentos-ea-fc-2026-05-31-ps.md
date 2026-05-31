@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:57.000Z
+pubDatetime: 2026-05-31T19:58:02.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,33 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 189k coins | +11.2% | +89% | 42% |
+| Patri Guijarro | 90 | Liga F | 48k coins | +28.4% | +61% | 95% |
 | Maicon | 90 | Serie A TIM | 100k coins | +22% | +56.2% | 51% |
 | Avery Patterson | 93 | — | 22k coins | +3.6% | +55.4% | 93% |
+| Unai Simón | 90 | LALIGA EA SPORTS | 26k coins | +26.2% | +53.6% | 93% |
+| Rayan Aït-Nouri | 90 | Premier League | 78k coins | +16.4% | +50% | 5% |
 | Manuela Giugliano | 95 | — | 29k coins | +7.4% | +48.7% | 80% |
 | Marco Asensio | 96 | — | 51k coins | +8.5% | +46.8% | 5% |
+| Kerim Alajbegović | 94 | — | 78k coins | +30.2% | +43.5% | 95% |
 | Guro Reiten | 90 | NWSL | 24k coins | +15.7% | +43.3% | 95% |
-| Lotta Schelin | 90 | Icons | 118k coins | +18% | +41.3% | 44% |
+| Jacobo Ramón | 94 | — | 29k coins | +8.4% | +43.2% | 95% |
 | Nina Lührßen | 93 | — | 22k coins | +2.4% | +41% | 68% |
 | Larissa Mühlhaus | 92 | — | 22k coins | +2.4% | +41% | 55% |
 | Rasmus Højlund | 91 | — | 32k coins | +16.7% | +40% | 68% |
 | Matthieu Udol | 93 | — | 22k coins | +2.4% | +38.7% | 55% |
-| Marco Palestra | 93 | — | 22k coins | +3.6% | +38.1% | 60% |
-| Jakub Kiwior | 94 | — | 30k coins | +6.2% | +37.9% | 5% |
-| Jacobo Ramón | 94 | — | 28k coins | +3.8% | +37.5% | 95% |
-| Leroy Sané | 90 | Trendyol Süper Lig | 29k coins | +27.8% | +36.9% | 81% |
 
 
 ## 📈 Análise dos destaques
 
 - **Bradley Barcola (90)** — 189k coins, **+89% em 7 dias** (+11.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
+- **Patri Guijarro (90)** — 48k coins, **+61% em 7 dias** (+28.4% em 24h). Preço +46% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+
 - **Maicon (90)** — 100k coins, **+56.2% em 7 dias** (+22% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Avery Patterson (93)** — 22k coins, **+55.4% em 7 dias** (+3.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
 
-- **Manuela Giugliano (95)** — 29k coins, **+48.7% em 7 dias** (+7.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
-
-- **Marco Asensio (96)** — 51k coins, **+46.8% em 7 dias** (+8.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Unai Simón (90)** — 26k coins, **+53.6% em 7 dias** (+26.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **93% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
