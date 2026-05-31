@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:58:03.000Z
+pubDatetime: 2026-05-31T21:28:15.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,13 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodri | 90 | CDM | Premier League | 9k coins | +50% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | -11.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -2.3% |
+| Rodri | 90 | CDM | Premier League | 9k coins | +32.4% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
+| Erling Haaland | 90 | ST | Premier League | 11k coins | +7.5% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -14.5% |
 | Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
-| Caroline Graham Hansen | 90 | RW | Liga F | 15k coins | -3.3% |
 | Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
 | Enzo Francescoli | 90 | CAM | — | 15k coins | -13% |
 
@@ -44,11 +44,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
+- **Erling Haaland (90, ST)** da Premier League, a apenas **11k coins**
+
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **11k coins**
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 
@@ -75,6 +75,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
