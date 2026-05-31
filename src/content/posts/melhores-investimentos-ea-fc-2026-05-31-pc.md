@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:15.000Z
+pubDatetime: 2026-05-31T22:58:02.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -32,33 +32,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lotta Schelin | 90 | Icons | 210k coins | +32.1% | +84.2% | 44% |
-| Anders Dreyer | 94 | — | 32k coins | +22.6% | +71% | 19% |
-| Larissa Mühlhaus | 92 | — | 20k coins | +2.6% | +54.9% | 0% |
-| Nina Lührßen | 93 | — | 20k coins | +5.2% | +47.3% | 0% |
-| Paula Fernández | 93 | — | 20k coins | +3.9% | +42.9% | 0% |
-| Matthieu Udol | 93 | — | 20k coins | +1.3% | +41.1% | 0% |
-| Jakub Kiwior | 94 | — | 42k coins | +6.4% | +39.2% | 0% |
-| Yui Hasegawa | 94 | — | 35k coins | +21.6% | +38.2% | 0% |
-| Marco Palestra | 93 | — | 20k coins | +5.1% | +36.7% | 16% |
-| Lewis Hall | 90 | — | 24k coins | +7.7% | +36.1% | 0% |
-| Luciano Valente | 92 | — | 22k coins | +12.8% | +35.4% | 29% |
-| Avery Patterson | 93 | — | 20k coins | +1.2% | +35% | 0% |
-| Aleksandar Pavlović | 93 | — | 20k coins | +3.9% | +33.3% | 0% |
-| Oyarzabal | 91 | — | 20k coins | +3.8% | +32.8% | 0% |
-| Georgia Stanway | 95 | — | 25k coins | +25% | +31.6% | 0% |
+| Mateo Kovačić | 90 | Premier League | 29k coins | +16% | +75.8% | 41% |
+| Nuno Tavares | 91 | Serie A TIM | 68k coins | +10.6% | +71.1% | 57% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | +7.6% | +70.7% | 22% |
+| Francisco Moura | 90 | Liga Portugal | 25k coins | +8.7% | +61.3% | 23% |
+| Leroy Sané | 90 | Trendyol Süper Lig | 30k coins | +9.9% | +60.5% | 41% |
+| Vanessa Gilles | 94 | — | 40k coins | +37.9% | +58.4% | 0% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 36k coins | +16.4% | +52.7% | 52% |
+| Nina Lührßen | 93 | — | 21k coins | +9% | +49.1% | 0% |
+| Luis Javier Suárez | 96 | — | 74k coins | +5% | +48.7% | 0% |
+| Aleksandar Pavlović | 93 | — | 22k coins | +7.5% | +48.3% | 0% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 52k coins | +36.4% | +47.9% | 66% |
+| Pablo Fornals | 92 | — | 24k coins | +20% | +47.7% | 0% |
+| Paula Fernández | 93 | — | 22k coins | +11.5% | +47.5% | 0% |
+| Máximo Perrone | 92 | — | 22k coins | +14.3% | +46.7% | 28% |
 
 
 ## 📈 Análise dos destaques
 
 - **Lotta Schelin (90)** — 210k coins, **+84.2% em 7 dias** (+32.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Anders Dreyer (94)** — 32k coins, **+71% em 7 dias** (+22.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mateo Kovačić (90)** — 29k coins, **+75.8% em 7 dias** (+16% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Larissa Mühlhaus (92)** — 20k coins, **+54.9% em 7 dias** (+2.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nuno Tavares (91)** — 68k coins, **+71.1% em 7 dias** (+10.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nina Lührßen (93)** — 20k coins, **+47.3% em 7 dias** (+5.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ben Chilwell (90)** — 25k coins, **+70.7% em 7 dias** (+7.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paula Fernández (93)** — 20k coins, **+42.9% em 7 dias** (+3.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Francisco Moura (90)** — 25k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista

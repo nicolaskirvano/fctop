@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:15.000Z
+pubDatetime: 2026-05-31T22:58:03.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -35,9 +35,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -14.5% |
-| Ingrid Syrstad Engen | 90 | CB | — | 14k coins | -24.7% |
-| Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
-| Enzo Francescoli | 90 | CAM | — | 15k coins | -13% |
 
 
 ## 📈 Destaques
