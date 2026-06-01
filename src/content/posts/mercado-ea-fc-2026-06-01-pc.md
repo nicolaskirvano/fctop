@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:58:02.000Z
+pubDatetime: 2026-06-01T13:58:02.000Z
 title: "Cartas 90+ no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Ryan Yates (92, sem liga), com +59.3% em 24h, a 86k coins no PC."
+    a: "Claudio Pizarro (92, sem liga), com +58.9% em 24h, a 36k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Khadija Shaw (91), -42.1% em 24h, a 55k coins."
+    a: "Bobby Charlton (93), -43.9% em 24h, a 333k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 20k coins."
+    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 281 cartas em alta contra 345 em queda (média 1.15%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 232 cartas em alta contra 357 em queda (média -0.91%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **281 subiram** e **345 caíram**, com variação média de **1.15%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **232 subiram** e **357 caíram**, com variação média de **-0.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Ryan Yates (92) **+59.3%** · 🔴 **Maior baixa:** Khadija Shaw (91) **-42.1%**
+> 🟢 **Maior alta:** Claudio Pizarro (92) **+58.9%** · 🔴 **Maior baixa:** Bobby Charlton (93) **-43.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Yates | 92 | — | 86k coins | +59.3% | -2.3% |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 62k coins | +50% | +53.8% |
-| Lindsey Heaps | 90 | D1 Arkema | 38k coins | +48.1% | -3.1% |
-| Bobby Charlton | 93 | Icons | 338k coins | +47% | +5.6% |
+| Claudio Pizarro | 92 | — | 36k coins | +58.9% | -37.8% |
+| Birgit Prinz | 93 | Icons | 115k coins | +57.5% | +9.5% |
+| Unai Simón | 90 | LALIGA EA SPORTS | 24k coins | +56.7% | -2.1% |
+| Selina Cerci | 90 | GPFBL | 116k coins | +50.6% | +0.9% |
+| Yan Diomande | 92 | — | 40k coins | +50.5% | +30.6% |
+| Salem Al Dawsari | 90 | ROSHN Saudi League | 24k coins | +48.5% | +21% |
+| Ryan Yates | 92 | — | 88k coins | +48.3% | +19.9% |
+| Erling Haaland | 91 | Premier League | 147k coins | +47.7% | -7% |
 | Bobby Charlton | 92 | Icons | 145k coins | +46.5% | +20.8% |
-| Alex Scott | 93 | — | 171k coins | +46.2% | +4.3% |
-| Lucas Digne | 96 | — | 460k coins | +44.2% | -4.2% |
-| Raphinha | 95 | LALIGA EA SPORTS | 3.30M coins | +43.4% | +69.2% |
-| Ryan Wintle | 94 | — | 38k coins | +42.4% | +71.6% |
-| Julie Foudy | 92 | Icons | 36k coins | +42% | +19.3% |
+| Gheorghe Hagi | 90 | Icons | 120k coins | +45.4% | +25% |
 
 
 ### Análise das altas
 
-- **Ryan Yates (92)** subiu **+59.3%** em 24h, a **86k coins** (faixa do dia: 50k–90k). Está +23% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Claudio Pizarro (92)** subiu **+58.9%** em 24h, a **36k coins** (faixa do dia: 20k–40k). Está +40% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Aymeric Laporte (90)** subiu **+50%** em 24h, a **62k coins** (faixa do dia: 41k–75k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Birgit Prinz (93)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 84k–120k). Está +46% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Lindsey Heaps (90)** subiu **+48.1%** em 24h, a **38k coins** (faixa do dia: 20k–48k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
+- **Unai Simón (90)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 15k–27k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 91 | Barclays WSL | 55k coins | -42.1% | +15.2% |
-| Dennis Bergkamp | 93 | Icons | 238k coins | -41.4% | -41.8% |
-| Camille Abily | 91 | Icons | 23k coins | -41% | -44.9% |
-| Leah Williamson | 95 | Barclays WSL | 238k coins | -40.5% | -27.9% |
-| Alyssa Thompson | 91 | Barclays WSL | 106k coins | -39.1% | -20.3% |
-| Caroline Graham Hansen | 95 | Liga F | 1.08M coins | -38.3% | +4.2% |
-| Ibañez | 93 | — | 88k coins | -35.2% | -42.8% |
-| Carlos Alberto | 92 | Icons | 296k coins | -34.2% | -60.5% |
-| Gianluigi Donnarumma | 95 | Premier League | 999k coins | -33.4% | 0% |
-| Mohamed Ihattaren | 91 | — | 20k coins | -33.3% | -33.3% |
+| Bobby Charlton | 93 | Icons | 333k coins | -43.9% | +4.1% |
+| Camille Abily | 91 | Icons | 22k coins | -42.9% | -45% |
+| Pau Torres | 96 | — | 1.03M coins | -42.8% | -26.4% |
+| Harry Kane | 91 | Bundesliga | 26k coins | -42% | -53.6% |
+| Aurélien Tchouaméni | 92 | — | 409k coins | -39.4% | -48.9% |
+| Khadija Shaw | 91 | Barclays WSL | 55k coins | -38.9% | +15.2% |
+| Ramires | 93 | — | 597k coins | -37.5% | -25.3% |
+| Ryan Gravenberch | 92 | Premier League | 329k coins | -37.3% | -15.2% |
+| Jens Petter Hauge | 90 | Eliteserien | 22k coins | -35.7% | -13.5% |
+| Vanessa Fudalla | 96 | — | 522k coins | -34.6% | -27.4% |
 
 
 ### Análise das baixas
 
-- **Khadija Shaw (91)** caiu **-42.1%** em 24h, a **55k coins** (faixa do dia: 54k–95k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
+- **Bobby Charlton (93)** caiu **-43.9%** em 24h, a **333k coins** (faixa do dia: 323k–395k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
 
-- **Dennis Bergkamp (93)** caiu **-41.4%** em 24h, a **238k coins** (faixa do dia: 208k–270k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Camille Abily (91)** caiu **-42.9%** em 24h, a **22k coins** (faixa do dia: 16k–37k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Camille Abily (91)** caiu **-41%** em 24h, a **23k coins** (faixa do dia: 23k–40k). Está -48% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Pau Torres (96)** caiu **-42.8%** em 24h, a **1.03M coins** (faixa do dia: 1.03M–1.65M). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,7 +86,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 90 | 20k coins | 21k coins | 80% |
+| Giovani Lo Celso | 90 | 23k coins | 24k coins | 80% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -97,16 +97,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Ryan Yates (92, sem liga), com +59.3% em 24h, a 86k coins no PC.
+Claudio Pizarro (92, sem liga), com +58.9% em 24h, a 36k coins no PC.
 
 **E a maior queda do dia?**  
-Khadija Shaw (91), -42.1% em 24h, a 55k coins.
+Bobby Charlton (93), -43.9% em 24h, a 333k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 20k coins.
+Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 281 cartas em alta contra 345 em queda (média 1.15%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 232 cartas em alta contra 357 em queda (média -0.91%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

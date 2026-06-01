@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:58:02.000Z
+pubDatetime: 2026-06-01T13:58:03.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Nicolas López (93, sem liga) lidera, com +87.5% em 7 dias a 30k coins no PC."
+    a: "Vanessa Gilles (94, sem liga) lidera, com +70.2% em 7 dias a 40k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Nicolas López (93) acumula **+87.5% em 7 dias** a 30k coins.
+> 🔝 **Destaque:** Vanessa Gilles (94) acumula **+70.2% em 7 dias** a 40k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nicolas López | 93 | — | 30k coins | +30.4% | +87.5% | 0% |
-| Conor Gallagher | 91 | Premier League | 120k coins | +9.1% | +84.6% | 64% |
-| Santiago Sosa | 93 | — | 35k coins | +32.1% | +75% | 0% |
-| Raphinha | 90 | LALIGA EA SPORTS | 236k coins | +33.3% | +74.8% | 6% |
-| Rayan Aït-Nouri | 90 | Premier League | 89k coins | +4.7% | +67.9% | 63% |
-| Mauro Júnior | 95 | — | 31k coins | +23% | +61.8% | 67% |
-| Manuel Akanji | 91 | — | 32k coins | +19.6% | +54.2% | 62% |
-| Weston McKennie | 91 | Serie A TIM | 53k coins | +3.9% | +53.6% | 61% |
-| Cristian Roldan | 94 | — | 34k coins | +6.2% | +50% | 68% |
-| Carl Rushworth | 93 | — | 32k coins | +16.4% | +48.8% | 0% |
-| David Raum | 92 | — | 30k coins | +15.4% | +46.3% | 0% |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 25k coins | +2.1% | +45.6% | 61% |
-| Weston McKennie | 92 | — | 29k coins | +38.6% | +45.6% | 27% |
-| Enzo Francescoli | 90 | — | 19k coins | +13.4% | +43.4% | 27% |
+| Vanessa Gilles | 94 | — | 40k coins | +5.3% | +70.2% | 0% |
+| Cristian Roldan | 94 | — | 37k coins | +22.5% | +59.8% | 68% |
+| Marc Cucurella | 93 | — | 64k coins | +17.3% | +57.3% | 0% |
+| Selma Bacha | 94 | — | 239k coins | +7.7% | +44.8% | 0% |
+| Joan García | 94 | — | 60k coins | +1.7% | +42.4% | 0% |
 | Rivaldo | 90 | Icons | 98k coins | +19.6% | +42.3% | 37% |
+| Manuel Akanji | 91 | — | 30k coins | +9.3% | +42.2% | 62% |
+| Kaká | 90 | — | 188k coins | +7.4% | +38.2% | 64% |
+| Paulo Futre | 92 | Liga Portugal | 148k coins | +31% | +37% | 42% |
+| Gregor Kobel | 95 | — | 28k coins | +2.8% | +37% | 0% |
+| Milan Škriniar | 93 | — | 35k coins | +19.7% | +34.6% | 0% |
+| Jan Bednarek | 94 | — | 60k coins | +1.7% | +34.1% | 0% |
+| Craig Halkett | 91 | — | 30k coins | +26.6% | +32.2% | 36% |
+| Bixente Lizarazu | 90 | — | 25k coins | +5.3% | +32% | 27% |
+| Sergi Domínguez | 92 | — | 26k coins | +19.3% | +31.2% | 46% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nicolas López (93)** — 30k coins, **+87.5% em 7 dias** (+30.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Vanessa Gilles (94)** — 40k coins, **+70.2% em 7 dias** (+5.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Conor Gallagher (91)** — 120k coins, **+84.6% em 7 dias** (+9.1% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Cristian Roldan (94)** — 37k coins, **+59.8% em 7 dias** (+22.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Santiago Sosa (93)** — 35k coins, **+75% em 7 dias** (+32.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marc Cucurella (93)** — 64k coins, **+57.3% em 7 dias** (+17.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Raphinha (90)** — 236k coins, **+74.8% em 7 dias** (+33.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selma Bacha (94)** — 239k coins, **+44.8% em 7 dias** (+7.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rayan Aït-Nouri (90)** — 89k coins, **+67.9% em 7 dias** (+4.7% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Joan García (94)** — 60k coins, **+42.4% em 7 dias** (+1.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Nicolas López (93, sem liga) lidera, com +87.5% em 7 dias a 30k coins no PC.
+Vanessa Gilles (94, sem liga) lidera, com +70.2% em 7 dias a 40k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

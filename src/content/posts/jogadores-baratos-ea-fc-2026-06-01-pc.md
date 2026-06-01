@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:58:03.000Z
+pubDatetime: 2026-06-01T13:58:03.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,24 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rodri | 90 | CDM | Premier League | 9k coins | -1.2% |
+| Erling Haaland | 90 | ST | Premier League | 9k coins | -4.2% |
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | -3.1% |
-| Erling Haaland | 90 | ST | Premier League | 10k coins | -11.6% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | -9.8% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | 0% |
 | Iván Marcone | 90 | CDM | — | 11k coins | 0% |
 | Caroline Graham Hansen | 90 | RW | Liga F | 13k coins | -13.3% |
-| Frida Maanum | 90 | CAM | — | 15k coins | -3.3% |
-| Nadine Keßler | 90 | CM | GPFBL | 15k coins | -15.5% |
+| Frida Maanum | 90 | CAM | — | 13k coins | -14.8% |
+| Ingrid Syrstad Engen | 90 | CB | — | 15k coins | -23.1% |
 
 
 ## 📈 Destaques
 
 - **Rodri (90, CDM)** da Premier League, a apenas **9k coins**
 
+- **Erling Haaland (90, ST)** da Premier League, a apenas **9k coins**
+
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Erling Haaland (90, ST)** da Premier League, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
 - **Iván Marcone (90, CDM)** da —, a apenas **11k coins**
 

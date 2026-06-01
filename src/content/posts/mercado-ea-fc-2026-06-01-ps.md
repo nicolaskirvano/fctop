@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:58:01.000Z
+pubDatetime: 2026-06-01T13:58:01.000Z
 title: "Cartas 90+ no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -15,20 +15,20 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
     a: "David Ginola (90, Ligue 1 McDonald's), com +57.6% em 24h, a 5.20M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Florian Wirtz (90), -36.2% em 24h, a 100k coins."
+    a: "Rivaldo (90), -36.7% em 24h, a 69k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Harry Kane (91) — 95% de probabilidade de alta, a 26k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 330 cartas em alta contra 352 em queda (média 1.04%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 331 cartas em alta contra 352 em queda (média 1.07%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **330 subiram** e **352 caíram**, com variação média de **1.04%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **331 subiram** e **352 caíram**, com variação média de **1.07%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** David Ginola (90) **+57.6%** · 🔴 **Maior baixa:** Florian Wirtz (90) **-36.2%**
+> 🟢 **Maior alta:** David Ginola (90) **+57.6%** · 🔴 **Maior baixa:** Rivaldo (90) **-36.7%**
 
 ## 🟢 Maiores altas (24h)
 
@@ -59,6 +59,7 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Rivaldo | 90 | Icons | 69k coins | -36.7% | -16.4% |
 | Florian Wirtz | 90 | Premier League | 100k coins | -36.2% | +38.2% |
 | Andrea Pirlo | 91 | Icons | 690k coins | -29.5% | -32.9% |
 | Ousmane Dembélé | 91 | Ligue 1 McDonald's | 920k coins | -29.2% | +2.6% |
@@ -67,17 +68,16 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Joshua Kimmich | 90 | Bundesliga | 22k coins | -27.7% | -30.6% |
 | Selma Bacha | 94 | — | 152k coins | -25.8% | -17.8% |
 | Lothar Matthäus | 91 | Icons | 1.15M coins | -24.7% | +19.8% |
-| Casillas | 90 | Icons | 84k coins | -24.1% | -21.2% |
 | Steven Gerrard | 90 | Icons | 117k coins | -23.5% | 0% |
 
 
 ### Análise das baixas
 
+- **Rivaldo (90)** caiu **-36.7%** em 24h, a **69k coins** (faixa do dia: 68k–118k). Está -24% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+
 - **Florian Wirtz (90)** caiu **-36.2%** em 24h, a **100k coins** (faixa do dia: 100k–156k). Está +18% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 - **Andrea Pirlo (91)** caiu **-29.5%** em 24h, a **690k coins** (faixa do dia: 690k–1.03M). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
-- **Ousmane Dembélé (91)** caiu **-29.2%** em 24h, a **920k coins** (faixa do dia: 920k–1.25M). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -123,13 +123,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 David Ginola (90, Ligue 1 McDonald's), com +57.6% em 24h, a 5.20M coins no Console (PS).
 
 **E a maior queda do dia?**  
-Florian Wirtz (90), -36.2% em 24h, a 100k coins.
+Rivaldo (90), -36.7% em 24h, a 69k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Harry Kane (91) — 95% de probabilidade de alta, a 26k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 330 cartas em alta contra 352 em queda (média 1.04%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 331 cartas em alta contra 352 em queda (média 1.07%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
