@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:58:03.000Z
+pubDatetime: 2026-06-01T01:58:03.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false

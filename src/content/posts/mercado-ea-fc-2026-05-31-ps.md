@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:58:01.000Z
+pubDatetime: 2026-06-01T01:58:01.000Z
 title: "Cartas 90+ no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,46 +13,46 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Marinette Pichon (90, Icons), com +43.8% em 24h, a 29k coins no Console (PS)."
+    a: "Ivan Perišić (90, Eredivisie), com +42.9% em 24h, a 35k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Vitinha (91), -45.6% em 24h, a 588k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Roberto Baggio (91) — 95% de probabilidade de alta, a 74k coins."
+    a: "Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 88k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 344 cartas em alta contra 363 em queda (média 1.37%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 338 cartas em alta contra 373 em queda (média -0.02%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **344 subiram** e **363 caíram**, com variação média de **1.37%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **338 subiram** e **373 caíram**, com variação média de **-0.02%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Marinette Pichon (90) **+43.8%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
+> 🟢 **Maior alta:** Ivan Perišić (90) **+42.9%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 29k coins | +43.8% | -10.8% |
 | Ivan Perišić | 90 | Eredivisie | 35k coins | +42.9% | +20.7% |
 | Patri Guijarro | 91 | Liga F | 60k coins | +37.9% | +37.1% |
 | Salem Al Dawsari | 90 | ROSHN Saudi League | 26k coins | +36.8% | +44.4% |
 | Steven Gerrard | 90 | Icons | 153k coins | +34.2% | +27.5% |
 | Anthony Gordon | 90 | Premier League | 1.55M coins | +33.7% | +55% |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 215k coins | +33.5% | +90.3% |
-| Andrea Pirlo | 90 | Icons | 107k coins | +32.1% | +10.9% |
 | Lothar Matthäus | 91 | Icons | 1.48M coins | +32.1% | +45.8% |
 | Noa Lang | 91 | Trendyol Süper Lig | 50k coins | +31.6% | +25% |
+| Bobby Charlton | 93 | Icons | 349k coins | +29.3% | +21.2% |
+| Vincent Kompany | 91 | Premier League | 100k coins | +29% | +14.9% |
 
 
 ### Análise das altas
 
-- **Marinette Pichon (90)** subiu **+43.8%** em 24h, a **29k coins** (faixa do dia: 28k–34k). Está -10% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **continuidade da alta** (84% de chance de subir mais).
-
 - **Ivan Perišić (90)** subiu **+42.9%** em 24h, a **35k coins** (faixa do dia: 20k–38k). Está +31% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
 - **Patri Guijarro (91)** subiu **+37.9%** em 24h, a **60k coins** (faixa do dia: 44k–74k). Está +32% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+
+- **Salem Al Dawsari (90)** subiu **+36.8%** em 24h, a **26k coins** (faixa do dia: 11k–29k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -63,12 +63,12 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Rafael Leão | 93 | Serie A TIM | 1.38M coins | -44.7% | +16.6% |
 | Camille Abily | 92 | Icons | 50k coins | -39% | -28.6% |
 | Alexia Putellas | 92 | Liga F | 44k coins | -38.3% | -28.1% |
+| Kerim Alajbegović | 94 | — | 44k coins | -35.3% | -12% |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 637k coins | -34.1% | +8.2% |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 1.89M coins | -30.9% | -27% |
 | Enzo Fernández | 91 | Premier League | 38k coins | -29% | -8.4% |
 | Scott McTominay | 91 | Serie A TIM | 350k coins | -28.9% | +26.4% |
 | Paul Pogba | 92 | Ligue 1 McDonald's | 3.05M coins | -26.4% | -14.8% |
-| Caroline Graham Hansen | 92 | Liga F | 99k coins | -26.1% | -31.7% |
 
 
 ### Análise das baixas
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Roberto Baggio | 91 | 74k coins | 92k coins | 95% |
+| Andrea Pirlo | 90 | 88k coins | 112k coins | 95% |
+| Roberto Baggio | 91 | 95k coins | 117k coins | 95% |
 | Alex Scott | 93 | 49k coins | 66k coins | 95% |
-| Alyssa Thompson | 91 | 113k coins | 139k coins | 95% |
 | Sofyan Amrabat | 90 | 36k coins | 45k coins | 95% |
-| Jacobo Ramón | 94 | 29k coins | 33k coins | 95% |
+| Robert Pirès | 90 | 16k coins | 18k coins | 95% |
 | Elliot Stroud | 94 | 29k coins | 34k coins | 95% |
 | David Raya | 92 | 38k coins | 45k coins | 95% |
-| Raphinha | 91 | 102k coins | 117k coins | 95% |
+| Andriy Shevchenko | 90 | 48k coins | 62k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Jakub Kiwior | 94 | 33k coins | -23.8% |
-| Leroy Sané | 94 | 42k coins | -17.3% |
+| Ismael Saibari | 94 | 45k coins | -17.5% |
 | Yan Diomande | 92 | 38k coins | -17.5% |
 | Katie McCabe | 92 | 29k coins | -21.4% |
-| Georgia Stanway | 95 | 26k coins | -15.7% |
-| Ingrid Syrstad Engen | 93 | 26k coins | -23.8% |
-| David Raum | 92 | 33k coins | -16.7% |
 | Ayase Ueda | 92 | 28k coins | -23.8% |
+| Leroy Sané | 94 | 42k coins | -17.3% |
+| David Raum | 92 | 33k coins | -16.7% |
+| Jakub Kiwior | 94 | 33k coins | -23.8% |
+| Ingrid Syrstad Engen | 93 | 26k coins | -23.8% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,16 +120,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Marinette Pichon (90, Icons), com +43.8% em 24h, a 29k coins no Console (PS).
+Ivan Perišić (90, Eredivisie), com +42.9% em 24h, a 35k coins no Console (PS).
 
 **E a maior queda do dia?**  
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Roberto Baggio (91) — 95% de probabilidade de alta, a 74k coins.
+Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 88k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 344 cartas em alta contra 363 em queda (média 1.37%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 338 cartas em alta contra 373 em queda (média -0.02%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:58:01.000Z
+pubDatetime: 2026-06-01T01:58:02.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -40,12 +40,12 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Rayan Aït-Nouri | 90 | Premier League | 78k coins | +16.4% | +50% | 5% |
 | Avery Patterson | 93 | — | 22k coins | +4.6% | +47.5% | 93% |
 | Salem Al Dawsari | 90 | ROSHN Saudi League | 26k coins | +36.8% | +44.4% | 50% |
-| Kerim Alajbegović | 94 | — | 78k coins | +30.2% | +43.5% | 95% |
-| Jacobo Ramón | 94 | — | 29k coins | +8.4% | +43.2% | 95% |
 | Arda Güler | 93 | LALIGA EA SPORTS | 140k coins | +16.7% | +40% | 95% |
 | Jakub Kiwior | 94 | — | 33k coins | +12% | +39.4% | 5% |
 | Aleksandar Pavlović | 93 | — | 22k coins | +6% | +39.1% | 95% |
 | Matthieu Udol | 93 | — | 22k coins | +7.1% | +38.5% | 55% |
+| Marco Palestra | 93 | — | 22k coins | +7.1% | +38.5% | 60% |
+| Paula Fernández | 93 | — | 22k coins | +7.1% | +38.5% | 55% |
 
 
 ## 📈 Análise dos destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:58:02.000Z
+pubDatetime: 2026-06-01T01:58:03.000Z
 title: "Cartas 90+ no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
