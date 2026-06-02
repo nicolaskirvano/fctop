@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:58:02.000Z
+pubDatetime: 2026-06-02T13:58:02.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (02/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
