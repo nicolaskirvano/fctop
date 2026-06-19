@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T20:00:43.000Z
+pubDatetime: 2026-06-19T23:00:35.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (19/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 19/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/06/2026)?"
-    a: "Hannibal (92, sem liga) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Willy Semedo (92, sem liga) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Hannibal (92) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Willy Semedo (92) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hannibal | 92 | CM | — | 15k coins | +11.3% |
-| Arthur Theate | 92 | CB | — | 15k coins | +13.2% |
-| Amir Murillo | 92 | RB | — | 15k coins | +13.5% |
-| Willy Semedo | 92 | LM | — | 15k coins | +15.7% |
-| Cristian Martínez | 92 | RM | — | 15k coins | +17.6% |
-| Jean-Ricner Bellegarde | 92 | CAM | — | 15k coins | +18% |
-| Antonio Sanabria | 92 | ST | — | 15k coins | +13.5% |
-| Edmilson Junior | 92 | LW | — | 15k coins | +20% |
-| Frantzdy Pierrot | 92 | ST | — | 15k coins | +15.7% |
-| Enner Valencia | 92 | ST | — | 15k coins | +15.4% |
-| Mario Pašalić | 92 | CM | — | 15k coins | +13.5% |
-| Miguel Almirón | 92 | LM | — | 15k coins | +11.1% |
-| Raúl Jiménez | 92 | ST | — | 15k coins | +3.4% |
-| Jason Geria | 92 | RB | — | 15k coins | +7.1% |
-| Oston Urunov | 91 | CAM | — | 14k coins | +13.5% |
+| Willy Semedo | 92 | LM | — | 13k coins | +9.8% |
+| Edmilson Junior | 92 | LW | — | 13k coins | +5.8% |
+| Miguel Almirón | 92 | LM | — | 14k coins | 0% |
+| Hannibal | 92 | CM | — | 14k coins | +3.7% |
+| Amir Murillo | 92 | RB | — | 14k coins | +5.8% |
+| Cristian Martínez | 92 | RM | — | 14k coins | +5.8% |
+| Jean-Ricner Bellegarde | 92 | CAM | — | 14k coins | +10% |
+| Antonio Sanabria | 92 | ST | — | 14k coins | +5.8% |
+| Jason Geria | 92 | RB | — | 14k coins | -1.8% |
+| Frantzdy Pierrot | 92 | ST | — | 14k coins | +7.8% |
+| Enner Valencia | 92 | ST | — | 14k coins | +5.7% |
+| Mario Pašalić | 92 | CM | — | 14k coins | +1.9% |
+| Arthur Theate | 92 | CB | — | 14k coins | +5.7% |
+| Raúl Jiménez | 92 | ST | — | 14k coins | -1.7% |
+| Ryan Mendes | 91 | RM | — | 13k coins | +9.8% |
 
 
 ## 📈 Destaques
 
-- **Hannibal (92, CM)** da —, a apenas **15k coins**
+- **Willy Semedo (92, LM)** da —, a apenas **13k coins**
 
-- **Arthur Theate (92, CB)** da —, a apenas **15k coins**
+- **Edmilson Junior (92, LW)** da —, a apenas **13k coins**
 
-- **Amir Murillo (92, RB)** da —, a apenas **15k coins**
+- **Miguel Almirón (92, LM)** da —, a apenas **14k coins**
 
-- **Willy Semedo (92, LM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Hannibal (92, CM)** da —, a apenas **14k coins**
 
-- **Cristian Martínez (92, RM)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Amir Murillo (92, RB)** da —, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/06/2026)?**  
-Hannibal (92, sem liga) aparece como melhor custo-benefício, a 15k coins no PC.
+Willy Semedo (92, sem liga) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
