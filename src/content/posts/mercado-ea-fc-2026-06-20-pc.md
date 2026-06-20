@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:59:48.000Z
+pubDatetime: 2026-06-20T17:00:03.000Z
 title: "Cartas 90+ no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Mohamed Salah (92, Premier League), com +51.9% em 24h, a 240k coins no PC."
+    a: "Eden Hazard (96, sem liga), com +53.2% em 24h, a 4.32M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Marco Asensio (96), -50% em 24h, a 25k coins."
+    a: "Aaron Drinan (95), -50% em 24h, a 23k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 30k coins."
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 117 cartas em alta contra 437 em queda (média -22.16%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 109 cartas em alta contra 538 em queda (média -20.26%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de cartas 90+ em PC apresenta um cenário extremamente hostil para os traders que buscam ganhos rápidos, caracterizado por um sentimento predominantemente vendedor que dominou as últimas 24 horas. Os dados indicam uma assimetria brutal entre a oferta e a demanda, com um total de 437 quedas de preço contrastando severamente com apenas 117 altas, resultando em uma média de variação negativa de -22.16% para o segmento como um todo. Este ambiente de pânico generalizado sugere que a maioria dos jogadores está liquidando seus ativos rapidamente, possivelmente devido a uma atualização de meta ou à antecipação de eventos futuros que desvalorizam as cartas atuais. A volatilidade é extrema, mas a direção predominante é claramente para baixo, exigindo uma disciplina férrea de quem ainda possui carteiras expostas a ativos de médio e baixo valor. Operar neste contexto requer identificar nichos específicos onde a escassez ou a utilidade em SQUADs especiais ainda mantêm o valor, evitando-se as armadilhas das cartas que estão sendo despejadas no mercado em massa.
+O mercado de cartas 90+ em PC apresenta um cenário extremamente hostil para investidores de curto prazo, caracterizado por um sentimento predominantemente vendedor que inundou as prateleiras com liquidez excessiva e pânico generalizado. Com uma média de queda de -20,26% nas últimas 24 horas, a disparidade entre as 109 altas registradas contra as 538 quedas evidencia uma fuga de capitais massiva, onde a maioria dos ativos perdeu valor significativamente devido à saturação de ofertas e à falta de compradores dispostos a pagar prêmios. Este ambiente de desconfiança sugere que apenas ativos com utilidade imediata ou escassez estrutural conseguiram resistir à pressão descendente, enquanto a grande maioria das cartas sofreu erosão de preço severa, refletindo a frieza dos traders que priorizam a preservação de capital sobre especulação arriscada. A volatilidade extrema observada em ativos de alto e baixo valor indica que o mercado está em um ponto de inflexão crítico, onde decisões impulsivas podem resultar em perdas irreparáveis, exigindo uma análise fria e baseada estritamente nos dados de probabilidade e volume de negociação disponíveis. Portanto, a estratégia deve ser defensivamente orientada, focando na identificação de oportunidades de compra em ativos com alta probabilidade de recuperação futura, enquanto se evita qualquer exposição a ativos que já entraram em espirais descendentes sem suporte técnico claro.
 
-> 🟢 **Maior alta:** Mohamed Salah (92) **+51.9%** · 🔴 **Maior baixa:** Marco Asensio (96) **-50%**
+> 🟢 **Maior alta:** Eden Hazard (96) **+53.2%** · 🔴 **Maior baixa:** Aaron Drinan (95) **-50%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohamed Salah | 92 | Premier League | 240k coins | +51.9% | +1.3% |
-| Erling Haaland | 92 | Premier League | 250k coins | +42% | +42.9% |
-| Ferenc Puskás | 93 | Icons | 530k coins | +37.3% | -14.5% |
-| Mohamed Salah | 91 | Premier League | 25k coins | +34.8% | +66.1% |
-| Didier Drogba | 91 | Icons | 1.81M coins | +34.1% | +13.2% |
-| Steph Catley | 90 | Barclays WSL | 55k coins | +33.3% | +22.2% |
-| Jean-Philippe Mateta | 96 | — | 650k coins | +30.4% | -2% |
-| Carles Puyol | 90 | Icons | 750k coins | +29.1% | +1.1% |
-| Rodri | 91 | Premier League | 270k coins | +27.4% | +1.1% |
-| Franco Baresi | 91 | Icons | 69k coins | +26.8% | +26.8% |
+| Eden Hazard | 96 | — | 4.32M coins | +53.2% | +54.3% |
+| Nick Woltemade | 90 | Premier League | 120k coins | +42% | +13.2% |
+| Ferenc Puskás | 93 | Icons | 574k coins | +40.7% | -8.2% |
+| Aurélien Tchouaméni | 92 | — | 400k coins | +40.5% | -25.6% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.68M coins | +39.3% | +99% |
+| William Saliba | 90 | Premier League | 480k coins | +38.3% | +1.3% |
+| Denise O'Sullivan | 91 | Barclays WSL | 60k coins | +35.6% | +23.7% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 168k coins | +34.4% | +31.2% |
+| Lotta Schelin | 91 | Icons | 385k coins | +32.8% | -15.4% |
+| Tyrick Mitchell | 96 | — | 770k coins | +31.7% | +1.3% |
 
 
-Apesar do mar vermelho, algumas cartas de elite demonstraram resiliência surpreendente, lideradas por Mohamed Salah (92, Premier League) que registrou uma alta de 51.9% em 24h, atingindo 240k coins, com uma probabilidade de alta de apenas 23%, sugerindo um movimento especulativo isolado ou compra por necessidade imediata de meta. Erling Haaland (92, Premier League) também se manteve firme com 42% de alta, cotado a 250k coins, apoiado por uma probabilidade de alta de 30%, indicando que o mercado ainda confia no status de atacante principal da Premier League para times competitivos. Entre os ícones, Ferenc Puskás (93, Icons) foi o destaque absoluto com 37.3% de alta, chegando a 530k coins, e impressionantemente possui uma probabilidade de alta de 61%, o que aponta para uma sustentação técnica forte e não apenas ruído de mercado. Mohamed Salah (91, Premier League) seguiu a tendência do seu par de maior rating com 34.8% de alta a 25k coins, enquanto Didier Drogba (91, Icons) subiu 34.1% para 1.81M coins, com probabilidade de alta de 40%, mostrando que ícones de ataque continuam sendo refúgios de valor em tempos de crise. Steph Catley (90, Barclays WSL) e Carles Puyol (90, Icons) completam o grupo resistente com altas de 33.3% a 55k coins e 29.1% a 750k coins respectivamente, este último com uma probabilidade de alta robusta de 68%, confirmando a força defensiva dos ícones.
+Entre os poucos ativos que conseguiram ascender, Eden Hazard (96, s/liga) liderou as altas com um impressionante aumento de 53,2% em 24 horas, atingindo a marca de 4,32 milhões de coins, embora a probabilidade de alta futura seja de 0%, indicando uma possível correção iminente após este pico especulativo isolado. Nick Woltemade (90, Premier League) seguiu com alta de 42% em 24 horas, valendo 120 mil coins, e apresenta uma probabilidade de alta de 50%, sugerindo que sua utilidade em equipes de liga específica pode estar sustentando o interesse de traders que buscam valorização contínua em ativos de médio porte. Ferenc Puskás (93, Icons) registrou alta de 40,7% em 24 horas, cotado a 574 mil coins, com uma probabilidade de alta robusta de 61%, o que indica forte confiança do mercado na sua valorização futura devido à sua raridade e status icônico, tornando-o um ativo de defesa sólida contra a volatilidade geral. Aurélien Tchouaméni (92, s/liga) subiu 40,5% em 24 horas para 400 mil coins, mas com apenas 19% de probabilidade de alta, sinalizando que seu movimento pode ser uma reação temporária a um evento específico de jogo ou metagame, exigindo cautela antes de qualquer entrada. Ousmane Dembélé (91, Ligue 1 McDonald's) completou o top 5 com alta de 39,3% em 24 horas, valendo 1,68 milhão de coins, e possui 27% de probabilidade de alta, refletindo a demanda constante por atacantes de elite em ligas europeias principais, onde a escassez de opções de qualidade mantém os preços resilientes mesmo em mercados de venda.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marco Asensio | 96 | — | 25k coins | -50% | -46.8% |
-| Dayot Upamecano | 93 | — | 100k coins | -49.5% | -30.6% |
-| Celia Šašić | 94 | — | 36k coins | -49.4% | -38.1% |
-| Rúben Dias | 94 | — | 145k coins | -49% | -54.2% |
-| Enzo Fernández | 93 | — | 60k coins | -48.8% | -39% |
-| Denise O'Sullivan | 91 | Barclays WSL | 30k coins | -47.9% | -34% |
-| Eden Hazard | 94 | — | 1M coins | -47.8% | -54.8% |
-| Diego Armando Maradona | 95 | Icons | 1.69M coins | -47.3% | +30.3% |
-| Oliver Kahn | 91 | Icons | 95k coins | -47.2% | -7.8% |
-| Blaise Matuidi | 95 | — | 74k coins | -47.1% | -52.6% |
+| Aaron Drinan | 95 | — | 23k coins | -50% | -56% |
+| Roberto Carlos | 91 | Icons | 650k coins | -50% | -40.9% |
+| Rodrigo Zalazar | 95 | — | 22k coins | -49.4% | -52.9% |
+| Florian Wirtz | 92 | Premier League | 630k coins | -49.3% | -28.5% |
+| Marcelo | 90 | — | 23k coins | -49.2% | -70.2% |
+| Kevin Mac Allister | 94 | — | 20k coins | -48.9% | -64.2% |
+| Celia Šašić | 94 | — | 24k coins | -47.8% | -59.3% |
+| Hakan Çalhanoğlu | 95 | — | 280k coins | -47.8% | -75% |
+| Claude Makélélé | 94 | — | 408k coins | -47.8% | -62.6% |
+| Mohamed Simakan | 93 | — | 50k coins | -47.5% | -45.6% |
 
 
-O lado oposto da moeda revela uma destruição de valor alarmante, com Marco Asensio (96, s/liga) despencando 50% em 24h para um preço irrisório de 25k coins, refletindo a total falta de demanda por cartas sem liga que perdem utilidade em eventos rotativos. Dayot Upamecano (93, s/liga) e Celia Šašić (94, s/liga) sofreram quedas similares de 49.5% e 49.4% respectivamente, caindo para 100k coins e 36k coins, demonstrando que a ausência de liga é o fator mais negativo para a retenção de valor neste ciclo de mercado. Rúben Dias (94, s/liga) e Enzo Fernández (93, s/liga) também foram devastados com quedas de 49% e 48.8%, atingindo 145k coins e 60k coins, o que confirma que mesmo jogadores da vida real não são imunes ao despreço do mercado quando não possuem o selo de liga ativa. Denise O'Sullivan (91, Barclays WSL) caiu 47.9% para 30k coins, enquanto os ícones mais caros não escaparam, com Eden Hazard (94, s/liga) e Diego Armando Maradona (95, Icons) recuando 47.8% e 47.3% para 1M coins e 1.69M coins, respectivamente, provando que até os lendários sofrem com a liquidação em massa.
+Do lado oposto, Aaron Drinan (95, s/liga) despencou 50% em 24 horas, caindo para 23 mil coins, com probabilidade de alta de 0%, demonstrando que ativos sem utilidade prática ou demanda de mercado são rapidamente liquidados em cenários de pânico, servindo como aviso claro para evitar cartas de baixo suporte. Roberto Carlos (91, Icons) também caiu 50% em 24 horas, agora valendo 650 mil coins, apesar de ter 19% de probabilidade de alta, o que sugere que até ícones estabelecidos não estão imunes à pressão vendedora massiva quando o sentimento geral do mercado é negativo, forçando traders a realizar lucros ou limitar perdas. Rodrigo Zalazar (95, s/liga) sofreu queda de 49,4% em 24 horas, atingindo 22 mil coins, com probabilidade de alta de 0%, reforçando a tendência de que cartas sem liga ou utilidade específica são as primeiras a serem descartadas pelos investidores em busca de liquidez rápida em ativos mais seguros. Florian Wirtz (92, Premier League) registrou queda de 49,3% em 24 horas, valendo 630 mil coins, com 25% de probabilidade de alta, indicando que mesmo jogadores de alto valor em ligas populares podem sofrer desvalorizações severas se a oferta exceder drasticamente a demanda em um período de alta volatilidade. Marcelo (90, s/liga) caiu 49,2% em 24 horas para 23 mil coins, mas surpreendentemente mantém 46% de probabilidade de alta, o que pode indicar uma oportunidade de compra de valor para traders dispostos a assumir riscos calculados em ativos que podem ter sido vendidos em pânico excessivo, oferecendo potencial de recuperação significativa a curto prazo.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,14 +74,15 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 91 | 30k coins | 31k coins | 80% |
+| Agnes Beever-Jones | 90 | 50k coins | 51k coins | 81% |
+| Giovani Lo Celso | 91 | 36k coins | 37k coins | 80% |
 
 
-O modelo de previsão identificou uma oportunidade isolada de alta para Giovani Lo Celso (91, LALIGA EA SPORTS), que possui uma probabilidade de alta de 80% e está cotado a 30k coins, sugerindo um potencial de acumulação estratégica para quem busca ativos de baixo custo com alta probabilidade de retorno.
+O modelo de previsão identifica Agnes Beever-Jones (90, Barclays WSL) com 81% de probabilidade de alta, cotada a 50 mil coins, sugerindo que ativos de ligas menores ou menos negociadas podem apresentar oportunidades de alta volatilidade positiva devido à baixa liquidez e movimentos especulativos concentrados, embora o risco permaneça elevado devido à natureza ilíquida do ativo. Giovani Lo Celso (91, LALIGA EA SPORTS) aparece com 80% de probabilidade de alta, valendo 36 mil coins, indicando que o modelo detecta padrões de acumulação ou escassez iminente que podem impulsionar seu preço, tornando-o um candidato interessante para estratégias de swing trading de curto prazo, desde que o trader monitore atentamente os volumes de negociação para confirmar a tendência de alta projetada.
 
 
 ## 🎯 Conclusão do dia
-A estratégia para hoje deve ser extremamente seletiva, focando na compra agressiva de ativos com alta probabilidade de alta e utilidade de liga, como Carles Puyol (90, Icons) e Ferenc Puskás (93, Icons), que demonstraram resiliência e probabilidade de valorização acima de 60%. Evite completamente a exposição a cartas sem liga, especialmente as que já sofreram quedas superiores a 45%, como Marco Asensio e Rúben Dias, pois o fundo do poço ainda não foi atingido e o risco de perdas adicionais é significativo. Considere acumular Giovani Lo Celso (91, LALIGA EA SPORTS) como uma aposta de alta probabilidade de curto prazo, dado o suporte do modelo de previsão com 80% de chance de alta. Mantenha as carteiras em coins ou em ativos de liquidez imediata como Salah (91) para poder entrar nas oportunidades de compra que surgirão com a continuação da venda em massa. O timing é crucial: compre no pânico das quedas dos ícones de defesa e ataque de liga ativa, mas não tente parar a queda livre das cartas sem liga, pois a tendência de desvalorização ainda está em vigor.
+Diante deste cenário de venda massiva, a estratégia ideal é adotar uma postura altamente seletiva, focando na compra de ativos com alta probabilidade de recuperação, como Marcelo (90, s/liga) e Willian Pacho (90, Ligue 1 McDonald's), que apresentam quedas significativas mas mantêm probabilidades de alta superiores a 30%, sugerindo potencial de bounce técnico. É crucial evitar a compra de ativos com probabilidade de alta de 0%, como Aaron Drinan (95, s/liga) e Rodrigo Zalazar (95, s/liga), pois eles carecem de suporte fundamental e estão sujeitos a continuidade das quedas em um mercado de venda. Investidores devem segurar ativos de ícones como Ferenc Puskás (93, Icons) e Ousmane Dembélé (91, Ligue 1 McDonald's), que demonstram resiliência e probabilidades de alta moderadas a altas, atuando como reserva de valor em meio à turbulência. O timing para entrada deve ser aguardado até o fechamento do dia ou início do próximo, para confirmar se as quedas se estabilizam ou se há exaustão de vendedores, permitindo compras em fundos mais seguros. Evite completamente a alavancagem ou compras impulsivas em ativos de alto valor como Eden Hazard (96, s/liga), que, apesar da alta recente, têm probabilidade de alta de 0% e risco iminente de correção acentuada. A disciplina e o respeito aos dados de probabilidade são os únicos caminhos para sobrevivência e lucratividade neste ambiente de mercado hostil e imprevisível.
 
 
 ## 🔍 Como apuramos os preços
@@ -91,16 +92,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Mohamed Salah (92, Premier League), com +51.9% em 24h, a 240k coins no PC.
+Eden Hazard (96, sem liga), com +53.2% em 24h, a 4.32M coins no PC.
 
 **E a maior queda do dia?**  
-Marco Asensio (96), -50% em 24h, a 25k coins.
+Aaron Drinan (95), -50% em 24h, a 23k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 30k coins.
+Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 50k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 117 cartas em alta contra 437 em queda (média -22.16%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 109 cartas em alta contra 538 em queda (média -20.26%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
