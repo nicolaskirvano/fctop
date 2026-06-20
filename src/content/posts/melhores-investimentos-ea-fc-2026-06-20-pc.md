@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T17:00:25.000Z
+pubDatetime: 2026-06-20T20:00:20.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Erling Haaland (91, Premier League) lidera, com +71.4% em 7 dias a 18k coins no PC, e o modelo dá 34% de chance de seguir subindo."
+    a: "Luca Marseiler (90, Bundesliga 2) lidera, com +84.2% em 7 dias a 59k coins no PC, e o modelo dá 57% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Erling Haaland (91) acumula **+71.4% em 7 dias** a 18k coins.
+> 🔝 **Destaque:** Luca Marseiler (90) acumula **+84.2% em 7 dias** a 59k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No cenário atual do EA FC Ultimate Team para PC, datado de 20 de junho de 2026, o mercado de cartas com classificação 90+ apresenta volatilidades distintas que exigem uma análise criteriosa para identificar as melhores oportunidades de investimento. Ao observar a tendência de valorização dos últimos sete dias, torna-se evidente que nem todos os ativos reagem de forma homogênea às flutuações de curto prazo. A chave para uma estratégia de entrada eficaz reside em cruzar o percentual de alta nas últimas 24 horas com a probabilidade estatística de continuação dessa tendência, evitando assim investimentos em picos momentâneos que carecem de sustentação de mercado.
+No mercado de EA FC Ultimate Team, a análise de cartas com rating 90+ exige uma visão precisa sobre a volatilidade e as tendências de curto prazo. Para a data de 20 de junho de 2026, observamos um cenário interessante onde a probabilidade de alta se torna um fator tão crucial quanto o percentual de valorização imediato. Ao analisar os dados dos últimos sete dias, identificamos que investidores devem focar em ativos que combinam um aumento consistente no preço com uma alta probabilidade estatística de continuidade dessa tendência, evitando armadilhas de alta volatilidade sem sustentação.
 
-Dentre as opções de entrada mais promissoras, o meia Xavi Simons se destaca com uma alta expressiva de 21,1% em apenas 24 horas, posicionado a 102 mil moedas. Sua carta de 91 pontos, atuando na Premier League, possui uma probabilidade de 56% de manter a trajetória de alta. Esse equilíbrio entre um crescimento rápido e uma probabilidade superior à média sugere que há um fluxo de compra consistente, possivelmente impulsionado pela utilidade da carta em squad packs ou eventos sazonais, tornando-o um dos ativos mais interessantes para quem busca lucros de curto a médio prazo.
+Dentre as opções mais seguras, destaca-se Sofyan Amrabat, cuja carta de 91 rating da LALIGA EA SPORTS apresenta uma valorização de 14,3% nas últimas 24 horas. O ponto forte deste ativo é a sua probabilidade de alta de 71%, o maior índice entre as cartas analisadas com valorização significativa. Com um preço atual de 80k coins, Amrabat oferece um equilíbrio atrativo entre risco e retorno, sugerindo que a demanda por meio-campistas de elite está em ascensão sustentada, tornando-o uma escolha sólida para entrada imediata.
 
-Outro nome que merece atenção imediata é o zagueiro Willian Pacho, cuja carta de 90 pontos na Ligue 1 McDonald's registrou a maior alta do grupo analisado, com um impressionante aumento de 34,4% em 24 horas. Apesar de estar cotado a 168 mil moedas, a probabilidade de alta de 42% indica que o mercado ainda não saturou completamente o ativo. A magnitude do crescimento diário sugere uma descoberta recente de sua eficiência em esquemas específicos, oferecendo uma janela de oportunidade para entrada antes que a especulação em massa eleve ainda mais o preço de venda.
+Outro candidato excepcional é Alyssa Thompson, da Barclays WSL, com 91 rating. Embora a valorização de 24 horas seja de apenas 6,5%, a probabilidade de alta é de 72%, a mais elevada do grupo. Preço em 197k coins, Thompson demonstra uma tendência de crescimento orgânico e menos sujeito a flutuações bruscas. Para investidores que preferem estabilidade e consistência ao invés de ganhos rápidos e arriscados, a Thompson representa uma das apostas mais seguras do mercado atual, com uma trajetória de valorização muito bem fundamentada estatisticamente.
 
-O meio-campista Sofyan Amrabat também apresenta indicadores robustos para investimento. Com uma alta de 14,3% em 24 horas e uma probabilidade de alta de 71%, a carta de 91 pontos da LaLiga EA Sports, valendo 80 mil moedas, demonstra uma sustentabilidade notável. A alta probabilidade de continuidade na tendência de valorização, combinada com um preço de entrada relativamente acessível em comparação com outros destaques, torna o Amrabat uma escolha sólida para investidores que priorizam a segurança do capital sem abrir mão de retornos significativos.
+Paul Scholes, o lendário ícone com 91 rating, também merece atenção. Com uma alta de 17,6% em 24 horas e uma probabilidade de continuidade de 58%, a carta está cotada em 140k coins. Scholes combina uma performance recente robusta com uma probabilidade de alta superior à média, indicando que o mercado está reconhecendo seu valor de forma crescente. A sinergia entre o aumento percentual e a probabilidade sugere que a carta ainda tem espaço para valorizar, especialmente se houver eventos in-game que elevem a demanda por jogadores lendários.
 
-Para perfis de investimento mais conservadores ou com menor capital disponível, a goleira Nadine Keßler oferece uma alternativa viável. Sua carta de 90 pontos na GPFBL subiu 5,6% em 24 horas, com uma probabilidade de alta de 61% e preço de 38 mil moedas. Embora o crescimento percentual seja menor, a alta probabilidade de valorização contínua sugere um movimento orgânico e estável, ideal para diversificar a carteira de ativos e reduzir o risco associado a oscilações bruscas de mercado.
+É crucial, contudo, ter cautela com cartas como Geoff Hurst e Steffi Jones. Hurst, ícone de 90 rating, teve um salto impressionante de 30,7% em 24 horas, atingindo 58k coins. No entanto, sua probabilidade de alta é de apenas 25%, indicando um possível pico momentâneo ou volatilidade extrema. Da mesma forma, Steffi Jones (91, Icons) subiu 16,9% para 59k, mas com probabilidade de alta de apenas 15%. Esses dados sugerem que, apesar do ganho recente, a tendência pode se reverter ou estagnar, tornando-as menos atrativas para novos investimentos a menos que se busque especulação de altíssimo risco.
 
-Por fim, é crucial analisar os ativos de alto valor, como o ícone Paul Scholes e o atacante Erling Haaland. Scholes, com 11,5% de alta e 58% de probabilidade, a 126 mil moedas, mantém uma posição forte, enquanto a versão de 92 pontos de Haaland, a 198 mil moedas, subiu 13,6% com apenas 30% de probabilidade de alta, indicando cautela. Em contraste, a versão de 91 pontos de Haaland a 18 mil moedas, apesar de ter apenas 34% de probabilidade, oferece um ponto de entrada de baixo risco financeiro. A decisão final deve pesar a tolerância ao risco: Simons e Amrabat para ganhos equilibrados, Pacho para alta volatilidade controlada, e Keßler para estabilidade.
+Em contrapartida, Luca Maseiler (90, Bundesliga 2) oferece um perfil interessante para quem busca oportunidade de baixo custo. Com alta de 16,4% e probabilidade de 57% a 59k, ele apresenta uma relação risco-retorno favorável. Por fim, Abedi Pelé (91, Ligue 1 McDonald's) sobe 9,1% com 52% de probabilidade a 178k, sendo uma opção válida para portfólios diversificados. Em resumo, as melhores entradas hoje são Sofyan Amrabat e Alyssa Thompson pela alta probabilidade de alta, seguidas por Scholes e Maseiler como oportunidades de equilíbrio entre crescimento e segurança estatística.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Erling Haaland | 91 | Premier League | 18k coins | +1.4% | +71.4% | 34% |
-| Paulo Dybala | 91 | Serie A TIM | 242k coins | +1.4% | +60.4% | 51% |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 80k coins | +14.3% | +60% | 71% |
-| Nadine Keßler | 90 | GPFBL | 38k coins | +5.6% | +53.1% | 61% |
-| Erling Haaland | 92 | Premier League | 198k coins | +13.6% | +47.9% | 30% |
-| Xavi Simons | 91 | Premier League | 102k coins | +21.1% | +42.5% | 56% |
-| Raphinha | 90 | LALIGA EA SPORTS | 207k coins | +8.9% | +34.4% | 6% |
-| Paul Scholes | 91 | Icons | 126k coins | +11.5% | +34% | 58% |
-| Jamie Vardy | 90 | Serie A TIM | 225k coins | +2.7% | +32.4% | 34% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 168k coins | +34.4% | +31.2% | 42% |
-| Patri Guijarro | 91 | Liga F | 90k coins | +11.9% | +26.1% | 78% |
-| Denise O'Sullivan | 91 | Barclays WSL | 60k coins | +35.6% | +23.7% | 23% |
-| Camille Abily | 91 | Icons | 60k coins | +12.8% | +23.6% | 57% |
-| Fernando Morientes | 94 | — | 150k coins | +25% | +23% | 35% |
-| Henrik Larsson | 91 | — | 27k coins | +26.7% | +21.8% | 69% |
+| Luca Marseiler | 90 | Bundesliga 2 | 59k coins | +16.4% | +84.2% | 57% |
+| Geoff Hurst | 90 | Icons | 58k coins | +30.7% | +81.4% | 25% |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 178k coins | +9.1% | +73.8% | 52% |
+| Steffi Jones | 91 | Icons | 59k coins | +16.9% | +61.4% | 15% |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 80k coins | +14.3% | +60.8% | 71% |
+| Mohamed Salah | 91 | Premier League | 24k coins | +3.2% | +56.5% | 22% |
+| Paul Scholes | 91 | Icons | 140k coins | +17.6% | +48.9% | 58% |
+| Alyssa Thompson | 91 | Barclays WSL | 197k coins | +6.5% | +37.8% | 72% |
+| Jill Scott | 91 | Barclays WSL | 120k coins | +1.7% | +36.4% | 33% |
+| Raphinha | 90 | LALIGA EA SPORTS | 207k coins | +4% | +34.4% | 6% |
+| Enzo Fernández | 91 | Premier League | 85k coins | +7.5% | +33.6% | 61% |
+| Patri Guijarro | 91 | Liga F | 85k coins | +1.7% | +30.4% | 78% |
+| Jamie Vardy | 90 | Serie A TIM | 205k coins | +2.3% | +30.2% | 34% |
+| Marco van Basten | 94 | — | 190k coins | +26% | +26% | 38% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 155k coins | +21.1% | +25% | 42% |
 
 
 ## 📈 Análise dos destaques
 
-- **Erling Haaland (91)** — 18k coins, **+71.4% em 7 dias** (+1.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Luca Marseiler (90)** — 59k coins, **+84.2% em 7 dias** (+16.4% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paulo Dybala (91)** — 242k coins, **+60.4% em 7 dias** (+1.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Geoff Hurst (90)** — 58k coins, **+81.4% em 7 dias** (+30.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sofyan Amrabat (91)** — 80k coins, **+60% em 7 dias** (+14.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Abedi Pelé (91)** — 178k coins, **+73.8% em 7 dias** (+9.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nadine Keßler (90)** — 38k coins, **+53.1% em 7 dias** (+5.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Steffi Jones (91)** — 59k coins, **+61.4% em 7 dias** (+16.9% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Erling Haaland (92)** — 198k coins, **+47.9% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (-0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sofyan Amrabat (91)** — 80k coins, **+60.8% em 7 dias** (+14.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Erling Haaland (91, Premier League) lidera, com +71.4% em 7 dias a 18k coins no PC, e o modelo dá 34% de chance de seguir subindo.
+Luca Marseiler (90, Bundesliga 2) lidera, com +84.2% em 7 dias a 59k coins no PC, e o modelo dá 57% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
