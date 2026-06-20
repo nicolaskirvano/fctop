@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:59:22.000Z
+pubDatetime: 2026-06-20T01:59:23.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Khadija Shaw (91, Barclays WSL) lidera, com +80% em 7 dias a 108k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "Mohamed Salah (92, Premier League) lidera, com +53% em 7 dias a 228k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Khadija Shaw (91) acumula **+80% em 7 dias** a 108k coins.
+> 🔝 **Destaque:** Mohamed Salah (92) acumula **+53% em 7 dias** a 228k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário de EA FC Ultimate Team para consoles PlayStation, analisando o mercado da data de 19 de junho de 2026, a volatilidade das cartas com avaliação de 90+ pontos oferece oportunidades distintas para investidores. A análise foca nas tendências de valorização dos últimos sete dias, destacando quais ativos apresentam maior probabilidade de continuidade na alta. Entre as opções disponíveis, duas cartas se destacam não apenas pelo percentual de ganho em 24 horas, mas, principalmente, pela elevada probabilidade estatística de manterem essa trajetória ascendente, sendo elas Mohamed Salah e Sofyan Amrabat.
+Ao analisar o mercado do EA FC Ultimate Team para consoles PlayStation na data de 19 de junho de 2026, a volatilidade das cartas de alto rating (90+) apresenta oportunidades distintas para investidores cautelosos. O foco principal deve ser direcionado aos ativos que demonstram não apenas um aumento percentual no preço, mas, crucialmente, uma alta probabilidade estatística de continuação dessa tendência. Entre as opções disponíveis, Mohamed Salah emerge como o ativo mais robusto, registrando uma impressionante alta de 22,6% nas últimas 24 horas, com seu valor fixado em 228 mil coins. O que torna Salah uma entrada extremamente segura é a probabilidade de alta calculada em 95%, o que sugere uma demanda insustentável e uma valorização quase garantida no curto prazo, justificando o investimento mesmo com o preço elevado.
 
-Mohamed Salah, uma carta de 92 pontos da Premier League, apresenta-se como a aposta mais sólida do momento. Com um aumento de 18,9% em apenas 24 horas, o seu valor atualizou-se para 230 mil moedas. O fator crítico para a entrada é a probabilidade de alta de 95%, o que indica uma demanda extremamente consistente e previsível. Este nível de confiança no mercado sugere que a carta está em um ciclo de valorização robusto, tornando-a uma escolha segura para quem busca minimizar riscos enquanto captura ganhos significativos em ativos de elite.
+Paralelamente ao fenômeno Salah, a carta de Guro Reiten, da NWSL com rating 90, representa a melhor relação risco-retorno para quem busca ativos de menor valor nominal. Com um preço de apenas 34 mil coins, Reiten apresentou uma valorização de 7,9% em 24 horas. Embora o percentual seja inferior ao do atacante do Liverpool, a probabilidade de alta de 95% coloca Reiten no mesmo patamar de segurança estatística. Para carteiras diversificadas, investir em Reiten permite capitalizar sobre a tendência de alta com um capital inicial muito menor, mitigando riscos de perda absoluta caso o mercado sofra uma correção repentina.
 
-Outro ativo com probabilidade de alta de 95% é Sofyan Amrabat, jogador da LALIGA EA SPORTS com 91 pontos. Sua valorização foi de 6,4% em 24 horas, posicionando-o na faixa dos 66 mil moedas. A combinação de um percentual de crescimento modesto, porém estável, com a máxima probabilidade de continuação da tendência, torna Amrabat uma opção interessante para portfólios diversificados. A consistência dos 95% de chance de alta oferece uma segurança similar à de Salah, embora em um segmento de preço mais acessível, permitindo entradas com menor capital inicial.
+Lindsey Heaps, da D1 Arkema, oferece uma alternativa interessante para investidores dispostos a assumir um risco moderado em troca de potenciais retornos significativos. A carta de rating 90 subiu 19,1% em 24 horas, atingindo 62 mil coins. Com uma probabilidade de alta de 68%, Heaps está em uma zona de indecisão do mercado, mas o momentum atual é forte o suficiente para atrair compradores de última hora. A dinâmica de preço sugere que, se a tendência se mantiver por mais 24 horas, o retorno percentual pode ser ainda mais expressivo, embora a incerteza seja maior comparada às opções de 95% de probabilidade.
 
-Para investidores dispostos a assumir riscos moderados em troca de retornos explosivos, Carlos Baleba merece atenção imediata. A carta de 90 pontos da Premier League registrou um impressionante aumento de 32,9% em 24 horas, atingindo 90 mil moedas. Com uma probabilidade de alta de 50%, o ativo apresenta uma volatilidade considerável. Essa incerteza estatística significa que há chances iguais de continuar subindo ou corrigir, mas o impulso recente é forte o suficiente para justificar uma entrada estratégica, visando capturar o momentum atual antes de uma possível estabilização.
+Em contraponto, é fundamental exercitar a cautela com cartas de alto preço que exibem probabilidades de alta baixas, independentemente do aumento percentual recente. Paul Scholes, com rating 91 e preço de 207 mil coins, subiu 13,7% em 24 horas, mas possui apenas 16% de probabilidade de alta. Isso indica que o aumento recente pode ser um pico de compra especulativa de curto prazo, seguido provavelmente por uma correção. Investir em Scholes neste momento específico representa uma aposta contra a própria probabilidade estatística, tornando-o uma opção arriscada para estratégias de investimento baseadas em dados.
 
-Khadija Shaw, da Barclays WSL, também se enquadra no perfil de risco moderado com potencial de retorno. A atacante de 91 pontos subiu 11,9% em 24 horas, valendo 108 mil moedas, e possui 50% de probabilidade de alta. Assim como Baleba, a alta volatilidade exige atenção constante ao mercado. Já Lindsey Heaps, com 90 pontos da D1 Arkema, oferece um perfil diferente: cresceu 7% em 24 horas para 47 mil moedas, mas com uma probabilidade de alta de 68%. Este percentual superior de chance de continuidade torna Heaps uma opção mais confiável que Shaw e Baleba, equilibrando risco e recompensa de forma atrativa.
+Outros ícones e jogadores de elite mostram sinais mistos que requerem análise individualizada. Eric Cantona (92, 137k coins) e Marco van Basten (91, 78k coins) apresentaram aumentos modestos de 4,9% e 8,2%, respectivamente, mas com probabilidades de alta de apenas 18% e 35%. Da mesma forma, Denise O'Sullivan (91, 52k coins) subiu 16,8%, mas com apenas 33% de chance de continuidade. Esses números sugerem que o mercado está hesitante quanto à sustentabilidade desses preços, indicando que é melhor aguardar consolidação antes de entrar.
 
-Por fim, é crucial evitar cartas com baixa probabilidade de alta, independentemente do seu valor nominal ou ganho recente. Louisa Necib (16%), Fernando Morientes (16%), Marco van Basten (8%) e Willian Pacho (33%) apresentam chances insuficientes de valorização contínua. Dennis Bergkamp, apesar de 43% de chance, não supera a confiabilidade dos ativos principais. Portanto, a estratégia ideal para 19/06/2026 concentra-se em Salah e Amrabat pela segurança, e em Baleba e Heaps para alavancar volatilidade controlada, ignorando ativos com probabilidades abaixo de 50% que indicam estagnação ou queda iminente.
+Por fim, cartas como Deniz Undav (91, 84k coins, 63% prob.), Julie Foudy (90, 84k coins, 60% prob.) e Marinette Pichon (90, 49k coins, 84% prob.) ocupam uma posição intermediária. Pichon, apesar do baixo aumento de 1%, tem alta probabilidade de valorização, sugerindo estabilidade crescente. Undav e Foudy, com probabilidades em torno de 60%, são opções plausíveis para quem acredita na força das respectivas ligas ou ícones, mas não oferecem a segurança imediata de Salah ou Reiten. Em resumo, as entradas mais lógicas hoje são Salah e Reiten pela segurança, e Heaps pelo potencial de retorno acelerado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 91 | Barclays WSL | 108k coins | +11.9% | +80% | 50% |
-| Carlos Baleba | 90 | Premier League | 90k coins | +32.9% | +75.6% | 50% |
-| Louisa Necib | 90 | D1 Arkema | 40k coins | +6% | +70.2% | 16% |
-| Mohamed Salah | 92 | Premier League | 230k coins | +18.9% | +41.9% | 95% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 114k coins | +10.8% | +30.9% | 33% |
-| Lindsey Heaps | 90 | D1 Arkema | 47k coins | +7% | +26.6% | 68% |
-| Fernando Morientes | 94 | — | 148k coins | +1.3% | +23.4% | 16% |
-| Dennis Bergkamp | 91 | Icons | 64k coins | +8.8% | +23.3% | 43% |
-| Marco van Basten | 92 | Icons | 196k coins | +3% | +20.7% | 8% |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 66k coins | +6.4% | +17.2% | 95% |
-| Marinette Pichon | 90 | Icons | 48k coins | +3.2% | +17.1% | 84% |
-| Raphinha | 91 | LALIGA EA SPORTS | 209k coins | +5.6% | +11.2% | 43% |
-| Javier Zanetti | 91 | Icons | 109k coins | +10.8% | +9.6% | 49% |
-| Sandro Tonali | 91 | Premier League | 147k coins | +5.7% | +9.6% | 50% |
-| Dennis Bergkamp | 90 | Icons | 71k coins | +1.4% | +8% | 5% |
+| Mohamed Salah | 92 | Premier League | 228k coins | +22.6% | +53% | 95% |
+| Paul Scholes | 91 | Icons | 207k coins | +13.7% | +47.9% | 16% |
+| Guro Reiten | 90 | NWSL | 34k coins | +7.9% | +47.8% | 95% |
+| Lindsey Heaps | 90 | D1 Arkema | 62k coins | +19.1% | +43.6% | 68% |
+| Deniz Undav | 91 | Bundesliga | 84k coins | +4.3% | +31.5% | 63% |
+| Eric Cantona | 92 | — | 137k coins | +4.9% | +24.3% | 18% |
+| Marinette Pichon | 90 | Icons | 49k coins | +1% | +19.5% | 84% |
+| Denise O'Sullivan | 91 | Barclays WSL | 52k coins | +16.8% | +14.8% | 33% |
+| Julie Foudy | 90 | Icons | 84k coins | +1.3% | +14% | 60% |
+| Marco van Basten | 91 | Icons | 78k coins | +8.2% | +12.9% | 35% |
+| Raúl | 90 | Icons | 100k coins | +3.2% | +10.7% | 28% |
+| Toni Kroos | 90 | Icons | 101k coins | +2.8% | +10.6% | 5% |
+| Alexia Putellas | 92 | Liga F | 139k coins | +25.9% | +8.5% | 95% |
+| Nadine Angerer | 92 | Icons | 72k coins | +3.5% | +5.8% | 50% |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (91)** — 108k coins, **+80% em 7 dias** (+11.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mohamed Salah (92)** — 228k coins, **+53% em 7 dias** (+22.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Carlos Baleba (90)** — 90k coins, **+75.6% em 7 dias** (+32.9% em 24h). Preço em linha com a média de 7 dias (-3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 207k coins, **+47.9% em 7 dias** (+13.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Louisa Necib (90)** — 40k coins, **+70.2% em 7 dias** (+6% em 24h). Preço +29% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Guro Reiten (90)** — 34k coins, **+47.8% em 7 dias** (+7.9% em 24h). Preço +26% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Mohamed Salah (92)** — 230k coins, **+41.9% em 7 dias** (+18.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Lindsey Heaps (90)** — 62k coins, **+43.6% em 7 dias** (+19.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
 
-- **Willian Pacho (90)** — 114k coins, **+30.9% em 7 dias** (+10.8% em 24h). Preço em linha com a média de 7 dias (-5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Deniz Undav (91)** — 84k coins, **+31.5% em 7 dias** (+4.3% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +89,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Khadija Shaw (91, Barclays WSL) lidera, com +80% em 7 dias a 108k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+Mohamed Salah (92, Premier League) lidera, com +53% em 7 dias a 228k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

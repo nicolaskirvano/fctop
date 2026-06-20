@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T23:00:08.000Z
+pubDatetime: 2026-06-20T02:00:15.000Z
 title: "Cartas 90+ no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Chiamaka Nnadozie (90, Barclays WSL), com +41.7% em 24h, a 42k coins no PC."
+    a: "Ousmane Dembélé (91, Ligue 1 McDonald's), com +41.9% em 24h, a 1.35M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Julian Ryerson (93), -48.7% em 24h, a 78k coins."
+    a: "Aurélien Tchouaméni (92), -49.7% em 24h, a 218k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 58k coins."
+    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 56k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 105 cartas em alta contra 320 em queda (média -10.24%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 100 cartas em alta contra 340 em queda (média -12.15%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas 90+ em PC apresenta uma dinâmica de liquidez severamente comprometida nesta segunda-feira, 19 de junho de 2026, com um sentimento de pânico generalizado entre os investidores que priorizam a preservação de capital sobre a especulação agressiva. A predominância esmagadora das quedas, com 320 cartas registrando perdas contra apenas 105 altas, resulta em uma média negativa de -10.24% em 24 horas, sinalizando que a maioria dos ativos está sendo liquidada em preços irrisórios devido à falta de compradores reais. Este cenário de 'bleed' ou sangramento de preços é típico de períodos de inatividade de conteúdo principal, onde a demanda orgânica colapsa e apenas operações de última hora ou correções de erros de precificação mantêm alguma volatilidade positiva. O trader atento deve perceber que a probabilidade de alta para a maioria dos ativos tradicionais está próxima de zero, transformando o mercado em um campo minado onde cada compra representa um risco de desvalorização imediata sem catalisadores claros de demanda. A estratégia de sobrevivência hoje exige uma leitura fria dos dados, ignorando o FOMO de cartas que sobem levemente por falta de volume e focando exclusivamente em oportunidades de compra em ativos que atingiram suporte histórico ou que apresentam indícios estatísticos robustos de reversão.
+O cenário do mercado de EA FC Ultimate Team para o dia 19 de junho de 2026 em PC exibe uma volatilidade agressiva e claramente desequilibrada, com um sentimento generalizado de baixa que afeta a vasta maioria das cartas de elite, especialmente no segmento 90+. A análise dos fluxos de negociação revela uma dominância esmagadora das quedas, com 340 registros de desvalorização contra apenas 100 altas, resultando em uma média negativa de -12.15% nas últimas 24 horas para o portfólio analisado. Essa dinâmica sugere uma liquidação massiva de ativos por parte dos investidores de curto prazo, possivelmente em antecipação a eventos não especificados ou devido à saturação de oferta em listas de mercado específicas. O trader experiente deve observar que, apesar do pessimismo geral, nichos específicos dentro da Ligue 1 McDonald's e dos Icons continuam a apresentar oportunidades isoladas de valorização, exigindo uma visão cirúrgica para identificar os ativos que desafiam a gravidade do mercado. A cautela é a palavra-chave, pois a amplitude das quedas em cartas de alta raridade indica uma fuga de capitais que pode se estender aos próximos ciclos de negociação se não houver um gatilho de demanda repentino.
 
-> 🟢 **Maior alta:** Chiamaka Nnadozie (90) **+41.7%** · 🔴 **Maior baixa:** Julian Ryerson (93) **-48.7%**
+> 🟢 **Maior alta:** Ousmane Dembélé (91) **+41.9%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (92) **-49.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 42k coins | +41.7% | +17.2% |
-| Alex Morgan | 91 | Icons | 1.34M coins | +40.1% | +28.8% |
-| Steph Catley | 90 | Barclays WSL | 55k coins | +33.3% | +3.8% |
-| Ferenc Puskás | 94 | Icons | 950k coins | +33.2% | +17.5% |
-| Bobby Charlton | 92 | Icons | 109k coins | +29.4% | +49.7% |
-| Lotta Schelin | 91 | Icons | 375k coins | +28.7% | -0.2% |
-| Patri Guijarro | 90 | Liga F | 55k coins | +28.7% | +67.9% |
-| Leah Williamson | 95 | Barclays WSL | 245k coins | +26.9% | +2% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 32k coins | +26.5% | +21.7% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 58k coins | +26.4% | +94.9% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.35M coins | +41.9% | +21.1% |
+| Alex Morgan | 91 | Icons | 1.40M coins | +40.1% | +28.8% |
+| Willian Pacho | 96 | — | 3M coins | +39% | +71.4% |
+| Marco van Basten | 91 | Icons | 97k coins | +38.6% | +40.6% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 35k coins | +37.3% | +32.1% |
+| Gerd Müller | 92 | Icons | 109k coins | +34.9% | +19.1% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +33.3% | +36.1% |
+| Jamie Vardy | 90 | Serie A TIM | 256k coins | +29.8% | +51.2% |
+| Chiamaka Nnadozie | 90 | Barclays WSL | 42k coins | +25.9% | +25% |
+| Lotta Schelin | 91 | Icons | 329k coins | +24.7% | -7.8% |
 
 
-Entre os poucos ativos que conseguiram se destacar no mar de vermelhos, Chiamaka Nnadozie (90, Barclays WSL) lidera o ranking com uma alta de 41.7% para 42k coins, impulsionada por uma probabilidade de alta de 61% que sugere uma correção técnica sólida após uma queda anterior excessiva. Alex Morgan (91, Icons) surpreende com um salto de 40.1% atingindo 1.34M coins, embora sua probabilidade de alta de apenas 13% indique que este movimento é mais reflexo de uma venda isolada em preço baixo do que de uma tendência sustentável de compra. Steph Catley (90, Barclays WSL) sobe 33.3% para 55k coins com uma probabilidade de alta de 23%, mostrando que defesas de ligas menores podem ter flutuações mais voláteis devido à menor profundidade de mercado e facilidade de manipulação por grandes traders. Ferenc Puskás (94, Icons) registra 33.2% de alta para 950k coins, apoiado por uma probabilidade de alta de 55%, o que pode indicar um interesse tardio em ícones clássicos para squads temáticos de final de temporada ou eventos sazonais não anunciados. Bobby Charlton (92, Icons) e Lotta Schelin (91, Icons) também apresentam ganhos significativos de 29.4% e 28.7% respectivamente, com Charlton em 109k e Schelin em 375k, onde a probabilidade de alta de 24% e 54% respectivamente sugere que Schelin tem uma base de suporte mais forte e confiável para traders de médio prazo.
+No lado das valorizações, Ousmane Dembélé se destaca com uma alta de 41.9% em 24h, atingindo 1.35M coins, um movimento que parece impulsionado por uma probabilidade de alta de 28% e uma liquidez restrita que favorece vendedores oportunistas em meio ao caos do mercado. Alex Morgan, carta Icon de 91 rating, também registra performance sólida com 40.1% de alta, custando agora 1.40M coins, embora sua probabilidade de alta de apenas 13% sugira que este pode ser um pico temporário de especulação sem suporte fundamental duradouro. Willian Pacho apresenta uma anomalia interessante, subindo 39% para 3M coins sem liga atribuída, mas com probabilidade de alta de 0%, o que indica fortemente uma manipulação de preço ou um volume de negociação extremamente baixo que distorce a percepção de valor real. Marco van Basten, outro Icon, sobe 38.6% para 97k coins com uma probabilidade de alta de 46%, indicando uma demanda mais fundamentada e sustentável para esta carta acessível, tornando-a um ativo de menor risco relativo. Mark McKenzie, da Ligue 1 McDonald's, dispara 37.3% para 35k coins com uma impressionante probabilidade de alta de 78%, sugerindo que esta pode ser a compra mais segura do dia devido ao forte suporte algorítmico e à escassez percebida no mercado de liga específica.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julian Ryerson | 93 | — | 78k coins | -48.7% | -53.8% |
-| Celia Šašić | 94 | — | 38k coins | -48.3% | -39.3% |
-| Aurélien Tchouaméni | 92 | — | 272k coins | -47.4% | -53.7% |
-| Dayot Upamecano | 93 | — | 96k coins | -46.4% | -35.1% |
-| Izzy Rodriguez | 94 | — | 22k coins | -45.9% | -45.6% |
-| Juan Mata | 96 | — | 30k coins | -45.6% | -39.1% |
-| Rivaldo | 91 | Icons | 60k coins | -45% | -22.4% |
-| Hugo Ekitiké | 93 | — | 76k coins | -44.3% | -42.2% |
-| Ian Maatsen | 96 | — | 450k coins | -43.7% | -37.8% |
-| Alphonso Davies | 95 | — | 437k coins | -43.5% | -30.9% |
+| Aurélien Tchouaméni | 92 | — | 218k coins | -49.7% | -63.9% |
+| Evander | 95 | — | 29k coins | -48.7% | -38.3% |
+| Weston McKennie | 92 | Serie A TIM | 47k coins | -48.1% | -31.8% |
+| Denis Bouanga | 95 | — | 62k coins | -46.6% | -49.6% |
+| Kenza Dali | 94 | — | 46k coins | -46.2% | -47.7% |
+| Troy Parrott | 91 | — | 20k coins | -45.6% | -8% |
+| Deniz Undav | 91 | Bundesliga | 46k coins | -45.1% | +13.9% |
+| Diego Armando Maradona | 96 | Icons | 1.55M coins | -44.8% | -39.2% |
+| Khadija Shaw | 91 | Barclays WSL | 50k coins | -44.8% | -24.8% |
+| Manuela Giugliano | 95 | — | 20k coins | -43.7% | -48.4% |
 
 
-O lado das quedas é devastador, com Julian Ryerson (93) despencando 48.7% para 78k coins e uma probabilidade de alta de 0%, indicando que o ativo perdeu toda a confiança do mercado e não há compradores interessados no preço atual. Celia Šašić (94) segue com uma queda de 48.3% para 38k coins, também com probabilidade de alta nula, o que caracteriza um ativo 'zumbi' que deve ser evitado a todo custo pois não há expectativa de recuperação de valor no curto prazo. Aurélien Tchouaméni (92) perde 47.4% para 272k coins, mas mantém uma probabilidade de alta de 19%, o que pode sugerir uma oportunidade de compra para traders arriscados que acreditam em uma correção de preço em uma carta de alta demanda histórica. Dayot Upamecano (93) cai 46.4% para 96k coins com probabilidade de alta de 0%, reforçando a tese de que defesas de ligas sem conteúdo ativo estão sendo liquidadas sem resistência. Izzy Rodriguez (94) e Juan Mata (96) também sofrem quedas acentuadas de 45.9% e 45.6% respectivamente, com Mata atingindo um histórico de apenas 30k coins, um valor irrisório para um ícone de tal status, sinalizando que o mercado não respeita a raridade sem utilidade imediata ou hype.
+As quedas são severas e abrangem algumas das cartas mais cobiçadas, com Aurélien Tchouaméni liderando a lista negativa com uma queda de 49.7% em 24h, caindo para 218k coins, um colapso que reflete uma probabilidade de alta baixa de 19% e possivelmente uma saturação de SBCs ou promoções que drenaram a demanda. Evander, carta de 95 rating sem liga, despencou 48.7% para apenas 29k coins, e com uma probabilidade de alta de 21%, este ativo parece ter perdido seu valor de uso e especulação, tornando-se uma armadilha para quem espera uma recuperação rápida. Weston McKennie, da Serie A TIM, também sangrou 48.1% para 47k coins, mas sua probabilidade de alta de 61% sugere que esta queda pode ser uma oportunidade de compra de pânico, desde que o trader tenha paciência para esperar o rebote natural do modelo. Denis Bouanga e Kenza Dali, ambas sem liga, caíram 46.6% e 46.2% respectivamente, caindo para 62k e 46k coins, e com probabilidades de alta de 27% e 0%, respectivamente, indicam que a falta de liga é um fator determinante para a desvalorização contínua desses ativos. Troy Parrott e Deniz Undav completam o quadro sombrio com quedas de 45.6% e 45.1%, respectivamente, mostrando que até cartas de ligas principais como a Bundesliga não estão imunes à pressão vendedora generalizada que caracteriza este dia de mercado.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,14 +74,15 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Agnes Beever-Jones | 90 | 58k coins | 59k coins | 81% |
+| Agnes Beever-Jones | 90 | 56k coins | 57k coins | 81% |
+| Giovani Lo Celso | 91 | 35k coins | 36k coins | 80% |
 
 
-O modelo algorítmico identifica Agnes Beever-Jones (90, Barclays WSL) como a única carta com projeção robusta de alta, apresentando uma probabilidade de 81% de valorização e cotada a 58k coins, o que a torna o ativo mais seguro para compra imediata neste ambiente de incerteza.
+O modelo preditivo identifica Agnes Beever-Jones, da Barclays WSL, como o ativo com maior potencial de valorização, apresentando uma probabilidade de alta de 81% e cotada a 56k coins, o que a torna a candidata mais forte para uma estratégia de acumulação de curto prazo. Giovani Lo Celso, da LALIGA EA SPORTS, segue de perto com uma probabilidade de alta de 80% e preço de 35k coins, oferecendo um perfil de risco-recompensa atraente para traders que buscam diversificar além das grandes estrelas do mercado. Essas projeções contrastam fortemente com o sentimento geral de baixa, sugerindo que o algoritmo detectou padrões de demanda emergente ou escassez iminente nessas duas cartas específicas que ainda não se refletiram nos preços atuais. A alta probabilidade associada a ambos os ativos indica que a correção de preços pode ser rápida e significativa, potencialmente revertendo as tendências negativas observadas em outros segmentos do mercado.
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve ser extremamente seletiva, focando na compra de Agnes Beever-Jones devido à sua alta probabilidade estatística de alta e na compra agressiva de Julian Ryerson e Celia Šašić apenas para revenda rápida se houver qualquer notícia de retorno de conteúdo, dado que seus preços estão em níveis de pânico. Deve-se evitar segurar cartas como Alex Morgan e Alex Morgan, pois a baixa probabilidade de alta indica que o movimento foi artificial e tende a reverter, enquanto ativos como Dayot Upamecano e Izzy Rodriguez devem ser ignorados por falta de compradores. O trader deve priorizar a venda de quaisquer ativos com probabilidade de alta de 0% que estejam no portfólio, como Juan Mata e Rivaldo, para cristalizar perdas e preservar capital para oportunidades mais sólidas. O volume baixo do mercado exige paciência, e a melhor jogada pode ser simplesmente não operar e aguardar a próxima janela de conteúdo, pois a liquidez insuficiente torna as oscilações de preço imprevisíveis e perigosas para posições de longo prazo.
+A estratégia ideal para hoje é manter uma posição defensiva, evitando expor capital significativo em ativos com quedas acentuadas e baixa probabilidade de recuperação, como Evander e Kenza Dali, que parecem estar em tendência de baixa estrutural. Recomenda-se fortemente a compra imediata de Mark McKenzie e Agnes Beever-Jones, aproveitando suas altas probabilidades de alta (78% e 81%, respectivamente) para capturar ganhos rápidos enquanto o mercado está em desordem. Segure as cartas Icons de valor médio como Marco van Basten e Alex Morgan apenas se você acredita na sustentabilidade das altas recentes, mas esteja preparado para vender no primeiro sinal de fraqueza, já que suas probabilidades de alta são moderadas a baixas. Evite completamente a compra de Willian Pacho e Aurélien Tchouaméni no momento, pois a discrepância entre seus preços altos e probabilidades de alta ou queda severa indica instabilidade extrema. O timing é crucial: entre cedo nas previsões de alta do modelo e saia antes que a liquidez geral do mercado retorne à normalidade, aproveitando a volatilidade para maximizar lucros em ativos específicos de menor valor absoluto.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -91,16 +92,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Chiamaka Nnadozie (90, Barclays WSL), com +41.7% em 24h, a 42k coins no PC.
+Ousmane Dembélé (91, Ligue 1 McDonald's), com +41.9% em 24h, a 1.35M coins no PC.
 
 **E a maior queda do dia?**  
-Julian Ryerson (93), -48.7% em 24h, a 78k coins.
+Aurélien Tchouaméni (92), -49.7% em 24h, a 218k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 58k coins.
+Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 56k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 105 cartas em alta contra 320 em queda (média -10.24%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 100 cartas em alta contra 340 em queda (média -12.15%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
