@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:58:58.000Z
+pubDatetime: 2026-06-21T01:58:45.000Z
 title: "Cartas 90+ no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Philipp Lahm (90, Icons), com +57.8% em 24h, a 535k coins no Console (PS)."
+    a: "Ferenc Puskás (94, Icons), com +59.1% em 24h, a 513k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Abedi Pelé (91), -49% em 24h, a 79k coins."
+    a: "Eric Cantona (92), -49.2% em 24h, a 65k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 89k coins."
+    a: "Pelo modelo FutQuant, Arda Güler (93) — 95% de probabilidade de alta, a 70k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 154 cartas em alta contra 557 em queda (média -9.97%)."
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 311 cartas em alta contra 422 em queda (média 0.29%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de EA FC Ultimate Team para o segmento de cartas 90+ em consoles PlayStation apresenta um cenário extremamente hostil para investidores de longo prazo nesta segunda-feira, 20 de junho de 2026, marcado por um sentimento predominantemente vendedor que resultou em um saldo negativo massivo. Os indicadores macroeconômicos do jogo mostram uma disparidade gritante, com apenas 154 registros de altas contra um impressionante total de 557 quedas, configurando uma média de desvalorização de -9.97% nas últimas 24 horas. Esse clima de pânico ou realização de lucros em massa sugere que a maioria dos traders está priorizando a liquidez imediata, vendendo ativos para se proteger de uma possível volatilidade descendente ou para acumular capital para eventos futuros. A confiança do mercado está abalada, e os compradores estão aguardando preços mais baixos, criando uma pressão constante sobre as listagens de venda, especialmente em cartas que não possuem escassez artificial ou demanda de squad fixa. Analisar este ambiente exige cautela extrema, pois a tendência geral é de erosão de valor, onde apenas movimentos específicos de alta podem oferecer oportunidades de arbitragem rápida.
+O cenário de trading para cartas 90+ em consoles PlayStation nesta sexta-feira, 20 de junho de 2026, apresenta uma dinâmica de mercado lateral robusta, onde a volatilidade extrema é diluída por um equilíbrio quase perfeito entre forças compradoras e vendedoras, resultando em um sentimento neutro que exige seletividade cirúrgica. Com 311 registros de altas e 422 de quedas nas últimas 24 horas, a média de variação fica em apenas 0.29%, indicando que o fluxo de coins está mais voltado para ajustes de portfólio do que para especulação agressiva em massa. Este ambiente de consolidação sugere que os grandes players estão realizando lucros em posições de topo enquanto acumulam ativos de menor liquidez a preços descontados, criando oportunidades assimétricas para traders atentos às micro-ineficiências. A baixa volatilidade média mascara movimentos pontuais de alta magnitude, especialmente no segmento de Icons e ligas femininas, onde a falta de liquidez constante amplifica o impacto de poucas ordens de compra ou venda. Portanto, a estratégia do dia deve focar em identificar dissonâncias entre a probabilidade estatística de alta e a variação atual, evitando armadilhas de FOMO em ativos que já precificaram expectativas irrealistas em um mercado que, globalmente, está em repouso.
 
-> 🟢 **Maior alta:** Philipp Lahm (90) **+57.8%** · 🔴 **Maior baixa:** Abedi Pelé (91) **-49%**
+> 🟢 **Maior alta:** Ferenc Puskás (94) **+59.1%** · 🔴 **Maior baixa:** Eric Cantona (92) **-49.2%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Philipp Lahm | 90 | Icons | 535k coins | +57.8% | -15.2% |
-| Jean-Philippe Mateta | 96 | — | 619k coins | +38.3% | -10.2% |
-| Zizo | 94 | — | 113k coins | +36.8% | +277.8% |
-| Rúben Neves | 95 | — | 57k coins | +35.8% | -54.2% |
-| Daniel Muñoz | 96 | — | 900k coins | +35.2% | -8.7% |
-| Pierre Kalulu | 91 | Serie A TIM | 84k coins | +34.9% | +7.1% |
-| Dean Huijsen | 91 | LALIGA EA SPORTS | 679k coins | +33.9% | +1.3% |
-| Eden Hazard | 90 | Premier League | 520k coins | +30.3% | +19% |
-| Alex Morgan | 91 | Icons | 910k coins | +28.3% | -1% |
-| Jaydee Canvot | 96 | — | 570k coins | +27% | -3.7% |
+| Ferenc Puskás | 94 | Icons | 513k coins | +59.1% | -27.5% |
+| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 69k coins | +59% | +37.6% |
+| Klara Bühl | 93 | — | 40k coins | +59% | +1.9% |
+| Patri Guijarro | 90 | Liga F | 50k coins | +58.9% | +13.1% |
+| Ezri Konsa | 94 | — | 105k coins | +57.1% | -15.4% |
+| Felix Nmecha | 94 | — | 138k coins | +49.5% | -16% |
+| Noa Lang | 91 | Trendyol Süper Lig | 26k coins | +48.6% | -25.7% |
+| Daniel Muñoz | 96 | — | 799k coins | +48% | -13.4% |
+| Julián Alvarez | 94 | LALIGA EA SPORTS | 526k coins | +47.8% | -14.9% |
+| Claude Makélélé | 94 | — | 460k coins | +45.2% | -46.6% |
 
 
-Entre os poucos ativos que conseguiram se destacar contra a maré descendente, Philipp Lahm (90, Icons) liderou as altas com um salto robusto de 57.8% em 24h, atingindo a marca de 535k coins, impulsionado possivelmente por uma demanda específica de squad ou rotatividade de inventário, embora sua probabilidade estatística de alta futura permaneça moderada em apenas 27%. Jean-Philippe Mateta (96, s/liga) também apresentou um desempenho notável, subindo 38.3% para cotar a 619k coins, um movimento que parece ser isolado dado a sua baixa probabilidade de continuidade de alta de apenas 5%, sugerindo uma compra pontual e não uma tendência sustentável. Zizo (94, s/liga) registrou alta de 36.8%, atingindo 113k coins, mas com probabilidade de alta de 0%, indicando que este é um movimento de curto prazo que deve ser vendido imediatamente para evitar correções. Rúben Neves (95, s/liga) subiu 35.8% para 57k coins, com uma probabilidade de alta de 23%, oferecendo uma janela menor de oportunidade para traders ágeis que buscam lucros rápidos em ativos de médio custo. Daniel Muñoz (96, s/liga) foi outro destaque, com alta de 35.2% para 900k coins e uma probabilidade de alta mais promissora de 30%, atraindo atenção de investidores que buscam ativos de alto valor com algum potencial de continuidade, enquanto Dean Huijsen (91, LALIGA EA SPORTS) sobe 33.9% para 679k coins com a maior probabilidade de alta do grupo em 42%, sugerindo uma possível consolidação de preço.
+A liderança das altas é dominada por Ferenc Puskás, um Icone de 94 que dispara 59.1% para 513k coins, impulsionado por uma probabilidade de alta de 60% que sugere acumulação institucional em meio à escassez de oferta, tornando-o um ativo de alta segurança para quem busca preservar capital em ativos premium. Ethan Nwaneri, com 91 de rating e vinculado à Ligue 1 McDonald's, apresenta um movimento explosivo de 59% atingindo 69k coins, apoiado por uma probabilidade de alta impressionante de 84%, o que indica uma demanda reprimida por ativos de ligas secundárias que estão sendo descobertos por traders de arbitragem. Klara Bühl, sem liga definida e com 93 de rating, também sobe 59% para 40k coins, embora sua probabilidade de alta de apenas 33% aponte para um movimento especulativo de curto prazo ou 'pump and dump', exigindo cautela extrema na entrada. Patri Guijarro, da Liga F com 90 de rating, merece atenção especial com alta de 58.9% para 50k coins e uma probabilidade de alta robusta de 95%, sugerindo um fluxo sustentável de compra fundamentado em metagame ou promoções futuras da EA. Ezri Konsa, outro ativo sem liga com 94 de rating, sobe 57.1% para 105k coins, mas sua probabilidade de alta de 0% revela um pico de exaustão momentânea, onde os compradores estão esgotados e o risco de reversão é iminente, caracterizando uma armadilha de liquidez para traders impaciente.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 79k coins | -49% | -32.1% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 93k coins | -47.9% | -35% |
-| Diego Armando Maradona | 96 | Icons | 2.50M coins | -47.5% | -40.1% |
-| Andrea Pirlo | 91 | Icons | 342k coins | -45.7% | -50.2% |
-| Caroline Weir | 95 | — | 36k coins | -44% | -70.6% |
-| Fernando Morientes | 94 | — | 79k coins | -43.7% | -36% |
-| Patrick Vieira | 90 | Icons | 449k coins | -43.7% | -61.5% |
-| Aya Miyama | 92 | Icons | 25k coins | -42.7% | -57% |
-| Endrick | 91 | Ligue 1 McDonald's | 350k coins | -42.6% | -40.7% |
-| Andriy Shevchenko | 93 | — | 30k coins | -40.7% | -56.6% |
+| Eric Cantona | 92 | — | 65k coins | -49.2% | -38.5% |
+| Denise O'Sullivan | 91 | Barclays WSL | 29k coins | -44.2% | -27% |
+| Khadija Shaw | 90 | Barclays WSL | 67k coins | -41.7% | -28.6% |
+| Thierry Henry | 91 | Icons | 724k coins | -38.8% | -28.4% |
+| Ollie Watkins | 90 | Premier League | 24k coins | -37.5% | -8.3% |
+| Louisa Necib | 90 | D1 Arkema | 25k coins | -37.5% | -5.7% |
+| Marta | 90 | NWSL | 31k coins | -37.2% | -9.2% |
+| Zico | 91 | Icons | 140k coins | -36% | -36.8% |
+| Jay-Jay Okocha | 90 | Premier League | 131k coins | -35.5% | -50.9% |
+| Fabio Cannavaro | 90 | Icons | 219k coins | -35.3% | -44.6% |
 
 
-As quedas foram generalizadas e severas, lideradas por Abedi Pelé (91, Ligue 1 McDonald's), que desvalorizou 49% em 24h para cotar a apenas 79k coins, um movimento alarmante considerando sua alta probabilidade de alta futura de 80%, o que indica um fundo de mercado potencialmente iminente para compradores ousados. Willian Pacho (90, Ligue 1 McDonald's) caiu 47.9% para 93k coins, com probabilidade de alta de 33%, refletindo uma venda em pânico de ativos que perderam relevância em squads recentes. A queda de Diego Armando Maradona (96, Icons) foi particularmente significativa, caindo 47.5% para 2.50M coins, um ativo de luxo que sofreu uma correção drástica, possivelmente devido à realização de lucros por grandes investidores, embora sua probabilidade de alta de 32% sugira que o preço ainda pode se recuperar parcialmente. Andrea Pirlo (91, Icons) desvalorizou 45.7% para 342k coins, com probabilidade de alta de 35%, enquanto Caroline Weir (95, s/liga) caiu 44% para 36k coins, demonstrando que até cartas de liga sem especificidade não estão imunes à pressão vendedora. Fernando Morientes (94, s/liga) e Patrick Vieira (90, Icons) caíram 43.7% cada, para 79k e 449k coins respectivamente, consolidando a narrativa de que o mercado está liquidando posições sem distinção, e Aya Miyama (92, Icons) caiu 42.7% para 25k coins, mostrando que mesmo ativos de baixo custo estão sendo descartados rapidamente.
+Do lado das quedas, Eric Cantona, Icone de 92, despenca 49.2% para 65k coins, um movimento severo que, apesar da probabilidade de alta residual de 18%, indica uma desvalorização estrutural ou correção de sobreavaliação prévia, tornando-o um ativo de risco elevado para compras de média prazo. Denise O'Sullivan, da Barclays WSL com 91 de rating, cai 44.2% para 29k coins, com probabilidade de alta de 33%, sugerindo que a liquidez do mercado feminino está se contraindo em ativos não essenciais para times competitivos de topo, aumentando o risco de iliquidez. Khadija Shaw, também da Barclays WSL com 90 de rating, recua 41.7% para 67k coins, com probabilidade de alta de 35%, reforçando a tese de que o mercado está purgando ativos de ligas femininas que não possuem suporte de eventos ou promoções imediatas. Thierry Henry, Icone de 91, apresenta queda de 38.8% para 724k coins, mas sua probabilidade de alta de 55% sugere que esta correção é uma oportunidade de compra de valor em um ativo de alta liquidez e reconhecimento global, onde o suporte técnico deve se fortalecer rapidamente. Ollie Watkins, da Premier League com 90 de rating, cai 37.5% para 24k coins com probabilidade de alta de apenas 8%, indicando um fluxo de venda persistente e falta de interesse comprador, caracterizando um ativo de 'morte lenta' que deve ser evitado por traders que buscam retorno rápido.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | 89k coins | 112k coins | 95% |
-| Arda Güler | 93 | 66k coins | 83k coins | 95% |
-| Lev Yashin | 93 | 96k coins | 118k coins | 95% |
+| Arda Güler | 93 | 70k coins | 87k coins | 95% |
+| Lev Yashin | 93 | 96k coins | 119k coins | 95% |
+| Ryan Yates | 92 | 31k coins | 37k coins | 95% |
+| David Raya | 93 | 52k coins | 61k coins | 95% |
+| Xavi | 92 | 87k coins | 103k coins | 95% |
 | Sofyan Amrabat | 91 | 90k coins | 111k coins | 95% |
-| Mohamed Salah | 92 | 260k coins | 299k coins | 95% |
-| Tyrone Mings | 96 | 304k coins | 355k coins | 95% |
-| Bobby Charlton | 92 | 95k coins | 109k coins | 95% |
-| David Raya | 93 | 54k coins | 65k coins | 95% |
+| Bobby Charlton | 92 | 90k coins | 103k coins | 95% |
+| Lee Dong Kyeong | 94 | 35k coins | 42k coins | 95% |
 
 
-O modelo preditivo identifica uma divergência clara entre a ação de preço atual e o potencial futuro, projetando altas significativas em ativos que estão sendo vendidos em pânico ou são negligenciados. Andrea Pirlo (90, Icons) é o destaque absoluto com 95% de probabilidade de alta, cotado a 89k coins, sugerindo que a recente queda de sua versão 91 pode ter criado confusão ou que este ativo específico está subvalorizado em relação à demanda histórica. Arda Güler (93, LALIGA EA SPORTS) e Lev Yashin (93, Icons) também possuem 95% de probabilidade de alta, cotados a 66k e 96k coins respectivamente, indicando oportunidades de compra em ativos de meio campo e goleiro que podem ser superestimados em breve. Sofyan Amrabat (91, LALIGA EA SPORTS) e Mohamed Salah (92, Premier League) compartilham essa alta probabilidade de 95%, com preços de 90k e 260k coins, respectivamente, o que sugere que a demanda por jogadores da Premier League e La Liga está se aquecendo silenciosamente. Tyrone Mings (96, s/liga) e Bobby Charlton (92, Icons) também são projetados para subir, com 95% de chance, cotados a 304k e 95k coins, enquanto David Raya (93, Premier League) fecha o grupo com 95% de probabilidade a 54k coins, oferecendo um ponto de entrada de baixo risco para traders que desejam alavancar as próximas correções do mercado.
+O modelo estatístico projeta alta de 95% para uma seleção diversificada de ativos, destacando Arda Güler da LALIGA EA SPORTS a 70k coins, Lev Yashin (Icons) a 96k coins, e Ryan Yates sem liga a 31k coins, indicando uma oportunidade de entrada em ativos com alto potencial de valorização e baixa resistência de venda. David Raya da Premier League e Xavi (Icons) também aparecem com 95% de probabilidade a 52k e 87k respectivamente, sugerindo acumulação silenciosa em ativos de alta confiabilidade. Sofyan Amrabat, Bobby Charlton e Lee Dong Kyeong completam a lista com 95% de probabilidade, reforçando a tese de que o mercado está reprecificando ativos de média liquidez antes de um possível evento ou atualização de metagame, oferecendo uma janela de oportunidade para traders que buscam exposição diversificada com alto índice de confiança estatística.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Hugo Ekitiké | 93 | 40k coins | -23.8% |
-| Sakina Karchaoui | 95 | 47k coins | -21.4% |
-| Dennis Bergkamp | 90 | 68k coins | -21.4% |
-| Rayan Cherki | 93 | 61k coins | -16.7% |
-| Cata Coll | 96 | 100k coins | -29.5% |
-| Kaká | 90 | 100k coins | -21.3% |
-| Alexia Putellas | 92 | 61k coins | -17.5% |
-| Bradley Barcola | 92 | 60k coins | -17.3% |
+| Roberto Carlos | 91 | 159k coins | -15.6% |
+| Mariona | 90 | 44k coins | -23.8% |
+| Khadija Shaw | 90 | 36k coins | -21.4% |
+| Grimaldo | 92 | 36k coins | -15.6% |
+| Iniesta | 92 | 110k coins | -21.3% |
+| Noa Lang | 91 | 26k coins | -15.6% |
+| Mia Hamm | 93 | 169k coins | -17.3% |
+| Marta | 90 | 31k coins | -17.3% |
 
 
 ## 🎯 Conclusão do dia
-A estratégia ideal para hoje em 20/06/2026 é manter-se extremamente seletivo, focando na compra de ativos com alta probabilidade de reversão que estão sendo vendidos em pânico, como Abedi Pelé e Andrea Pirlo, enquanto se evita a compra de ativos com alta recente mas baixa probabilidade de continuidade, como Zizo e Mateta. Recomenda-se fortemente vender qualquer posição em Icons de alto custo que não esteja mostrando sinais de sustentabilidade, como Maradona e Vieira, para travar perdas ou lucros remanescentes antes de uma possível continuação da queda. Investidores devem monitorar de perto Daniel Muñoz e Dean Huijsen, pois suas probabilidades de alta superiores a 30% e 40% respectivamente podem oferecer lucros rápidos se a tendência de alta se sustentar nas próximas horas. Para compras de longo prazo, o foco deve estar no grupo de previsões de 95%, especialmente Arda Güler e Mohamed Salah, que parecem estar em pontos de acumulação ideal antes de uma subida projetada. Evite tomar decisões emocionais baseadas apenas nas quedas drásticas de hoje, pois o mercado pode entrar em um período de lateralização ou recuperação rápida nos ativos fundamentais, e a chave é ter disciplina para esperar a confirmação da tendência de alta nos ativos preditivos antes de alavancar posições.
+A estratégia para 20/06/2026 deve priorizar a compra de ativos com alta probabilidade de alta e queda recente ou lateralidade, como Patri Guijarro e Ethan Nwaneri, que oferecem o melhor equilíbrio entre risco e retorno em um mercado de lado. Evite agressivamente ativos como Ezri Konsa e Ollie Watkins, onde a divergência entre alta recente e probabilidade de baixa indica exaustão de compradores e risco iminente de reversão. Mantenha posições em Icons de alta liquidez como Ferenc Puskás e Thierry Henry, utilizando as quedas de Henry como oportunidade de médio prazo, enquanto Puskás serve como reserva de valor. Monitore de perto as previsões do modelo para Arda Güler e David Raya, entrando em posições pequenas para testar a validade da probabilidade de 95% em tempo real, ajustando o stop-loss conforme a liquidez do mercado se comporta. No geral, o mercado lateral exige paciência e disciplina, focando em ativos com fundamentos de probabilidade sólida e evitando a tentação de perseguição de pumps especulativos em ativos sem liga ou com baixa liquidez, garantindo a preservação do capital para oportunidades mais seguras nos próximos dias.
 
 
 ## 🔍 Como apuramos os preços
@@ -114,16 +114,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Philipp Lahm (90, Icons), com +57.8% em 24h, a 535k coins no Console (PS).
+Ferenc Puskás (94, Icons), com +59.1% em 24h, a 513k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Abedi Pelé (91), -49% em 24h, a 79k coins.
+Eric Cantona (92), -49.2% em 24h, a 65k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 89k coins.
+Pelo modelo FutQuant, Arda Güler (93) — 95% de probabilidade de alta, a 70k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 154 cartas em alta contra 557 em queda (média -9.97%).
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 311 cartas em alta contra 422 em queda (média 0.29%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

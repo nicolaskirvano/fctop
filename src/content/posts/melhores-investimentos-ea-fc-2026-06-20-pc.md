@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T20:00:20.000Z
+pubDatetime: 2026-06-21T02:00:28.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Luca Marseiler (90, Bundesliga 2) lidera, com +84.2% em 7 dias a 59k coins no PC, e o modelo dá 57% de chance de seguir subindo."
+    a: "Patri Guijarro (90, Liga F) lidera, com +57.1% em 7 dias a 47k coins no PC, e o modelo dá 63% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,19 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Luca Marseiler (90) acumula **+84.2% em 7 dias** a 59k coins.
+> 🔝 **Destaque:** Patri Guijarro (90) acumula **+57.1% em 7 dias** a 47k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-No mercado de EA FC Ultimate Team, a análise de cartas com rating 90+ exige uma visão precisa sobre a volatilidade e as tendências de curto prazo. Para a data de 20 de junho de 2026, observamos um cenário interessante onde a probabilidade de alta se torna um fator tão crucial quanto o percentual de valorização imediato. Ao analisar os dados dos últimos sete dias, identificamos que investidores devem focar em ativos que combinam um aumento consistente no preço com uma alta probabilidade estatística de continuidade dessa tendência, evitando armadilhas de alta volatilidade sem sustentação.
+Ao analisar o mercado do EA FC Ultimate Team em 20 de junho de 2026, o foco nas cartas com rating de 90+ revela oportunidades distintas para investidores que buscam equilíbrio entre risco e retorno. A análise baseia-se estritamente na tendência de valorização dos últimos dias, destacando quais ativos apresentam maior probabilidade de alta nas próximas horas. Entre as opções disponíveis, algumas cartas se destacam não apenas pelo volume de negociações, mas pela combinação específica entre o percentual de crescimento em 24 horas e a probabilidade estatística de continuação dessa trajetória ascendente.
 
-Dentre as opções mais seguras, destaca-se Sofyan Amrabat, cuja carta de 91 rating da LALIGA EA SPORTS apresenta uma valorização de 14,3% nas últimas 24 horas. O ponto forte deste ativo é a sua probabilidade de alta de 71%, o maior índice entre as cartas analisadas com valorização significativa. Com um preço atual de 80k coins, Amrabat oferece um equilíbrio atrativo entre risco e retorno, sugerindo que a demanda por meio-campistas de elite está em ascensão sustentada, tornando-o uma escolha sólida para entrada imediata.
+Uma das oportunidades mais promissoras reside na carta de Patri Guijarro com rating 91 da Liga F. Este ativo demonstra um impressionante aumento de 37,4% em apenas 24 horas, posicionando-se a 90 mil coins. O que torna esta carta particularmente atrativa é a alta probabilidade de 78% de continuar sua valorização, o que sugere uma demanda consistente e forte no mercado atual. Para investidores dispostos a assumir um risco moderado em busca de retornos rápidos, esta é uma das entradas mais sólidas identificadas na análise, oferecendo um ponto de entrada acessível comparado a lendas ou ícones de maior custo.
 
-Outro candidato excepcional é Alyssa Thompson, da Barclays WSL, com 91 rating. Embora a valorização de 24 horas seja de apenas 6,5%, a probabilidade de alta é de 72%, a mais elevada do grupo. Preço em 197k coins, Thompson demonstra uma tendência de crescimento orgânico e menos sujeito a flutuações bruscas. Para investidores que preferem estabilidade e consistência ao invés de ganhos rápidos e arriscados, a Thompson representa uma das apostas mais seguras do mercado atual, com uma trajetória de valorização muito bem fundamentada estatisticamente.
+Outra carta que merece atenção imediata é a de Víctor Gómez, com rating 91 e sem liga associada. Embora o aumento de 2,5% em 24 horas possa parecer modesto à primeira vista, a probabilidade de alta de 76% indica uma tendência estrutural de valorização. Com um preço atual de apenas 30 mil coins, esta carta oferece uma oportunidade de investimento de baixo custo, ideal para carteiras que buscam diversificação ou para quem deseja minimizar a exposição financeira enquanto aguarda uma possível aceleração no preço.
 
-Paul Scholes, o lendário ícone com 91 rating, também merece atenção. Com uma alta de 17,6% em 24 horas e uma probabilidade de continuidade de 58%, a carta está cotada em 140k coins. Scholes combina uma performance recente robusta com uma probabilidade de alta superior à média, indicando que o mercado está reconhecendo seu valor de forma crescente. A sinergia entre o aumento percentual e a probabilidade sugere que a carta ainda tem espaço para valorizar, especialmente se houver eventos in-game que elevem a demanda por jogadores lendários.
+No segmento de cartas mais caras, a lenda Birgit Prinz, com rating 93, apresenta um movimento significativo de 37,8% em 24 horas, com uma probabilidade de alta de 63% e valorização a 88 mil coins. Embora o patamar de preço seja mais elevado, a magnitude do salto recente combinada com uma probabilidade superior a 60% a torna uma candidata forte para quem possui capital para investir em ativos premium. A mesma lógica se aplica, em menor escala, a Gianluca Vialli (91), que subiu 8,2% e tem 59% de chance de alta, custando apenas 18 mil coins, representando uma excelente relação custo-benefício para investidores cautelosos.
 
-É crucial, contudo, ter cautela com cartas como Geoff Hurst e Steffi Jones. Hurst, ícone de 90 rating, teve um salto impressionante de 30,7% em 24 horas, atingindo 58k coins. No entanto, sua probabilidade de alta é de apenas 25%, indicando um possível pico momentâneo ou volatilidade extrema. Da mesma forma, Steffi Jones (91, Icons) subiu 16,9% para 59k, mas com probabilidade de alta de apenas 15%. Esses dados sugerem que, apesar do ganho recente, a tendência pode se reverter ou estagnar, tornando-as menos atrativas para novos investimentos a menos que se busque especulação de altíssimo risco.
-
-Em contrapartida, Luca Maseiler (90, Bundesliga 2) oferece um perfil interessante para quem busca oportunidade de baixo custo. Com alta de 16,4% e probabilidade de 57% a 59k, ele apresenta uma relação risco-retorno favorável. Por fim, Abedi Pelé (91, Ligue 1 McDonald's) sobe 9,1% com 52% de probabilidade a 178k, sendo uma opção válida para portfólios diversificados. Em resumo, as melhores entradas hoje são Sofyan Amrabat e Alyssa Thompson pela alta probabilidade de alta, seguidas por Scholes e Maseiler como oportunidades de equilíbrio entre crescimento e segurança estatística.
+É importante notar que, apesar do alto volume de negociação, cartas como Jill Scott (91) e Paul Scholes (91) apresentam probabilidades de alta mais baixas, respectivamente 33% e 58%, o que as torna menos recomendadas para entrada imediata se o critério for a segurança estatística. Da mesma forma, Raphinha (90) mostra uma probabilidade de apenas 6% de alta, tornando-o uma aposta arriscada neste momento específico. Portanto, a estratégia mais racional para 20/06/2026 concentra-se em Patri Guijarro (91), Víctor Gómez (91), Birgit Prinz (93) e Gianluca Vialli (91), que oferecem o melhor equilíbrio entre tendência de alta confirmada e probabilidade estatística favorável.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +43,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luca Marseiler | 90 | Bundesliga 2 | 59k coins | +16.4% | +84.2% | 57% |
-| Geoff Hurst | 90 | Icons | 58k coins | +30.7% | +81.4% | 25% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 178k coins | +9.1% | +73.8% | 52% |
-| Steffi Jones | 91 | Icons | 59k coins | +16.9% | +61.4% | 15% |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 80k coins | +14.3% | +60.8% | 71% |
-| Mohamed Salah | 91 | Premier League | 24k coins | +3.2% | +56.5% | 22% |
-| Paul Scholes | 91 | Icons | 140k coins | +17.6% | +48.9% | 58% |
-| Alyssa Thompson | 91 | Barclays WSL | 197k coins | +6.5% | +37.8% | 72% |
-| Jill Scott | 91 | Barclays WSL | 120k coins | +1.7% | +36.4% | 33% |
-| Raphinha | 90 | LALIGA EA SPORTS | 207k coins | +4% | +34.4% | 6% |
-| Enzo Fernández | 91 | Premier League | 85k coins | +7.5% | +33.6% | 61% |
-| Patri Guijarro | 91 | Liga F | 85k coins | +1.7% | +30.4% | 78% |
-| Jamie Vardy | 90 | Serie A TIM | 205k coins | +2.3% | +30.2% | 34% |
-| Marco van Basten | 94 | — | 190k coins | +26% | +26% | 38% |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 155k coins | +21.1% | +25% | 42% |
+| Patri Guijarro | 90 | Liga F | 47k coins | +3.9% | +57.1% | 63% |
+| Jill Scott | 91 | Barclays WSL | 119k coins | +16.7% | +36% | 33% |
+| Patri Guijarro | 91 | Liga F | 90k coins | +37.4% | +33.3% | 78% |
+| Raphinha | 90 | LALIGA EA SPORTS | 176k coins | +2.1% | +25.8% | 6% |
+| Raphinha | 91 | LALIGA EA SPORTS | 107k coins | +10% | +22.8% | 30% |
+| Víctor Gómez | 91 | — | 30k coins | +2.5% | +21.8% | 76% |
+| Birgit Prinz | 93 | Icons | 88k coins | +37.8% | +16.7% | 63% |
+| Emilio Butragueño | 90 | — | 85k coins | +11.6% | +14.1% | 41% |
+| Paul Scholes | 91 | Icons | 137k coins | +2.2% | +14% | 58% |
+| Gianluca Vialli | 91 | — | 18k coins | +8.2% | +11.3% | 59% |
+| Joshua Kimmich | 90 | Bundesliga | 55k coins | +5.8% | +10% | 62% |
+| Alessia Russo | 90 | Barclays WSL | 38k coins | +25.2% | +8.5% | 16% |
+| Steph Catley | 90 | Barclays WSL | 54k coins | +2.9% | +8.1% | 23% |
+| Simone Laudehr | 90 | GPFBL | 35k coins | +33.3% | +6.1% | 63% |
+| Felix Nmecha | 94 | — | 170k coins | +33.3% | +6% | 0% |
 
 
 ## 📈 Análise dos destaques
 
-- **Luca Marseiler (90)** — 59k coins, **+84.2% em 7 dias** (+16.4% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 47k coins, **+57.1% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Geoff Hurst (90)** — 58k coins, **+81.4% em 7 dias** (+30.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (91)** — 119k coins, **+36% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Abedi Pelé (91)** — 178k coins, **+73.8% em 7 dias** (+9.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (91)** — 90k coins, **+33.3% em 7 dias** (+37.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
 
-- **Steffi Jones (91)** — 59k coins, **+61.4% em 7 dias** (+16.9% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Raphinha (90)** — 176k coins, **+25.8% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sofyan Amrabat (91)** — 80k coins, **+60.8% em 7 dias** (+14.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Raphinha (91)** — 107k coins, **+22.8% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Luca Marseiler (90, Bundesliga 2) lidera, com +84.2% em 7 dias a 59k coins no PC, e o modelo dá 57% de chance de seguir subindo.
+Patri Guijarro (90, Liga F) lidera, com +57.1% em 7 dias a 47k coins no PC, e o modelo dá 63% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

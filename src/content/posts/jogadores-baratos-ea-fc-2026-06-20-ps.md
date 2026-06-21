@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:59:23.000Z
+pubDatetime: 2026-06-21T01:59:18.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Blás Riveros (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Léo Scienza (95, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Blás Riveros (94) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Léo Scienza (95) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blás Riveros | 94 | LB | — | 15k coins | -63% |
-| Lewis Ferguson | 93 | CM | — | 13k coins | -19.7% |
-| Diego Luna | 93 | CAM | — | 13k coins | -62.9% |
-| Edson Álvarez | 93 | CDM | — | 13k coins | -27% |
-| Jesse Randall | 93 | LM | — | 13k coins | -23.2% |
-| Hiroki Ito | 93 | CB | — | 13k coins | -33.8% |
-| Iliman Ndiaye | 93 | LM | — | 13k coins | -18.2% |
-| Gonçalo Ramos | 93 | ST | — | 14k coins | -58.5% |
-| Jordan Ayew | 93 | RM | — | 15k coins | -4.8% |
-| Caleb Taylor | 92 | CB | — | 12k coins | -66.9% |
-| Luciano Valente | 92 | CM | — | 12k coins | -67.6% |
-| Sergi Domínguez | 92 | CB | — | 12k coins | -67.3% |
-| Weston McKennie | 92 | RM | — | 12k coins | -70.8% |
-| Esperanza Pizarro | 92 | CM | — | 12k coins | -66.2% |
-| Jesse Randall | 92 | LM | — | 12k coins | -66.2% |
+| Léo Scienza | 95 | LW | — | 14k coins | -50.6% |
+| Luka Vušković | 94 | CB | — | 14k coins | -63.2% |
+| Jacobo Ramón | 94 | CB | — | 14k coins | -62.5% |
+| Blás Riveros | 94 | LB | — | 14k coins | -67% |
+| Jerdy Schouten | 94 | CB | — | 14k coins | -74.8% |
+| Konstantinos Fortounis | 94 | CAM | — | 14k coins | -65% |
+| Ryan Wintle | 94 | CDM | — | 14k coins | -64.4% |
+| Trincão | 94 | CAM | — | 14k coins | -67.4% |
+| Matt Grimes | 94 | CDM | — | 14k coins | -63.1% |
+| Elliot Stroud | 94 | LB | — | 14k coins | -65.5% |
+| Yui Hasegawa | 94 | CDM | — | 14k coins | -67.8% |
+| Izzy Rodriguez | 94 | LB | — | 14k coins | -63.7% |
+| Jess Park | 94 | RM | — | 15k coins | -62.7% |
+| Christoph Baumgartner | 93 | CAM | — | 12k coins | -65.5% |
+| Avery Patterson | 93 | RB | — | 12k coins | -65.5% |
 
 
 ## 📈 Destaques
 
-- **Blás Riveros (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Léo Scienza (95, LW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lewis Ferguson (93, CM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luka Vušković (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Luna (93, CAM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jacobo Ramón (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Edson Álvarez (93, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Blás Riveros (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jesse Randall (93, LM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jerdy Schouten (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Blás Riveros (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Léo Scienza (95, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
