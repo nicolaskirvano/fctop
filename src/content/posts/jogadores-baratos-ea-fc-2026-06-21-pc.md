@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T22:58:10.000Z
+pubDatetime: 2026-06-22T01:58:09.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blás Riveros | 94 | LB | — | 14k coins | -68.1% |
-| Jacobo Ramón | 94 | CB | — | 14k coins | -55.3% |
-| Jan Bednarek | 94 | CB | — | 15k coins | -66.7% |
-| Elliot Stroud | 94 | LB | — | 15k coins | -58.8% |
-| Victor Froholdt | 93 | CM | — | 12k coins | -66.7% |
-| Olivia Moultrie | 93 | CAM | — | 12k coins | -68.2% |
-| Mylène Chavas | 93 | GK | — | 12k coins | -70.5% |
-| Jakob Glesnes | 93 | CB | — | 12k coins | -68.8% |
-| Santiago Sosa | 93 | CB | — | 12k coins | -69% |
-| Nina Lührßen | 93 | LB | — | 12k coins | -64.7% |
-| Aleksandar Pavlović | 93 | CDM | — | 12k coins | -65.2% |
-| Santiago Mouriño | 93 | RB | — | 12k coins | -64.7% |
-| Christoph Baumgartner | 93 | CAM | — | 12k coins | -66.7% |
-| Mika Godts | 93 | LW | — | 12k coins | -71.4% |
-| Matthieu Udol | 93 | LB | — | 12k coins | -65% |
+| Blás Riveros | 94 | LB | — | 14k coins | -69.8% |
+| Kerim Alajbegović | 94 | LM | — | 14k coins | -86.6% |
+| Anders Dreyer | 94 | RW | — | 14k coins | -59.2% |
+| Adam Reach | 94 | LB | — | 14k coins | -73.6% |
+| Jess Park | 94 | RM | — | 14k coins | -67.1% |
+| Jerdy Schouten | 94 | CB | — | 14k coins | -66.5% |
+| Jacobo Ramón | 94 | CB | — | 14k coins | -58.6% |
+| Konstantinos Fortounis | 94 | CAM | — | 14k coins | -64.6% |
+| Santiago Sosa | 93 | CB | — | 12k coins | -69.7% |
+| Nina Lührßen | 93 | LB | — | 12k coins | -65.7% |
+| Fabio Fehr | 93 | RB | — | 12k coins | -66.9% |
+| Maria Méndez | 93 | CB | — | 12k coins | -64.7% |
+| Omar Sowunmi | 93 | CB | — | 12k coins | -66.7% |
+| Diego Luna | 93 | CAM | — | 12k coins | -63% |
+| Santiago Mouriño | 93 | RB | — | 12k coins | -66.2% |
 
 
 ## 📈 Destaques
 
 - **Blás Riveros (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jacobo Ramón (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kerim Alajbegović (94, LM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jan Bednarek (94, CB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Anders Dreyer (94, RW)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Elliot Stroud (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Adam Reach (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Victor Froholdt (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jess Park (94, RM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
