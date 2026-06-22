@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T13:58:05.000Z
+pubDatetime: 2026-06-22T16:58:05.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Blás Riveros (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Santiago Mouriño (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Blás Riveros (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Santiago Mouriño (93) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Blás Riveros | 94 | LB | — | 14k coins | -59.4% |
-| Fabio Fehr | 93 | RB | — | 12k coins | -69.7% |
-| Sebastian Berhalter | 93 | CM | — | 12k coins | -68.1% |
-| Avery Patterson | 93 | RB | — | 12k coins | -66.7% |
-| Nina Lührßen | 93 | LB | — | 12k coins | -67.1% |
-| Diego Luna | 93 | CAM | — | 12k coins | -65.5% |
-| Maximiliano Araújo | 93 | LB | — | 12k coins | -67.8% |
-| Laura Dick | 93 | GK | — | 12k coins | -74.8% |
-| Eldor Shomurodov | 93 | ST | — | 12k coins | -67.9% |
-| Marco Palestra | 93 | RB | — | 12k coins | -66.4% |
-| Nicolas López | 93 | ST | — | 12k coins | -68.6% |
-| Jakob Glesnes | 93 | CB | — | 12k coins | -67.9% |
-| Matthieu Udol | 93 | LB | — | 12k coins | -66.4% |
-| Milan Škriniar | 93 | CB | — | 12k coins | -66.7% |
-| Mika Godts | 93 | LW | — | 12k coins | -69.9% |
+| Santiago Mouriño | 93 | RB | — | 13k coins | -65.3% |
+| Lewis Ferguson | 93 | CM | — | 13k coins | -28.4% |
+| Tōko Koga | 93 | CB | — | 14k coins | -63.8% |
+| Ingrid Syrstad Engen | 93 | CB | — | 14k coins | -68.2% |
+| Matthieu Udol | 93 | LB | — | 14k coins | -64.4% |
+| Stine Ballisager | 93 | CB | — | 14k coins | -65.8% |
+| Victor Froholdt | 93 | CM | — | 14k coins | -65.2% |
+| Avery Patterson | 93 | RB | — | 14k coins | -64% |
+| Jesse Randall | 93 | LM | — | 14k coins | -31.6% |
+| Nina Lührßen | 93 | LB | — | 14k coins | -64.4% |
+| Aleix García | 93 | CM | — | 14k coins | -65.4% |
+| Darko Nejašmić | 93 | CM | — | 14k coins | -66.5% |
+| Hiroki Ito | 93 | CB | — | 14k coins | -38.6% |
+| Paula Fernández | 93 | CM | — | 14k coins | -65.3% |
+| Maximiliano Araújo | 93 | LB | — | 14k coins | -63.8% |
 
 
 ## 📈 Destaques
 
-- **Blás Riveros (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Santiago Mouriño (93, RB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Fabio Fehr (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lewis Ferguson (93, CM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sebastian Berhalter (93, CM)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tōko Koga (93, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Avery Patterson (93, RB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ingrid Syrstad Engen (93, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nina Lührßen (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Matthieu Udol (93, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Blás Riveros (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Santiago Mouriño (93, sem liga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
