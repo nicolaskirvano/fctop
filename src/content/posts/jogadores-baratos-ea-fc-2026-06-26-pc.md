@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:58:09.000Z
+pubDatetime: 2026-06-26T22:58:09.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Jacobo Ramón (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Luka Vušković (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Jacobo Ramón (94) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luka Vušković | 94 | CB | — | 14k coins | -20.8% |
-| Blás Riveros | 94 | LB | — | 15k coins | -11.9% |
-| Pervis Estupiñán | 94 | LB | — | 15k coins | -37.6% |
-| Rudi Völler | 94 | ST | — | 15k coins | -8.2% |
-| Diego Luna | 93 | CAM | — | 13k coins | -15% |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
-| Ingrid Syrstad Engen | 93 | CB | — | 14k coins | -25% |
-| Darko Nejašmić | 93 | CM | — | 14k coins | -3.6% |
-| Tōko Koga | 93 | CB | — | 14k coins | -14.3% |
-| Matthieu Udol | 93 | LB | — | 14k coins | -11.5% |
-| Nina Lührßen | 93 | LB | — | 14k coins | -1.8% |
-| Milan Škriniar | 93 | CB | — | 14k coins | -8.5% |
-| Mylène Chavas | 93 | GK | — | 14k coins | 0% |
-| Aleix García | 93 | CM | — | 14k coins | -6.9% |
-| Nicolas López | 93 | ST | — | 14k coins | -1.8% |
+| Jacobo Ramón | 94 | CB | — | 14k coins | -22.4% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -3.4% |
+| Wesley Sneijder | 94 | CAM | — | 14k coins | -30.9% |
+| Rudi Völler | 94 | ST | — | 14k coins | -11.5% |
+| Pervis Estupiñán | 94 | LB | — | 14k coins | -41.6% |
+| Matt Grimes | 94 | CDM | — | 14k coins | -8.6% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -37% |
+| Diego Luna | 93 | CAM | — | 13k coins | -5.2% |
+| Iliman Ndiaye | 93 | LM | — | 14k coins | -6.9% |
+| Sebastian Berhalter | 93 | CM | — | 14k coins | +1.9% |
+| Fabio Fehr | 93 | RB | — | 14k coins | +3.8% |
+| Matthieu Udol | 93 | LB | — | 14k coins | -3.6% |
+| Darko Nejašmić | 93 | CM | — | 14k coins | -1.8% |
+| Mylène Chavas | 93 | GK | — | 14k coins | +1.9% |
+| Nina Lührßen | 93 | LB | — | 14k coins | +1.9% |
 
 
 ## 📈 Destaques
 
-- **Luka Vušković (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jacobo Ramón (94, CB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Blás Riveros (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
 
-- **Pervis Estupiñán (94, LB)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (94, CAM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (94, ST)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (94, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Luna (93, CAM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pervis Estupiñán (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Luka Vušković (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Jacobo Ramón (94, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
