@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:58:05.000Z
+pubDatetime: 2026-06-27T01:58:05.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,31 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Wesley Sneijder | 94 | CAM | — | 14k coins | -29.6% |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
-| Vincent Kompany | 92 | CB | — | 12k coins | -16.4% |
-| Sami Al Jaber | 92 | ST | — | 13k coins | -16.4% |
-| Hidetoshi Nakata | 92 | CAM | — | 13k coins | -16.4% |
-| Alan Shearer | 92 | ST | — | 13k coins | -27.6% |
-| Louisa Necib | 92 | LM | — | 14k coins | +1.8% |
-| Mario Mandžukić | 92 | ST | — | 14k coins | +1.9% |
-| Jamie Carragher | 92 | CB | — | 14k coins | -4.8% |
-| Edmilson Junior | 92 | LW | — | 15k coins | +16.7% |
-| Mario Gomez | 92 | ST | — | 15k coins | -20.9% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 11k coins | +10.4% |
-| Erling Haaland | 90 | ST | Premier League | 11k coins | -37.5% |
+| Hiroki Ito | 94 | CB | — | 14k coins | +7.4% |
+| Rudi Völler | 94 | ST | — | 14k coins | -13.1% |
+| Pervis Estupiñán | 94 | LB | — | 14k coins | -42.6% |
+| Bixente Lizarazu | 93 | LB | — | 12k coins | -37% |
+| Amar Dedić | 93 | RB | — | 14k coins | +7.4% |
+| Iliman Ndiaye | 93 | LM | — | 14k coins | +3.6% |
+| George Hirst | 93 | ST | — | 14k coins | -42.6% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +7.3% |
+| Jesse Randall | 93 | LM | — | 14k coins | +9.4% |
+| Jason Geria | 93 | RB | — | 14k coins | +11.5% |
+| Enner Valencia | 93 | ST | — | 14k coins | +9.4% |
+| Sultan Mandash | 93 | RW | — | 15k coins | -42.6% |
+| Jordan Ayew | 93 | RM | — | 15k coins | +7.1% |
+| Vincent Kompany | 92 | CB | — | 12k coins | -18% |
 
 
 ## 📈 Destaques
 
 - **Wesley Sneijder (94, CAM)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
 
-- **Vincent Kompany (92, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (94, ST)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sami Al Jaber (92, ST)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pervis Estupiñán (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Hidetoshi Nakata (92, CAM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (93, LB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
