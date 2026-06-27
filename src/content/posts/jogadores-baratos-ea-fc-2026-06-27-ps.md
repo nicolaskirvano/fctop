@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:58:05.000Z
+pubDatetime: 2026-06-27T13:58:05.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Pervis Estupiñán (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Wesley Sneijder (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Pervis Estupiñán (94) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Wesley Sneijder (94) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pervis Estupiñán | 94 | LB | — | 14k coins | -36.6% |
-| Wesley Sneijder | 94 | CAM | — | 15k coins | -29.6% |
-| Rudi Völler | 94 | ST | — | 15k coins | -3.3% |
-| Bixente Lizarazu | 93 | LB | — | 13k coins | -35.8% |
-| Lewis Ferguson | 93 | CM | — | 14k coins | +5.7% |
-| Sultan Mandash | 93 | RW | — | 14k coins | -43.6% |
-| Jason Geria | 93 | RB | — | 14k coins | +7.7% |
-| Enner Valencia | 93 | ST | — | 14k coins | +7.7% |
-| George Hirst | 93 | ST | — | 14k coins | -44.6% |
-| Iliman Ndiaye | 93 | LM | — | 14k coins | +3.7% |
-| Jesse Randall | 93 | LM | — | 14k coins | +7.5% |
-| Jordan Ayew | 93 | RM | — | 14k coins | -1.7% |
-| Vincent Kompany | 92 | CB | — | 12k coins | -18% |
-| Sami Al Jaber | 92 | ST | — | 12k coins | -19.7% |
+| Wesley Sneijder | 94 | CAM | — | 15k coins | -19.8% |
+| Rudi Völler | 94 | ST | — | 15k coins | +4.9% |
+| Bixente Lizarazu | 93 | LB | — | 13k coins | -34.6% |
+| Jesse Randall | 93 | LM | — | 14k coins | +11.5% |
+| Lewis Ferguson | 93 | CM | — | 14k coins | +9.4% |
+| Enner Valencia | 93 | ST | — | 14k coins | +9.6% |
+| Sultan Mandash | 93 | RW | — | 15k coins | -41.6% |
+| Iliman Ndiaye | 93 | LM | — | 15k coins | +7.4% |
+| Jason Geria | 93 | RB | — | 15k coins | +11.5% |
+| Amar Dedić | 93 | RB | — | 15k coins | +13.2% |
+| George Hirst | 93 | ST | — | 15k coins | -43.6% |
+| Pavel Šulc | 93 | CAM | — | 15k coins | +9.3% |
+| Jordan Ayew | 93 | RM | — | 15k coins | +1.7% |
 | Hidetoshi Nakata | 92 | CAM | — | 12k coins | -18% |
+| Sami Al Jaber | 92 | ST | — | 12k coins | -19.7% |
 
 
 ## 📈 Destaques
-
-- **Pervis Estupiñán (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Wesley Sneijder (94, CAM)** da —, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Rudi Völler (94, ST)** da —, a apenas **15k coins**
 
 - **Bixente Lizarazu (93, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jesse Randall (93, LM)** da —, a apenas **14k coins**
 
 - **Lewis Ferguson (93, CM)** da —, a apenas **14k coins**
 
@@ -73,7 +73,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Pervis Estupiñán (94, sem liga) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Wesley Sneijder (94, sem liga) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
