@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:58:05.000Z
+pubDatetime: 2026-07-04T01:58:05.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Tsuyoshi Watanabe (94) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Jovo Lukić (94) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Jovo Lukić | 94 | ST | — | 12k coins | -19.7% |
 | Tsuyoshi Watanabe | 94 | CB | — | 12k coins | -16.4% |
-| Sander Berge | 94 | CDM | — | 13k coins | -14.8% |
-| Jovo Lukić | 94 | ST | — | 13k coins | -16.4% |
-| Richie Laryea | 94 | LB | — | 13k coins | -25.9% |
-| Hiroki Ito | 94 | CB | — | 14k coins | -6.8% |
+| Sander Berge | 94 | CDM | — | 13k coins | -19.7% |
 | Iliman Ndiaye | 94 | LM | — | 14k coins | 0% |
-| Pervis Estupiñán | 94 | LB | — | 15k coins | +6.5% |
-| Hamdy Fathy | 93 | CDM | — | 12k coins | +4.3% |
-| Roberto Alvarado | 93 | RM | — | 12k coins | +6.4% |
-| Kevin Danso | 93 | CB | — | 12k coins | -19.7% |
-| Andrés Cubas | 93 | CM | — | 12k coins | +4.3% |
-| Enner Valencia | 93 | ST | — | 14k coins | 0% |
-| Mario Pašalić | 93 | CM | — | 14k coins | -1.8% |
-| George Hirst | 93 | ST | — | 14k coins | 0% |
-| Miguel Almirón | 93 | LM | — | 14k coins | -5% |
+| Richie Laryea | 94 | LB | — | 14k coins | -35.8% |
+| Hiroki Ito | 94 | CB | — | 14k coins | -6.7% |
+| Jesper Karlström | 93 | CDM | — | 12k coins | 0% |
+| Çağlar Söyüncü | 93 | CB | — | 12k coins | 0% |
+| Andrés Cubas | 93 | CM | — | 12k coins | 0% |
+| Kevin Danso | 93 | CB | — | 12k coins | -23% |
+| Hamdy Fathy | 93 | CDM | — | 12k coins | 0% |
+| Roberto Alvarado | 93 | RM | — | 12k coins | +4.3% |
+| Enner Valencia | 93 | ST | — | 14k coins | -1.8% |
+| George Hirst | 93 | ST | — | 14k coins | -1.8% |
+| Antonio Sanabria | 93 | ST | — | 14k coins | 0% |
 
 
 ## 📈 Destaques
+
+- **Jovo Lukić (94, ST)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Tsuyoshi Watanabe (94, CB)** da —, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sander Berge (94, CDM)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jovo Lukić (94, ST)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Iliman Ndiaye (94, LM)** da —, a apenas **14k coins**
 
-- **Richie Laryea (94, LB)** da —, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Hiroki Ito (94, CB)** da —, a apenas **14k coins**
+- **Richie Laryea (94, LB)** da —, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Tsuyoshi Watanabe (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Jovo Lukić (94, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
