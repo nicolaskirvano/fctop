@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:58:09.000Z
+pubDatetime: 2026-07-11T13:58:09.000Z
 title: "Jogadores baratos de Cartas 90+ no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Odilon Kossounou (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 10k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Odilon Kossounou (93) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Aitana Bonmatí (91) por apenas 10k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Odilon Kossounou | 93 | CB | — | 14k coins | +27.7% |
-| Jhon Arias | 93 | RM | — | 14k coins | +27.7% |
-| Jesper Karlström | 93 | CDM | — | 14k coins | +27.7% |
-| Maximilian Beier | 93 | ST | — | 15k coins | +27.7% |
-| Kevin Danso | 93 | CB | — | 15k coins | +27.7% |
-| Alexis Saelemaekers | 93 | RM | — | 15k coins | +27.7% |
-| Çağlar Söyüncü | 93 | CB | — | 15k coins | +27.7% |
-| Sergiño Dest | 93 | RW | — | 15k coins | +27.7% |
-| Hidetoshi Nakata | 92 | CAM | — | 14k coins | +17% |
-| Sami Al Jaber | 92 | ST | — | 15k coins | +7% |
-| Gideon Mensah | 92 | LB | — | 15k coins | +22.4% |
-| Pathé Ciss | 92 | CDM | — | 15k coins | +27.7% |
-| Mohammed Kanno | 92 | CM | — | 15k coins | +22.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -51.1% |
-| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +12.9% |
+| Aitana Bonmatí | 91 | CM | Liga F | 10k coins | -56.6% |
+| Virgil van Dijk | 90 | CB | Premier League | 5k coins | -40.2% |
+| Caroline Graham Hansen | 90 | RW | Liga F | 10k coins | -60.2% |
+| Jude Bellingham | 90 | CAM | LALIGA EA SPORTS | 10k coins | +14.1% |
+| Erling Haaland | 90 | ST | Premier League | 14k coins | +14.3% |
 
 
 ## 📈 Destaques
 
-- **Odilon Kossounou (93, CB)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Aitana Bonmatí (91, CM)** da Liga F, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jhon Arias (93, RM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Virgil van Dijk (90, CB)** da Premier League, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jesper Karlström (93, CDM)** da —, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Caroline Graham Hansen (90, RW)** da Liga F, a apenas **10k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maximilian Beier (93, ST)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Jude Bellingham (90, CAM)** da LALIGA EA SPORTS, a apenas **10k coins**
 
-- **Kevin Danso (93, CB)** da —, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Erling Haaland (90, ST)** da Premier League, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +63,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Odilon Kossounou (93, sem liga) aparece como melhor custo-benefício, a 14k coins no PC.
+Aitana Bonmatí (91, Liga F) aparece como melhor custo-benefício, a 10k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
