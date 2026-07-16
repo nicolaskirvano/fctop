@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:46:20.000Z
+pubDatetime: 2026-07-16T22:58:18.000Z
 title: "Melhores investimentos em Cartas 90+ no EA FC (16/07/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Eric Cantona (92, sem liga) lidera, com +88.2% em 7 dias a 160k coins no PC."
+    a: "Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 30k coins no PC."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **PC**:
 
-> 🔝 **Destaque:** Eric Cantona (92) acumula **+88.2% em 7 dias** a 160k coins.
+> 🔝 **Destaque:** Nawaf Boushal (91) acumula **+89.9% em 7 dias** a 30k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,34 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
+| Nawaf Boushal | 91 | — | 30k coins | +7.1% | +89.9% | 0% |
+| Gabriel Sara | 94 | — | 49k coins | +34.2% | +89.3% | 0% |
+| Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | 0% |
 | Eric Cantona | 92 | — | 160k coins | +23.1% | +88.2% | 0% |
-| Gabriel Sara | 94 | — | 53k coins | +33.3% | +86% | 0% |
-| Toni Kroos | 90 | Icons | 150k coins | +1.6% | +85.6% | 0% |
-| Fernando Hierro | 93 | — | 74k coins | +5.7% | +84% | 0% |
-| Ayase Ueda | 92 | — | 40k coins | +13.9% | +82.2% | 0% |
-| Josip Stanišić | 95 | — | 78k coins | +26.5% | +78% | 0% |
-| Oliver Baumann | 91 | — | 42k coins | +32.8% | +75.8% | 0% |
-| Dayot Upamecano | 95 | — | 95k coins | +6.1% | +74.3% | 0% |
-| Andy Najar | 91 | — | 42k coins | +10.7% | +74.2% | 0% |
-| Daniel Muñoz | 94 | — | 94k coins | +5% | +73.4% | 0% |
-| Robert Pirès | 90 | — | 45k coins | +5.9% | +73.1% | 0% |
-| Andrea Pirlo | 90 | Icons | 171k coins | +20.3% | +72.9% | 32% |
-| Pavel Šulc | 91 | — | 42k coins | +25% | +71.9% | 0% |
-| Marc Cucurella | 95 | — | 65k coins | +6.9% | +70.2% | 0% |
-| Dominik Szoboszlai | 90 | Premier League | 170k coins | +6.2% | +70% | 0% |
+| Oston Urunov | 91 | — | 34k coins | +2.8% | +85% | 0% |
+| Ryan Gravenberch | 93 | Premier League | 224k coins | +6.7% | +79.2% | 0% |
+| Jonathan David | 90 | Serie A TIM | 60k coins | +5.3% | +78.9% | 0% |
+| Jürgen Kohler | 91 | — | 65k coins | +8.3% | +78.1% | 0% |
+| Ibañez | 93 | — | 58k coins | +33.3% | +76.5% | 0% |
+| Marc Cucurella | 95 | — | 77k coins | +6% | +75.7% | 0% |
+| Daniel Muñoz | 94 | — | 95k coins | +5.6% | +74.3% | 0% |
+| Robert Pirès | 90 | — | 45k coins | +2.3% | +73.1% | 0% |
+| Mohammed Noor | 90 | — | 38k coins | +8.3% | +72.6% | 0% |
+| Dominik Szoboszlai | 90 | Premier League | 170k coins | +6.2% | +71.7% | 0% |
+| Andrea Pirlo | 90 | Icons | 167k coins | +27.3% | +70.6% | 32% |
 
 
 ## 📈 Análise dos destaques
 
-- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+23.1% em 24h). Preço +61% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nawaf Boushal (91)** — 30k coins, **+89.9% em 7 dias** (+7.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gabriel Sara (94)** — 53k coins, **+86% em 7 dias** (+33.3% em 24h). Preço +54% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Gabriel Sara (94)** — 49k coins, **+89.3% em 7 dias** (+34.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Toni Kroos (90)** — 150k coins, **+85.6% em 7 dias** (+1.6% em 24h). Preço +61% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +73% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Fernando Hierro (93)** — 74k coins, **+84% em 7 dias** (+5.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+23.1% em 24h). Preço +59% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ayase Ueda (92)** — 40k coins, **+82.2% em 7 dias** (+13.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Oston Urunov (91)** — 34k coins, **+85% em 7 dias** (+2.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -76,7 +76,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Eric Cantona (92, sem liga) lidera, com +88.2% em 7 dias a 160k coins no PC.
+Nawaf Boushal (91, sem liga) lidera, com +89.9% em 7 dias a 30k coins no PC.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

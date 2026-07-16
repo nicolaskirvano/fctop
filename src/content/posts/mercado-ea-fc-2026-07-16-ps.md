@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T20:46:09.000Z
+pubDatetime: 2026-07-16T22:58:07.000Z
 title: "Cartas 90+ no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Lorena (95, sem liga), com +58.3% em 24h, a 40k coins no Console (PS)."
+    a: "Emiliano Martínez (96, sem liga), com +60% em 24h, a 480k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alex Scott (93), -39.3% em 24h, a 47k coins."
+    a: "Jay-Jay Okocha (90), -40.9% em 24h, a 161k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Aitana Bonmatí (91) — 81% de probabilidade de alta, a 22k coins."
+    a: "Pelo modelo FutQuant, Wendie Renard (91) — 83% de probabilidade de alta, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 480 cartas em alta contra 354 em queda (média 2.18%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 517 cartas em alta contra 344 em queda (média 2.15%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em mercado **em alta** — predominam as valorizações — **480 subiram**, **354 caíram** (80+ e 5k+ coins), média de **2.18%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, Console (PS)) o Ultimate Team está em mercado **em alta** — predominam as valorizações — **517 subiram**, **344 caíram** (80+ e 5k+ coins), média de **2.15%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lorena (95) **+58.3%** · 🔴 **Maior baixa:** Alex Scott (93) **-39.3%**
+> 🟢 **Maior alta:** Emiliano Martínez (96) **+60%** · 🔴 **Maior baixa:** Jay-Jay Okocha (90) **-40.9%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lorena | 95 | — | 40k coins | +58.3% | -2.6% |
-| Kevin Mac Allister | 94 | — | 55k coins | +57.1% | +150% |
-| Emiliano Martínez | 96 | — | 470k coins | +56.7% | +85% |
-| Alexis Mac Allister | 91 | — | 126k coins | +53.8% | +68.1% |
-| Bixente Lizarazu | 90 | — | 45k coins | +53.8% | +16.9% |
-| Rodri | 92 | Premier League | 230k coins | +53.3% | +103.5% |
-| Zlatan Ibrahimović | 92 | Icons | 5.40M coins | +49.2% | +23.7% |
-| Klara Bühl | 93 | — | 36k coins | +49% | +4.3% |
-| Ezri Konsa | 96 | — | 167k coins | +48.1% | -26.3% |
-| Olivia Holdt | 90 | — | 45k coins | +47.5% | +101.1% |
+| Emiliano Martínez | 96 | — | 480k coins | +60% | +88.2% |
+| Alyssa Thompson | 91 | Barclays WSL | 199k coins | +57.9% | +30.1% |
+| Ezri Konsa | 96 | — | 180k coins | +55.2% | -25.2% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 50k coins | +52.7% | +17.6% |
+| Yaya Touré | 96 | — | 1.23M coins | +44.7% | +51.2% |
+| Florian Wirtz | 92 | Premier League | 600k coins | +44.5% | +79.4% |
+| Carlos Baleba | 90 | Premier League | 98k coins | +41.4% | +27.7% |
+| Mahamadou Doumbia | 91 | — | 41k coins | +40.8% | +108.6% |
+| Klara Bühl | 93 | — | 36k coins | +39.8% | +2.9% |
+| Jude Bellingham | 91 | LALIGA EA SPORTS | 650k coins | +38.3% | +30% |
 
 
 ### Análise das altas
 
-- **Lorena (95)** subiu **+58.3%** em 24h, a **40k coins** (faixa do dia: 24k–38k). Está +54% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Emiliano Martínez (96)** subiu **+60%** em 24h, a **480k coins** (faixa do dia: 410k–480k). Está +57% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Kevin Mac Allister (94)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 28k–55k). Está +67% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Alyssa Thompson (91)** subiu **+57.9%** em 24h, a **199k coins** (faixa do dia: 98k–210k). Está +43% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Emiliano Martínez (96)** subiu **+56.7%** em 24h, a **470k coins** (faixa do dia: 300k–480k). Está +55% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Ezri Konsa (96)** subiu **+55.2%** em 24h, a **180k coins** (faixa do dia: 100k–176k). Está -29% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Scott | 93 | — | 47k coins | -39.3% | -35.4% |
-| Mohamed Salah | 92 | Premier League | 228k coins | -37.4% | +21.3% |
-| Ezri Konsa | 96 | — | 165k coins | -36.2% | -27.8% |
-| Pierre Kalulu | 91 | Serie A TIM | 64k coins | -36.2% | +53% |
-| Steven Gerrard | 90 | Icons | 110k coins | -35.8% | +15.5% |
-| Jay-Jay Okocha | 90 | Premier League | 166k coins | -34.9% | -12.8% |
-| Jens Petter Hauge | 91 | Eliteserien | 60k coins | -34.6% | -5.3% |
-| Wesley Sneijder | 93 | Serie A TIM | 217k coins | -33.1% | +7.3% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 42k coins | -32.3% | +14.3% |
-| Patri Guijarro | 91 | Liga F | 72k coins | -29.1% | +48.2% |
+| Jay-Jay Okocha | 90 | Premier League | 161k coins | -40.9% | -21.5% |
+| Patri Guijarro | 91 | Liga F | 66k coins | -37.8% | +30% |
+| Cristiano Ronaldo | 90 | ROSHN Saudi League | 8M coins | -34.4% | -3.6% |
+| Mohamed Salah | 92 | Premier League | 255k coins | -33.8% | +30.1% |
+| Diogo Costa | 91 | — | 53k coins | -33.6% | -5.2% |
+| Aurélien Tchouaméni | 92 | — | 185k coins | -31.3% | -20.4% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 40k coins | -30.8% | +14.6% |
+| Garrincha | 93 | Icons | 667k coins | -28.9% | +26% |
+| Declan Rice | 91 | Premier League | 240k coins | -27.3% | +13.2% |
+| Ashley Cole | 92 | — | 94k coins | -27.1% | -13.3% |
 
 
 ### Análise das baixas
 
-- **Alex Scott (93)** caiu **-39.3%** em 24h, a **47k coins** (faixa do dia: 50k–86k). Está -32% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Jay-Jay Okocha (90)** caiu **-40.9%** em 24h, a **161k coins** (faixa do dia: 153k–261k). Está -25% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Mohamed Salah (92)** caiu **-37.4%** em 24h, a **228k coins** (faixa do dia: 220k–391k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Patri Guijarro (91)** caiu **-37.8%** em 24h, a **66k coins** (faixa do dia: 63k–122k). Está +8% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Ezri Konsa (96)** caiu **-36.2%** em 24h, a **165k coins** (faixa do dia: 164k–303k). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Cristiano Ronaldo (90)** caiu **-34.4%** em 24h, a **8M coins** (faixa do dia: 8M–12.20M). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,14 +86,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Aitana Bonmatí | 91 | 22k coins | 23k coins | 81% |
-| Arda Güler | 93 | 115k coins | 117k coins | 73% |
-| Selma Bacha | 94 | 94k coins | 99k coins | 64% |
-| Steffi Jones | 91 | 48k coins | 50k coins | 62% |
-| Toni Kroos | 90 | 81k coins | 84k coins | 59% |
+| Wendie Renard | 91 | 45k coins | 50k coins | 83% |
+| Aitana Bonmatí | 91 | 22k coins | 22k coins | 81% |
+| Arda Güler | 93 | 108k coins | 110k coins | 73% |
+| Selma Bacha | 94 | 88k coins | 93k coins | 64% |
+| Steffi Jones | 91 | 61k coins | 64k coins | 62% |
+| Celia Šašić | 92 | 35k coins | 36k coins | 62% |
+| Toni Kroos | 90 | 86k coins | 89k coins | 59% |
 | Rodri | 92 | 230k coins | 244k coins | 59% |
-| Enzo Fernández | 91 | 105k coins | 108k coins | 57% |
-| Ona Batlle | 90 | 47k coins | 48k coins | 50% |
 
 
 ## ⚙️ A engine por tras deste post
@@ -103,16 +103,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Lorena (95, sem liga), com +58.3% em 24h, a 40k coins no Console (PS).
+Emiliano Martínez (96, sem liga), com +60% em 24h, a 480k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Alex Scott (93), -39.3% em 24h, a 47k coins.
+Jay-Jay Okocha (90), -40.9% em 24h, a 161k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Aitana Bonmatí (91) — 81% de probabilidade de alta, a 22k coins.
+Pelo modelo FutQuant, Wendie Renard (91) — 83% de probabilidade de alta, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 480 cartas em alta contra 354 em queda (média 2.18%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 517 cartas em alta contra 344 em queda (média 2.15%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
