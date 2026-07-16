@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fctop.pages.dev/",
     title: "Top 90 Cards",
     description:
-      "As melhores cartas 90+ do EA FC Ultimate Team: precos, valorizacao e previsoes, todos os dias.",
+      "As melhores cartas 90+ do EA FC Ultimate Team: preços, valorização e previsões, todos os dias.",
     author: "Top 90 Cards",
-    profile: "https://fctop.pages.dev/",
+    profile: "https://fctop.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Top 90 Cards",
