@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:58:18.000Z
+pubDatetime: 2026-07-17T16:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Santiago Sosa (93, sem liga) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Khadija Shaw (90) acumula **+88.8% em 7 dias** a 169k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Santiago Sosa (93) acumula **+89.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+80.0% em 7 dias**.
+- A mediana é de **+11.5% em 24h** e **+76.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 169k coins | +30% | +88.8% | Esticada |
-| Eric Cantona | 92 | — | 160k coins | +14.3% | +88.2% | Esticada |
-| Kerem Aktürkoğlu | 91 | — | 33k coins | +4.5% | +86.5% | Esticada |
-| Yan Valery | 91 | — | 37k coins | +12.1% | +85% | Esticada |
-| Gabriel Sara | 94 | — | 55k coins | +29.4% | +84.9% | Esticada |
+| Santiago Sosa | 93 | — | 45k coins | +6.5% | +89.5% | Esticada |
 | Reece James | 91 | — | 55k coins | +27.9% | +83.3% | Esticada |
-| Ibañez | 93 | — | 37k coins | +13% | +81.7% | Esticada |
-| Oh Hyeon Gyu | 91 | — | 45k coins | +7.1% | +80% | Esticada |
-| Marc Cucurella | 93 | — | 40k coins | +1.9% | +77.8% | Esticada |
-| Olivia Holdt | 90 | — | 42k coins | +4% | +74.8% | Esticada |
-| Keisuke Goto | 90 | — | 40k coins | +5% | +71.8% | Esticada |
-| Unai Simón | 90 | LALIGA EA SPORTS | 65k coins | +8.3% | +71.1% | Esticada |
-| Sol Campbell | 91 | — | 46k coins | +5% | +70.9% | Esticada |
-| Bobby Moore | 93 | — | 62k coins | +35.9% | +70.7% | Esticada |
-| Ayase Ueda | 92 | — | 41k coins | +21.4% | +70% | Esticada |
+| Marc Cucurella | 95 | — | 80k coins | +11.5% | +82.3% | Esticada |
+| Christos Tzolis | 92 | — | 28k coins | +23.3% | +80.5% | Esticada |
+| Kim Seung Sub | 90 | — | 45k coins | +10.4% | +78.2% | Esticada |
+| Keinan Davis | 90 | — | 42k coins | +3% | +77.9% | Esticada |
+| Oh Hyeon Gyu | 91 | — | 44k coins | +5.4% | +77% | Esticada |
+| Frida Maanum | 90 | — | 44k coins | +4.2% | +76.8% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +17.6% | +75% | Esticada |
+| Alessandro Nesta | 92 | — | 80k coins | +1.9% | +73.5% | Esticada |
+| Dominik Szoboszlai | 94 | — | 131k coins | +20.3% | +73.1% | Esticada |
+| Josip Stanišić | 95 | — | 89k coins | +1% | +72.4% | Esticada |
+| Joan García | 94 | — | 55k coins | +14% | +71.9% | Esticada |
+| Patrick Berg | 95 | — | 60k coins | +33.3% | +69.4% | Esticada |
+| João Pedro | 92 | — | 38k coins | +32.5% | +69.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (90)** — 169k coins, **+88.8% em 7 dias** (+30% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Sosa (93)** — 45k coins, **+89.5% em 7 dias** (+6.5% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (92)** — 160k coins, **+88.2% em 7 dias** (+14.3% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 55k coins, **+83.3% em 7 dias** (+27.9% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kerem Aktürkoğlu (91)** — 33k coins, **+86.5% em 7 dias** (+4.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Cucurella (95)** — 80k coins, **+82.3% em 7 dias** (+11.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yan Valery (91)** — 37k coins, **+85% em 7 dias** (+12.1% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christos Tzolis (92)** — 28k coins, **+80.5% em 7 dias** (+23.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gabriel Sara (94)** — 55k coins, **+84.9% em 7 dias** (+29.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kim Seung Sub (90)** — 45k coins, **+78.2% em 7 dias** (+10.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Khadija Shaw (90, Barclays WSL) lidera, com +88.8% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Santiago Sosa (93, sem liga) lidera, com +89.5% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
