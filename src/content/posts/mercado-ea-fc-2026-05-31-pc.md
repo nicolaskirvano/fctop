@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-01T01:58:03.000Z
-title: "Cartas 90+ no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas 90+ no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Morgan Gibbs-White (91, sem liga), com +60% em 24h, a 30k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Caroline Graham Hansen (95), -45.4% em 24h, a 1.20M coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 334 cartas em alta contra 264 em queda (média 3.79%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Morgan Gibbs-White liderou as altas e Caroline Graham Hansen as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **334 subiram** e **264 caíram**, com variação média de **3.79%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Morgan Gibbs-White** registrou o maior movimento de 24h (+60,0%), enquanto **Caroline Graham Hansen** marcou o menor (-45,4%). A distância entre os extremos foi de **105,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+9,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **334 subiram** e **264 caíram**, com variação média de **3.79%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Morgan Gibbs-White (91) **+60%** · 🔴 **Maior baixa:** Caroline Graham Hansen (95) **-45.4%**
 
@@ -48,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Morgan Gibbs-White (91)** subiu **+60%** em 24h, a **30k coins** (faixa do dia: 19k–30k). Está +40% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Morgan Gibbs-White (91)** subiu **+60%** em 24h, a **30k coins** (faixa do dia: 19k–30k). Está +40% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Chiamaka Nnadozie (90)** subiu **+57.1%** em 24h, a **25k coins** (faixa do dia: 22k–28k). Está +28% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Chiamaka Nnadozie (90)** subiu **+57.1%** em 24h, a **25k coins** (faixa do dia: 22k–28k). Está +28% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Caroline Graham Hansen (95)** caiu **-45.4%** em 24h, a **1.20M coins** (faixa do dia: 990k–2.20M). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Caroline Graham Hansen (95)** caiu **-45.4%** em 24h, a **1.20M coins** (faixa do dia: 990k–2.20M). Está +16% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Kodai Sano (95)** caiu **-36.8%** em 24h, a **35k coins** (faixa do dia: 32k–55k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Kodai Sano (95)** caiu **-36.8%** em 24h, a **35k coins** (faixa do dia: 32k–55k). Está -30% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Kylian Mbappé (96)** caiu **-35%** em 24h, a **6.50M coins** (faixa do dia: 6.50M–10M). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Kylian Mbappé (96)** caiu **-35%** em 24h, a **6.50M coins** (faixa do dia: 6.50M–10M). Está -11% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -98,19 +101,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Morgan Gibbs-White (91, sem liga), com +60% em 24h, a 30k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Caroline Graham Hansen (95), -45.4% em 24h, a 1.20M coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 334 cartas em alta contra 264 em queda (média 3.79%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 334 cartas em alta contra 264 em queda (média 3.79%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -119,3 +122,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Cartas 90+ no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

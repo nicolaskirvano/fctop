@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-21T01:59:17.000Z
-title: "Melhores investimentos em Cartas 90+ no EA FC (20/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Cartas 90+ no EA FC em 20/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Khadija Shaw (91, Barclays WSL) lidera, com +65.9% em 7 dias a 106k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 20/06/2026 no PS: Khadija Shaw liderou 7d com +65,9%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Khadija Shaw** liderou o recorte com **+65,9% em 7d** e +1,9% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+19,0%**.
+
+Os preços destacados iam de **27k coins** a **199k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Cartas 90+ no EA FC em 20/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **20/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** Khadija Shaw (91) acumula **+65.9% em 7 dias** a 106k coins.
 
@@ -41,9 +48,9 @@ Em suma, a análise dos dados de 20/06/2026 indica que as melhores oportunidades
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Khadija Shaw | 91 | Barclays WSL | 106k coins | +1.9% | +65.9% | 50% |
 | Sandro Tonali | 91 | Premier League | 154k coins | +5.5% | +55.3% | 50% |
@@ -54,7 +61,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Nico Paz | 90 | Serie A TIM | 60k coins | +2.6% | +20% | 42% |
 | Raúl | 90 | Icons | 114k coins | +2.6% | +19% | 28% |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 90k coins | +3.4% | +14.4% | 95% |
-| Franck Yannick Kessié | 94 | — | 30k coins | +27.5% | +12.1% | 0% |
+| Franck Yannick Kessié | 94 | — | 30k coins | +27.5% | +12.1% | N/D |
 | Víctor Gómez | 91 | — | 30k coins | +27.7% | +11.1% | 5% |
 | Pablo Aimar | 91 | LALIGA EA SPORTS | 29k coins | +35.3% | +9.5% | 23% |
 | Mapi León | 91 | — | 50k coins | +5.3% | +8.7% | 16% |
@@ -64,23 +71,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (91)** — 106k coins, **+65.9% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khadija Shaw (91)** — 106k coins, **+65.9% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (+6%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Sandro Tonali (91)** — 154k coins, **+55.3% em 7 dias** (+5.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Sandro Tonali (91)** — 154k coins, **+55.3% em 7 dias** (+5.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Alan Shearer (91)** — 137k coins, **+46.7% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 - **Toni Kroos (90)** — 115k coins, **+29.3% em 7 dias** (+15.3% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Lindsey Heaps (91)** — 38k coins, **+28.8% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lindsey Heaps (91)** — 38k coins, **+28.8% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (-6%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🔍 Como apuramos os preços
@@ -89,13 +96,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Khadija Shaw (91, Barclays WSL) lidera, com +65.9% em 7 dias a 106k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+**Qual carta liderava o momentum em 20/06/2026 no EA FC?**
+Khadija Shaw (91, Barclays WSL) lidera, com +65.9% em 7 dias a 106k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Cartas 90+ no EA FC em 20/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-20-ps/)
+- [Momentum de Cartas 90+ no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

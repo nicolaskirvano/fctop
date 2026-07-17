@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-20T02:00:46.000Z
-title: "Melhores investimentos em Cartas 90+ no EA FC (19/06/2026): análise e previsões — PC"
+title: "Momentum de Cartas 90+ no EA FC em 19/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jürgen Kohler (90, Bundesliga) lidera, com +46.3% em 7 dias a 45k coins no PC, e o modelo dá 61% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PC: Jürgen Kohler liderou 7d com +46,3%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Jürgen Kohler** liderou o recorte com **+46,3% em 7d** e +2,3% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+35,1%**.
+
+Os preços destacados iam de **23k coins** a **200k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Cartas 90+ no EA FC em 19/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Jürgen Kohler (90) acumula **+46.3% em 7 dias** a 45k coins.
 
@@ -41,9 +48,9 @@ Em conclusão, a estratégia ideal para 19/06/2026 foca em ativos com probabilid
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jürgen Kohler | 90 | Bundesliga | 45k coins | +2.3% | +46.3% | 61% |
 | Selina Cerci | 90 | GPFBL | 48k coins | +6.4% | +41.8% | 36% |
@@ -52,7 +59,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Simone Laudehr | 91 | GPFBL | 37k coins | +16.2% | +39.8% | 59% |
 | Iniesta | 92 | Icons | 160k coins | +11.9% | +37.9% | 64% |
 | Bobby Charlton | 92 | Icons | 100k coins | +19.9% | +35.4% | 24% |
-| Yoane Wissa | 92 | — | 23k coins | +2.7% | +35.1% | 0% |
+| Yoane Wissa | 92 | — | 23k coins | +2.7% | +35.1% | N/D |
 | Nadine Keßler | 90 | GPFBL | 38k coins | +12.8% | +33.9% | 61% |
 | George Best | 90 | Icons | 200k coins | +13.6% | +33.3% | 43% |
 | Mark McKenzie | 90 | Ligue 1 McDonald's | 35k coins | +37.3% | +32.1% | 78% |
@@ -64,23 +71,23 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Jürgen Kohler (90)** — 45k coins, **+46.3% em 7 dias** (+2.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jürgen Kohler (90)** — 45k coins, **+46.3% em 7 dias** (+2.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Selina Cerci (90)** — 48k coins, **+41.8% em 7 dias** (+6.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Selina Cerci (90)** — 48k coins, **+41.8% em 7 dias** (+6.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Paul Scholes (91)** — 140k coins, **+41.4% em 7 dias** (+17.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paul Scholes (91)** — 140k coins, **+41.4% em 7 dias** (+17.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Marco van Basten (91)** — 97k coins, **+40.6% em 7 dias** (+38.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Marco van Basten (91)** — 97k coins, **+40.6% em 7 dias** (+38.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Simone Laudehr (91)** — 37k coins, **+39.8% em 7 dias** (+16.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Simone Laudehr (91)** — 37k coins, **+39.8% em 7 dias** (+16.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -89,13 +96,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jürgen Kohler (90, Bundesliga) lidera, com +46.3% em 7 dias a 45k coins no PC, e o modelo dá 61% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Jürgen Kohler (90, Bundesliga) lidera, com +46.3% em 7 dias a 45k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -104,3 +111,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Cartas 90+ no EA FC em 19/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-19-pc/)
+- [Momentum de Cartas 90+ no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

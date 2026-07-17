@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-18T22:59:48.000Z
-title: "Cartas 90+ no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas 90+ no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Birgit Prinz (94, sem liga), com +56.9% em 24h, a 60k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Celia Šašić (92), -49.4% em 24h, a 40k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 45k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 322 cartas em alta contra 408 em queda (média -0.23%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 18/06/2026 no PC: Birgit Prinz liderou as altas e Celia Šašić as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Birgit Prinz** registrou o maior movimento de 24h (+56,9%), enquanto **Celia Šašić** marcou o menor (-49,4%). A distância entre os extremos foi de **106,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+4,8%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -70,7 +73,7 @@ Celia Šašić sofreu a maior queda com -49.4%, despencando para 40k coins, e Jo
 
 ## 🔮 Radar de valorização (24h)
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -78,7 +81,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Giovani Lo Celso | 91 | 40k coins | 42k coins | 80% |
 
 
-O modelo projeta alta para Agnes Beever-Jones, com 81% de probabilidade de valorização a 45k coins, e para Giovani Lo Celso, que possui 80% de chance de subir e está cotado a 40k coins.
+Naquele snapshot, o modelo projetava alta para Agnes Beever-Jones, com 81% de probabilidade de valorização a 45k coins, e para Giovani Lo Celso, que possui 80% de chance de subir e está cotado a 40k coins.
 
 
 ## 🎯 O que fazer hoje
@@ -91,19 +94,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Birgit Prinz (94, sem liga), com +56.9% em 24h, a 60k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Celia Šašić (92), -49.4% em 24h, a 40k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 45k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 45k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
+**Como estava o mercado do EA FC nesse dia?**
 Hoje o mercado está em dia indefinido — sem tendência dominante, com 322 cartas em alta contra 408 em queda (média -0.23%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -112,3 +115,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Cartas 90+ no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Cartas 90+ no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

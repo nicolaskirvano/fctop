@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-20T01:58:53.000Z
-title: "Cartas 90+ no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas 90+ no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Ferenc Puskás (93, Icons), com +29.4% em 24h, a 317k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Ismael Saibari (94), -49.7% em 24h, a 37k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Roony Bardghji (90) — 95% de probabilidade de alta, a 34k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 31 cartas em alta contra 264 em queda (média -15.87%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Ferenc Puskás liderou as altas e Ismael Saibari as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ferenc Puskás** registrou o maior movimento de 24h (+29,4%), enquanto **Ismael Saibari** marcou o menor (-49,7%). A distância entre os extremos foi de **79,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-14,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado de EA FC Ultimate Team para o segmento de cartas 90+ em consoles PlayStation, datado de 19 de junho de 2026, apresenta uma volatilidade extrema caracterizada por um sentimento predominantemente negativo, com uma esmagadora maioria de quedas registradas nas últimas 24 horas. Os dados indicam que apenas 31 jogadores registraram altas, enquanto 264 sofreram quedas de preço, resultando em uma média de variação negativa de -15.87%, o que sinaliza um momento de pânico ou desinvestimento massivo por parte da comunidade. Este ambiente hostil para os traders exige uma leitura atenta dos fundamentos por trás de cada movimento, pois a correlação entre a probabilidade de alta projetada pelo modelo e o preço atual revela oportunidades ocultas em meio ao caos. A disparidade entre o volume de vendas em queda e a resistência de preços específicos de ícones e estrelas femininas sugere que o mercado está reagindo a eventos de jogo ou promoções que não afetam uniformemente todas as categorias de cartas. Traders experientes devem aproveitar essa liquidez excessiva em ativos de baixa probabilidade de alta para realizar compras estratégicas, enquanto evitam perseguições emocionais a ativos que parecem fortes mas carecem de suporte fundamental sustentado.
 
@@ -68,7 +71,7 @@ Entre as poucas exceções à regra da queda, Ferenc Puskás se destaca com uma 
 O lado das baixas é dominado por quedas severas que refletem a saída massiva de capital do mercado, sendo Ismael Saibari o mais afetado com queda de 49.7% para 37 mil coins, apesar de ter apenas 5% de probabilidade de alta, indicando um colapso de demanda sem perspectiva de recuperação imediata. Bradley Barcola, da Ligue 1 McDonald's, caiu 47.9% para 38 mil coins com 42% de probabilidade de alta, sugerindo que o ativo pode estar próximo de um fundo técnico, atraindo compradores de risco dispostos a apostas de contrarian. Harry Kane, da Bundesliga, sofreu queda de 46.3% para 100 mil coins com probabilidade de alta de apenas 5%, o que aponta para uma reavaliação negativa de seu valor de utilidade ou para uma saturação de supply no mercado que pode levar a preços ainda mais baixos. Elisabeth Terland, sem liga definida, caiu 45.4% para 22 mil coins, mas sua alta probabilidade de alta de 80% cria uma dissonância interessante, sugerindo que o preço atual é uma oportunidade de compra de 'dinheiro grátis' para traders que acreditam na correção do modelo. Claudia Pina, da Liga F, registrou queda de 44.9% para 324 mil coins com 50% de probabilidade de alta, representando um ativo de alta volatilidade onde o timing de compra é crucial para evitar perdas adicionais em caso de continuidade da tendência de baixa.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Ferenc Puskás (93, Icons), com +29.4% em 24h, a 317k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Ismael Saibari (94), -49.7% em 24h, a 37k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Roony Bardghji (90) — 95% de probabilidade de alta, a 34k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Roony Bardghji (90) — 95% de probabilidade de alta, a 34k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 31 cartas em alta contra 264 em queda (média -15.87%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 31 cartas em alta contra 264 em queda (média -15.87%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Cartas 90+ no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

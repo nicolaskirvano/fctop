@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-21T02:00:28.000Z
-title: "Melhores investimentos em Cartas 90+ no EA FC (20/06/2026): análise e previsões — PC"
+title: "Momentum de Cartas 90+ no EA FC em 20/06 — PC"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - pc
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Patri Guijarro (90, Liga F) lidera, com +57.1% em 7 dias a 47k coins no PC, e o modelo dá 63% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 20/06/2026 no PC: Patri Guijarro liderou 7d com +57,1%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Patri Guijarro** liderou o recorte com **+57,1% em 7d** e +3,9% em 24h. Entre 15 cartas, 15 tinham as duas janelas positivas; a mediana semanal foi **+14,1%**.
+
+Os preços destacados iam de **18.000 coins** a **176k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Cartas 90+ no EA FC em 20/06 — PC](/charts/melhores-investimentos-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **20/06/2026** no **PC**:
 
 > 🔝 **Destaque:** Patri Guijarro (90) acumula **+57.1% em 7 dias** a 47k coins.
 
@@ -39,9 +46,9 @@ No segmento de cartas mais caras, a lenda Birgit Prinz, com rating 93, apresenta
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Patri Guijarro | 90 | Liga F | 47k coins | +3.9% | +57.1% | 63% |
 | Jill Scott | 91 | Barclays WSL | 119k coins | +16.7% | +36% | 33% |
@@ -57,28 +64,28 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Alessia Russo | 90 | Barclays WSL | 38k coins | +25.2% | +8.5% | 16% |
 | Steph Catley | 90 | Barclays WSL | 54k coins | +2.9% | +8.1% | 23% |
 | Simone Laudehr | 90 | GPFBL | 35k coins | +33.3% | +6.1% | 63% |
-| Felix Nmecha | 94 | — | 170k coins | +33.3% | +6% | 0% |
+| Felix Nmecha | 94 | — | 170k coins | +33.3% | +6% | N/D |
 
 
 ## 📈 Análise dos destaques
 
-- **Patri Guijarro (90)** — 47k coins, **+57.1% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Patri Guijarro (90)** — 47k coins, **+57.1% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+2%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Jill Scott (91)** — 119k coins, **+36% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jill Scott (91)** — 119k coins, **+36% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (+7%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Patri Guijarro (91)** — 90k coins, **+33.3% em 7 dias** (+37.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **78% de chance de seguir subindo**.
 
-- **Raphinha (90)** — 176k coins, **+25.8% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Raphinha (90)** — 176k coins, **+25.8% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (-4%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Raphinha (91)** — 107k coins, **+22.8% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Raphinha (91)** — 107k coins, **+22.8% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+5%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🔍 Como apuramos os preços
@@ -87,13 +94,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Patri Guijarro (90, Liga F) lidera, com +57.1% em 7 dias a 47k coins no PC, e o modelo dá 63% de chance de seguir subindo.
+**Qual carta liderava o momentum em 20/06/2026 no EA FC?**
+Patri Guijarro (90, Liga F) lidera, com +57.1% em 7 dias a 47k coins no PC. No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -102,3 +109,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Cartas 90+ no EA FC em 20/06: altas e baixas — PC](/posts/mercado-ea-fc-2026-06-20-pc/)
+- [Momentum de Cartas 90+ no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

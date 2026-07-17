@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-21T01:58:45.000Z
-title: "Cartas 90+ no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas 90+ no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Ferenc Puskás (94, Icons), com +59.1% em 24h, a 513k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Eric Cantona (92), -49.2% em 24h, a 65k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Arda Güler (93) — 95% de probabilidade de alta, a 70k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 311 cartas em alta contra 422 em queda (média 0.29%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Ferenc Puskás liderou as altas e Eric Cantona as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ferenc Puskás** registrou o maior movimento de 24h (+59,1%), enquanto **Eric Cantona** marcou o menor (-49,2%). A distância entre os extremos foi de **108,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+5,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Ferenc Puskás (94, Icons), com +59.1% em 24h, a 513k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Eric Cantona (92), -49.2% em 24h, a 65k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Arda Güler (93) — 95% de probabilidade de alta, a 70k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Arda Güler (93) — 95% de probabilidade de alta, a 70k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 311 cartas em alta contra 422 em queda (média 0.29%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**
+Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 311 cartas em alta contra 422 em queda (média 0.29%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Cartas 90+ no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

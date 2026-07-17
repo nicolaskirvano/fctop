@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-02T13:58:02.000Z
-title: "Cartas 90+ no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas 90+ no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Claudio Pizarro (92, sem liga), com +58.9% em 24h, a 36k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Bobby Charlton (93), -43.9% em 24h, a 333k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 232 cartas em alta contra 357 em queda (média -0.91%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Claudio Pizarro liderou as altas e Bobby Charlton as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **232 subiram** e **357 caíram**, com variação média de **-0.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Claudio Pizarro** registrou o maior movimento de 24h (+58,9%), enquanto **Bobby Charlton** marcou o menor (-43,9%). A distância entre os extremos foi de **102,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+5,4%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **232 subiram** e **357 caíram**, com variação média de **-0.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Claudio Pizarro (92) **+58.9%** · 🔴 **Maior baixa:** Bobby Charlton (93) **-43.9%**
 
@@ -48,11 +51,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Claudio Pizarro (92)** subiu **+58.9%** em 24h, a **36k coins** (faixa do dia: 20k–40k). Está +40% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Claudio Pizarro (92)** subiu **+58.9%** em 24h, a **36k coins** (faixa do dia: 20k–40k). Está +40% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Birgit Prinz (93)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 84k–120k). Está +46% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Birgit Prinz (93)** subiu **+57.5%** em 24h, a **115k coins** (faixa do dia: 84k–120k). Está +46% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Unai Simón (90)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 15k–27k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Unai Simón (90)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 15k–27k). Está +16% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Bobby Charlton (93)** caiu **-43.9%** em 24h, a **333k coins** (faixa do dia: 323k–395k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
+- **Bobby Charlton (93)** caiu **-43.9%** em 24h, a **333k coins** (faixa do dia: 323k–395k). Está em linha com a média de 7 dias (+6%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Camille Abily (91)** caiu **-42.9%** em 24h, a **22k coins** (faixa do dia: 16k–37k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Camille Abily (91)** caiu **-42.9%** em 24h, a **22k coins** (faixa do dia: 16k–37k). Está -49% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Pau Torres (96)** caiu **-42.8%** em 24h, a **1.03M coins** (faixa do dia: 1.03M–1.65M). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Pau Torres (96)** caiu **-42.8%** em 24h, a **1.03M coins** (faixa do dia: 1.03M–1.65M). Está -28% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -96,19 +99,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Claudio Pizarro (92, sem liga), com +58.9% em 24h, a 36k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Bobby Charlton (93), -43.9% em 24h, a 333k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 232 cartas em alta contra 357 em queda (média -0.91%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 232 cartas em alta contra 357 em queda (média -0.91%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -117,3 +120,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [Momentum de Cartas 90+ no EA FC em 02/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

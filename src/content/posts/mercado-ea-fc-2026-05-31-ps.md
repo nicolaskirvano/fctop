@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-01T01:58:01.000Z
-title: "Cartas 90+ no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Cartas 90+ no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Ivan Perišić (90, Eredivisie), com +42.9% em 24h, a 35k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Vitinha (91), -45.6% em 24h, a 588k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 88k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 338 cartas em alta contra 373 em queda (média -0.02%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PS: Ivan Perišić liderou as altas e Vitinha as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **338 subiram** e **373 caíram**, com variação média de **-0.02%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Ivan Perišić** registrou o maior movimento de 24h (+42,9%), enquanto **Vitinha** marcou o menor (-45,6%). A distância entre os extremos foi de **88,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 31/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **338 subiram** e **373 caíram**, com variação média de **-0.02%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Ivan Perišić (90) **+42.9%** · 🔴 **Maior baixa:** Vitinha (91) **-45.6%**
 
@@ -50,9 +53,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Ivan Perišić (90)** subiu **+42.9%** em 24h, a **35k coins** (faixa do dia: 20k–38k). Está +31% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Patri Guijarro (91)** subiu **+37.9%** em 24h, a **60k coins** (faixa do dia: 44k–74k). Está +32% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
+- **Patri Guijarro (91)** subiu **+37.9%** em 24h, a **60k coins** (faixa do dia: 44k–74k). Está +32% acima da média de 7 dias (aquecida). 🔮 Naquele snapshot, o modelo projetava **continuidade da alta** (95% de chance de subir mais).
 
-- **Salem Al Dawsari (90)** subiu **+36.8%** em 24h, a **26k coins** (faixa do dia: 11k–29k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Salem Al Dawsari (90)** subiu **+36.8%** em 24h, a **26k coins** (faixa do dia: 11k–29k). Está +38% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Vitinha (91)** caiu **-45.6%** em 24h, a **588k coins** (faixa do dia: 588k–1.09M). Está em linha com a média de 7 dias (-8%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 68% de probabilidade.
+- **Vitinha (91)** caiu **-45.6%** em 24h, a **588k coins** (faixa do dia: 588k–1.09M). Está em linha com a média de 7 dias (-8%). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 68% de probabilidade.
 
-- **Rafael Leão (93)** caiu **-44.7%** em 24h, a **1.38M coins** (faixa do dia: 1.21M–2.49M). Está em linha com a média de 7 dias (-7%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rafael Leão (93)** caiu **-44.7%** em 24h, a **1.38M coins** (faixa do dia: 1.21M–2.49M). Está em linha com a média de 7 dias (-7%). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Camille Abily (92)** caiu **-39%** em 24h, a **50k coins** (faixa do dia: 50k–80k). Está -31% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Camille Abily (92)** caiu **-39%** em 24h, a **50k coins** (faixa do dia: 50k–80k). Está -31% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Ivan Perišić (90, Eredivisie), com +42.9% em 24h, a 35k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Vitinha (91), -45.6% em 24h, a 588k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Andrea Pirlo (90) — 95% de probabilidade de alta, a 88k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Andrea Pirlo (90) — 95% de probabilidade de alta, a 88k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 338 cartas em alta contra 373 em queda (média -0.02%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 338 cartas em alta contra 373 em queda (média -0.02%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 31/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-31-ps/)
+- [Momentum de Cartas 90+ no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

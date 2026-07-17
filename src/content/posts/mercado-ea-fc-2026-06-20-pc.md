@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Top 90 Cards"
 pubDatetime: 2026-06-20T19:59:59.000Z
-title: "Cartas 90+ no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Cartas 90+ no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Désiré Doué (96, sem liga), com +53.5% em 24h, a 4.39M coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Marcelino Moreno (95), -49.3% em 24h, a 34k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 46k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 160 cartas em alta contra 495 em queda (média -9.92%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Désiré Doué liderou as altas e Marcelino Moreno as baixas em Cartas 90+. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Désiré Doué** registrou o maior movimento de 24h (+53,5%), enquanto **Marcelino Moreno** marcou o menor (-49,3%). A distância entre os extremos foi de **102,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-5,6%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Cartas 90+ no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -77,7 +80,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Agnes Beever-Jones | 90 | 46k coins | 48k coins | 81% |
 
 
-O modelo projeta uma alta significativa para Agnes Beever-Jones (90, Barclays WSL), com uma probabilidade de alta de 81% e preço atual de 46 mil coins, representando a única oportunidade estatisticamente robusta identificada para compra e acumulação de posição nos próximos ciclos de mercado.
+Naquele snapshot, o modelo projetava uma alta significativa para Agnes Beever-Jones (90, Barclays WSL), com uma probabilidade de alta de 81% e preço atual de 46 mil coins, representando a única oportunidade estatisticamente robusta identificada para compra e acumulação de posição nos próximos ciclos de mercado.
 
 
 ## 🎯 Conclusão do dia
@@ -90,19 +93,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Désiré Doué (96, sem liga), com +53.5% em 24h, a 4.39M coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Marcelino Moreno (95), -49.3% em 24h, a 34k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 46k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Agnes Beever-Jones (90) — 81% de probabilidade de alta, a 46k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 160 cartas em alta contra 495 em queda (média -9.92%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -111,3 +114,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Cartas 90+ baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Cartas 90+ no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
