@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:58:09.000Z
+pubDatetime: 2026-07-17T17:23:35.000Z
 title: "Investimentos EA FC: Cartas 90+ em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Alexis Mac Allister (91, sem liga) lidera, com +88.7% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Aya Miyama (91, Icons) lidera, com +87.6% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexis Mac Allister (91) acumula **+88.7% em 7 dias** a 95k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Aya Miyama (91) acumula **+87.6% em 7 dias** a 110k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.6% em 24h** e **+76.5% em 7 dias**.
+- A mediana é de **+16.7% em 24h** e **+73.3% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexis Mac Allister | 91 | — | 95k coins | +7.5% | +88.7% | Esticada |
-| Aya Miyama | 91 | Icons | 98k coins | +22.4% | +87.6% | Esticada |
+| Aya Miyama | 91 | Icons | 110k coins | +22.4% | +87.6% | Esticada |
 | Sakina Karchaoui | 91 | D1 Arkema | 110k coins | +10.6% | +84.9% | Esticada |
-| Homare Sawa | 91 | Icons | 103k coins | +25.7% | +84.1% | Esticada |
-| Carlos Baleba | 90 | Premier League | 120k coins | +35% | +83.7% | Esticada |
-| Francisco Moura | 90 | Liga Portugal | 50k coins | +11.6% | +81.1% | Esticada |
-| Marc Cucurella | 95 | — | 80k coins | +9.6% | +76.8% | Esticada |
+| Mohamed Salah | 91 | Premier League | 33k coins | +24.1% | +83.6% | Esticada |
+| Marc Cucurella | 95 | — | 82k coins | +12.3% | +81.2% | Esticada |
+| Tarciane | 92 | — | 35k coins | +16.7% | +79.1% | Esticada |
+| Ryan Gravenberch | 93 | Premier League | 184k coins | +19.5% | +78.6% | Esticada |
 | Lucie Calba | 91 | — | 30k coins | +16.5% | +76.5% | Esticada |
-| Dayot Upamecano | 93 | — | 58k coins | +5.5% | +71.9% | Esticada |
+| Dayot Upamecano | 93 | — | 58k coins | +6.4% | +73.3% | Esticada |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 153k coins | +22.6% | +71.6% | Esticada |
-| Marinette Pichon | 90 | Icons | 74k coins | +7.9% | +70.6% | Esticada |
-| Stina Blackstenius | 90 | Barclays WSL | 62k coins | +12.4% | +69.3% | Esticada |
-| Mateo Kovačić | 91 | Premier League | 55k coins | +22.2% | +69.2% | Esticada |
-| Nadia Krezyman | 90 | D1 Arkema | 45k coins | +2.6% | +68.1% | Esticada |
-| Dennis Bergkamp | 91 | Icons | 107k coins | +4.5% | +67.9% | Esticada |
+| Mateo Kovačić | 91 | Premier League | 55k coins | +20.9% | +69.2% | Esticada |
+| Carlos Baleba | 90 | Premier League | 116k coins | +24% | +68.7% | Esticada |
+| Marinette Pichon | 90 | Icons | 74k coins | +6.4% | +68.4% | Esticada |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 59k coins | +25.5% | +67.4% | Esticada |
+| Stina Blackstenius | 90 | Barclays WSL | 55k coins | +10.6% | +66.7% | Esticada |
+| Mile Svilar | 91 | — | 45k coins | +6.5% | +65.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexis Mac Allister (91)** — 95k coins, **+88.7% em 7 dias** (+7.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aya Miyama (91)** — 110k coins, **+87.6% em 7 dias** (+22.4% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aya Miyama (91)** — 98k coins, **+87.6% em 7 dias** (+22.4% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (91)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (91)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Salah (91)** — 33k coins, **+83.6% em 7 dias** (+24.1% em 24h). Preço +97% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Homare Sawa (91)** — 103k coins, **+84.1% em 7 dias** (+25.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marc Cucurella (95)** — 82k coins, **+81.2% em 7 dias** (+12.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Baleba (90)** — 120k coins, **+83.7% em 7 dias** (+35% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tarciane (92)** — 35k coins, **+79.1% em 7 dias** (+16.7% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Alexis Mac Allister (91, sem liga) lidera, com +88.7% em 7 dias a 95k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Aya Miyama (91, Icons) lidera, com +87.6% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
+> **Link patrocinado:** 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
