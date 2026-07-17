@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:58:10.000Z
-title: "Jogadores baratos de Cartas 90+ no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:01:07.000Z
+title: "Jogadores baratos EA FC: Cartas 90+ em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,7 +9,7 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
     a: "Malik Tillman (95, sem liga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
@@ -23,47 +23,69 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 > 💰 **Melhor pechincha:** Malik Tillman (95) por apenas 12k coins.
 
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 15 opções:** 12k coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 12k a 13k coins; nenhuma carta custa 15 mil.
+
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 95 | CAM | — | 12k coins | — |
-| Zion Suzuki | 95 | GK | — | 12k coins | — |
-| Nilson Angulo | 95 | LM | — | 12k coins | — |
-| Gilberto Mora | 95 | CAM | — | 12k coins | — |
-| Kerim Alajbegović | 95 | LM | — | 12k coins | — |
-| Oscar Bobb | 95 | RW | — | 14k coins | — |
-| Luka Vušković | 94 | CB | — | 12k coins | — |
-| Renato Veiga | 94 | CB | — | 12k coins | — |
-| Caleb Yirenkyi | 94 | CM | — | 12k coins | — |
-| Aleksandar Pavlović | 94 | CDM | — | 12k coins | — |
-| Guéla Doué | 94 | RB | — | 12k coins | — |
-| Paul Wanner | 94 | CM | — | 12k coins | — |
-| Ben Doak | 94 | RM | — | 12k coins | — |
-| El Hadji Malick Diouf | 94 | LB | — | 12k coins | — |
-| Kojo Peprah Oppong | 93 | CB | — | 12k coins | — |
+| Malik Tillman | 95 | CAM | — | 12k coins | +2% |
+| Gilberto Mora | 95 | CAM | — | 12k coins | +2.1% |
+| Oscar Bobb | 95 | RW | — | 12k coins | -5.6% |
+| Zion Suzuki | 95 | GK | — | 12k coins | -5.8% |
+| Nilson Angulo | 95 | LM | — | 12k coins | 0% |
+| Kerim Alajbegović | 95 | LM | — | 13k coins | +4.2% |
+| Luka Vušković | 94 | CB | — | 12k coins | 0% |
+| Renato Veiga | 94 | CB | — | 12k coins | 0% |
+| Caleb Yirenkyi | 94 | CM | — | 12k coins | 0% |
+| Guéla Doué | 94 | RB | — | 12k coins | 0% |
+| Paul Wanner | 94 | CM | — | 12k coins | 0% |
+| Ben Doak | 94 | RM | — | 12k coins | 0% |
+| El Hadji Malick Diouf | 94 | LB | — | 12k coins | 0% |
+| Aleksandar Pavlović | 94 | CDM | — | 12k coins | 0% |
+| Kojo Peprah Oppong | 93 | CB | — | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Malik Tillman (95, CAM)** da —, a apenas **12k coins**
 
+- **Gilberto Mora (95, CAM)** da —, a apenas **12k coins**
+
+- **Oscar Bobb (95, RW)** da —, a apenas **12k coins**
+
 - **Zion Suzuki (95, GK)** da —, a apenas **12k coins**
 
 - **Nilson Angulo (95, LM)** da —, a apenas **12k coins**
 
-- **Gilberto Mora (95, CAM)** da —, a apenas **12k coins**
 
-- **Kerim Alajbegović (95, LM)** da —, a apenas **12k coins**
+## Como distribuir a banca
+
+- **Defesa:** Zion Suzuki (95, GK) por 12k coins é a referência de rating deste recorte.
+
+- **Meio:** Malik Tillman (95, CAM) por 12k coins é a referência de rating deste recorte.
+
+- **Ataque:** Oscar Bobb (95, RW) por 12k coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## ⚙️ A engine por tras deste post
@@ -87,3 +109,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Cartas 90+ em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Cartas 90+ — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
