@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Zanetti</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+90.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Thomas Meunier</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.8%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Steph Catley</text>
-<rect x="285" y="211" width="466" height="28" rx="7" fill="#22c55e"/>
-<text x="761" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tasos Douvikas</text>
-<rect x="285" y="269" width="447" height="28" rx="7" fill="#22c55e"/>
-<text x="742" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
-<rect x="285" y="327" width="430" height="28" rx="7" fill="#22c55e"/>
-<text x="725" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Enzo Fernández</text>
-<rect x="285" y="385" width="421" height="28" rx="7" fill="#22c55e"/>
-<text x="716" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Douglas Luiz</text>
+<rect x="285" y="153" width="462" height="28" rx="7" fill="#22c55e"/>
+<text x="757" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Enzo Fernández</text>
+<rect x="285" y="211" width="426" height="28" rx="7" fill="#22c55e"/>
+<text x="721" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+79.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oyarzabal</text>
+<rect x="285" y="269" width="421" height="28" rx="7" fill="#22c55e"/>
+<text x="716" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Abedi Pelé</text>
+<rect x="285" y="327" width="403" height="28" rx="7" fill="#22c55e"/>
+<text x="698" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcel Desailly</text>
+<rect x="285" y="385" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.9%</text>
 </svg>
