@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:46:58.000Z
+pubDatetime: 2026-07-18T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 18/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.8% em 24h** e **+84.5% em 7 dias**.
+- A mediana é de **+10.9% em 24h** e **+85.1% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fermín | 91 | — | 38k coins | +8.8% | +89.7% | Esticada |
-| Oyarzabal | 91 | — | 40k coins | +21.7% | +87.1% | Esticada |
-| Madeline Dahlien | 90 | — | 47k coins | +16.9% | +87% | Esticada |
+| Fermín | 91 | — | 38k coins | +12.1% | +89.7% | Esticada |
+| Aoba Fujino | 91 | — | 40k coins | +3.2% | +89.3% | Esticada |
 | João Pedro | 92 | — | 39k coins | +7.7% | +86.7% | Esticada |
 | Said El Mala | 90 | — | 45k coins | +2.9% | +86.5% | Esticada |
-| Gary Lineker | 91 | — | 35k coins | +11.2% | +86.1% | Esticada |
+| Patrick Berg | 95 | — | 74k coins | +24.2% | +86.2% | Esticada |
+| Gary Lineker | 91 | — | 41k coins | +11.2% | +86.1% | Esticada |
 | Frida Maanum | 90 | — | 50k coins | +14.9% | +85.2% | Esticada |
+| Madeline Dahlien | 90 | — | 47k coins | +16.9% | +85.1% | Esticada |
+| Oyarzabal | 91 | — | 40k coins | +22.5% | +85.1% | Esticada |
+| Thomas Strakosha | 91 | — | 42k coins | +6.9% | +84.8% | Esticada |
 | Mile Svilar | 91 | — | 44k coins | +14% | +84.5% | Esticada |
-| David Ayala | 91 | — | 40k coins | +7.1% | +84.1% | Esticada |
-| Nikola Vlašić | 91 | — | 41k coins | +6.2% | +82.8% | Esticada |
-| Maghnes Akliouche | 91 | — | 38k coins | +5.3% | +80.7% | Esticada |
-| Wouter Burger | 90 | — | 45k coins | +17.6% | +80% | Esticada |
-| Mahamadou Doumbia | 91 | — | 45k coins | +1.1% | +80% | Esticada |
-| Christopher Bonsu Baah | 90 | — | 45k coins | +8.4% | +80% | Esticada |
-| Elisabeth Terland | 90 | — | 54k coins | +22.7% | +80% | Esticada |
+| Tasos Douvikas | 90 | — | 48k coins | +5.6% | +82.7% | Esticada |
+| David Ayala | 91 | — | 40k coins | +7.1% | +81.9% | Esticada |
+| Maghnes Akliouche | 91 | — | 38k coins | +6% | +80.7% | Esticada |
+| Max Arfsten | 90 | — | 43k coins | +10.9% | +80.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Fermín (91)** — 38k coins, **+89.7% em 7 dias** (+8.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fermín (91)** — 38k coins, **+89.7% em 7 dias** (+12.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oyarzabal (91)** — 40k coins, **+87.1% em 7 dias** (+21.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Madeline Dahlien (90)** — 47k coins, **+87% em 7 dias** (+16.9% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aoba Fujino (91)** — 40k coins, **+89.3% em 7 dias** (+3.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **João Pedro (92)** — 39k coins, **+86.7% em 7 dias** (+7.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Said El Mala (90)** — 45k coins, **+86.5% em 7 dias** (+2.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Patrick Berg (95)** — 74k coins, **+86.2% em 7 dias** (+24.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:46:59.000Z
+pubDatetime: 2026-07-18T10:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.794 coins.
+- **Preço médio das 9 opções:** 12.772 coins.
 - **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 3.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.700 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,11 +43,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Kerim Alajbegović | 95 | LM | — | 14.250 coins | +11.1% |
 | Gilberto Mora | 95 | CAM | — | 14.500 coins | +5.4% |
 | Nilson Angulo | 95 | LM | — | 14.500 coins | +11.3% |
-| Caleb Yirenkyi | 94 | CM | — | 14.500 coins | +13.7% |
+| Oscar Bobb | 95 | RW | — | 14.500 coins | +17.5% |
 | Luka Vušković | 94 | CB | — | 14.500 coins | +13.7% |
 | Kojo Peprah Oppong | 93 | CB | — | 13.750 coins | +16% |
 | Luc De Fougerolles | 93 | CB | — | 13.750 coins | +12% |
-| Rodri | 90 | CDM | Premier League | 3.900 coins | +5.9% |
+| Rodri | 90 | CDM | Premier League | 3.700 coins | +8.8% |
 | Erling Haaland | 90 | ST | Premier League | 11.500 coins | +4.5% |
 
 
@@ -59,7 +59,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Nilson Angulo (95, LM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Oscar Bobb (95, RW)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Luka Vušković (94, CB)** da —, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente.
 
@@ -70,7 +70,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Kerim Alajbegović (95, LM) por 14.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Erling Haaland (90, ST) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Oscar Bobb (95, RW) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
