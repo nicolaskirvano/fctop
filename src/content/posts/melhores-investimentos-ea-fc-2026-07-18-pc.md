@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:58:18.000Z
+pubDatetime: 2026-07-18T22:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 18/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.2% em 24h** e **+82.8% em 7 dias**.
+- A mediana é de **+8.4% em 24h** e **+79.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Luis Milla | 90 | — | 48k coins | +10.5% | +88.1% | Esticada |
-| Olivia Holdt | 90 | — | 44k coins | +5.9% | +87.5% | Esticada |
-| Khadija Shaw | 91 | Barclays WSL | 134k coins | +11.2% | +87.4% | Esticada |
-| Riley Tiernan | 91 | — | 42k coins | +8.3% | +86.8% | Esticada |
-| Frida Maanum | 90 | — | 45k coins | +5.3% | +85.2% | Esticada |
-| Mile Svilar | 91 | — | 45k coins | +3.4% | +83.7% | Esticada |
-| Max Arfsten | 90 | — | 44k coins | +23.6% | +83.5% | Esticada |
-| Ollie Watkins | 90 | Premier League | 55k coins | +10.4% | +82.8% | Esticada |
-| Christopher Bonsu Baah | 90 | — | 44k coins | +28.6% | +81.8% | Esticada |
-| Víctor Gómez | 91 | — | 50k coins | +18.3% | +81.8% | Esticada |
-| James Garner | 90 | — | 45k coins | +11.9% | +80.8% | Esticada |
-| Madeline Dahlien | 90 | — | 47k coins | +17.6% | +79.8% | Esticada |
-| Mahamadou Doumbia | 91 | — | 44k coins | +5.3% | +79.8% | Esticada |
-| Carlos Alberto | 91 | Icons | 227k coins | +22.8% | +78.5% | Esticada |
-| Thomas Strakosha | 91 | — | 41k coins | +14.9% | +77.1% | Esticada |
+| Luis Milla | 90 | — | 48k coins | +5.6% | +88.1% | Esticada |
+| Riley Tiernan | 91 | — | 42k coins | +10.4% | +86.8% | Esticada |
+| Andy Najar | 91 | — | 40k coins | +1.2% | +85.2% | Esticada |
+| Frida Maanum | 90 | — | 50k coins | +10.5% | +85.2% | Esticada |
+| Reece James | 91 | — | 50k coins | +16.4% | +83.3% | Esticada |
+| Rivaldo | 90 | Icons | 130k coins | +24.8% | +81.3% | Esticada |
+| Oumar Camara | 90 | — | 47k coins | +5% | +80% | Esticada |
+| Enzo Francescoli | 90 | — | 40k coins | +14.3% | +79.8% | Esticada |
+| Gianluca Vialli | 91 | — | 32k coins | +4% | +79.2% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 65k coins | +12.1% | +78.1% | Esticada |
+| Nikola Vlašić | 91 | — | 42k coins | +6.2% | +77.1% | Esticada |
+| Issa Diop | 95 | — | 170k coins | +21.4% | +77.1% | Esticada |
+| Patrick Berg | 95 | — | 60k coins | +7.7% | +75% | Esticada |
+| Vladimír Coufal | 91 | — | 45k coins | +8.4% | +73.1% | Esticada |
+| Thomas Meunier | 92 | — | 30k coins | +7.3% | +71% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Luis Milla (90)** — 48k coins, **+88.1% em 7 dias** (+10.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Milla (90)** — 48k coins, **+88.1% em 7 dias** (+5.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Olivia Holdt (90)** — 44k coins, **+87.5% em 7 dias** (+5.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riley Tiernan (91)** — 42k coins, **+86.8% em 7 dias** (+10.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khadija Shaw (91)** — 134k coins, **+87.4% em 7 dias** (+11.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andy Najar (91)** — 40k coins, **+85.2% em 7 dias** (+1.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riley Tiernan (91)** — 42k coins, **+86.8% em 7 dias** (+8.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frida Maanum (90)** — 50k coins, **+85.2% em 7 dias** (+10.5% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frida Maanum (90)** — 45k coins, **+85.2% em 7 dias** (+5.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Reece James (91)** — 50k coins, **+83.3% em 7 dias** (+16.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
