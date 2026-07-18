@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T22:58:17.000Z
+pubDatetime: 2026-07-18T01:58:17.000Z
 title: "Mercado EA FC em 17/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Lindsey Heaps (90, D1 Arkema), com +56.2% em 24h, a 75k coins no PC."
+    a: "Enzo Francescoli (90, sem liga), com +60% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Agnes Beever-Jones (90), -49.7% em 24h, a 96k coins."
+    a: "Lucas Beraldo (96), -48.6% em 24h, a 90k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 257 cartas em alta contra 506 em queda (média -3.7%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 263 cartas em alta contra 571 em queda (média -5.59%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **257 subiram** e **506 caíram**, com variação média de **-3.7%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **263 subiram** e **571 caíram**, com variação média de **-5.59%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Lindsey Heaps (90) **+56.2%** · 🔴 **Maior baixa:** Agnes Beever-Jones (90) **-49.7%**
+> 🟢 **Maior alta:** Enzo Francescoli (90) **+60%** · 🔴 **Maior baixa:** Lucas Beraldo (96) **-48.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-17-pc.svg)
 
@@ -35,24 +35,24 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 33.7% entre as cartas que se moveram; o universo observado reúne 890 cartas.
-- **Concentração:** D1 Arkema aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 31.5% entre as cartas que se moveram; o universo observado reúne 946 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 90 | D1 Arkema | 75k coins | +56.2% | +81.8% |
-| Paulo Dybala | 91 | Serie A TIM | 267k coins | +56.1% | -1.8% |
-| Troy Parrott | 91 | — | 50k coins | +55% | +37.8% |
-| Selma Bacha | 94 | D1 Arkema | 150k coins | +54.1% | +51% |
-| Nilson Angulo | 95 | — | 62k coins | +52.4% | +39.1% |
-| Warren Zaïre-Emery | 96 | — | 2.05M coins | +51.3% | -4.2% |
+| Enzo Francescoli | 90 | — | 40k coins | +60% | +29% |
+| Diego Armando Maradona | 96 | Icons | 9.10M coins | +56.9% | +68.5% |
+| Lindsey Heaps | 90 | D1 Arkema | 75k coins | +56.2% | +134.4% |
+| Michael Boxall | 91 | — | 35k coins | +55.6% | +100% |
+| Nilson Angulo | 95 | — | 65k coins | +54.8% | +44.4% |
+| Jean-Philippe Mateta | 92 | Premier League | 77k coins | +54% | +31.6% |
+| Ollie Watkins | 90 | Premier League | 64k coins | +51.5% | +77.8% |
+| Warren Zaïre-Emery | 96 | — | 2.05M coins | +51.3% | -2.6% |
 | Simone Laudehr | 91 | GPFBL | 45k coins | +50% | +12.5% |
-| Angelo Stiller | 91 | Bundesliga | 60k coins | +50% | +80.5% |
-| Mateo Kovačić | 91 | Premier League | 65k coins | +47.7% | +30% |
-| Pierre Kalulu | 91 | Serie A TIM | 68k coins | +45.9% | +48.4% |
+| Reyes Cleary | 90 | — | 45k coins | +50% | +69.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **17/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lindsey Heaps (90)** subiu **+56.2%** em 24h, a **75k coins** (faixa do dia: 48k–75k). Está +81% acima da média de 7 dias (aquecida).
+- **Enzo Francescoli (90)** subiu **+60%** em 24h, a **40k coins** (faixa do dia: 24k–40k). Está +43% acima da média de 7 dias (aquecida).
 
-- **Paulo Dybala (91)** subiu **+56.1%** em 24h, a **267k coins** (faixa do dia: 173k–280k). Está em linha com a média de 7 dias (+3%).
+- **Diego Armando Maradona (96)** subiu **+56.9%** em 24h, a **9.10M coins** (faixa do dia: 5.80M–9.10M). Está +58% acima da média de 7 dias (aquecida).
 
-- **Troy Parrott (91)** subiu **+55%** em 24h, a **50k coins** (faixa do dia: 40k–70k). Está em linha com a média de 7 dias (+7%).
+- **Lindsey Heaps (90)** subiu **+56.2%** em 24h, a **75k coins** (faixa do dia: 48k–75k). Está +78% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Agnes Beever-Jones | 90 | Barclays WSL | 96k coins | -49.7% | -34.6% |
-| Pau Cubarsí | 96 | — | 50k coins | -49.1% | -56.7% |
-| Hervé Koffi | 94 | — | 28k coins | -48.6% | -11.6% |
-| Xavi | 91 | Icons | 94k coins | -46.1% | -33.2% |
-| Gabriel | 96 | — | 96k coins | -44.8% | -16.7% |
-| Tomáš Chorý | 95 | — | 32k coins | -44.6% | -32.6% |
-| Toni Kroos | 90 | Icons | 80k coins | -43.5% | -7.8% |
-| Santiago Sosa | 93 | — | 24k coins | -42.9% | +5.3% |
-| Claudio Pizarro | 92 | — | 24k coins | -40.2% | -15.8% |
-| Evander | 95 | — | 30k coins | -40% | +7.1% |
+| Lucas Beraldo | 96 | — | 90k coins | -48.6% | -30.8% |
+| Yassine Bounou | 94 | — | 28k coins | -47.7% | 0% |
+| Fernando Muslera | 94 | — | 30k coins | -45.9% | -16.7% |
+| Mario Mandžukić | 92 | — | 20k coins | -45.6% | -24.5% |
+| Santiago Sosa | 93 | — | 22k coins | -45.1% | +1.1% |
+| Noah Okafor | 95 | — | 21k coins | -43.7% | -29% |
+| Antonee Robinson | 94 | — | 30k coins | -43.4% | -22.6% |
+| Darko Nejašmić | 93 | — | 25k coins | -43.1% | +3.4% |
+| Endrick | 93 | — | 126k coins | -43.1% | -20.2% |
+| Yoane Wissa | 95 | — | 164k coins | -42.7% | -20% |
 
 
 ### Análise das baixas
 
-- **Agnes Beever-Jones (90)** caiu **-49.7%** em 24h, a **96k coins** (faixa do dia: 48k–100k). Está +26% acima da média de 7 dias (aquecida).
+- **Lucas Beraldo (96)** caiu **-48.6%** em 24h, a **90k coins** (faixa do dia: 85k–187k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Pau Cubarsí (96)** caiu **-49.1%** em 24h, a **50k coins** (faixa do dia: 35k–98k). Está -37% abaixo da média de 7 dias (descontada).
+- **Yassine Bounou (94)** caiu **-47.7%** em 24h, a **28k coins** (faixa do dia: 27k–55k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Hervé Koffi (94)** caiu **-48.6%** em 24h, a **28k coins** (faixa do dia: 26k–60k). Está -25% abaixo da média de 7 dias (descontada).
+- **Fernando Muslera (94)** caiu **-45.9%** em 24h, a **30k coins** (faixa do dia: 25k–54k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lindsey Heaps já avançou 56.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Enzo Francescoli já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Agnes Beever-Jones recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lucas Beraldo recuou -48.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**
-Lindsey Heaps (90, D1 Arkema), com +56.2% em 24h, a 75k coins no PC.
+Enzo Francescoli (90, sem liga), com +60% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**
-Agnes Beever-Jones (90), -49.7% em 24h, a 96k coins.
+Lucas Beraldo (96), -48.6% em 24h, a 90k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 257 cartas em alta contra 506 em queda (média -3.7%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 263 cartas em alta contra 571 em queda (média -5.59%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
