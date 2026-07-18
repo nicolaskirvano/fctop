@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:58:09.000Z
+pubDatetime: 2026-07-18T13:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Chibuike Nwaiwu (90, sem liga) lidera, com +88.9% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Keinan Davis (90, sem liga) lidera, com +87.5% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chibuike Nwaiwu (90) acumula **+88.9% em 7 dias** a 41k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Keinan Davis (90) acumula **+87.5% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.0% em 24h** e **+82.6% em 7 dias**.
+- A mediana é de **+5.3% em 24h** e **+83.9% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chibuike Nwaiwu | 90 | — | 41k coins | +4.3% | +88.9% | Esticada |
-| Luís Figo | 90 | Icons | 60k coins | +28.6% | +88.9% | Esticada |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 76k coins | +3.4% | +87.5% | Esticada |
-| Granit Xhaka | 91 | — | 41k coins | +10.1% | +87.4% | Esticada |
-| Keinan Davis | 90 | — | 43k coins | +4.1% | +86.5% | Esticada |
-| Marcelo | 90 | — | 46k coins | +7.5% | +85.2% | Esticada |
-| Henrik Larsson | 91 | — | 40k coins | +3.9% | +83.9% | Esticada |
-| Khadija Shaw | 91 | Barclays WSL | 189k coins | +33.8% | +82.6% | Esticada |
-| Maghnes Akliouche | 91 | — | 40k coins | +1.3% | +81.4% | Esticada |
-| Manuel Akanji | 91 | — | 26k coins | +3.3% | +81.4% | Esticada |
-| Moussa Diaby | 90 | ROSHN Saudi League | 70k coins | +12.4% | +81.3% | Esticada |
-| Lewis Hall | 90 | — | 45k coins | +4% | +80% | Esticada |
-| Homare Sawa | 91 | Icons | 139k coins | +28.8% | +79.9% | Esticada |
-| Sol Campbell | 91 | — | 38k coins | +8.1% | +79.8% | Esticada |
-| Javier Zanetti | 92 | — | 46k coins | +7% | +78.3% | Esticada |
+| Keinan Davis | 90 | — | 45k coins | +3.4% | +87.5% | Esticada |
+| Marcelo | 90 | — | 50k coins | +9.9% | +86.9% | Esticada |
+| Unai Simón | 90 | LALIGA EA SPORTS | 55k coins | +10% | +86.4% | Esticada |
+| Maghnes Akliouche | 91 | — | 40k coins | +5.3% | +86% | Esticada |
+| Ricardo Horta | 90 | Liga Portugal | 40k coins | +5.3% | +86% | Esticada |
+| Sol Campbell | 91 | — | 40k coins | +2.6% | +86% | Esticada |
+| Josip Šutalo | 90 | Eredivisie | 62k coins | +2.2% | +85.4% | Esticada |
+| Granit Xhaka | 91 | — | 39k coins | +9.6% | +83.9% | Esticada |
+| Lewis Hall | 90 | — | 44k coins | +3.4% | +83.7% | Esticada |
+| Sam Surridge | 91 | — | 38k coins | +3.3% | +78.4% | Esticada |
+| Jürgen Kohler | 91 | — | 49k coins | +8.9% | +78.2% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 46k coins | +17.8% | +78.2% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 51k coins | +17.8% | +73.8% | Esticada |
+| Luís Figo | 90 | Icons | 50k coins | +17.8% | +73% | Esticada |
+| Vangelis Pavlidis | 90 | Liga Portugal | 55k coins | +3.8% | +71.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Chibuike Nwaiwu (90)** — 41k coins, **+88.9% em 7 dias** (+4.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Keinan Davis (90)** — 45k coins, **+87.5% em 7 dias** (+3.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luís Figo (90)** — 60k coins, **+88.9% em 7 dias** (+28.6% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (90)** — 50k coins, **+86.9% em 7 dias** (+9.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willian Pacho (90)** — 76k coins, **+87.5% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Unai Simón (90)** — 55k coins, **+86.4% em 7 dias** (+10% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Granit Xhaka (91)** — 41k coins, **+87.4% em 7 dias** (+10.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (91)** — 40k coins, **+86% em 7 dias** (+5.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Keinan Davis (90)** — 43k coins, **+86.5% em 7 dias** (+4.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Horta (90)** — 40k coins, **+86% em 7 dias** (+5.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Chibuike Nwaiwu (90, sem liga) lidera, com +88.9% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Keinan Davis (90, sem liga) lidera, com +87.5% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

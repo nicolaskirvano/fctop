@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:58:10.000Z
+pubDatetime: 2026-07-18T13:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 18/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 12.812 coins.
-- **Posição mais frequente:** LM, com 3 cartas.
-- **Faixa real:** 2.800 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 13.070 coins.
+- **Posição mais frequente:** CB, com 5 cartas.
+- **Faixa real:** 3.300 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Nilson Angulo | 95 | LM | — | 14.000 coins | +3.8% |
-| Gilberto Mora | 95 | CAM | — | 14.250 coins | +3.6% |
-| Kerim Alajbegović | 95 | LM | — | 14.250 coins | +7.5% |
-| Malik Tillman | 95 | CAM | — | 14.750 coins | +5.4% |
-| Caleb Yirenkyi | 94 | CM | — | 13.250 coins | +8.2% |
-| Ben Doak | 94 | RM | — | 13.250 coins | +6% |
-| Paul Wanner | 94 | CM | — | 13.500 coins | +8.2% |
-| Aleksandar Pavlović | 94 | CDM | — | 13.500 coins | +3.9% |
-| Luka Vušković | 94 | CB | — | 13.750 coins | +3.9% |
-| Luc De Fougerolles | 93 | CB | — | 13.250 coins | +10.4% |
-| Eom Ji Sung | 92 | LM | — | 14.000 coins | -10.4% |
-| Virgil van Dijk | 90 | CB | Premier League | 2.800 coins | -11.8% |
-| Erling Haaland | 90 | ST | Premier League | 12.000 coins | +6.7% |
+| Nilson Angulo | 95 | LM | — | 14.000 coins | +1.9% |
+| Malik Tillman | 95 | CAM | — | 14.250 coins | +5.3% |
+| Zion Suzuki | 95 | GK | — | 14.250 coins | +1.8% |
+| Gilberto Mora | 95 | CAM | — | 14.500 coins | 0% |
+| Kerim Alajbegović | 95 | LM | — | 14.750 coins | +1.9% |
+| Luka Vušković | 94 | CB | — | 13.500 coins | +7.8% |
+| Renato Veiga | 94 | CB | — | 13.500 coins | +8% |
+| Caleb Yirenkyi | 94 | CM | — | 13.500 coins | +8% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.750 coins | +5.9% |
+| Noah Sadiki | 93 | CM | — | 13.000 coins | +8.2% |
+| Lucas Herrington | 93 | CB | — | 13.000 coins | +8% |
+| Patrick Beach | 93 | GK | — | 13.000 coins | +8.2% |
+| Kojo Peprah Oppong | 93 | CB | — | 13.500 coins | +10.2% |
+| Vincent Kompany | 92 | CB | — | 14.250 coins | -11.1% |
+| Rodri | 90 | CDM | Premier League | 3.300 coins | +10% |
 
 
 ## 📈 Destaques
 
 - **Nilson Angulo (95, LM)** da —, a apenas **14.000 coins**
 
-- **Gilberto Mora (95, CAM)** da —, a apenas **14.250 coins**
+- **Malik Tillman (95, CAM)** da —, a apenas **14.250 coins**
 
-- **Kerim Alajbegović (95, LM)** da —, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Zion Suzuki (95, GK)** da —, a apenas **14.250 coins**
 
-- **Malik Tillman (95, CAM)** da —, a apenas **14.750 coins**
+- **Gilberto Mora (95, CAM)** da —, a apenas **14.500 coins**
 
-- **Caleb Yirenkyi (94, CM)** da —, a apenas **13.250 coins**
+- **Kerim Alajbegović (95, LM)** da —, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Luka Vušković (94, CB) por 13.750 coins é a referência de rating deste recorte.
+- **Defesa:** Zion Suzuki (95, GK) por 14.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Nilson Angulo (95, LM) por 14.000 coins é a referência de rating deste recorte.
-
-- **Ataque:** Erling Haaland (90, ST) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
