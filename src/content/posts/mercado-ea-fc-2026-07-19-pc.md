@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:58:17.000Z
+pubDatetime: 2026-07-19T19:58:17.000Z
 title: "Mercado EA FC em 19/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Leroy Sané (91, Trendyol Süper Lig), com +58.6% em 24h, a 62k coins no PC."
+    a: "Kylian Mbappé (96, sem liga), com +58.8% em 24h, a 3.30M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Alessandro Nesta (92), -44.8% em 24h, a 40k coins."
+    a: "Stina Blackstenius (90), -50% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 308 cartas em alta contra 501 em queda (média -1.13%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 310 cartas em alta contra 535 em queda (média -1.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **19/07/2026** no PC com mercado **em baixa** — predominam as quedas: **308 cartas subiram** e **501 caíram** (80+ acima de 5k coins), variação média de **-1.13%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **19/07/2026** no PC com mercado **em baixa** — predominam as quedas: **310 cartas subiram** e **535 caíram** (80+ acima de 5k coins), variação média de **-1.83%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Leroy Sané (91) **+58.6%** · 🔴 **Maior baixa:** Alessandro Nesta (92) **-44.8%**
+> 🟢 **Maior alta:** Kylian Mbappé (96) **+58.8%** · 🔴 **Maior baixa:** Stina Blackstenius (90) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **em baixa** — pr
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.1% entre as cartas que se moveram; o universo observado reúne 957 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.7% entre as cartas que se moveram; o universo observado reúne 984 cartas.
+- **Concentração:** Liga Portugal aparece em 1 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leroy Sané | 91 | Trendyol Süper Lig | 62k coins | +58.6% | +39.6% |
-| Alex Scott | 93 | — | 115k coins | +57.8% | +17.2% |
-| Cristian Roldan | 94 | — | 34k coins | +56.3% | +30.8% |
-| Ricardo Horta | 90 | Liga Portugal | 50k coins | +52.7% | +135.3% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.60M coins | +44.4% | -10.1% |
-| Ivan Toney | 92 | — | 30k coins | +43.4% | +21.4% |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 54k coins | +41.9% | +32.5% |
-| Roberto Baggio | 91 | Icons | 134k coins | +40.8% | +68.6% |
-| Angelo Stiller | 91 | Bundesliga | 62k coins | +40% | +69.1% |
-| Nawaf Boushal | 91 | — | 35k coins | +40% | +68.7% |
+| Kylian Mbappé | 96 | — | 3.30M coins | +58.8% | -39.5% |
+| Cristian Roldan | 94 | — | 34k coins | +58.6% | +34% |
+| Enzo Fernández | 96 | — | 450k coins | +56.2% | +17.1% |
+| Aoba Fujino | 91 | — | 38k coins | +54% | +75% |
+| Troy Parrott | 91 | — | 61k coins | +52.7% | +42.4% |
+| Ricardo Horta | 90 | Liga Portugal | 50k coins | +52.7% | +150% |
+| Miguel Almirón | 93 | — | 29k coins | +50% | +46.2% |
+| Salem Al Dawsari | 92 | — | 37k coins | +49% | +23.6% |
+| Kylian Mbappé | 93 | — | 7.80M coins | +47.2% | +73.3% |
+| Manaka Matsukubo | 96 | — | 88k coins | +47.1% | +5.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **em baixa** — pr
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Leroy Sané (91)** subiu **+58.6%** em 24h, a **62k coins** (faixa do dia: 40k–70k). Está +32% acima da média de 7 dias (aquecida).
+- **Kylian Mbappé (96)** subiu **+58.8%** em 24h, a **3.30M coins** (faixa do dia: 2.75M–4.95M). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Alex Scott (93)** subiu **+57.8%** em 24h, a **115k coins** (faixa do dia: 74k–140k). Está em linha com a média de 7 dias (+6%).
+- **Cristian Roldan (94)** subiu **+58.6%** em 24h, a **34k coins** (faixa do dia: 22k–35k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Cristian Roldan (94)** subiu **+56.3%** em 24h, a **34k coins** (faixa do dia: 22k–35k). Está +19% acima da média de 7 dias (aquecida).
+- **Enzo Fernández (96)** subiu **+56.2%** em 24h, a **450k coins** (faixa do dia: 290k–545k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessandro Nesta | 92 | — | 40k coins | -44.8% | -20.4% |
-| Nilson Angulo | 95 | — | 50k coins | -41.4% | +30.3% |
-| Bremer | 95 | — | 74k coins | -39.4% | -32.5% |
-| Ona Batlle | 90 | Liga F | 31k coins | -38% | +7.8% |
-| Victor Lindelöf | 96 | — | 116k coins | -37.6% | -48.4% |
-| Robert Pirès | 90 | — | 45k coins | -37.5% | +25% |
-| Mario Mandžukić | 92 | — | 24k coins | -37.3% | -21.5% |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 31k coins | -36.4% | -17.3% |
-| Mika Godts | 93 | — | 22k coins | -35.7% | -17% |
-| Stina Blackstenius | 90 | Barclays WSL | 30k coins | -34.8% | -20% |
+| Stina Blackstenius | 90 | Barclays WSL | 30k coins | -50% | -20% |
+| Nahuel Molina | 91 | — | 70k coins | -50% | -22.7% |
+| Casillas | 90 | Icons | 75k coins | -49.7% | -15.7% |
+| Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.3% | -32.4% |
+| Alessandro Nesta | 92 | — | 36k coins | -43.7% | -18.3% |
+| Tsuyoshi Watanabe | 91 | — | 24k coins | -43.5% | -2% |
+| Evander | 95 | — | 26k coins | -43.1% | -28.3% |
+| Patrick Berg | 95 | — | 40k coins | -40.3% | -5.9% |
+| Anthony Elanga | 94 | — | 34k coins | -38.8% | -37.2% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 31k coins | -36.4% | -19.5% |
 
 
 ### Análise das baixas
 
-- **Alessandro Nesta (92)** caiu **-44.8%** em 24h, a **40k coins** (faixa do dia: 37k–74k). Está -35% abaixo da média de 7 dias (descontada).
+- **Stina Blackstenius (90)** caiu **-50%** em 24h, a **30k coins** (faixa do dia: 30k–60k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Nilson Angulo (95)** caiu **-41.4%** em 24h, a **50k coins** (faixa do dia: 47k–92k). Está em linha com a média de 7 dias (-1%).
+- **Nahuel Molina (91)** caiu **-50%** em 24h, a **70k coins** (faixa do dia: 70k–140k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Bremer (95)** caiu **-39.4%** em 24h, a **74k coins** (faixa do dia: 69k–118k). Está -32% abaixo da média de 7 dias (descontada).
+- **Casillas (90)** caiu **-49.7%** em 24h, a **75k coins** (faixa do dia: 75k–190k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Leroy Sané já avançou 58.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kylian Mbappé já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alessandro Nesta recuou -44.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Stina Blackstenius recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Leroy Sané (91, Trendyol Süper Lig), com +58.6% em 24h, a 62k coins no PC.
+Kylian Mbappé (96, sem liga), com +58.8% em 24h, a 3.30M coins no PC.
 
 **E a maior queda do dia?**
-Alessandro Nesta (92), -44.8% em 24h, a 40k coins.
+Stina Blackstenius (90), -50% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 308 cartas em alta contra 501 em queda (média -1.13%).
+Hoje o mercado está em baixa — predominam as quedas, com 310 cartas em alta contra 535 em queda (média -1.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
