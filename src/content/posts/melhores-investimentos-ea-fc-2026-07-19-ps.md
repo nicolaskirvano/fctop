@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:50:23.000Z
+pubDatetime: 2026-07-19T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.9% em 24h** e **+81.1% em 7 dias**.
+- A mediana é de **+7.9% em 24h** e **+80.9% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tsuyoshi Watanabe | 91 | — | 42k coins | +7.1% | +89.8% | Esticada |
-| Fridolina Rolfö | 90 | Barclays WSL | 50k coins | +3.8% | +88% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 48k coins | +3.8% | +88% | Esticada |
 | Jonathan David | 90 | Serie A TIM | 59k coins | +3.4% | +87.5% | Esticada |
 | Aymeric Laporte | 90 | LALIGA EA SPORTS | 50k coins | +2% | +86.9% | Esticada |
-| Emmanuel Fernandez | 90 | — | 42k coins | +6.2% | +82.8% | Esticada |
-| Alexis Mac Allister | 91 | — | 120k coins | +9.1% | +81.8% | Esticada |
-| Emilio Butragueño | 90 | — | 80k coins | +33.6% | +81.7% | Esticada |
-| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 95k coins | +11.6% | +81.1% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 55k coins | +19.6% | +83.3% | Esticada |
+| Alexis Mac Allister | 91 | — | 100k coins | +9.1% | +81.8% | Esticada |
+| Emilio Butragueño | 90 | — | 68k coins | +33.6% | +81.7% | Esticada |
+| Emmanuel Fernandez | 90 | — | 36k coins | +6.2% | +80.9% | Esticada |
 | Nuno Tavares | 91 | Serie A TIM | 68k coins | +7.9% | +80.3% | Esticada |
 | Pavel Šulc | 91 | — | 45k coins | +12.5% | +80% | Esticada |
 | Oyarzabal | 91 | — | 42k coins | +2.6% | +79.8% | Esticada |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 95k coins | +9.8% | +79.2% | Esticada |
 | Salem Al Dawsari | 91 | ROSHN Saudi League | 60k coins | +13.2% | +75.2% | Esticada |
 | Steffi Jones | 91 | Icons | 82k coins | +18% | +73.5% | Esticada |
 | Craig Halkett | 91 | — | 42k coins | +4.3% | +71.7% | Esticada |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +10% | +70.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Tsuyoshi Watanabe (91)** — 42k coins, **+89.8% em 7 dias** (+7.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fridolina Rolfö (90)** — 50k coins, **+88% em 7 dias** (+3.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fridolina Rolfö (90)** — 48k coins, **+88% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jonathan David (90)** — 59k coins, **+87.5% em 7 dias** (+3.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Aymeric Laporte (90)** — 50k coins, **+86.9% em 7 dias** (+2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Fernandez (90)** — 42k coins, **+82.8% em 7 dias** (+6.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 55k coins, **+83.3% em 7 dias** (+19.6% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

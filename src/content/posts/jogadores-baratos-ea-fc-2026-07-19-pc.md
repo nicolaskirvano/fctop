@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:50:34.000Z
+pubDatetime: 2026-07-19T10:58:19.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 19/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.350 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
+- **Preço médio das 15 opções:** 13.217 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
 - **Faixa real:** 12.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Oscar Bobb | 95 | RW | — | 12.000 coins | +3.1% |
+| Oscar Bobb | 95 | RW | — | 12.000 coins | -3.1% |
 | Gilberto Mora | 95 | CAM | — | 13.500 coins | -8.5% |
-| Zion Suzuki | 95 | GK | — | 14.000 coins | -12.5% |
 | Nilson Angulo | 95 | LM | — | 14.000 coins | -5.1% |
 | Malik Tillman | 95 | CAM | — | 14.000 coins | 0% |
+| Zion Suzuki | 95 | GK | — | 14.000 coins | -12.5% |
 | Kerim Alajbegović | 95 | LM | — | 14.500 coins | -3.4% |
+| Ben Doak | 94 | RM | — | 12.500 coins | -5.3% |
 | Caleb Yirenkyi | 94 | CM | — | 13.000 coins | -10.3% |
-| Aleksandar Pavlović | 94 | CDM | — | 13.000 coins | -8.8% |
-| Luka Vušković | 94 | CB | — | 13.000 coins | -10.3% |
 | Renato Veiga | 94 | CB | — | 13.000 coins | -5.2% |
 | Paul Wanner | 94 | CM | — | 13.250 coins | -8.6% |
-| Ben Doak | 94 | RM | — | 13.250 coins | -5.3% |
+| Aleksandar Pavlović | 94 | CDM | — | 13.250 coins | -7.1% |
+| Luka Vušković | 94 | CB | — | 13.250 coins | -10.3% |
 | El Hadji Malick Diouf | 94 | LB | — | 13.500 coins | -3.4% |
-| Luc De Fougerolles | 93 | CB | — | 13.000 coins | -5.4% |
-| Kojo Peprah Oppong | 93 | CB | — | 13.250 coins | -10.2% |
+| Bixente Lizarazu | 93 | LB | — | 12.000 coins | +9% |
+| Noah Sadiki | 93 | CM | — | 12.500 coins | -10.3% |
 
 
 ## 📈 Destaques
 
-- **Oscar Bobb (95, RW)** da —, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Oscar Bobb (95, RW)** da —, a apenas **12.000 coins**
 
 - **Gilberto Mora (95, CAM)** da —, a apenas **13.500 coins**
-
-- **Zion Suzuki (95, GK)** da —, a apenas **14.000 coins**
 
 - **Nilson Angulo (95, LM)** da —, a apenas **14.000 coins**
 
 - **Malik Tillman (95, CAM)** da —, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Zion Suzuki (95, GK)** da —, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
