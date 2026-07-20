@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:58:17.000Z
+pubDatetime: 2026-07-20T22:58:17.000Z
 title: "Mercado EA FC em 20/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Vangelis Pavlidis (90, Liga Portugal), com +60% em 24h, a 65k coins no PC."
+    a: "Mariona (96, Barclays WSL), com +59.2% em 24h, a 320k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Angelo Stiller (94), -42.7% em 24h, a 25k coins."
+    a: "Toni Kroos (90), -47.6% em 24h, a 77k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 387 cartas em alta contra 418 em queda (média 1.76%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 400 cartas em alta contra 406 em queda (média 2.72%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **387 valorizações** contra **418 quedas** entre as cartas relevantes, com média de **1.76%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **400 valorizações** contra **406 quedas** entre as cartas relevantes, com média de **2.72%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vangelis Pavlidis (90) **+60%** · 🔴 **Maior baixa:** Angelo Stiller (94) **-42.7%**
+> 🟢 **Maior alta:** Mariona (96) **+59.2%** · 🔴 **Maior baixa:** Toni Kroos (90) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.1% entre as cartas que se moveram; o universo observado reúne 913 cartas.
-- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 903 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 90 | Liga Portugal | 65k coins | +60% | +70% |
-| Erling Haaland | 91 | Premier League | 342k coins | +56.9% | +55.5% |
-| Dodi Lukébakio | 94 | — | 140k coins | +54.4% | +227.1% |
-| Riley Tiernan | 91 | — | 55k coins | +53.3% | +109.1% |
-| Alexia Putellas | 95 | Liga F | 817k coins | +52.8% | +42.5% |
-| Ollie Watkins | 90 | Premier League | 70k coins | +52.2% | +100% |
-| Paolo Maldini | 95 | — | 1.30M coins | +52.1% | +21.3% |
-| Gerd Müller | 92 | Icons | 117k coins | +51.9% | -3.3% |
-| Max Arfsten | 90 | — | 53k coins | +51.4% | +92.7% |
-| Patri Guijarro | 90 | Liga F | 68k coins | +50.3% | +94.3% |
+| Mariona | 96 | Barclays WSL | 320k coins | +59.2% | +43.8% |
+| Thierry Henry | 96 | — | 1.10M coins | +55.8% | +7% |
+| Rivaldo | 91 | Icons | 113k coins | +54.8% | +33.3% |
+| Sol Campbell | 91 | — | 62k coins | +53.8% | +106.7% |
+| Dodi Lukébakio | 94 | — | 122k coins | +53.3% | +224.7% |
+| Momoko Tanikawa | 91 | — | 46k coins | +51.7% | +106.8% |
+| Orkun Kökçü | 95 | — | 145k coins | +51.4% | +7.7% |
+| Patri Guijarro | 90 | Liga F | 75k coins | +50.3% | +94.3% |
+| Carlos Alberto | 91 | Icons | 210k coins | +49.3% | +63.1% |
+| Gerd Müller | 92 | Icons | 107k coins | +48% | -9.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vangelis Pavlidis (90)** subiu **+60%** em 24h, a **65k coins** (faixa do dia: 25k–75k). Está +33% acima da média de 7 dias (aquecida).
+- **Mariona (96)** subiu **+59.2%** em 24h, a **320k coins** (faixa do dia: 175k–327k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Erling Haaland (91)** subiu **+56.9%** em 24h, a **342k coins** (faixa do dia: 176k–380k). Está +10% acima da média de 7 dias (aquecida).
+- **Thierry Henry (96)** subiu **+55.8%** em 24h, a **1.10M coins** (faixa do dia: 848k–1.60M). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Dodi Lukébakio (94)** subiu **+54.4%** em 24h, a **140k coins** (faixa do dia: 70k–149k). Está +69% acima da média de 7 dias (aquecida).
+- **Rivaldo (91)** subiu **+54.8%** em 24h, a **113k coins** (faixa do dia: 70k–130k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 94 | — | 25k coins | -42.7% | -34.1% |
-| Yoane Wissa | 95 | — | 90k coins | -42.3% | -63.7% |
-| Vitinha | 96 | — | 7.10M coins | -41.8% | +7.6% |
-| Vini Jr. | 90 | LALIGA EA SPORTS | 576k coins | -40.5% | -35.5% |
+| Toni Kroos | 90 | Icons | 77k coins | -47.6% | -12.5% |
+| Roberto Carlos | 90 | Icons | 150k coins | -44.4% | -42.3% |
+| Illia Zabarnyi | 96 | — | 200k coins | -44.2% | -23% |
+| Ingrid Syrstad Engen | 93 | — | 23k coins | -42.5% | -18.6% |
+| Selina Cerci | 95 | — | 73k coins | -42.1% | -36.5% |
+| Vitinha | 96 | — | 7M coins | -41.8% | +7.6% |
 | Simone Laudehr | 90 | GPFBL | 30k coins | -40% | +69% |
-| Víctor Gómez | 91 | — | 29k coins | -39.6% | +20.8% |
 | Virgil van Dijk | 90 | Premier League | 2.60M coins | -39.6% | -10.4% |
-| Rúben Neves | 95 | — | 27k coins | -38% | -34.8% |
-| Camille Abily | 91 | Icons | 40k coins | -37.9% | -20.9% |
-| Brahim | 95 | — | 52k coins | -36.9% | -76.7% |
+| Oliver Bierhoff | 90 | — | 41k coins | -38.1% | +40.5% |
+| Caroline Graham Hansen | 92 | Liga F | 261k coins | -37.1% | -27.1% |
 
 
 ### Análise das baixas
 
-- **Angelo Stiller (94)** caiu **-42.7%** em 24h, a **25k coins** (faixa do dia: 22k–58k). Está -31% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** caiu **-47.6%** em 24h, a **77k coins** (faixa do dia: 74k–156k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Yoane Wissa (95)** caiu **-42.3%** em 24h, a **90k coins** (faixa do dia: 70k–134k). Está -57% abaixo da média de 7 dias (descontada).
+- **Roberto Carlos (90)** caiu **-44.4%** em 24h, a **150k coins** (faixa do dia: 143k–310k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Vitinha (96)** caiu **-41.8%** em 24h, a **7.10M coins** (faixa do dia: 7M–12.20M). Está -30% abaixo da média de 7 dias (descontada).
+- **Illia Zabarnyi (96)** caiu **-44.2%** em 24h, a **200k coins** (faixa do dia: 188k–336k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vangelis Pavlidis já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mariona já avançou 59.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Angelo Stiller recuou -42.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Toni Kroos recuou -47.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Vangelis Pavlidis (90, Liga Portugal), com +60% em 24h, a 65k coins no PC.
+Mariona (96, Barclays WSL), com +59.2% em 24h, a 320k coins no PC.
 
 **E a maior queda do dia?**
-Angelo Stiller (94), -42.7% em 24h, a 25k coins.
+Toni Kroos (90), -47.6% em 24h, a 77k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 387 cartas em alta contra 418 em queda (média 1.76%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 400 cartas em alta contra 406 em queda (média 2.72%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

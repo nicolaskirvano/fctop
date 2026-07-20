@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:58:09.000Z
+pubDatetime: 2026-07-20T22:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Sam Surridge (91, sem liga) lidera, com +87.2% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Morgan Gibbs-White (91, sem liga) lidera, com +88.5% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sam Surridge (91) acumula **+87.2% em 7 dias** a 44k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Morgan Gibbs-White (91) acumula **+88.5% em 7 dias** a 25k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+59.8% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.3% em 24h** e **+69.1% em 7 dias**.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sam Surridge | 91 | — | 44k coins | +12.8% | +87.2% | Esticada |
-| Mile Svilar | 91 | — | 50k coins | +1.8% | +81.5% | Esticada |
-| Vladimír Coufal | 91 | — | 44k coins | +4.9% | +81.1% | Esticada |
-| Nahuel Molina | 91 | — | 129k coins | +10% | +78.8% | Esticada |
-| Nikola Vlašić | 91 | — | 45k coins | +1.2% | +77.2% | Esticada |
-| Nick Woltemade | 90 | Premier League | 101k coins | +2.7% | +66.7% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 49k coins | +13.7% | +63.6% | Esticada |
-| Homare Sawa | 91 | Icons | 150k coins | +13.4% | +59.8% | Momentum moderado |
-| Raúl | 90 | Icons | 144k coins | +14.6% | +51.3% | Momentum moderado |
-| Iván Zamorano | 91 | LALIGA EA SPORTS | 146k coins | +7.2% | +41.9% | Momentum moderado |
-| Guéla Doué | 94 | — | 18.000 coins | +15.3% | +41.7% | Momentum moderado |
-| Diego Milito | 91 | — | 46k coins | +10.7% | +37.8% | Momentum moderado |
-| Gabriel Sara | 94 | — | 29k coins | +25.8% | +32.6% | Esticada |
-| Luciano Valente | 92 | — | 25k coins | +12.4% | +29.9% | Momentum moderado |
-| Marcos Llorente | 90 | LALIGA EA SPORTS | 155k coins | +16% | +28.3% | Momentum moderado |
+| Morgan Gibbs-White | 91 | — | 25k coins | +8.9% | +88.5% | Esticada |
+| Vladimír Coufal | 91 | — | 40k coins | +1.2% | +87% | Esticada |
+| Esteban Cambiasso | 91 | — | 43k coins | +10.3% | +81.9% | Esticada |
+| Sam Surridge | 91 | — | 40k coins | +10.3% | +79.2% | Esticada |
+| Ronald Koeman Jr. | 91 | — | 43k coins | +7.5% | +75.5% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 44k coins | +5% | +75% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 59k coins | +18% | +72.3% | Esticada |
+| Javier Zanetti | 91 | Icons | 160k coins | +27.1% | +69.1% | Esticada |
+| Mateo Kovačić | 91 | Premier League | 45k coins | +2.1% | +65% | Esticada |
+| Roony Bardghji | 90 | LALIGA EA SPORTS | 42k coins | +2.2% | +58.6% | Momentum moderado |
+| Weston McKennie | 92 | — | 29k coins | +30% | +53.9% | Esticada |
+| Carlos Baleba | 90 | Premier League | 130k coins | +26.2% | +49.4% | Esticada |
+| Raúl | 90 | Icons | 139k coins | +10.1% | +44.2% | Momentum moderado |
+| Sergi Domínguez | 92 | — | 24k coins | +11.3% | +40.3% | Momentum moderado |
+| Diego Milito | 91 | — | 44k coins | +10.7% | +38.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sam Surridge (91)** — 44k coins, **+87.2% em 7 dias** (+12.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Gibbs-White (91)** — 25k coins, **+88.5% em 7 dias** (+8.9% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mile Svilar (91)** — 50k coins, **+81.5% em 7 dias** (+1.8% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vladimír Coufal (91)** — 40k coins, **+87% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vladimír Coufal (91)** — 44k coins, **+81.1% em 7 dias** (+4.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (91)** — 43k coins, **+81.9% em 7 dias** (+10.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (91)** — 129k coins, **+78.8% em 7 dias** (+10% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sam Surridge (91)** — 40k coins, **+79.2% em 7 dias** (+10.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Vlašić (91)** — 45k coins, **+77.2% em 7 dias** (+1.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ronald Koeman Jr. (91)** — 43k coins, **+75.5% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Sam Surridge (91, sem liga) lidera, com +87.2% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Morgan Gibbs-White (91, sem liga) lidera, com +88.5% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
