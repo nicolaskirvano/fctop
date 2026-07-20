@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:58:09.000Z
+pubDatetime: 2026-07-20T01:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Park Ji Sung (91, Eredivisie) lidera, com +89.8% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Steffi Jones (91, Icons) lidera, com +83.3% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Park Ji Sung (91) acumula **+89.8% em 7 dias** a 84k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Steffi Jones (91) acumula **+83.3% em 7 dias** a 84k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.2% em 24h** e **+77.8% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.0% em 24h** e **+65.0% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Park Ji Sung | 91 | Eredivisie | 84k coins | +6.3% | +89.8% | Esticada |
-| Andy Najar | 91 | — | 42k coins | +3% | +86.8% | Esticada |
-| Manuel Akanji | 91 | — | 42k coins | +2.4% | +86.8% | Esticada |
-| Steffi Jones | 91 | Icons | 90k coins | +34.8% | +84.8% | Esticada |
-| Wesley | 91 | — | 40k coins | +1.2% | +80.9% | Esticada |
-| Kim Seung Sub | 90 | — | 45k coins | +2.3% | +80% | Esticada |
-| Oyarzabal | 91 | — | 42k coins | +2.5% | +78.3% | Esticada |
-| Sol Campbell | 91 | — | 40k coins | +2.6% | +77.8% | Esticada |
-| Emmanuel Fernandez | 90 | — | 42k coins | +6.2% | +77.1% | Esticada |
-| Nahuel Molina | 91 | — | 100k coins | +6.6% | +69.9% | Esticada |
-| Mariona | 90 | Barclays WSL | 93k coins | +4.5% | +69.1% | Esticada |
-| Carlos Tévez | 93 | — | 118k coins | +31.1% | +68.6% | Esticada |
-| Lindsey Heaps | 90 | D1 Arkema | 90k coins | +21.7% | +66.7% | Esticada |
-| Jens Petter Hauge | 91 | Eliteserien | 60k coins | +20.2% | +64.1% | Esticada |
-| Andriy Shevchenko | 90 | Icons | 84k coins | +12.8% | +62.1% | Esticada |
+| Steffi Jones | 91 | Icons | 84k coins | +6% | +83.3% | Esticada |
+| Emilio Butragueño | 90 | — | 80k coins | +32.2% | +82.9% | Esticada |
+| Oyarzabal | 91 | — | 42k coins | +1.8% | +82.8% | Esticada |
+| Lewis Hall | 90 | — | 45k coins | +2.9% | +81.6% | Esticada |
+| Morgan Gibbs-White | 91 | — | 50k coins | +4% | +80.9% | Esticada |
+| Sol Campbell | 91 | — | 40k coins | +4.6% | +77.8% | Esticada |
+| Patri Guijarro | 90 | Liga F | 100k coins | +4.2% | +72.4% | Esticada |
+| Angelo Stiller | 91 | Bundesliga | 48k coins | +2.1% | +65% | Esticada |
+| Carlos Tévez | 93 | — | 110k coins | +38.6% | +60.8% | Esticada |
+| Fridolina Rolfö | 90 | Barclays WSL | 44k coins | +10% | +60.6% | Esticada |
+| Andriy Shevchenko | 90 | Icons | 80k coins | +7.4% | +60% | Esticada |
+| Khadija Shaw | 91 | Barclays WSL | 191k coins | +29.9% | +55% | Esticada |
+| Carlos Alberto | 91 | Icons | 149k coins | +7.1% | +54.6% | Momentum moderado |
+| Reece James | 91 | — | 50k coins | +4.2% | +53.8% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 103k coins | +15.1% | +53.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Park Ji Sung (91)** — 84k coins, **+89.8% em 7 dias** (+6.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steffi Jones (91)** — 84k coins, **+83.3% em 7 dias** (+6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andy Najar (91)** — 42k coins, **+86.8% em 7 dias** (+3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emilio Butragueño (90)** — 80k coins, **+82.9% em 7 dias** (+32.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Akanji (91)** — 42k coins, **+86.8% em 7 dias** (+2.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oyarzabal (91)** — 42k coins, **+82.8% em 7 dias** (+1.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steffi Jones (91)** — 90k coins, **+84.8% em 7 dias** (+34.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lewis Hall (90)** — 45k coins, **+81.6% em 7 dias** (+2.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley (91)** — 40k coins, **+80.9% em 7 dias** (+1.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Morgan Gibbs-White (91)** — 50k coins, **+80.9% em 7 dias** (+4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Park Ji Sung (91, Eredivisie) lidera, com +89.8% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Steffi Jones (91, Icons) lidera, com +83.3% em 7 dias a 84k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
