@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:58:19.000Z
+pubDatetime: 2026-07-20T16:58:22.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 20/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC."
+    a: "Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lisandro Martínez (95) por apenas 13.000 coins.
+> 💰 **Melhor pechincha:** Stephen Eustáquio (95) por apenas 13.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 20/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-20-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.083 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 13.450 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 12.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lisandro Martínez | 95 | CB | — | 13.000 coins | +10.4% |
-| Noussair Mazraoui | 95 | LB | — | 13.000 coins | +3.8% |
-| Stephen Eustáquio | 95 | CM | — | 13.250 coins | +10.4% |
-| Johan Manzambi | 95 | CAM | — | 13.500 coins | +12.5% |
-| Gregor Kobel | 95 | GK | — | 13.750 coins | +10.4% |
-| Gilberto Mora | 95 | CAM | — | 14.500 coins | +7.4% |
-| Nilson Angulo | 95 | LM | — | 14.500 coins | +10.9% |
-| Gustavo Puerta | 94 | CM | — | 11.750 coins | +8.5% |
-| Luka Vušković | 94 | CB | — | 12.000 coins | +1.9% |
-| Aleksandar Pavlović | 94 | CDM | — | 12.500 coins | +3.8% |
-| Caleb Yirenkyi | 94 | CM | — | 12.500 coins | +3.8% |
-| Roberto Alvarado | 94 | RW | — | 13.000 coins | +10.9% |
-| Diney | 94 | CB | — | 13.000 coins | +8.3% |
-| Renato Veiga | 94 | CB | — | 13.000 coins | +5.7% |
-| Elijah Just | 94 | LW | — | 13.000 coins | +10.6% |
+| Stephen Eustáquio | 95 | CM | — | 13.000 coins | +8.3% |
+| Lisandro Martínez | 95 | CB | — | 13.000 coins | +8.2% |
+| Johan Manzambi | 95 | CAM | — | 13.500 coins | +4% |
+| Gilberto Mora | 95 | CAM | — | 13.500 coins | +1.8% |
+| Gregor Kobel | 95 | GK | — | 13.750 coins | +8.2% |
+| Noussair Mazraoui | 95 | LB | — | 14.000 coins | +1.9% |
+| Zion Suzuki | 95 | GK | — | 14.000 coins | 0% |
+| Roberto Alvarado | 94 | RW | — | 12.500 coins | +6.4% |
+| Gustavo Puerta | 94 | CM | — | 12.500 coins | +6.2% |
+| Diney | 94 | CB | — | 13.000 coins | +6.2% |
+| Elijah Just | 94 | LW | — | 13.000 coins | +6.4% |
+| Renato Veiga | 94 | CB | — | 14.000 coins | +1.8% |
+| Paul Wanner | 94 | CM | — | 14.000 coins | +7.5% |
+| Caleb Yirenkyi | 94 | CM | — | 14.000 coins | +11.3% |
+| Ben Doak | 94 | RM | — | 14.000 coins | +9.6% |
 
 
 ## 📈 Destaques
 
+- **Stephen Eustáquio (95, CM)** da —, a apenas **13.000 coins**
+
 - **Lisandro Martínez (95, CB)** da —, a apenas **13.000 coins**
 
-- **Noussair Mazraoui (95, LB)** da —, a apenas **13.000 coins**
-
-- **Stephen Eustáquio (95, CM)** da —, a apenas **13.250 coins**
-
 - **Johan Manzambi (95, CAM)** da —, a apenas **13.500 coins**
+
+- **Gilberto Mora (95, CAM)** da —, a apenas **13.500 coins**
 
 - **Gregor Kobel (95, GK)** da —, a apenas **13.750 coins**
 
@@ -74,9 +74,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Lisandro Martínez (95, CB) por 13.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Stephen Eustáquio (95, CM) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 13.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roberto Alvarado (94, RW) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Lisandro Martínez (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC.
+Stephen Eustáquio (95, sem liga) aparece como melhor custo-benefício, a 13.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
