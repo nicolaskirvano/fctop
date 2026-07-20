@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:48:42.000Z
+pubDatetime: 2026-07-20T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 20/07 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+3.4% em 24h** e **+77.0% em 7 dias**.
+- A mediana é de **+3.9% em 24h** e **+77.0% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -51,13 +51,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Carolin Simon | 90 | GPFBL | 60k coins | +3.4% | +77.8% | Esticada |
 | Ronald Koeman Jr. | 91 | — | 48k coins | +1.1% | +77.6% | Esticada |
 | Víctor Gómez | 91 | — | 44k coins | +8.6% | +77% | Esticada |
-| Benjamin Nygren | 90 | — | 44k coins | +2.3% | +77% | Esticada |
 | Oliver Kahn | 91 | Icons | 80k coins | +21.2% | +74.9% | Esticada |
-| Lautaro Martínez | 90 | Serie A TIM | 152k coins | +2.6% | +74.3% | Esticada |
-| Uli Hoeneß | 90 | — | 35k coins | +3.9% | +73.1% | Esticada |
+| Lautaro Martínez | 90 | Serie A TIM | 152k coins | +3.3% | +74.3% | Esticada |
+| Uli Hoeneß | 90 | — | 30k coins | +3.9% | +73.1% | Esticada |
 | Josip Šutalo | 90 | Eredivisie | 54k coins | +9.2% | +71.2% | Esticada |
 | Oh Hyeon Gyu | 91 | — | 45k coins | +1.1% | +69.8% | Esticada |
 | Leah Williamson | 95 | Barclays WSL | 186k coins | +6.9% | +68.5% | Esticada |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 55k coins | +23.6% | +66.7% | Esticada |
 
 
 ## 📈 Análise dos destaques

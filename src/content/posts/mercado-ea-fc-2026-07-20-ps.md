@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:48:31.000Z
+pubDatetime: 2026-07-20T10:58:07.000Z
 title: "Mercado EA FC em 20/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Pau Cubarsí (93, sem liga), com +57.1% em 24h, a 33k coins no Console (PS)."
+    a: "Patrick Berg (95, sem liga), com +59% em 24h, a 35k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Emiliano Martínez (96), -47.6% em 24h, a 146k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 367 cartas em alta contra 518 em queda (média -1.32%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 366 cartas em alta contra 529 em queda (média -1.48%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **367 valorizações** contra **518 quedas** entre as cartas relevantes, com média de **-1.32%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **366 valorizações** contra **529 quedas** entre as cartas relevantes, com média de **-1.48%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Pau Cubarsí (93) **+57.1%** · 🔴 **Maior baixa:** Emiliano Martínez (96) **-47.6%**
+> 🟢 **Maior alta:** Patrick Berg (95) **+59%** · 🔴 **Maior baixa:** Emiliano Martínez (96) **-47.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 104.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.5% entre as cartas que se moveram; o universo observado reúne 974 cartas.
+- **Amplitude do dia:** 106.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.9% entre as cartas que se moveram; o universo observado reúne 982 cartas.
 - **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pau Cubarsí | 93 | — | 33k coins | +57.1% | -5.7% |
+| Patrick Berg | 95 | — | 35k coins | +59% | -11.7% |
+| Pau Cubarsí | 93 | — | 32k coins | +57.1% | -5.7% |
+| Sphephelo Sithole | 94 | — | 24k coins | +50.7% | +13.8% |
 | Bixente Lizarazu | 90 | — | 45k coins | +50% | +127.8% |
 | Aurélien Tchouaméni | 92 | — | 150k coins | +48.7% | -43.9% |
-| Sphephelo Sithole | 94 | — | 24k coins | +48.6% | +13.8% |
 | Lauren Hemp | 90 | Barclays WSL | 50k coins | +48.5% | +43.1% |
 | Wendie Renard | 91 | D1 Arkema | 43k coins | +48.3% | +125.3% |
-| Patrick Berg | 95 | — | 35k coins | +47.3% | -10% |
+| Alessia Russo | 90 | Barclays WSL | 64k coins | +45.5% | +42.2% |
 | Nilson Angulo | 95 | — | 49k coins | +42.9% | +25% |
-| Alessia Russo | 90 | Barclays WSL | 64k coins | +39.8% | +44.4% |
-| Willian Pacho | 96 | — | 387k coins | +39.2% | -1.3% |
+| Willian Pacho | 96 | — | 387k coins | +39.2% | -1.5% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Pau Cubarsí (93)** subiu **+57.1%** em 24h, a **33k coins** (faixa do dia: 21k–34k). Está em linha com a média de 7 dias (-8%).
+- **Patrick Berg (95)** subiu **+59%** em 24h, a **35k coins** (faixa do dia: 22k–48k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Bixente Lizarazu (90)** subiu **+50%** em 24h, a **45k coins** (faixa do dia: 30k–45k). Está +21% acima da média de 7 dias (aquecida).
+- **Pau Cubarsí (93)** subiu **+57.1%** em 24h, a **32k coins** (faixa do dia: 21k–34k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (92)** subiu **+48.7%** em 24h, a **150k coins** (faixa do dia: 112k–249k). Está -32% abaixo da média de 7 dias (descontada).
+- **Sphephelo Sithole (94)** subiu **+50.7%** em 24h, a **24k coins** (faixa do dia: 17.000–27k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -75,13 +75,13 @@ Resumo de **20/07/2026** no Console (PS): mercado **de lado** — altas e quedas
 | Emiliano Martínez | 96 | — | 146k coins | -47.6% | -27.8% |
 | Liam Kelly | 90 | — | 72k coins | -44.6% | +25.6% |
 | Aya Miyama | 90 | Icons | 68k coins | -42.4% | +0.7% |
+| Lucas Digne | 96 | — | 87k coins | -39.3% | -83.6% |
 | Caroline Seger | 90 | Icons | 48k coins | -37.5% | +66.7% |
-| Eric Cantona | 92 | — | 94k coins | -37.2% | -11% |
 | Federico Dimarco | 96 | — | 25k coins | -35.9% | -41.5% |
-| Marc Cucurella | 93 | — | 20k coins | -33.3% | -14.9% |
-| Lindsey Heaps | 90 | D1 Arkema | 72k coins | -31.9% | +33.6% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 46k coins | -31.9% | +4.4% |
-| Marcelo | 96 | — | 86k coins | -29.9% | -24.8% |
+| Piero Hincapié | 96 | — | 100k coins | -34.3% | -38.7% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 46k coins | -33.3% | +2.2% |
+| Harry Kewell | 91 | Premier League | 431k coins | -30.7% | -7% |
+| Lindsey Heaps | 90 | D1 Arkema | 72k coins | -30.7% | +33.6% |
 
 
 ### Análise das baixas
@@ -104,7 +104,7 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Pau Cubarsí já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Patrick Berg já avançou 59% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Emiliano Martínez recuou -47.6%; confirme estabilização e liquidez.
 
@@ -118,13 +118,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Pau Cubarsí (93, sem liga), com +57.1% em 24h, a 33k coins no Console (PS).
+Patrick Berg (95, sem liga), com +59% em 24h, a 35k coins no Console (PS).
 
 **E a maior queda do dia?**
 Emiliano Martínez (96), -47.6% em 24h, a 146k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 367 cartas em alta contra 518 em queda (média -1.32%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 366 cartas em alta contra 529 em queda (média -1.48%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

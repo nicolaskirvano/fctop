@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:48:41.000Z
+pubDatetime: 2026-07-20T10:58:17.000Z
 title: "Mercado EA FC em 20/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Azzedine Ounahi (95), -49.8% em 24h, a 243k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 401 cartas em alta contra 441 em queda (média 0.54%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 399 cartas em alta contra 441 em queda (média 0.65%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **401 valorizações** contra **441 quedas** entre as cartas relevantes, com média de **0.54%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **399 valorizações** contra **441 quedas** entre as cartas relevantes, com média de **0.65%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Amir Murillo (92) **+57.9%** · 🔴 **Maior baixa:** Azzedine Ounahi (95) **-49.8%**
 
@@ -36,7 +36,7 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 978 cartas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 977 cartas.
 - **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -48,11 +48,11 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 | Julian Quiñones | 94 | — | 46k coins | +53.1% | -31.9% |
 | Harry Maguire | 90 | Premier League | 272k coins | +52.8% | +7.1% |
 | Lee Dong Kyeong | 94 | — | 53k coins | +52.5% | +12.8% |
-| Christian Pulisic | 96 | — | 136k coins | +51.5% | +20.1% |
 | Fabián Ruiz | 95 | — | 39k coins | +51.5% | +31.1% |
 | Camille Abily | 91 | Icons | 60k coins | +50% | +48.1% |
+| Clara Serrajordi | 96 | — | 599k coins | +49.8% | +47.9% |
 | Bradley Barcola | 90 | Ligue 1 McDonald's | 120k coins | +46.7% | +20.2% |
-| Clara Serrajordi | 96 | — | 599k coins | +46.1% | +47.9% |
+| Christian Pulisic | 96 | — | 135k coins | +46.2% | +15.9% |
 
 
 ### Análise das altas
@@ -74,14 +74,14 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 | --- | --- | --- | --- | --- | --- |
 | Azzedine Ounahi | 95 | — | 243k coins | -49.8% | -17.2% |
 | Rafael Leão | 93 | Serie A TIM | 1.01M coins | -49.1% | -30.1% |
-| Emiliano Martínez | 96 | — | 240k coins | -48.2% | -17.6% |
+| Marc Cucurella | 95 | — | 35k coins | -49% | -12.7% |
+| Emiliano Martínez | 96 | — | 240k coins | -48.2% | -17.9% |
 | Denis Bouanga | 95 | — | 24k coins | -47.8% | -58% |
-| Marc Cucurella | 95 | — | 35k coins | -46.6% | -12.7% |
-| Carlos Romero | 95 | — | 24k coins | -46.2% | -45.1% |
 | Erling Haaland | 91 | Premier League | 176k coins | -45.8% | -20% |
 | Sofyan Amrabat | 91 | LALIGA EA SPORTS | 30k coins | -45.5% | -50% |
 | Keinan Davis | 90 | — | 25k coins | -44.7% | -10% |
 | Pavel Šulc | 91 | — | 23k coins | -43.1% | -7.1% |
+| Patri Guijarro | 90 | Liga F | 48k coins | -42.9% | -19.8% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equili
 
 - **Rafael Leão (93)** caiu **-49.1%** em 24h, a **1.01M coins** (faixa do dia: 1.01M–1.99M). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Martínez (96)** caiu **-48.2%** em 24h, a **240k coins** (faixa do dia: 200k–500k). Está -30% abaixo da média de 7 dias (descontada).
+- **Marc Cucurella (95)** caiu **-49%** em 24h, a **35k coins** (faixa do dia: 31k–84k). Está -48% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Amir Murillo (92, sem liga), com +57.9% em 24h, a 30k coins no PC.
 Azzedine Ounahi (95), -49.8% em 24h, a 243k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 401 cartas em alta contra 441 em queda (média 0.54%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 399 cartas em alta contra 441 em queda (média 0.65%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
