@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:58:18.000Z
+pubDatetime: 2026-07-21T22:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Oh Hyeon Gyu (91, sem liga) lidera, com +85.7% em 7 dias a 57k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julie Foudy (91, Icons) lidera, com +88.5% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Oh Hyeon Gyu (91) acumula **+85.7% em 7 dias** a 57k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Julie Foudy (91) acumula **+88.5% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.5% em 24h** e **+75.0% em 7 dias**.
-- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.4% em 24h** e **+67.4% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oh Hyeon Gyu | 91 | — | 57k coins | +30% | +85.7% | Esticada |
-| Dodi Lukébakio | 94 | — | 140k coins | +6.5% | +85% | Esticada |
-| Max Arfsten | 90 | — | 54k coins | +1.9% | +84.6% | Esticada |
-| Geoff Hurst | 90 | Icons | 94k coins | +6.2% | +80% | Esticada |
-| Issa Diop | 95 | — | 165k coins | +6.2% | +78% | Esticada |
-| Carlos Tévez | 93 | — | 168k coins | +38.8% | +76.8% | Esticada |
-| Alberto Costa | 91 | — | 42k coins | +9.8% | +75% | Esticada |
-| Frida Maanum | 90 | — | 41k coins | +12.9% | +75% | Esticada |
-| Granit Xhaka | 91 | — | 40k coins | +12.5% | +73.1% | Esticada |
-| Camille Abily | 92 | Icons | 74k coins | +2% | +72.4% | Esticada |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 55k coins | +12.8% | +70.5% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 64k coins | +21% | +69.3% | Esticada |
-| Mapi León | 91 | — | 77k coins | +8.5% | +63% | Esticada |
-| Robin Risser | 90 | — | 44k coins | +7.4% | +61.5% | Esticada |
-| Selma Bacha | 94 | — | 80k coins | +6.7% | +60% | Esticada |
+| Julie Foudy | 91 | Icons | 48k coins | +26.4% | +88.5% | Esticada |
+| Dodi Lukébakio | 94 | — | 150k coins | +7.9% | +87.5% | Esticada |
+| Carolin Simon | 90 | GPFBL | 53k coins | +31.7% | +86% | Esticada |
+| Geoff Hurst | 90 | Icons | 94k coins | +7.4% | +80% | Esticada |
+| Oh Hyeon Gyu | 91 | — | 50k coins | +32.5% | +78.6% | Esticada |
+| Carlos Tévez | 93 | — | 156k coins | +17.9% | +73.7% | Esticada |
+| Mapi León | 91 | — | 80k coins | +11.9% | +70.2% | Esticada |
+| Luís Figo | 90 | Icons | 56k coins | +32.9% | +67.4% | Esticada |
+| Matias Fernandez-Pardo | 90 | — | 46k coins | +13.4% | +66.1% | Esticada |
+| Mohamed Salah | 91 | Premier League | 38k coins | +2.7% | +64.8% | Esticada |
+| Nadine Keßler | 90 | GPFBL | 49k coins | +31.3% | +64.2% | Esticada |
+| Josip Šutalo | 90 | Eredivisie | 64k coins | +16.5% | +62.8% | Esticada |
+| Grimaldo | 92 | Bundesliga | 70k coins | +11.1% | +60.9% | Esticada |
+| Selma Bacha | 94 | — | 80k coins | +6% | +59% | Momentum moderado |
+| Tsuyoshi Watanabe | 91 | — | 48k coins | +9.8% | +55.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Oh Hyeon Gyu (91)** — 57k coins, **+85.7% em 7 dias** (+30% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 48k coins, **+88.5% em 7 dias** (+26.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dodi Lukébakio (94)** — 140k coins, **+85% em 7 dias** (+6.5% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dodi Lukébakio (94)** — 150k coins, **+87.5% em 7 dias** (+7.9% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Max Arfsten (90)** — 54k coins, **+84.6% em 7 dias** (+1.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carolin Simon (90)** — 53k coins, **+86% em 7 dias** (+31.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Geoff Hurst (90)** — 94k coins, **+80% em 7 dias** (+6.2% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geoff Hurst (90)** — 94k coins, **+80% em 7 dias** (+7.4% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Issa Diop (95)** — 165k coins, **+78% em 7 dias** (+6.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oh Hyeon Gyu (91)** — 50k coins, **+78.6% em 7 dias** (+32.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Oh Hyeon Gyu (91, sem liga) lidera, com +85.7% em 7 dias a 57k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julie Foudy (91, Icons) lidera, com +88.5% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
