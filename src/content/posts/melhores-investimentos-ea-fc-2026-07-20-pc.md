@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:58:18.000Z
+pubDatetime: 2026-07-21T01:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Mohammed Noor (90, sem liga) lidera, com +88.7% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dennis Bergkamp (91, Icons) lidera, com +89.1% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mohammed Noor (90) acumula **+88.7% em 7 dias** a 36k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dennis Bergkamp (91) acumula **+89.1% em 7 dias** a 130k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+80.0% em 7 dias**.
+- A mediana é de **+15.8% em 24h** e **+83.9% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mohammed Noor | 90 | — | 36k coins | +4% | +88.7% | Esticada |
-| Lauren Hemp | 90 | Barclays WSL | 55k coins | +26.4% | +88% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 78k coins | +33.6% | +87.9% | Esticada |
-| Riley Tiernan | 91 | — | 52k coins | +30% | +85.7% | Esticada |
-| Nikola Vlašić | 91 | — | 45k coins | +12.5% | +83.7% | Esticada |
-| Nene Dorgeles | 91 | — | 45k coins | +33.3% | +81.8% | Esticada |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 38k coins | +17.9% | +80.6% | Esticada |
-| Said El Mala | 90 | — | 45k coins | +1.1% | +80% | Esticada |
-| Patrik Mercado | 91 | — | 40k coins | +6.6% | +76.1% | Esticada |
-| Roy Makaay | 91 | — | 35k coins | +5.6% | +75.9% | Esticada |
-| Sammy Braybrooke | 91 | — | 40k coins | +3.2% | +75.8% | Esticada |
-| Oliver Kahn | 91 | Icons | 80k coins | +1.3% | +74.9% | Esticada |
-| Deniz Undav | 91 | Bundesliga | 170k coins | +30.8% | +70.9% | Esticada |
-| Alberto Costa | 91 | — | 34k coins | +24.2% | +67.4% | Esticada |
-| Mariona | 90 | Barclays WSL | 86k coins | +1.8% | +65.4% | Esticada |
+| Dennis Bergkamp | 91 | Icons | 130k coins | +21% | +89.1% | Esticada |
+| Aoba Fujino | 91 | — | 48k coins | +21.2% | +88.3% | Esticada |
+| Lauren Hemp | 90 | Barclays WSL | 55k coins | +37.5% | +88% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 59k coins | +15.7% | +87.3% | Esticada |
+| Caroline Seger | 90 | Icons | 65k coins | +30.7% | +87.1% | Esticada |
+| Ona Batlle | 90 | Liga F | 50k coins | +5.3% | +85.2% | Esticada |
+| Nikola Vlašić | 91 | — | 45k coins | +7.7% | +84.7% | Esticada |
+| Steffi Jones | 91 | Icons | 80k coins | +31.1% | +83.9% | Esticada |
+| Thomas Strakosha | 91 | — | 43k coins | +2.4% | +82.8% | Esticada |
+| Riley Tiernan | 91 | — | 50k coins | +26.2% | +82% | Esticada |
+| Mohammed Noor | 90 | — | 40k coins | +2.5% | +78.3% | Esticada |
+| Roony Bardghji | 90 | LALIGA EA SPORTS | 54k coins | +15.8% | +77.4% | Esticada |
+| Patrik Mercado | 91 | — | 55k coins | +6.6% | +74.2% | Esticada |
+| Andrea Pirlo | 90 | Icons | 176k coins | +25.9% | +73.1% | Esticada |
+| Sammy Braybrooke | 91 | — | 44k coins | +1.3% | +72.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mohammed Noor (90)** — 36k coins, **+88.7% em 7 dias** (+4% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (91)** — 130k coins, **+89.1% em 7 dias** (+21% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+26.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aoba Fujino (91)** — 48k coins, **+88.3% em 7 dias** (+21.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nuno Tavares (91)** — 78k coins, **+87.9% em 7 dias** (+33.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lauren Hemp (90)** — 55k coins, **+88% em 7 dias** (+37.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riley Tiernan (91)** — 52k coins, **+85.7% em 7 dias** (+30% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovani Lo Celso (91)** — 59k coins, **+87.3% em 7 dias** (+15.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Vlašić (91)** — 45k coins, **+83.7% em 7 dias** (+12.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Caroline Seger (90)** — 65k coins, **+87.1% em 7 dias** (+30.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Mohammed Noor (90, sem liga) lidera, com +88.7% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dennis Bergkamp (91, Icons) lidera, com +89.1% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

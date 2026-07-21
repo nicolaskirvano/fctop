@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:58:19.000Z
+pubDatetime: 2026-07-21T01:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 20/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Johan Manzambi (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Gregor Kobel (95, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Johan Manzambi (95) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Gregor Kobel (95) por apenas 12.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 20/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-20-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 12.564 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 4.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 13.425 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 12.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,42 +40,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Johan Manzambi | 95 | CAM | — | 12.250 coins | +18.8% |
-| Stephen Eustáquio | 95 | CM | — | 12.500 coins | +16.7% |
-| Lisandro Martínez | 95 | CB | — | 13.500 coins | +12.2% |
-| Gregor Kobel | 95 | GK | — | 14.000 coins | +16.7% |
-| Noussair Mazraoui | 95 | LB | — | 14.500 coins | +18.4% |
-| Gustavo Puerta | 94 | CM | — | 13.500 coins | +21.7% |
-| Diney | 94 | CB | — | 13.750 coins | +17% |
-| Roberto Alvarado | 94 | RW | — | 13.750 coins | +22.2% |
-| Elijah Just | 94 | LW | — | 14.000 coins | +15.2% |
-| Renato Veiga | 94 | CB | — | 14.750 coins | +5.4% |
-| Noah Sadiki | 93 | CM | — | 14.000 coins | +11.1% |
-| Bixente Lizarazu | 93 | LB | — | 14.000 coins | -8.8% |
-| Rodri | 90 | CDM | Premier League | 4.500 coins | +40.6% |
-| Virgil van Dijk | 90 | CB | Premier League | 6.900 coins | +58.1% |
+| Gregor Kobel | 95 | GK | — | 12.000 coins | +12.5% |
+| Lisandro Martínez | 95 | CB | — | 13.500 coins | +21.3% |
+| Stephen Eustáquio | 95 | CM | — | 13.750 coins | +17% |
+| Johan Manzambi | 95 | CAM | — | 14.000 coins | +19.1% |
+| Noussair Mazraoui | 95 | LB | — | 14.500 coins | +14.3% |
+| Nilson Angulo | 95 | LM | — | 14.500 coins | +14% |
+| Roberto Alvarado | 94 | RW | — | 12.750 coins | +13% |
+| Diney | 94 | CB | — | 13.000 coins | +15.2% |
+| Elijah Just | 94 | LW | — | 13.000 coins | +13% |
+| Gustavo Puerta | 94 | CM | — | 13.250 coins | +15.6% |
 
 
 ## 📈 Destaques
 
-- **Johan Manzambi (95, CAM)** da —, a apenas **12.250 coins**
+- **Gregor Kobel (95, GK)** da —, a apenas **12.000 coins**
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **12.500 coins**
+- **Lisandro Martínez (95, CB)** da —, a apenas **13.500 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **13.500 coins**
+- **Stephen Eustáquio (95, CM)** da —, a apenas **13.750 coins**
 
-- **Gregor Kobel (95, GK)** da —, a apenas **14.000 coins**
+- **Johan Manzambi (95, CAM)** da —, a apenas **14.000 coins**
 
 - **Noussair Mazraoui (95, LB)** da —, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lisandro Martínez (95, CB) por 13.500 coins é a referência de rating deste recorte.
+- **Defesa:** Gregor Kobel (95, GK) por 12.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Johan Manzambi (95, CAM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 13.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roberto Alvarado (94, RW) por 13.750 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -94,7 +90,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Johan Manzambi (95, sem liga) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Gregor Kobel (95, sem liga) aparece como melhor custo-benefício, a 12.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
