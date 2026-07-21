@@ -7,12 +7,12 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denis Bouanga</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">David Alaba</text>
-<rect x="285" y="153" width="469" height="28" rx="7" fill="#22c55e"/>
-<text x="764" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dodi Lukébakio</text>
-<rect x="285" y="211" width="462" height="28" rx="7" fill="#22c55e"/>
-<text x="757" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dodi Lukébakio</text>
+<rect x="285" y="153" width="462" height="28" rx="7" fill="#22c55e"/>
+<text x="757" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jakob Glesnes</text>
+<rect x="285" y="211" width="456" height="28" rx="7" fill="#22c55e"/>
+<text x="751" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alberto Costa</text>
 <rect x="285" y="269" width="454" height="28" rx="7" fill="#22c55e"/>
 <text x="749" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.7%</text>
@@ -20,6 +20,6 @@
 <rect x="285" y="327" width="450" height="28" rx="7" fill="#22c55e"/>
 <text x="745" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.3%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Arda Güler</text>
-<rect x="285" y="385" width="440" height="28" rx="7" fill="#22c55e"/>
-<text x="735" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.0%</text>
+<rect x="285" y="385" width="434" height="28" rx="7" fill="#22c55e"/>
+<text x="729" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
 </svg>

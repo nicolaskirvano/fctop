@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:48:33.000Z
+pubDatetime: 2026-07-21T10:58:19.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 21/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 14.000 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
+- **Preço médio das 15 opções:** 13.933 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
 - **Faixa real:** 13.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Stephen Eustáquio | 95 | CM | — | 14.000 coins | +10% |
 | Johan Manzambi | 95 | CAM | — | 14.000 coins | +7.7% |
 | Gregor Kobel | 95 | GK | — | 14.000 coins | +7.7% |
-| Noussair Mazraoui | 95 | LB | — | 14.000 coins | +9.4% |
+| Noussair Mazraoui | 95 | LB | — | 14.000 coins | +7.4% |
 | Lisandro Martínez | 95 | CB | — | 14.500 coins | +7.7% |
-| Gilberto Mora | 95 | CAM | — | 14.750 coins | +6.9% |
 | Kerim Alajbegović | 95 | LM | — | 14.750 coins | 0% |
-| Elijah Just | 94 | LW | — | 13.000 coins | +4% |
-| Roberto Alvarado | 94 | RW | — | 13.000 coins | +6% |
+| Zion Suzuki | 95 | GK | — | 14.750 coins | +1.5% |
+| Gilberto Mora | 95 | CAM | — | 14.750 coins | +6.9% |
 | Gustavo Puerta | 94 | CM | — | 13.000 coins | +6.1% |
-| Diney | 94 | CB | — | 13.500 coins | +8% |
+| Roberto Alvarado | 94 | RW | — | 13.000 coins | +6% |
+| Elijah Just | 94 | LW | — | 13.000 coins | +4% |
+| Diney | 94 | CB | — | 13.500 coins | +3.9% |
 | Aleksandar Pavlović | 94 | CDM | — | 13.750 coins | +7.1% |
+| Sidny Cabral | 93 | LB | — | 13.500 coins | +12.3% |
 | Kojo Peprah Oppong | 93 | CB | — | 14.500 coins | +5.4% |
-| Sidny Cabral | 93 | LB | — | 14.500 coins | +12.3% |
-| Noah Sadiki | 93 | CM | — | 14.750 coins | +7.1% |
 
 
 ## 📈 Destaques
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Stephen Eustáquio (95, CM) por 14.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Elijah Just (94, LW) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Roberto Alvarado (94, RW) por 13.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

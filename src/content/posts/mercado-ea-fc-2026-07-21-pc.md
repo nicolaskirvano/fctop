@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:48:30.000Z
+pubDatetime: 2026-07-21T10:58:17.000Z
 title: "Mercado EA FC em 21/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Dennis Bergkamp (91), -47.6% em 24h, a 50k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 458 cartas em alta contra 403 em queda (média 5.59%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 458 cartas em alta contra 398 em queda (média 5.56%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **458 subiram**, **403 caíram** (80+ e 5k+ coins), média de **5.59%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **458 subiram**, **398 caíram** (80+ e 5k+ coins), média de **5.56%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Denis Bouanga (95) **+60%** · 🔴 **Maior baixa:** Dennis Bergkamp (91) **-47.6%**
 
@@ -36,7 +36,7 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.2% entre as cartas que se moveram; o universo observado reúne 956 cartas.
+- **Participação das altas:** 53.5% entre as cartas que se moveram; o universo observado reúne 955 cartas.
 - **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,15 +44,15 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Denis Bouanga | 95 | — | 34k coins | +60% | -43.8% |
-| David Alaba | 94 | — | 37k coins | +58.6% | -12.8% |
 | Dodi Lukébakio | 94 | — | 142k coins | +57.8% | +234.1% |
+| Jakob Glesnes | 93 | — | 30k coins | +57% | +31.1% |
 | Alberto Costa | 91 | — | 42k coins | +56.7% | +111.2% |
 | Ezri Konsa | 96 | — | 161k coins | +56.3% | -46.3% |
-| Arda Güler | 94 | — | 49k coins | +55% | -8.3% |
+| Arda Güler | 94 | — | 49k coins | +54.3% | -8.7% |
 | Vladimír Coufal | 91 | — | 37k coins | +54% | +29.4% |
 | Mario Gomez | 92 | — | 30k coins | +53.8% | -14.3% |
 | Franz Beckenbauer | 94 | — | 410k coins | +53.6% | +25.8% |
-| Jakob Glesnes | 93 | — | 30k coins | +53.4% | +31.1% |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 74k coins | +52.8% | +131% |
 
 
 ### Análise das altas
@@ -63,25 +63,25 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 - **Denis Bouanga (95)** subiu **+60%** em 24h, a **34k coins** (faixa do dia: 22k–35k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **David Alaba (94)** subiu **+58.6%** em 24h, a **37k coins** (faixa do dia: 21k–50k). Está em linha com a média de 7 dias (+2%).
-
 - **Dodi Lukébakio (94)** subiu **+57.8%** em 24h, a **142k coins** (faixa do dia: 124k–150k). Está +55% acima da média de 7 dias (aquecida).
+
+- **Jakob Glesnes (93)** subiu **+57%** em 24h, a **30k coins** (faixa do dia: 21k–40k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 91 | Icons | 50k coins | -47.6% | +5.3% |
+| Dennis Bergkamp | 91 | Icons | 50k coins | -47.6% | +4.7% |
 | Aya Miyama | 91 | Icons | 32k coins | -47.5% | +2.4% |
-| Deniz Undav | 91 | Bundesliga | 62k coins | -47% | -44.1% |
-| Ryan Gravenberch | 93 | Premier League | 134k coins | -44.4% | -36.2% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 78k coins | -44.3% | -29.7% |
+| Deniz Undav | 91 | Bundesliga | 82k coins | -47% | -44.1% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 76k coins | -44.3% | -30.4% |
+| Ryan Gravenberch | 93 | Premier League | 134k coins | -43.7% | -36.2% |
+| Virgil van Dijk | 90 | Premier League | 2.48M coins | -42.1% | -14.1% |
+| Cristian Roldan | 94 | — | 24k coins | -41.2% | 0% |
 | Kevin Mac Allister | 94 | — | 22k coins | -41.1% | -28.3% |
 | Adam Wharton | 96 | — | 890k coins | -40.7% | -49.1% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1M coins | -38.9% | -58.3% |
-| Marco van Basten | 91 | Icons | 70k coins | -36.8% | -16.3% |
-| Harry Kane | 90 | Bundesliga | 158k coins | -35.5% | +21.5% |
+| Marco van Basten | 91 | Icons | 70k coins | -36.2% | -16.3% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 - **Aya Miyama (91)** caiu **-47.5%** em 24h, a **32k coins** (faixa do dia: 32k–60k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Deniz Undav (91)** caiu **-47%** em 24h, a **62k coins** (faixa do dia: 57k–170k). Está -48% abaixo da média de 7 dias (descontada).
+- **Deniz Undav (91)** caiu **-47%** em 24h, a **82k coins** (faixa do dia: 57k–170k). Está -31% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Denis Bouanga (95, sem liga), com +60% em 24h, a 34k coins no PC.
 Dennis Bergkamp (91), -47.6% em 24h, a 50k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 458 cartas em alta contra 403 em queda (média 5.59%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 458 cartas em alta contra 398 em queda (média 5.56%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
