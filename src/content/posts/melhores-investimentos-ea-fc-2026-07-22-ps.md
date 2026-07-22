@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:58:09.000Z
+pubDatetime: 2026-07-22T19:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Momoko Tanikawa (91, sem liga) lidera, com +89.7% em 7 dias a 53k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Riley Tiernan (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Momoko Tanikawa (91) acumula **+89.7% em 7 dias** a 53k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Riley Tiernan (91) acumula **+89.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.4% em 24h** e **+78.7% em 7 dias**.
+- A mediana é de **+21.1% em 24h** e **+81.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Momoko Tanikawa | 91 | — | 53k coins | +39.2% | +89.7% | Esticada |
-| Michael Boxall | 91 | — | 48k coins | +31.2% | +89% | Esticada |
-| Gianluca Vialli | 91 | — | 50k coins | +19% | +88.7% | Esticada |
-| Olivia Holdt | 90 | — | 26k coins | +28.9% | +84.5% | Esticada |
-| Oh Hyeon Gyu | 91 | — | 50k coins | +28.6% | +81.7% | Esticada |
-| Melle Meulensteen | 91 | — | 50k coins | +32.5% | +80.2% | Esticada |
-| Dodi Lukébakio | 94 | — | 131k coins | +15.6% | +80% | Esticada |
-| Benjamin Nygren | 90 | — | 55k coins | +25.3% | +78.7% | Esticada |
-| Lucie Calba | 91 | — | 49k coins | +24.4% | +77.4% | Esticada |
-| Ricardo Horta | 90 | Liga Portugal | 50k coins | +20% | +77% | Esticada |
-| Aoba Fujino | 91 | — | 50k coins | +37.9% | +77% | Esticada |
-| Dara O'Shea | 91 | — | 50k coins | +22.6% | +74.1% | Esticada |
-| Oumar Camara | 90 | — | 51k coins | +13.9% | +74.1% | Esticada |
-| Nene Dorgeles | 91 | — | 39k coins | +22.6% | +72.7% | Esticada |
-| Reyes Cleary | 90 | — | 56k coins | +18.3% | +70.9% | Esticada |
+| Riley Tiernan | 91 | — | 55k coins | +39.2% | +89.7% | Esticada |
+| Manuel Akanji | 91 | — | 55k coins | +37.5% | +84.9% | Esticada |
+| Mohammed Noor | 90 | — | 55k coins | +20.2% | +84.9% | Esticada |
+| Max Arfsten | 90 | — | 55k coins | +21.1% | +84.7% | Esticada |
+| Keisuke Goto | 90 | — | 60k coins | +20.6% | +84.6% | Esticada |
+| Julie Swierot | 90 | — | 55k coins | +14.6% | +83.3% | Esticada |
+| Lucie Calba | 91 | — | 55k coins | +32.5% | +83.3% | Esticada |
+| Gabriel Villamíl | 91 | — | 52k coins | +14.6% | +81.8% | Esticada |
+| Nikola Vlašić | 91 | — | 54k coins | +21.1% | +81.7% | Esticada |
+| Maghnes Akliouche | 91 | — | 54k coins | +34.6% | +81% | Esticada |
+| Lily Yohannes | 91 | — | 48k coins | +17.3% | +81% | Esticada |
+| Melle Meulensteen | 91 | — | 50k coins | +11.1% | +80.2% | Esticada |
+| Mahamadou Doumbia | 91 | — | 54k coins | +25.6% | +80% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 75k coins | +22.4% | +79.5% | Esticada |
+| Kerem Aktürkoğlu | 91 | — | 50k coins | +22% | +77% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Momoko Tanikawa (91)** — 53k coins, **+89.7% em 7 dias** (+39.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riley Tiernan (91)** — 55k coins, **+89.7% em 7 dias** (+39.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 48k coins, **+89% em 7 dias** (+31.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Akanji (91)** — 55k coins, **+84.9% em 7 dias** (+37.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Vialli (91)** — 50k coins, **+88.7% em 7 dias** (+19% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohammed Noor (90)** — 55k coins, **+84.9% em 7 dias** (+20.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Olivia Holdt (90)** — 26k coins, **+84.5% em 7 dias** (+28.9% em 24h). Preço -40% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Max Arfsten (90)** — 55k coins, **+84.7% em 7 dias** (+21.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Oh Hyeon Gyu (91)** — 50k coins, **+81.7% em 7 dias** (+28.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Keisuke Goto (90)** — 60k coins, **+84.6% em 7 dias** (+20.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Momoko Tanikawa (91, sem liga) lidera, com +89.7% em 7 dias a 53k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Riley Tiernan (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

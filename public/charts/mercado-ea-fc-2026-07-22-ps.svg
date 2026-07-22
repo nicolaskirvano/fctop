@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mapi León</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Samuel Eto&#x27;o</text>
-<rect x="285" y="153" width="448" height="28" rx="7" fill="#22c55e"/>
-<text x="743" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark McKenzie</text>
-<rect x="285" y="211" width="434" height="28" rx="7" fill="#22c55e"/>
-<text x="729" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nilson Angulo</text>
-<rect x="285" y="269" width="416" height="28" rx="7" fill="#22c55e"/>
-<text x="711" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
-<rect x="285" y="327" width="410" height="28" rx="7" fill="#22c55e"/>
-<text x="705" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Valery</text>
-<rect x="285" y="385" width="403" height="28" rx="7" fill="#22c55e"/>
-<text x="698" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Reece James</text>
+<rect x="285" y="153" width="460" height="28" rx="7" fill="#22c55e"/>
+<text x="755" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marta</text>
+<rect x="285" y="211" width="454" height="28" rx="7" fill="#22c55e"/>
+<text x="749" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Moussa Diaby</text>
+<rect x="285" y="269" width="432" height="28" rx="7" fill="#22c55e"/>
+<text x="727" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<rect x="285" y="327" width="424" height="28" rx="7" fill="#22c55e"/>
+<text x="719" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julian Ryerson</text>
+<rect x="285" y="385" width="424" height="28" rx="7" fill="#22c55e"/>
+<text x="719" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.6%</text>
 </svg>

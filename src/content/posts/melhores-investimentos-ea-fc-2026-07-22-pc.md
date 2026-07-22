@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:58:18.000Z
+pubDatetime: 2026-07-22T19:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Oumar Camara (90, sem liga) lidera, com +84.9% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Oumar Camara (90) acumula **+84.9% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Melle Meulensteen (91) acumula **+89.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.6% em 24h** e **+75.0% em 7 dias**.
+- A mediana é de **+11.7% em 24h** e **+78.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oumar Camara | 90 | — | 55k coins | +19.6% | +84.9% | Esticada |
-| David Ayala | 91 | — | 52k coins | +25.7% | +81.9% | Esticada |
-| Craig Halkett | 91 | — | 54k coins | +17.8% | +81.7% | Esticada |
-| Darwin Núñez | 90 | ROSHN Saudi League | 157k coins | +3.9% | +77.8% | Esticada |
-| Lucie Calba | 91 | — | 47k coins | +17.3% | +77.6% | Esticada |
-| Patri Guijarro | 90 | Liga F | 68k coins | +2.9% | +77.4% | Esticada |
-| Vangelis Pavlidis | 90 | Liga Portugal | 68k coins | +8.5% | +76.2% | Esticada |
-| Gustaf Lagerbielke | 91 | — | 50k coins | +10.3% | +75% | Esticada |
-| Fermín | 91 | — | 43k coins | +23.8% | +73.7% | Esticada |
-| Vladimír Coufal | 91 | — | 54k coins | +39.2% | +73.2% | Esticada |
-| Rayan Aït-Nouri | 90 | Premier League | 75k coins | +32.7% | +72.5% | Esticada |
-| Yan Valery | 91 | — | 48k coins | +37% | +72.4% | Esticada |
-| Nadia Krezyman | 90 | D1 Arkema | 79k coins | +5.3% | +71.7% | Esticada |
-| Dara O'Shea | 91 | — | 45k coins | +29.1% | +71.7% | Esticada |
-| Nawaf Boushal | 91 | — | 49k coins | +32.1% | +71.7% | Esticada |
+| Melle Meulensteen | 91 | — | 55k coins | +30.2% | +89.7% | Esticada |
+| Robert Pirès | 90 | — | 58k coins | +22.1% | +87.1% | Esticada |
+| Gustaf Lagerbielke | 91 | — | 48k coins | +20.9% | +83.7% | Esticada |
+| Thomas Meunier | 92 | — | 42k coins | +10.1% | +83.1% | Esticada |
+| Gianluca Vialli | 91 | — | 50k coins | +26.6% | +81.8% | Esticada |
+| Mohammed Noor | 90 | — | 60k coins | +33.3% | +80.5% | Esticada |
+| Manuel Akanji | 91 | — | 49k coins | +22.7% | +80% | Esticada |
+| Michael Boxall | 91 | — | 47k coins | +5.8% | +78.6% | Esticada |
+| Kerem Aktürkoğlu | 91 | — | 49k coins | +5.9% | +78.2% | Esticada |
+| Lily Yohannes | 91 | — | 40k coins | +1% | +72.4% | Esticada |
+| Julian Ryerson | 93 | — | 94k coins | +4.4% | +71.8% | Esticada |
+| Julie Swierot | 90 | — | 65k coins | +11.7% | +70.4% | Esticada |
+| Lilly Reale | 91 | — | 50k coins | +8.7% | +69.5% | Esticada |
+| Aoba Fujino | 91 | — | 38k coins | +26.6% | +68.1% | Esticada |
+| Enzo Francescoli | 90 | — | 55k coins | +11.1% | +67.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Oumar Camara (90)** — 55k coins, **+84.9% em 7 dias** (+19.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (91)** — 55k coins, **+89.7% em 7 dias** (+30.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Ayala (91)** — 52k coins, **+81.9% em 7 dias** (+25.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robert Pirès (90)** — 58k coins, **+87.1% em 7 dias** (+22.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Craig Halkett (91)** — 54k coins, **+81.7% em 7 dias** (+17.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gustaf Lagerbielke (91)** — 48k coins, **+83.7% em 7 dias** (+20.9% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Darwin Núñez (90)** — 157k coins, **+77.8% em 7 dias** (+3.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Thomas Meunier (92)** — 42k coins, **+83.1% em 7 dias** (+10.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lucie Calba (91)** — 47k coins, **+77.6% em 7 dias** (+17.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Vialli (91)** — 50k coins, **+81.8% em 7 dias** (+26.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Oumar Camara (90, sem liga) lidera, com +84.9% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Melle Meulensteen (91, sem liga) lidera, com +89.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
