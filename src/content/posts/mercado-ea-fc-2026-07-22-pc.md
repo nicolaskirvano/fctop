@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T13:58:17.000Z
+pubDatetime: 2026-07-22T16:58:17.000Z
 title: "Mercado EA FC em 22/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Liam Kelly (90, sem liga), com +59.4% em 24h, a 82k coins no PC."
+    a: "Rúben Neves (95, sem liga), com +59.6% em 24h, a 78k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jules Koundé (98), -49.2% em 24h, a 900k coins."
+    a: "Alessia Russo (90), -50% em 24h, a 52k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 300 cartas em alta contra 531 em queda (média -2.36%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 282 cartas em alta contra 548 em queda (média -3.8%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **300 subiram** e **531 caíram**, com variação média de **-2.36%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **282 subiram** e **548 caíram**, com variação média de **-3.8%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Liam Kelly (90) **+59.4%** · 🔴 **Maior baixa:** Jules Koundé (98) **-49.2%**
+> 🟢 **Maior alta:** Rúben Neves (95) **+59.6%** · 🔴 **Maior baixa:** Alessia Russo (90) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,23 +35,23 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.1% entre as cartas que se moveram; o universo observado reúne 930 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.0% entre as cartas que se moveram; o universo observado reúne 921 cartas.
+- **Concentração:** Premier League aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Liam Kelly | 90 | — | 82k coins | +59.4% | +69% |
-| Rúben Neves | 95 | — | 87k coins | +56.8% | +74% |
-| Zlatan Ibrahimović | 95 | Icons | 7.78M coins | +56.4% | +16.5% |
-| Isina Corte | 90 | — | 60k coins | +55.1% | +101.7% |
-| Xavi | 91 | Icons | 190k coins | +54.8% | +71.1% |
+| Rúben Neves | 95 | — | 78k coins | +59.6% | +93.3% |
+| William Saliba | 94 | Premier League | 580k coins | +56.2% | +16.3% |
+| Jay-Jay Okocha | 90 | Premier League | 288k coins | +55.7% | -6.5% |
+| Josip Šutalo | 90 | Eredivisie | 70k coins | +55.6% | +81.8% |
 | Erling Haaland | 92 | Premier League | 500k coins | +54.3% | +85.2% |
-| Julian Quiñones | 94 | — | 58k coins | +52.7% | -37.9% |
-| Jay-Jay Okocha | 90 | Premier League | 285k coins | +52.4% | -7.5% |
-| Ingrid Syrstad Engen | 93 | — | 34k coins | +51.1% | +18.3% |
+| Carlos Alberto | 91 | Icons | 137k coins | +54.2% | -16.9% |
+| Roberto Lopes | 95 | — | 40k coins | +52.6% | -16.5% |
+| Paulo Futre | 92 | Liga Portugal | 139k coins | +52.6% | -6.3% |
+| Antonee Robinson | 94 | — | 20k coins | +52.5% | -39% |
 | Iván Zamorano | 91 | LALIGA EA SPORTS | 120k coins | +50% | +40.4% |
 
 
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Liam Kelly (90)** subiu **+59.4%** em 24h, a **82k coins** (faixa do dia: 44k–87k). Está +30% acima da média de 7 dias (aquecida).
+- **Rúben Neves (95)** subiu **+59.6%** em 24h, a **78k coins** (faixa do dia: 40k–87k). Está +58% acima da média de 7 dias (aquecida).
 
-- **Rúben Neves (95)** subiu **+56.8%** em 24h, a **87k coins** (faixa do dia: 32k–87k). Está +78% acima da média de 7 dias (aquecida).
+- **William Saliba (94)** subiu **+56.2%** em 24h, a **580k coins** (faixa do dia: 351k–600k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Zlatan Ibrahimović (95)** subiu **+56.4%** em 24h, a **7.78M coins** (faixa do dia: 4.49M–11.05M). Está +12% acima da média de 7 dias (aquecida).
+- **Jay-Jay Okocha (90)** subiu **+55.7%** em 24h, a **288k coins** (faixa do dia: 185k–288k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jules Koundé | 98 | — | 900k coins | -49.2% | -58.3% |
-| Vini Jr. | 97 | — | 1.35M coins | -49% | -73.5% |
-| Ayyoub Bouaddi | 95 | — | 20k coins | -48.7% | -32.5% |
-| Enzo Fernández | 91 | Premier League | 58k coins | -48.3% | -44.9% |
-| Unai Simón | 90 | LALIGA EA SPORTS | 47k coins | -47.2% | -25.8% |
-| Tristan Crama | 92 | — | 22k coins | -47% | -20% |
-| Alex Morgan | 91 | Icons | 1.01M coins | -46.7% | -27.6% |
-| Mikel Merino | 95 | — | 48k coins | -43.5% | -50.2% |
-| Milan Škriniar | 93 | — | 24k coins | -41.6% | -5.8% |
-| Maxence Lacroix | 96 | — | 1.86M coins | -40.2% | -51.5% |
+| Alessia Russo | 90 | — | 52k coins | -50% | -19% |
+| Pau Cubarsí | 99 | — | 690k coins | -49.7% | — |
+| Vitinha | 97 | — | 340k coins | -46.9% | -65.1% |
+| Franz Beckenbauer | 97 | — | 701k coins | -46.1% | -63.5% |
+| Paolo Maldini | 95 | — | 783k coins | -44.7% | -42.8% |
+| Jonathan Tah | 95 | — | 98k coins | -44% | -67.8% |
+| Matty Cash | 96 | — | 350k coins | -43.5% | -48.1% |
+| Salma Paralluelo | 96 | — | 1.70M coins | -43.3% | -55.8% |
+| Thierry Henry | 96 | — | 1.20M coins | -42.7% | -42.6% |
+| Bukayo Saka | 98 | — | 1.18M coins | -41.9% | -61.9% |
 
 
 ### Análise das baixas
 
-- **Jules Koundé (98)** caiu **-49.2%** em 24h, a **900k coins** (faixa do dia: 900k–2.05M). Está -64% abaixo da média de 7 dias (descontada).
+- **Alessia Russo (90)** caiu **-50%** em 24h, a **52k coins** (faixa do dia: 44k–115k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Vini Jr. (97)** caiu **-49%** em 24h, a **1.35M coins** (faixa do dia: 1.03M–3.40M). Está -60% abaixo da média de 7 dias (descontada).
+- **Pau Cubarsí (99)** caiu **-49.7%** em 24h, a **690k coins** (faixa do dia: 611k–2.45M). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Ayyoub Bouaddi (95)** caiu **-48.7%** em 24h, a **20k coins** (faixa do dia: 19.500–43k). Está -43% abaixo da média de 7 dias (descontada).
+- **Vitinha (97)** caiu **-46.9%** em 24h, a **340k coins** (faixa do dia: 340k–630k). Está -53% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Liam Kelly já avançou 59.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rúben Neves já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jules Koundé recuou -49.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alessia Russo recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Liam Kelly (90, sem liga), com +59.4% em 24h, a 82k coins no PC.
+Rúben Neves (95, sem liga), com +59.6% em 24h, a 78k coins no PC.
 
 **E a maior queda do dia?**
-Jules Koundé (98), -49.2% em 24h, a 900k coins.
+Alessia Russo (90), -50% em 24h, a 52k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 300 cartas em alta contra 531 em queda (média -2.36%).
+Hoje o mercado está em baixa — predominam as quedas, com 282 cartas em alta contra 548 em queda (média -3.8%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
