@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:50:03.000Z
+pubDatetime: 2026-07-22T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.8% em 24h** e **+80.8% em 7 dias**.
+- A mediana é de **+22.8% em 24h** e **+80.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -46,12 +46,12 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Julie Swierot | 90 | — | 51k coins | +20.6% | +87.7% | Esticada |
 | Nathan Zézé | 91 | — | 45k coins | +22.1% | +86.1% | Esticada |
 | Aoba Fujino | 91 | — | 54k coins | +22.5% | +84.9% | Esticada |
-| Michael Boxall | 91 | — | 30k coins | +25.2% | +84% | Esticada |
 | Leela Egli | 91 | — | 49k coins | +5.9% | +81.5% | Esticada |
 | Nikola Vlašić | 91 | — | 50k coins | +38.2% | +80.9% | Esticada |
 | Said El Mala | 90 | — | 49k coins | +22.8% | +80.9% | Esticada |
 | Yan Valery | 91 | — | 47k coins | +28.8% | +80.8% | Esticada |
 | Sol Campbell | 91 | — | 41k coins | +31.8% | +80.6% | Esticada |
+| Michael Boxall | 91 | — | 30k coins | +22.4% | +80% | Esticada |
 | Roy Makaay | 91 | — | 49k coins | +24.8% | +79.8% | Esticada |
 | Ahmed Fathi | 91 | — | 50k coins | +34.5% | +79.3% | Esticada |
 | Kerem Aktürkoğlu | 91 | — | 45k coins | +25% | +78.2% | Esticada |
@@ -68,9 +68,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Aoba Fujino (91)** — 54k coins, **+84.9% em 7 dias** (+22.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 30k coins, **+84% em 7 dias** (+25.2% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Leela Egli (91)** — 49k coins, **+81.5% em 7 dias** (+5.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Nikola Vlašić (91)** — 50k coins, **+80.9% em 7 dias** (+38.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

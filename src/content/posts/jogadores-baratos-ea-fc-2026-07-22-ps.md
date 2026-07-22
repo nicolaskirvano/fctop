@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:50:05.000Z
+pubDatetime: 2026-07-22T10:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 22/07 — Console (PS)"
 draft: false
 featured: false
