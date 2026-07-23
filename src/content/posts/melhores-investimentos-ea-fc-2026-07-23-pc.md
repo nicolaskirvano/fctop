@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:58:19.000Z
+pubDatetime: 2026-07-23T13:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.8% em 24h** e **+63.3% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+69.5% em 7 dias**.
+- **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ahmed Fathi | 91 | — | 55k coins | +14.6% | +83.3% | Esticada |
-| Reece James | 91 | — | 70k coins | +33.3% | +77.8% | Esticada |
-| Julie Foudy | 91 | Icons | 60k coins | +23.7% | +66.7% | Esticada |
-| Michael Boxall | 91 | — | 50k coins | +5.3% | +66.7% | Esticada |
-| Lily Yohannes | 91 | — | 50k coins | +4.8% | +65% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 230k coins | +19.8% | +64.3% | Esticada |
-| Joaquín Panichelli | 91 | — | 45k coins | +11.8% | +63.6% | Esticada |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 20k coins | +5.3% | +63.3% | Esticada |
-| Josip Šutalo | 90 | Eredivisie | 70k coins | +9.4% | +54.7% | Momentum moderado |
-| David Ayala | 91 | — | 60k coins | +39.2% | +54.5% | Esticada |
-| Kerem Aktürkoğlu | 91 | — | 55k coins | +25.1% | +54% | Esticada |
-| Gianluca Vialli | 91 | — | 50k coins | +13.6% | +53.8% | Momentum moderado |
-| Sidny Cabral | 93 | — | 15.500 coins | +20% | +53.2% | Esticada |
-| Klara Bühl | 93 | — | 94k coins | +23.5% | +52.4% | Esticada |
-| Fermín | 91 | — | 51k coins | +24.9% | +52.3% | Esticada |
+| Ahmed Fathi | 91 | — | 55k coins | +22.2% | +83.3% | Esticada |
+| Simone Laudehr | 91 | GPFBL | 54k coins | +36.2% | +81.7% | Esticada |
+| Aymeric Laporte | 90 | LALIGA EA SPORTS | 90k coins | +5.9% | +80% | Esticada |
+| Steph Catley | 90 | Barclays WSL | 106k coins | +3.8% | +76% | Esticada |
+| Birgit Prinz | 93 | Icons | 74k coins | +2.1% | +75% | Esticada |
+| Joaquín Panichelli | 91 | — | 50k coins | +6.7% | +74.5% | Esticada |
+| Valentín Barco | 95 | — | 30k coins | +30.2% | +73.6% | Esticada |
+| Maghnes Akliouche | 91 | — | 50k coins | +29% | +69.5% | Esticada |
+| Birgit Prinz | 94 | — | 50k coins | +12.5% | +67.8% | Esticada |
+| Lily Yohannes | 91 | — | 50k coins | +11.1% | +66.7% | Esticada |
+| Jude Bellingham | 90 | LALIGA EA SPORTS | 20k coins | +2.6% | +66.7% | Esticada |
+| Julie Foudy | 91 | Icons | 60k coins | +29% | +66.7% | Esticada |
+| Gustaf Lagerbielke | 91 | — | 50k coins | +9.9% | +66.7% | Esticada |
+| Sofyan Amrabat | 91 | LALIGA EA SPORTS | 110k coins | +1.9% | +65.4% | Esticada |
+| Franz Beckenbauer | 92 | Icons | 230k coins | +17.3% | +64.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ahmed Fathi (91)** — 55k coins, **+83.3% em 7 dias** (+14.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmed Fathi (91)** — 55k coins, **+83.3% em 7 dias** (+22.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Reece James (91)** — 70k coins, **+77.8% em 7 dias** (+33.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Simone Laudehr (91)** — 54k coins, **+81.7% em 7 dias** (+36.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (91)** — 60k coins, **+66.7% em 7 dias** (+23.7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aymeric Laporte (90)** — 90k coins, **+80% em 7 dias** (+5.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Boxall (91)** — 50k coins, **+66.7% em 7 dias** (+5.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steph Catley (90)** — 106k coins, **+76% em 7 dias** (+3.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (91)** — 50k coins, **+65% em 7 dias** (+4.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Birgit Prinz (93)** — 74k coins, **+75% em 7 dias** (+2.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

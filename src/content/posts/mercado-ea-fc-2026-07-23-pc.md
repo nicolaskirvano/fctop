@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:58:17.000Z
+pubDatetime: 2026-07-23T13:58:17.000Z
 title: "Mercado EA FC em 23/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Angelo Stiller (94, sem liga), com +58.8% em 24h, a 33k coins no PC."
+    a: "Hannah Hampton (92, sem liga), com +59.1% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Khvicha Kvaratskhelia (91), -50% em 24h, a 600k coins."
+    a: "Youri Tielemans (96), -50% em 24h, a 264k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 419 cartas em alta contra 437 em queda (média 2.93%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 392 cartas em alta contra 433 em queda (média 2.12%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **419 em alta** e **437 em queda**, média de **2.93%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **392 em alta** e **433 em queda**, média de **2.12%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Angelo Stiller (94) **+58.8%** · 🔴 **Maior baixa:** Khvicha Kvaratskhelia (91) **-50%**
+> 🟢 **Maior alta:** Hannah Hampton (92) **+59.1%** · 🔴 **Maior baixa:** Youri Tielemans (96) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 966 cartas.
-- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 942 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 94 | — | 33k coins | +58.8% | -9.4% |
-| Carolin Simon | 90 | GPFBL | 70k coins | +58% | +39% |
-| Alessia Russo | 90 | — | 70k coins | +56.4% | +3.7% |
-| Ronaldinho | 93 | Icons | 1.67M coins | +54.5% | -14.4% |
-| Warren Zaïre-Emery | 95 | — | 398k coins | +54.3% | -0.3% |
-| Deniz Undav | 91 | Bundesliga | 123k coins | +53.8% | -4.7% |
-| Nadia Krezyman | 90 | D1 Arkema | 79k coins | +53.4% | +43.6% |
-| Rasmus Højlund | 91 | — | 52k coins | +52.4% | +43% |
-| James Garner | 90 | — | 62k coins | +52% | +52% |
-| David Alaba | 94 | — | 28k coins | +51.4% | -43.7% |
+| Hannah Hampton | 92 | — | 32k coins | +59.1% | +21.7% |
+| Pernille Harder | 96 | — | 89k coins | +58.5% | -16.7% |
+| Daniel Muñoz | 96 | — | 823k coins | +55.3% | -12.4% |
+| Kim Seung Sub | 90 | — | 62k coins | +51.2% | +59.5% |
+| Tabitha Chawinga | 91 | D1 Arkema | 139k coins | +51% | -13.2% |
+| Lothar Matthäus | 90 | Icons | 210k coins | +50.6% | +4.4% |
+| Ryan Christie | 90 | Premier League | 75k coins | +50% | +41.5% |
+| Uli Hoeneß | 90 | — | 70k coins | +48.9% | +48.1% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 78k coins | +48.1% | +14.3% |
+| Cristian Roldan | 94 | — | 40k coins | +48.1% | +44.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **23/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Angelo Stiller (94)** subiu **+58.8%** em 24h, a **33k coins** (faixa do dia: 19.750–39k). Está em linha com a média de 7 dias (+6%).
+- **Hannah Hampton (92)** subiu **+59.1%** em 24h, a **32k coins** (faixa do dia: 19.750–44k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Carolin Simon (90)** subiu **+58%** em 24h, a **70k coins** (faixa do dia: 44k–70k). Está +29% acima da média de 7 dias (aquecida).
+- **Pernille Harder (96)** subiu **+58.5%** em 24h, a **89k coins** (faixa do dia: 58k–100k). Está em linha com a média de 7 dias (-4%).
 
-- **Alessia Russo (90)** subiu **+56.4%** em 24h, a **70k coins** (faixa do dia: 44k–90k). Está em linha com a média de 7 dias (-5%).
+- **Daniel Muñoz (96)** subiu **+55.3%** em 24h, a **823k coins** (faixa do dia: 450k–898k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 600k coins | -50% | -36.8% |
-| Harry Kane | 90 | Bundesliga | 98k coins | -49% | -55.7% |
-| Lee Dong Kyeong | 94 | — | 33k coins | -48.5% | -44.2% |
-| Tijjani Reijnders | 93 | Premier League | 250k coins | -48.1% | -54.5% |
+| Youri Tielemans | 96 | — | 264k coins | -50% | -52.8% |
+| Caroline Seger | 90 | Icons | 30k coins | -48.7% | -50.4% |
+| Aymeric Laporte | 99 | — | 1.15M coins | -48.6% | — |
+| Rodri | 99 | — | 1.91M coins | -48.5% | — |
+| Pau Cubarsí | 97 | — | 28k coins | -47.7% | — |
+| Fermín | 91 | — | 60k coins | -47.4% | -36.7% |
 | Millie Bright | 94 | Barclays WSL | 76k coins | -47.2% | -23.2% |
-| Steffi Jones | 91 | Icons | 42k coins | -47.2% | -29.4% |
-| Marc Cucurella | 99 | — | 350k coins | -45.3% | — |
-| Ousmane Dembélé | 96 | — | 2.45M coins | -44.5% | -65.6% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 1.50M coins | -44.4% | -49.7% |
-| Lamine Yamal | 99 | — | 2.20M coins | -44% | — |
+| Steffi Jones | 91 | Icons | 42k coins | -47.2% | -22.9% |
+| Ollie Watkins | 90 | Premier League | 70k coins | -46.7% | -31.6% |
+| Jill Scott | 94 | — | 75k coins | -46.6% | -39.7% |
 
 
 ### Análise das baixas
 
-- **Khvicha Kvaratskhelia (91)** caiu **-50%** em 24h, a **600k coins** (faixa do dia: 600k–1.20M). Está -35% abaixo da média de 7 dias (descontada).
+- **Youri Tielemans (96)** caiu **-50%** em 24h, a **264k coins** (faixa do dia: 106k–304k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (90)** caiu **-49%** em 24h, a **98k coins** (faixa do dia: 98k–200k). Está -51% abaixo da média de 7 dias (descontada).
+- **Caroline Seger (90)** caiu **-48.7%** em 24h, a **30k coins** (faixa do dia: 30k–65k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Lee Dong Kyeong (94)** caiu **-48.5%** em 24h, a **33k coins** (faixa do dia: 33k–65k). Está -18% abaixo da média de 7 dias (descontada).
+- **Aymeric Laporte (99)** caiu **-48.6%** em 24h, a **1.15M coins** (faixa do dia: 850k–1.80M). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Angelo Stiller já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Hannah Hampton já avançou 59.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Khvicha Kvaratskhelia recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Youri Tielemans recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Angelo Stiller (94, sem liga), com +58.8% em 24h, a 33k coins no PC.
+Hannah Hampton (92, sem liga), com +59.1% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**
-Khvicha Kvaratskhelia (91), -50% em 24h, a 600k coins.
+Youri Tielemans (96), -50% em 24h, a 264k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 419 cartas em alta contra 437 em queda (média 2.93%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 392 cartas em alta contra 433 em queda (média 2.12%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

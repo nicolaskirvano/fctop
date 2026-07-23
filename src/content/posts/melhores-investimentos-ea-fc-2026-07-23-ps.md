@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:58:09.000Z
+pubDatetime: 2026-07-23T13:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+63.5% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.0% em 24h** e **+58.3% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lucie Calba | 91 | — | 55k coins | +10% | +83.3% | Esticada |
+| Lucie Calba | 91 | — | 55k coins | +10.6% | +83.3% | Esticada |
 | Maghnes Akliouche | 91 | — | 55k coins | +19.6% | +83.3% | Esticada |
-| Mahamadou Doumbia | 91 | — | 54k coins | +10.6% | +83.3% | Esticada |
-| Nikola Vlašić | 91 | — | 55k coins | +12.2% | +83.3% | Esticada |
-| Ryan Yates | 92 | — | 80k coins | +27% | +76.8% | Esticada |
-| Roy Makaay | 91 | — | 60k coins | +38.8% | +70% | Esticada |
-| Dodi Lukébakio | 94 | — | 140k coins | +20.7% | +65.7% | Esticada |
-| Nick Woltemade | 90 | Premier League | 129k coins | +11.1% | +63.5% | Esticada |
-| Gianluca Vialli | 91 | — | 60k coins | +20.6% | +60% | Esticada |
-| Alberto Costa | 91 | — | 48k coins | +7.3% | +58.3% | Momentum moderado |
-| Mohamed Ihattaren | 91 | — | 48k coins | +3.3% | +58.3% | Momentum moderado |
-| Lily Yohannes | 91 | — | 48k coins | +2.2% | +58.3% | Momentum moderado |
-| Nadine Keßler | 90 | GPFBL | 55k coins | +1.9% | +57.1% | Momentum moderado |
-| Jude Bellingham | 90 | LALIGA EA SPORTS | 21k coins | +5% | +55.6% | Momentum moderado |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 70k coins | +40% | +55.6% | Esticada |
+| Alessia Russo | 90 | Barclays WSL | 85k coins | +9% | +78.9% | Esticada |
+| Craig Halkett | 91 | — | 50k coins | +3.1% | +66.7% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 65k coins | +32% | +62.5% | Esticada |
+| Morgan Gibbs-White | 91 | — | 70k coins | +37.6% | +62.5% | Esticada |
+| Carlos Baleba | 90 | Premier League | 120k coins | +5.8% | +59.2% | Momentum moderado |
+| Alberto Costa | 91 | — | 48k coins | +5.6% | +58.3% | Momentum moderado |
+| Joaquín Panichelli | 91 | — | 48k coins | +8% | +58.3% | Momentum moderado |
+| Gustaf Lagerbielke | 91 | — | 48k coins | +2.2% | +58.3% | Momentum moderado |
+| Mohamed Ihattaren | 91 | — | 48k coins | +8% | +58.3% | Momentum moderado |
+| Thomas Meunier | 92 | — | 32k coins | +22.4% | +57.8% | Esticada |
+| Luis Milla | 90 | — | 65k coins | +18.2% | +52.9% | Momentum moderado |
+| Jürgen Kohler | 90 | Bundesliga | 75k coins | +30.4% | +50% | Esticada |
+| Patri Guijarro | 90 | Liga F | 100k coins | +7.6% | +50% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lucie Calba (91)** — 55k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lucie Calba (91)** — 55k coins, **+83.3% em 7 dias** (+10.6% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maghnes Akliouche (91)** — 55k coins, **+83.3% em 7 dias** (+19.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (91)** — 55k coins, **+83.3% em 7 dias** (+19.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mahamadou Doumbia (91)** — 54k coins, **+83.3% em 7 dias** (+10.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessia Russo (90)** — 85k coins, **+78.9% em 7 dias** (+9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Vlašić (91)** — 55k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Craig Halkett (91)** — 50k coins, **+66.7% em 7 dias** (+3.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Yates (92)** — 80k coins, **+76.8% em 7 dias** (+27% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 65k coins, **+62.5% em 7 dias** (+32% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
