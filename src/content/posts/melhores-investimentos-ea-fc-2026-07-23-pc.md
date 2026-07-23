@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:49:17.000Z
+pubDatetime: 2026-07-23T10:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 23/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+63.3% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.8% em 24h** e **+63.3% em 7 dias**.
+- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ahmed Fathi | 91 | — | 55k coins | +12.2% | +83.3% | Esticada |
+| Ahmed Fathi | 91 | — | 55k coins | +14.6% | +83.3% | Esticada |
 | Reece James | 91 | — | 70k coins | +33.3% | +77.8% | Esticada |
 | Julie Foudy | 91 | Icons | 60k coins | +23.7% | +66.7% | Esticada |
 | Michael Boxall | 91 | — | 50k coins | +5.3% | +66.7% | Esticada |
 | Lily Yohannes | 91 | — | 50k coins | +4.8% | +65% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 230k coins | +36.1% | +64.3% | Esticada |
-| Joaquín Panichelli | 91 | — | 45k coins | +12.5% | +63.6% | Esticada |
+| Franz Beckenbauer | 92 | Icons | 230k coins | +19.8% | +64.3% | Esticada |
+| Joaquín Panichelli | 91 | — | 45k coins | +11.8% | +63.6% | Esticada |
 | Jude Bellingham | 90 | LALIGA EA SPORTS | 20k coins | +5.3% | +63.3% | Esticada |
-| Kerem Aktürkoğlu | 91 | — | 55k coins | +28.7% | +58.3% | Esticada |
-| Selina Cerci | 90 | GPFBL | 78k coins | +10.7% | +55% | Momentum moderado |
 | Josip Šutalo | 90 | Eredivisie | 70k coins | +9.4% | +54.7% | Momentum moderado |
 | David Ayala | 91 | — | 60k coins | +39.2% | +54.5% | Esticada |
+| Kerem Aktürkoğlu | 91 | — | 55k coins | +25.1% | +54% | Esticada |
 | Gianluca Vialli | 91 | — | 50k coins | +13.6% | +53.8% | Momentum moderado |
 | Sidny Cabral | 93 | — | 15.500 coins | +20% | +53.2% | Esticada |
 | Klara Bühl | 93 | — | 94k coins | +23.5% | +52.4% | Esticada |
+| Fermín | 91 | — | 51k coins | +24.9% | +52.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ahmed Fathi (91)** — 55k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ahmed Fathi (91)** — 55k coins, **+83.3% em 7 dias** (+14.6% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Reece James (91)** — 70k coins, **+77.8% em 7 dias** (+33.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

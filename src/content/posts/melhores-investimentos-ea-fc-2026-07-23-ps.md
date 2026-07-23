@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:49:07.000Z
+pubDatetime: 2026-07-23T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Maghnes Akliouche (91, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lucie Calba (91, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Maghnes Akliouche (91) acumula **+83.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lucie Calba (91) acumula **+83.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+60.0% em 7 dias**.
+- A mediana é de **+11.1% em 24h** e **+63.5% em 7 dias**.
 - **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
+| Lucie Calba | 91 | — | 55k coins | +10% | +83.3% | Esticada |
 | Maghnes Akliouche | 91 | — | 55k coins | +19.6% | +83.3% | Esticada |
-| Nikola Vlašić | 91 | — | 55k coins | +22.2% | +83.3% | Esticada |
-| Lucie Calba | 91 | — | 55k coins | +8.9% | +83.3% | Esticada |
 | Mahamadou Doumbia | 91 | — | 54k coins | +10.6% | +83.3% | Esticada |
-| Ryan Yates | 92 | — | 80k coins | +21.2% | +77.8% | Esticada |
-| Roy Makaay | 91 | — | 60k coins | +35.7% | +66.2% | Esticada |
+| Nikola Vlašić | 91 | — | 55k coins | +12.2% | +83.3% | Esticada |
+| Ryan Yates | 92 | — | 80k coins | +27% | +76.8% | Esticada |
+| Roy Makaay | 91 | — | 60k coins | +38.8% | +70% | Esticada |
+| Dodi Lukébakio | 94 | — | 140k coins | +20.7% | +65.7% | Esticada |
 | Nick Woltemade | 90 | Premier League | 129k coins | +11.1% | +63.5% | Esticada |
 | Gianluca Vialli | 91 | — | 60k coins | +20.6% | +60% | Esticada |
-| Lily Yohannes | 91 | — | 48k coins | +2.2% | +58.3% | Momentum moderado |
 | Alberto Costa | 91 | — | 48k coins | +7.3% | +58.3% | Momentum moderado |
-| Mohamed Ihattaren | 91 | — | 48k coins | +2.2% | +58.3% | Momentum moderado |
+| Mohamed Ihattaren | 91 | — | 48k coins | +3.3% | +58.3% | Momentum moderado |
+| Lily Yohannes | 91 | — | 48k coins | +2.2% | +58.3% | Momentum moderado |
 | Nadine Keßler | 90 | GPFBL | 55k coins | +1.9% | +57.1% | Momentum moderado |
-| Esteban Cambiasso | 91 | — | 56k coins | +37% | +56% | Esticada |
 | Jude Bellingham | 90 | LALIGA EA SPORTS | 21k coins | +5% | +55.6% | Momentum moderado |
 | Roony Bardghji | 90 | LALIGA EA SPORTS | 70k coins | +40% | +55.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
+- **Lucie Calba (91)** — 55k coins, **+83.3% em 7 dias** (+10% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Maghnes Akliouche (91)** — 55k coins, **+83.3% em 7 dias** (+19.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Nikola Vlašić (91)** — 55k coins, **+83.3% em 7 dias** (+22.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Lucie Calba (91)** — 55k coins, **+83.3% em 7 dias** (+8.9% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mahamadou Doumbia (91)** — 54k coins, **+83.3% em 7 dias** (+10.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Yates (92)** — 80k coins, **+77.8% em 7 dias** (+21.2% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nikola Vlašić (91)** — 55k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Ryan Yates (92)** — 80k coins, **+76.8% em 7 dias** (+27% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Maghnes Akliouche (91, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lucie Calba (91, sem liga) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
