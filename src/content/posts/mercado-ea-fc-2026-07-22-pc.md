@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:58:17.000Z
+pubDatetime: 2026-07-23T01:58:16.000Z
 title: "Mercado EA FC em 22/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Rivaldo (90, Icons), com +59.6% em 24h, a 149k coins no PC."
+    a: "Chris Richards (96, sem liga), com +60% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diego Armando Maradona (95), -48.4% em 24h, a 1.50M coins."
+    a: "Nahuel Molina (91), -48.7% em 24h, a 100k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 340 cartas em alta contra 482 em queda (média -0.67%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 387 cartas em alta contra 477 em queda (média 0.3%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **340 subiram** e **482 caíram**, com variação média de **-0.67%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **387 subiram** e **477 caíram**, com variação média de **0.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rivaldo (90) **+59.6%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-48.4%**
+> 🟢 **Maior alta:** Chris Richards (96) **+60%** · 🔴 **Maior baixa:** Nahuel Molina (91) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.4% entre as cartas que se moveram; o universo observado reúne 925 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.8% entre as cartas que se moveram; o universo observado reúne 971 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rivaldo | 90 | Icons | 149k coins | +59.6% | +15.4% |
-| Guro Reiten | 90 | NWSL | 75k coins | +57.6% | +31.8% |
-| Roy Makaay | 91 | — | 64k coins | +56.7% | +59.5% |
-| Nadia Krezyman | 90 | D1 Arkema | 84k coins | +52.3% | +53.6% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 67k coins | +50.6% | +91.4% |
-| Eden Hazard | 92 | Premier League | 1.80M coins | +50% | -5.3% |
-| Madeline Dahlien | 90 | — | 60k coins | +50% | +100% |
-| Matt Grimes | 94 | — | 27k coins | +50% | +25% |
-| Caroline Graham Hansen | 92 | Liga F | 388k coins | +48.7% | +6% |
-| Jens Petter Hauge | 91 | Eliteserien | 90k coins | +46.7% | +27.9% |
+| Chris Richards | 96 | — | 80k coins | +60% | -40.7% |
+| Sphephelo Sithole | 94 | — | 30k coins | +57.5% | -11% |
+| Marta | 90 | NWSL | 90k coins | +55.2% | +15.4% |
+| Dennis Bergkamp | 90 | Icons | 113k coins | +54.1% | +51.2% |
+| Celia Šašić | 94 | — | 50k coins | +52.3% | -36.5% |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 67k coins | +50.6% | +34.7% |
+| Dayne St. Clair | 92 | — | 39k coins | +50% | +4.7% |
+| Franz Beckenbauer | 92 | Icons | 188k coins | +49.3% | +25% |
+| Angelo Stiller | 91 | Bundesliga | 64k coins | +47.3% | +103% |
+| Nicolas Pépé | 95 | — | 135k coins | +47.1% | -3.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **22/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **latera
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rivaldo (90)** subiu **+59.6%** em 24h, a **149k coins** (faixa do dia: 92k–189k). Está +21% acima da média de 7 dias (aquecida).
+- **Chris Richards (96)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 49k–82k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Guro Reiten (90)** subiu **+57.6%** em 24h, a **75k coins** (faixa do dia: 45k–75k). Está +34% acima da média de 7 dias (aquecida).
+- **Sphephelo Sithole (94)** subiu **+57.5%** em 24h, a **30k coins** (faixa do dia: 18.000–34k). Está em linha com a média de 7 dias (+3%).
 
-- **Roy Makaay (91)** subiu **+56.7%** em 24h, a **64k coins** (faixa do dia: 40k–76k). Está +35% acima da média de 7 dias (aquecida).
+- **Marta (90)** subiu **+55.2%** em 24h, a **90k coins** (faixa do dia: 52k–90k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 95 | Icons | 1.50M coins | -48.4% | -39.2% |
-| Steffi Jones | 91 | Icons | 42k coins | -47.5% | -1.2% |
-| Victor Lindelöf | 96 | — | 101k coins | -46.4% | -65.4% |
-| Jean-Philippe Mateta | 96 | — | 393k coins | -43.8% | -40.2% |
+| Nahuel Molina | 91 | — | 100k coins | -48.7% | -28.6% |
+| Julian Quiñones | 94 | — | 42k coins | -48.5% | -52.8% |
+| Steffi Jones | 91 | Icons | 42k coins | -47.2% | 0% |
+| Abdukodir Khusanov | 93 | — | 28k coins | -45.3% | -62% |
+| Micah Richards | 92 | — | 78k coins | -45.3% | -37.7% |
+| Esmee Brugts | 96 | — | 460k coins | -44.6% | -55.1% |
+| Jean-Philippe Mateta | 96 | — | 393k coins | -43.8% | -36.6% |
 | Khvicha Kvaratskhelia | 91 | Ligue 1 McDonald's | 680k coins | -43.3% | -31.2% |
-| Dani Olmo | 99 | — | 1.85M coins | -43.2% | — |
-| Harry Kane | 91 | Bundesliga | 225k coins | -42.5% | -33.8% |
-| Luka Modrić | 97 | — | 229k coins | -39.8% | -57.5% |
-| Alessandro Del Piero | 90 | Icons | 72k coins | -39.2% | -11.5% |
-| George Best | 90 | Icons | 135k coins | -38.9% | -49.4% |
+| Fredrik Aursnes | 92 | — | 21k coins | -43.3% | -10.1% |
+| Jean-Philippe Mateta | 92 | Premier League | 48k coins | -42.6% | -20.1% |
 
 
 ### Análise das baixas
 
-- **Diego Armando Maradona (95)** caiu **-48.4%** em 24h, a **1.50M coins** (faixa do dia: 999k–3.23M). Está -49% abaixo da média de 7 dias (descontada).
+- **Nahuel Molina (91)** caiu **-48.7%** em 24h, a **100k coins** (faixa do dia: 80k–209k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Steffi Jones (91)** caiu **-47.5%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -35% abaixo da média de 7 dias (descontada).
+- **Julian Quiñones (94)** caiu **-48.5%** em 24h, a **42k coins** (faixa do dia: 42k–88k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Victor Lindelöf (96)** caiu **-46.4%** em 24h, a **101k coins** (faixa do dia: 90k–169k). Está -46% abaixo da média de 7 dias (descontada).
+- **Steffi Jones (91)** caiu **-47.2%** em 24h, a **42k coins** (faixa do dia: 42k–80k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rivaldo já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Chris Richards já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Diego Armando Maradona recuou -48.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nahuel Molina recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Rivaldo (90, Icons), com +59.6% em 24h, a 149k coins no PC.
+Chris Richards (96, sem liga), com +60% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Diego Armando Maradona (95), -48.4% em 24h, a 1.50M coins.
+Nahuel Molina (91), -48.7% em 24h, a 100k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 340 cartas em alta contra 482 em queda (média -0.67%).
+Hoje o mercado está lateral — sem direção clara, com 387 cartas em alta contra 477 em queda (média 0.3%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
