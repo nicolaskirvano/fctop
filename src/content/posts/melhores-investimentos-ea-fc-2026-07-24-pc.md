@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:58:18.000Z
+pubDatetime: 2026-07-24T13:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Klara Bühl (93, sem liga) lidera, com +86.5% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Klara Bühl (93, sem liga) lidera, com +87.8% em 7 dias a 82k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Klara Bühl (93) acumula **+86.5% em 7 dias** a 90k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Klara Bühl (93) acumula **+87.8% em 7 dias** a 82k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.9% em 24h** e **+62.5% em 7 dias**.
+- A mediana é de **+12.7% em 24h** e **+62.5% em 7 dias**.
 - **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Klara Bühl | 93 | — | 90k coins | +19.3% | +86.5% | Esticada |
-| Diego Milito | 91 | — | 78k coins | +27.7% | +81.8% | Esticada |
-| Mapi León | 90 | Liga F | 80k coins | +5.3% | +73.9% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 78k coins | +29.2% | +68% | Esticada |
-| Ollie Watkins | 90 | Premier League | 80k coins | +33.3% | +66.7% | Esticada |
-| Matias Fernandez-Pardo | 90 | — | 64k coins | +3.2% | +66.2% | Esticada |
-| Alberto Costa | 91 | — | 48k coins | +5.6% | +63.8% | Esticada |
+| Klara Bühl | 93 | — | 82k coins | +12.7% | +87.8% | Esticada |
+| Steph Catley | 90 | Barclays WSL | 99k coins | +3.9% | +87.6% | Esticada |
+| Nene Dorgeles | 91 | — | 48k coins | +4.7% | +80.9% | Esticada |
+| Wouter Burger | 90 | — | 57k coins | +3.2% | +68.6% | Esticada |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 70k coins | +27.3% | +67.7% | Esticada |
+| Ollie Watkins | 90 | Premier League | 80k coins | +14.3% | +66.7% | Esticada |
+| Matias Fernandez-Pardo | 90 | — | 62k coins | +1.6% | +63.6% | Esticada |
 | Keisuke Goto | 90 | — | 65k coins | +3.2% | +62.5% | Esticada |
-| Max Arfsten | 90 | — | 60k coins | +3.4% | +60% | Esticada |
-| Uli Hoeneß | 90 | — | 55k coins | +7.9% | +53.1% | Momentum moderado |
-| Esteban Cambiasso | 91 | — | 68k coins | +23.6% | +51.1% | Esticada |
-| Guro Reiten | 90 | NWSL | 74k coins | +25.2% | +49.7% | Esticada |
-| Freya Godfrey | 91 | — | 60k coins | +14.4% | +48.8% | Momentum moderado |
-| Dara O'Shea | 91 | — | 32k coins | +5.4% | +48.7% | Momentum moderado |
-| Nawaf Boushal | 91 | — | 50k coins | +2.5% | +47.8% | Momentum moderado |
+| Diego Milito | 91 | — | 78k coins | +24.6% | +59.4% | Esticada |
+| Guro Reiten | 90 | NWSL | 75k coins | +30.4% | +50.8% | Esticada |
+| Lilly Reale | 91 | — | 65k coins | +9.1% | +50% | Momentum moderado |
+| Geoff Hurst | 90 | Icons | 92k coins | +21.2% | +48.8% | Esticada |
+| Thomas Meunier | 92 | — | 42k coins | +14.3% | +46.8% | Momentum moderado |
+| Freya Godfrey | 91 | — | 54k coins | +19.4% | +46.2% | Momentum moderado |
+| Patri Guijarro | 90 | Liga F | 75k coins | +2.7% | +45.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Klara Bühl (93)** — 90k coins, **+86.5% em 7 dias** (+19.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Klara Bühl (93)** — 82k coins, **+87.8% em 7 dias** (+12.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Milito (91)** — 78k coins, **+81.8% em 7 dias** (+27.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steph Catley (90)** — 99k coins, **+87.6% em 7 dias** (+3.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mapi León (90)** — 80k coins, **+73.9% em 7 dias** (+5.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nene Dorgeles (91)** — 48k coins, **+80.9% em 7 dias** (+4.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Philippe Mateta (92)** — 78k coins, **+68% em 7 dias** (+29.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wouter Burger (90)** — 57k coins, **+68.6% em 7 dias** (+3.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ollie Watkins (90)** — 80k coins, **+66.7% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Dembélé (90)** — 70k coins, **+67.7% em 7 dias** (+27.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Klara Bühl (93, sem liga) lidera, com +86.5% em 7 dias a 90k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Klara Bühl (93, sem liga) lidera, com +87.8% em 7 dias a 82k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
