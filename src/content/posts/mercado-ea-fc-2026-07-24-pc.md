@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:58:17.000Z
+pubDatetime: 2026-07-24T19:58:17.000Z
 title: "Mercado EA FC em 24/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Melle Meulensteen (91, sem liga), com +60% em 24h, a 47k coins no PC."
+    a: "Hervé Koffi (94, sem liga), com +60% em 24h, a 46k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Bruno Fernandes (93), -50% em 24h, a 145k coins."
+    a: "Diego Armando Maradona (95), -50% em 24h, a 1M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 394 cartas em alta contra 387 em queda (média 3.65%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 268 cartas em alta contra 323 em queda (média 0.23%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **24/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **394 cartas subiram** e **387 caíram** (80+ acima de 5k coins), variação média de **3.65%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem tendência dominante: **268 cartas subiram** e **323 caíram** (80+ acima de 5k coins), variação média de **0.23%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Melle Meulensteen (91) **+60%** · 🔴 **Maior baixa:** Bruno Fernandes (93) **-50%**
+> 🟢 **Maior alta:** Hervé Koffi (94) **+60%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -36,23 +36,23 @@ O mercado do **EA FC** abre **24/07/2026** no PC com mercado **aquecido** — as
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.4% entre as cartas que se moveram; o universo observado reúne 892 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Participação das altas:** 45.3% entre as cartas que se moveram; o universo observado reúne 674 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Melle Meulensteen | 91 | — | 47k coins | +60% | +20% |
-| Arthur Theate | 93 | — | 32k coins | +57.3% | +75% |
-| Estêvão | 91 | Premier League | 1.20M coins | +56.7% | 0% |
-| Pau Cubarsí | 97 | — | 38k coins | +56.4% | -46.2% |
-| Pau Cubarsí | 96 | — | 35k coins | +56.2% | -52.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.30M coins | +55.9% | -46.4% |
-| Brahim | 95 | — | 83k coins | +55.8% | -4.3% |
-| Benjamin Nygren | 90 | — | 74k coins | +55.2% | +85.1% |
-| George Best | 90 | Icons | 170k coins | +54.7% | +67.7% |
-| Yazan Al Arab | 95 | — | 38k coins | +54.5% | -9.5% |
+| Hervé Koffi | 94 | — | 46k coins | +60% | +33.3% |
+| Dominik Szoboszlai | 90 | Premier League | 180k coins | +59.3% | +13.9% |
+| Santiago Sosa | 93 | — | 32k coins | +57.5% | +31.2% |
+| Melle Meulensteen | 91 | — | 47k coins | +56.7% | +17.5% |
+| Weston McKennie | 92 | Serie A TIM | 46k coins | +54.4% | +42.7% |
+| Melchie Dumornay | 90 | D1 Arkema | 830k coins | +52.3% | +93.5% |
+| Hannah Hampton | 92 | — | 28k coins | +50.6% | -0.8% |
+| Rafael Márquez | 94 | LALIGA EA SPORTS | 1.20M coins | +50% | +21.2% |
+| Sandro Tonali | 91 | Premier League | 170k coins | +49.1% | +14.1% |
+| Steven Gerrard | 90 | Icons | 240k coins | +49.1% | +20% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **24/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Melle Meulensteen (91)** subiu **+60%** em 24h, a **47k coins** (faixa do dia: 30k–55k). Está em linha com a média de 7 dias (+7%).
+- **Hervé Koffi (94)** subiu **+60%** em 24h, a **46k coins** (faixa do dia: 20k–46k). Está +64% acima da média de 7 dias (aquecida).
 
-- **Arthur Theate (93)** subiu **+57.3%** em 24h, a **32k coins** (faixa do dia: 18.750–40k). Está +43% acima da média de 7 dias (aquecida).
+- **Dominik Szoboszlai (90)** subiu **+59.3%** em 24h, a **180k coins** (faixa do dia: 89k–200k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Estêvão (91)** subiu **+56.7%** em 24h, a **1.20M coins** (faixa do dia: 566k–1.20M). Está +23% acima da média de 7 dias (aquecida).
+- **Santiago Sosa (93)** subiu **+57.5%** em 24h, a **32k coins** (faixa do dia: 19.750–36k). Está +21% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bruno Fernandes | 93 | Premier League | 145k coins | -50% | -48.4% |
+| Diego Armando Maradona | 95 | Icons | 1M coins | -50% | -37.1% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 900k coins | -48.5% | -64.8% |
 | Louisa Necib | 90 | D1 Arkema | 29k coins | -47.3% | -41.4% |
-| Bobby Moore | 93 | — | 32k coins | -46% | -32% |
-| Simone Laudehr | 91 | GPFBL | 30k coins | -45.5% | -33.3% |
-| Nadine Keßler | 90 | GPFBL | 32k coins | -45.5% | -15.5% |
-| Zlatan Ibrahimović | 95 | Icons | 6.50M coins | -44.6% | -35.8% |
-| Anthony Elanga | 94 | — | 30k coins | -43.4% | -26.7% |
-| Ollie Watkins | 96 | — | 137k coins | -42.5% | -46.5% |
+| Nathan Zézé | 91 | — | 30k coins | -45.5% | -25% |
+| Bobby Moore | 93 | — | 30k coins | -44.5% | -39% |
+| Enzo Fernández | 91 | Premier League | 85k coins | -44% | -30.5% |
+| Toni Kroos | 90 | Icons | 85k coins | -42.7% | -9.5% |
+| Nadine Keßler | 90 | GPFBL | 32k coins | -42.3% | -10.6% |
+| Vini Jr. | 97 | — | 1.30M coins | -42.1% | -78.4% |
 | Paul Scholes | 91 | Icons | 110k coins | -41.8% | -31.2% |
-| Tara McKeown | 95 | — | 100k coins | -40.9% | -49.1% |
 
 
 ### Análise das baixas
 
-- **Bruno Fernandes (93)** caiu **-50%** em 24h, a **145k coins** (faixa do dia: 145k–290k). Está -41% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (95)** caiu **-50%** em 24h, a **1M coins** (faixa do dia: 1M–2.60M). Está -63% abaixo da média de 7 dias (descontada).
 
-- **Louisa Necib (90)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 26k–55k). Está -37% abaixo da média de 7 dias (descontada).
+- **Paul Pogba (92)** caiu **-48.5%** em 24h, a **900k coins** (faixa do dia: 891k–1.77M). Está -59% abaixo da média de 7 dias (descontada).
 
-- **Bobby Moore (93)** caiu **-46%** em 24h, a **32k coins** (faixa do dia: 32k–60k). Está -21% abaixo da média de 7 dias (descontada).
+- **Louisa Necib (90)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 26k–55k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Melle Meulensteen já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Hervé Koffi já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Bruno Fernandes recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Diego Armando Maradona recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Melle Meulensteen (91, sem liga), com +60% em 24h, a 47k coins no PC.
+Hervé Koffi (94, sem liga), com +60% em 24h, a 46k coins no PC.
 
 **E a maior queda do dia?**
-Bruno Fernandes (93), -50% em 24h, a 145k coins.
+Diego Armando Maradona (95), -50% em 24h, a 1M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 394 cartas em alta contra 387 em queda (média 3.65%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 268 cartas em alta contra 323 em queda (média 0.23%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
