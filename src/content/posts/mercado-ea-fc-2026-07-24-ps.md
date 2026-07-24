@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:58:07.000Z
+pubDatetime: 2026-07-24T22:58:08.000Z
 title: "Mercado EA FC em 24/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Samuel Eto'o (90, Icons), com +42.9% em 24h, a 481k coins no Console (PS)."
+    a: "Gabriel Batistuta (92, Icons), com +58.3% em 24h, a 240k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "João Neves (97), -49.7% em 24h, a 200k coins."
+    a: "Caroline Seger (91), -49.6% em 24h, a 34k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 222 cartas em alta contra 324 em queda (média -6.11%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 143 cartas em alta contra 459 em queda (média -15.88%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **222 cartas subiram** e **324 caíram** (80+ acima de 5k coins), variação média de **-6.11%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **143 cartas subiram** e **459 caíram** (80+ acima de 5k coins), variação média de **-15.88%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Samuel Eto'o (90) **+42.9%** · 🔴 **Maior baixa:** João Neves (97) **-49.7%**
+> 🟢 **Maior alta:** Gabriel Batistuta (92) **+58.3%** · 🔴 **Maior baixa:** Caroline Seger (91) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **pressio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.7% entre as cartas que se moveram; o universo observado reúne 579 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 23.8% entre as cartas que se moveram; o universo observado reúne 625 cartas.
+- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Samuel Eto'o | 90 | Icons | 481k coins | +42.9% | +36.3% |
-| Antonio Di Natale | 92 | Serie A TIM | 490k coins | +42.4% | -43.3% |
-| Park Ji Sung | 91 | Eredivisie | 90k coins | +37.1% | +12% |
-| Mylène Chavas | 93 | — | 27k coins | +31.7% | -12.9% |
-| Alyssa Thompson | 91 | Barclays WSL | 210k coins | +31.2% | +32.9% |
-| Riccardo Calafiori | 90 | Premier League | 444k coins | +30% | +8% |
-| Carl Rushworth | 93 | — | 32k coins | +27% | +5.8% |
-| Ricardo Horta | 90 | Liga Portugal | 58k coins | +26.4% | +73.8% |
-| Bukayo Saka | 90 | Premier League | 665k coins | +25.8% | -8.5% |
-| Nadine Keßler | 90 | GPFBL | 69k coins | +25.5% | +73.6% |
+| Gabriel Batistuta | 92 | Icons | 240k coins | +58.3% | -10.4% |
+| Achraf Hakimi | 96 | — | 2.55M coins | +58.2% | -6.1% |
+| Thierry Henry | 93 | Icons | 964k coins | +40.4% | -4.2% |
+| Birgit Prinz | 93 | Icons | 41k coins | +38.5% | +45.2% |
+| Thibaut Courtois | 92 | — | 35k coins | +37.9% | 0% |
+| Bukayo Saka | 90 | Premier League | 695k coins | +37.8% | +3.3% |
+| Mylène Chavas | 93 | — | 29k coins | +37.5% | +6.5% |
+| Dennis Bergkamp | 93 | Icons | 255k coins | +35% | +25% |
+| Ferenc Puskás | 93 | Icons | 368k coins | +34.3% | -3.2% |
+| Diego Milito | 91 | — | 60k coins | +33.3% | +33.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **24/07/2026** no Console (PS) com mercado **pressio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Samuel Eto'o (90)** subiu **+42.9%** em 24h, a **481k coins** (faixa do dia: 289k–650k). Está +14% acima da média de 7 dias (aquecida).
+- **Gabriel Batistuta (92)** subiu **+58.3%** em 24h, a **240k coins** (faixa do dia: 136k–288k). Está em linha com a média de 7 dias (-2%).
 
-- **Antonio Di Natale (92)** subiu **+42.4%** em 24h, a **490k coins** (faixa do dia: 396k–800k). Está em linha com a média de 7 dias (-5%).
+- **Achraf Hakimi (96)** subiu **+58.2%** em 24h, a **2.55M coins** (faixa do dia: 1.54M–4.10M). Está em linha com a média de 7 dias (+8%).
 
-- **Park Ji Sung (91)** subiu **+37.1%** em 24h, a **90k coins** (faixa do dia: 70k–125k). Está em linha com a média de 7 dias (+4%).
+- **Thierry Henry (93)** subiu **+40.4%** em 24h, a **964k coins** (faixa do dia: 612k–964k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| João Neves | 97 | — | 200k coins | -49.7% | -68.4% |
-| Aya Miyama | 90 | Icons | 68k coins | -45.6% | -19% |
-| Illia Zabarnyi | 96 | — | 113k coins | -44.3% | -66.1% |
-| Declan Rice | 97 | — | 220k coins | -42.9% | -60.4% |
-| Florian Wirtz | 97 | — | 350k coins | -42.4% | -58.2% |
-| Malang Sarr | 96 | — | 39k coins | -42.4% | -69.4% |
-| David Raum | 92 | — | 22k coins | -42% | -10.3% |
-| Désiré Doué | 97 | — | 327k coins | -40.8% | -59.6% |
-| Zico | 92 | Icons | 182k coins | -40.3% | -17.3% |
-| Melle Meulensteen | 91 | — | 50k coins | -39.4% | -24.1% |
+| Caroline Seger | 91 | Icons | 34k coins | -49.6% | -43% |
+| Warren Zaïre-Emery | 96 | — | 302k coins | -48.7% | -75.5% |
+| Ewa Pajor | 96 | Liga F | 78k coins | -48% | -56.2% |
+| Victor Lindelöf | 96 | — | 60k coins | -47.8% | -53.1% |
+| Alyssa Thompson | 95 | — | 40k coins | -47.5% | -55.4% |
+| Piero Hincapié | 96 | — | 59k coins | -47.3% | -63.2% |
+| Dimitar Berbatov | 91 | — | 41k coins | -47% | -37.6% |
+| Jonathan David | 95 | — | 79k coins | -47% | -57.6% |
+| Esteban Cambiasso | 91 | — | 35k coins | -46.7% | -39.1% |
+| Thierry Henry | 91 | Icons | 780k coins | -46.5% | -35.8% |
 
 
 ### Análise das baixas
 
-- **João Neves (97)** caiu **-49.7%** em 24h, a **200k coins** (faixa do dia: 150k–315k). Está -49% abaixo da média de 7 dias (descontada).
+- **Caroline Seger (91)** caiu **-49.6%** em 24h, a **34k coins** (faixa do dia: 34k–84k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Aya Miyama (90)** caiu **-45.6%** em 24h, a **68k coins** (faixa do dia: 68k–129k). Está -32% abaixo da média de 7 dias (descontada).
+- **Warren Zaïre-Emery (96)** caiu **-48.7%** em 24h, a **302k coins** (faixa do dia: 302k–600k). Está -65% abaixo da média de 7 dias (descontada).
 
-- **Illia Zabarnyi (96)** caiu **-44.3%** em 24h, a **113k coins** (faixa do dia: 78k–154k). Está -34% abaixo da média de 7 dias (descontada).
+- **Ewa Pajor (96)** caiu **-48%** em 24h, a **78k coins** (faixa do dia: 78k–176k). Está -47% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Samuel Eto'o já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Gabriel Batistuta já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** João Neves recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Caroline Seger recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Samuel Eto'o (90, Icons), com +42.9% em 24h, a 481k coins no Console (PS).
+Gabriel Batistuta (92, Icons), com +58.3% em 24h, a 240k coins no Console (PS).
 
 **E a maior queda do dia?**
-João Neves (97), -49.7% em 24h, a 200k coins.
+Caroline Seger (91), -49.6% em 24h, a 34k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 222 cartas em alta contra 324 em queda (média -6.11%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 143 cartas em alta contra 459 em queda (média -15.88%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
