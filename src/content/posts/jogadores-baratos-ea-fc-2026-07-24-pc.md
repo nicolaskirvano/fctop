@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:58:21.000Z
+pubDatetime: 2026-07-24T16:58:19.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 24/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 13.217 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 12.250 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.817 coins.
+- **Posição mais frequente:** GK, com 4 cartas.
+- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Julian Quiñones | 96 | LW | — | 12.750 coins | +27.7% |
-| Orlando Gill | 96 | GK | — | 14.750 coins | +19.1% |
-| Stephen Eustáquio | 95 | CM | — | 12.250 coins | +8.7% |
-| Gregor Kobel | 95 | GK | — | 12.500 coins | +6.5% |
-| Lisandro Martínez | 95 | CB | — | 12.500 coins | +8.7% |
-| Johan Manzambi | 95 | CAM | — | 12.750 coins | +8.7% |
-| Noussair Mazraoui | 95 | LB | — | 13.250 coins | +12.8% |
-| Diney | 94 | CB | — | 12.250 coins | +4.3% |
-| Roberto Alvarado | 94 | RW | — | 12.250 coins | +4.3% |
-| Elijah Just | 94 | LW | — | 12.250 coins | +4.3% |
-| Gustavo Puerta | 94 | CM | — | 12.250 coins | +4.3% |
-| Ben Doak | 94 | RM | — | 14.500 coins | 0% |
-| Renato Veiga | 94 | CB | — | 14.750 coins | +1.7% |
-| Noah Sadiki | 93 | CM | — | 14.500 coins | +1.7% |
-| Roberto Alvarado | 93 | RM | — | 14.750 coins | -6.2% |
+| Julian Quiñones | 96 | LW | — | 12.750 coins | +18.8% |
+| Orlando Gill | 96 | GK | — | 13.500 coins | +16.7% |
+| Vózinha | 96 | GK | — | 14.500 coins | +20.8% |
+| Gregor Kobel | 95 | GK | — | 12.000 coins | +4.3% |
+| Stephen Eustáquio | 95 | CM | — | 12.000 coins | +4.3% |
+| Johan Manzambi | 95 | CAM | — | 12.000 coins | +6.5% |
+| Noussair Mazraoui | 95 | LB | — | 12.250 coins | +8.5% |
+| Lisandro Martínez | 95 | CB | — | 12.250 coins | +6.5% |
+| Nilson Angulo | 95 | LM | — | 14.250 coins | -6.6% |
+| Zion Suzuki | 95 | GK | — | 14.500 coins | -3.3% |
+| Kerim Alajbegović | 95 | LM | — | 14.750 coins | +11.7% |
+| Elijah Just | 94 | LW | — | 11.750 coins | +4.3% |
+| Gustavo Puerta | 94 | CM | — | 11.750 coins | +4.3% |
+| Diney | 94 | CB | — | 12.000 coins | +4.3% |
+| Roberto Alvarado | 94 | RW | — | 12.000 coins | +4.3% |
 
 
 ## 📈 Destaques
 
-- **Julian Quiñones (96, LW)** da —, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Julian Quiñones (96, LW)** da —, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Orlando Gill (96, GK)** da —, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Orlando Gill (96, GK)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Stephen Eustáquio (95, CM)** da —, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vózinha (96, GK)** da —, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Gregor Kobel (95, GK)** da —, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gregor Kobel (95, GK)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lisandro Martínez (95, CB)** da —, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Stephen Eustáquio (95, CM)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Orlando Gill (96, GK) por 14.750 coins é a referência de rating deste recorte.
+- **Defesa:** Orlando Gill (96, GK) por 13.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Stephen Eustáquio (95, CM) por 12.250 coins é a referência de rating deste recorte.
+- **Meio:** Stephen Eustáquio (95, CM) por 12.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Julian Quiñones (96, LW) por 12.750 coins é a referência de rating deste recorte.
 
