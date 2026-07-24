@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:49:27.000Z
+pubDatetime: 2026-07-24T10:58:17.000Z
 title: "Mercado EA FC em 24/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Marinette Pichon (90, Icons), com +60% em 24h, a 32k coins no PC."
+    a: "Steven Gerrard (90, Icons), com +60% em 24h, a 224k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Johan Cruyff (93), -48.7% em 24h, a 308k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 230 cartas em alta contra 281 em queda (média 0.76%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 400 cartas em alta contra 418 em queda (média 2.57%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem tendência dominante: **230 cartas subiram** e **281 caíram** (80+ acima de 5k coins), variação média de **0.76%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **24/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **400 cartas subiram** e **418 caíram** (80+ acima de 5k coins), variação média de **2.57%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Marinette Pichon (90) **+60%** · 🔴 **Maior baixa:** Johan Cruyff (93) **-48.7%**
+> 🟢 **Maior alta:** Steven Gerrard (90) **+60%** · 🔴 **Maior baixa:** Johan Cruyff (93) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -36,23 +36,23 @@ O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 561 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 931 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 32k coins | +60% | -50.8% |
+| Steven Gerrard | 90 | Icons | 224k coins | +60% | +24.4% |
+| Marinette Pichon | 90 | Icons | 32k coins | +60% | -50.4% |
+| Willian Pacho | 96 | — | 396k coins | +59% | -10% |
 | Rúben Neves | 95 | — | 80k coins | +57.8% | +77.9% |
-| Jonathan Tah | 95 | — | 160k coins | +55.6% | -11.6% |
+| Izzy Rodriguez | 94 | — | 45k coins | +55.2% | +53.8% |
 | Raphinha | 95 | LALIGA EA SPORTS | 860k coins | +53% | -3.1% |
+| Moisés Caicedo | 95 | — | 30k coins | +52.3% | +28.8% |
 | Cafu | 95 | — | 430k coins | +51.9% | +14.7% |
+| Máximo Perrone | 92 | — | 30k coins | +50.6% | +25.3% |
 | Hugo Ekitiké | 90 | Premier League | 65k coins | +50% | +9.1% |
-| Marc Cucurella | 99 | — | 481k coins | +45.4% | — |
-| Morgan Gibbs-White | 91 | — | 56k coins | +45.3% | +29.3% |
-| Carlos Baleba | 90 | Premier League | 86k coins | +43.3% | -4.4% |
-| Oliver Kahn | 91 | Icons | 98k coins | +42.8% | -9.6% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
+- **Steven Gerrard (90)** subiu **+60%** em 24h, a **224k coins** (faixa do dia: 118k–232k). Está +17% acima da média de 7 dias (aquecida).
+
 - **Marinette Pichon (90)** subiu **+60%** em 24h, a **32k coins** (faixa do dia: 20k–80k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Rúben Neves (95)** subiu **+57.8%** em 24h, a **80k coins** (faixa do dia: 42k–86k). Está +50% acima da média de 7 dias (aquecida).
-
-- **Jonathan Tah (95)** subiu **+55.6%** em 24h, a **160k coins** (faixa do dia: 72k–189k). Está +16% acima da média de 7 dias (aquecida).
+- **Willian Pacho (96)** subiu **+59%** em 24h, a **396k coins** (faixa do dia: 189k–584k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -74,14 +74,14 @@ O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem 
 | --- | --- | --- | --- | --- | --- |
 | Johan Cruyff | 93 | Icons | 308k coins | -48.7% | -40.8% |
 | Khadija Shaw | 90 | Barclays WSL | 49k coins | -48.4% | -24% |
-| Xavi | 91 | Icons | 88k coins | -43.1% | -30% |
-| Claudia Pina | 92 | Liga F | 800k coins | -42.9% | -46.7% |
-| Pedri | 95 | LALIGA EA SPORTS | 420k coins | -40.7% | -40.8% |
+| Joško Gvardiol | 96 | — | 269k coins | -44.5% | -51.5% |
+| Mohamed Salah | 92 | Premier League | 667k coins | -43.9% | -31.2% |
+| Igor Thiago | 92 | — | 25k coins | -43.5% | -35% |
+| Ollie Watkins | 96 | — | 115k coins | -43.1% | -54.8% |
+| Xavi | 91 | Icons | 88k coins | -42.8% | -30% |
+| Paul Scholes | 91 | Icons | 110k coins | -41.8% | -31.2% |
+| Pedri | 95 | LALIGA EA SPORTS | 410k coins | -40.7% | -40.8% |
 | Toni Kroos | 90 | Icons | 129k coins | -40.6% | +19.3% |
-| Mailson | 92 | — | 28k coins | -38.5% | -36.2% |
-| Cata Coll | 96 | — | 188k coins | -38.2% | -14.6% |
-| Vincent Kompany | 91 | Premier League | 50k coins | -37.1% | -19.4% |
-| Julian Quiñones | 94 | — | 36k coins | -36.7% | -48.9% |
 
 
 ### Análise das baixas
@@ -90,12 +90,12 @@ O mercado do **EA FC** abre **24/07/2026** no PC com dia **indefinido** — sem 
 
 - **Khadija Shaw (90)** caiu **-48.4%** em 24h, a **49k coins** (faixa do dia: 49k–95k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Xavi (91)** caiu **-43.1%** em 24h, a **88k coins** (faixa do dia: 79k–143k). Está -37% abaixo da média de 7 dias (descontada).
+- **Joško Gvardiol (96)** caiu **-44.5%** em 24h, a **269k coins** (faixa do dia: 220k–530k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Marinette Pichon já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Steven Gerrard já avançou 60% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Johan Cruyff recuou -48.7%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Marinette Pichon (90, Icons), com +60% em 24h, a 32k coins no PC.
+Steven Gerrard (90, Icons), com +60% em 24h, a 224k coins no PC.
 
 **E a maior queda do dia?**
 Johan Cruyff (93), -48.7% em 24h, a 308k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 230 cartas em alta contra 281 em queda (média 0.76%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 400 cartas em alta contra 418 em queda (média 2.57%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
