@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:58:17.000Z
+pubDatetime: 2026-07-24T01:58:17.000Z
 title: "Mercado EA FC em 23/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Warren Zaïre-Emery (96, sem liga), com +57.5% em 24h, a 1.20M coins no PC."
+    a: "Victor Lindelöf (96, sem liga), com +60% em 24h, a 152k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Romée Leuchter (96), -49.1% em 24h, a 65k coins."
+    a: "Ezri Konsa (96), -50% em 24h, a 200k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 335 cartas em alta contra 431 em queda (média -0.18%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 358 cartas em alta contra 430 em queda (média 1.18%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **23/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **335 em alta** e **431 em queda**, média de **-0.18%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **23/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **358 em alta** e **430 em queda**, média de **1.18%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Warren Zaïre-Emery (96) **+57.5%** · 🔴 **Maior baixa:** Romée Leuchter (96) **-49.1%**
+> 🟢 **Maior alta:** Victor Lindelöf (96) **+60%** · 🔴 **Maior baixa:** Ezri Konsa (96) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **23/07/2026** (PC): mercado **de lado** — altas e quedas se equil
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.7% entre as cartas que se moveram; o universo observado reúne 869 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.4% entre as cartas que se moveram; o universo observado reúne 904 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Victor Lindelöf | 96 | — | 152k coins | +60% | -34.5% |
+| Toni Kroos | 90 | Icons | 146k coins | +58.9% | +6.5% |
 | Warren Zaïre-Emery | 96 | — | 1.20M coins | +57.5% | -11.7% |
-| Iniesta | 92 | Icons | 161k coins | +57% | +65.6% |
-| Thierry Henry | 91 | Icons | 2.70M coins | +54.3% | +8% |
-| Arda Güler | 94 | — | 46k coins | +51.9% | +6.2% |
-| Toni Kroos | 90 | Icons | 157k coins | +51% | +11.3% |
-| Mateo Kovačić | 91 | Premier League | 75k coins | +50% | +57.1% |
-| Giovanni Reyna | 95 | — | 29k coins | +46.8% | +3.6% |
-| Isina Corte | 90 | — | 54k coins | +46.2% | +19.5% |
-| Gianluigi Donnarumma | 95 | Premier League | 370k coins | +44.7% | -35.5% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +43.9% | +25% |
+| Jerdy Schouten | 94 | — | 29k coins | +56.7% | +32.2% |
+| Mario Gomez | 92 | — | 42k coins | +56.5% | +14.2% |
+| Alex Morgan | 96 | — | 1.70M coins | +54.5% | -8.1% |
+| Désiré Doué | 96 | — | 734k coins | +53.7% | -22.1% |
+| David Raya | 93 | — | 50k coins | +53.5% | +21.4% |
+| Iniesta | 92 | Icons | 220k coins | +50.7% | +35% |
+| Lothar Matthäus | 90 | Icons | 189k coins | +50.3% | +68.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **23/07/2026** (PC): mercado **de lado** — altas e quedas se equil
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
+- **Victor Lindelöf (96)** subiu **+60%** em 24h, a **152k coins** (faixa do dia: 82k–159k). Está em linha com a média de 7 dias (-8%).
+
+- **Toni Kroos (90)** subiu **+58.9%** em 24h, a **146k coins** (faixa do dia: 120k–220k). Está +17% acima da média de 7 dias (aquecida).
+
 - **Warren Zaïre-Emery (96)** subiu **+57.5%** em 24h, a **1.20M coins** (faixa do dia: 760k–1.20M). Está -13% abaixo da média de 7 dias (descontada).
-
-- **Iniesta (92)** subiu **+57%** em 24h, a **161k coins** (faixa do dia: 138k–289k). Está -18% abaixo da média de 7 dias (descontada).
-
-- **Thierry Henry (91)** subiu **+54.3%** em 24h, a **2.70M coins** (faixa do dia: 1.75M–2.70M). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Romée Leuchter | 96 | — | 65k coins | -49.1% | -47.4% |
-| Camille Abily | 91 | Icons | 39k coins | -47.7% | -35% |
-| Melle Meulensteen | 91 | — | 30k coins | -42.3% | -18.4% |
-| Virgil van Dijk | 90 | Premier League | 2.50M coins | -41.9% | +2.9% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 471k coins | -41.7% | -24.4% |
+| Ezri Konsa | 96 | — | 200k coins | -50% | -28.3% |
+| Jens Petter Hauge | 91 | Eliteserien | 42k coins | -49.4% | -41.4% |
+| Gianluca Vialli | 91 | — | 26k coins | -49% | -32% |
+| Luka Modrić | 90 | Serie A TIM | 134k coins | -45.7% | -51.7% |
+| Alexia Putellas | 95 | Liga F | 404k coins | -44.5% | -37.2% |
+| Deniz Undav | 91 | Bundesliga | 98k coins | -42.4% | -19.7% |
 | Gareth Bale | 94 | Icons | 3.50M coins | -41.7% | +6.1% |
-| Brahim | 90 | LALIGA EA SPORTS | 63k coins | -41.2% | -3.8% |
-| James Rodríguez | 96 | — | 125k coins | -41.2% | -61.4% |
-| Milan Škriniar | 93 | — | 23k coins | -41% | -11.5% |
-| Erling Haaland | 96 | Premier League | 243k coins | -41% | -59.5% |
+| Marcelino Moreno | 95 | — | 24k coins | -41.1% | -45% |
+| Milan Škriniar | 93 | — | 23k coins | -40.8% | -10.6% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 239k coins | -37.9% | -63.1% |
 
 
 ### Análise das baixas
 
-- **Romée Leuchter (96)** caiu **-49.1%** em 24h, a **65k coins** (faixa do dia: 62k–157k). Está -43% abaixo da média de 7 dias (descontada).
+- **Ezri Konsa (96)** caiu **-50%** em 24h, a **200k coins** (faixa do dia: 98k–400k). Está em linha com a média de 7 dias (+6%).
 
-- **Camille Abily (91)** caiu **-47.7%** em 24h, a **39k coins** (faixa do dia: 39k–80k). Está -36% abaixo da média de 7 dias (descontada).
+- **Jens Petter Hauge (91)** caiu **-49.4%** em 24h, a **42k coins** (faixa do dia: 42k–90k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Melle Meulensteen (91)** caiu **-42.3%** em 24h, a **30k coins** (faixa do dia: 30k–54k). Está -30% abaixo da média de 7 dias (descontada).
+- **Gianluca Vialli (91)** caiu **-49%** em 24h, a **26k coins** (faixa do dia: 15.000–50k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Warren Zaïre-Emery já avançou 57.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Victor Lindelöf já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Romée Leuchter recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ezri Konsa recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Warren Zaïre-Emery (96, sem liga), com +57.5% em 24h, a 1.20M coins no PC.
+Victor Lindelöf (96, sem liga), com +60% em 24h, a 152k coins no PC.
 
 **E a maior queda do dia?**
-Romée Leuchter (96), -49.1% em 24h, a 65k coins.
+Ezri Konsa (96), -50% em 24h, a 200k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 335 cartas em alta contra 431 em queda (média -0.18%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 358 cartas em alta contra 430 em queda (média 1.18%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

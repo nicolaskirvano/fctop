@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:58:09.000Z
+pubDatetime: 2026-07-24T01:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Caroline Seger (90, Sverige Liga) lidera, com +76.6% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jens Petter Hauge (91, Eliteserien) lidera, com +87.5% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caroline Seger (90) acumula **+76.6% em 7 dias** a 120k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jens Petter Hauge (91) acumula **+87.5% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.2% em 24h** e **+44.4% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.7% em 24h** e **+58.1% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 90 | Sverige Liga | 120k coins | +28% | +76.6% | Esticada |
-| Dodi Lukébakio | 94 | — | 140k coins | +1.4% | +64.7% | Esticada |
-| Aya Miyama | 90 | Icons | 116k coins | +8.7% | +61.3% | Esticada |
-| Patri Guijarro | 90 | Liga F | 98k coins | +7.1% | +55.6% | Momentum moderado |
-| Bobby Moore | 90 | Icons | 98k coins | +2% | +51.5% | Momentum moderado |
-| Keinan Davis | 90 | — | 65k coins | +1.6% | +46.9% | Momentum moderado |
-| Patri Guijarro | 91 | Liga F | 123k coins | +3.5% | +46.2% | Momentum moderado |
+| Jens Petter Hauge | 91 | Eliteserien | 90k coins | +6.5% | +87.5% | Esticada |
+| Guéla Doué | 94 | — | 22k coins | +10% | +79.6% | Esticada |
+| Alessia Russo | 90 | — | 136k coins | +15% | +73.6% | Esticada |
+| Bobby Moore | 90 | Icons | 98k coins | +3.5% | +72.1% | Esticada |
+| Patri Guijarro | 90 | Liga F | 98k coins | +13.4% | +61.2% | Esticada |
+| Lautaro Martínez | 90 | Serie A TIM | 140k coins | +37.3% | +60% | Esticada |
+| Nene Dorgeles | 91 | — | 47k coins | +25% | +58.3% | Esticada |
+| Patri Guijarro | 90 | Liga F | 98k coins | +7.1% | +58.1% | Momentum moderado |
+| Carlos Baleba | 90 | Premier League | 156k coins | +9.7% | +58% | Momentum moderado |
+| Roberto Baggio | 91 | Icons | 125k coins | +9.6% | +47.1% | Momentum moderado |
+| Issa Diop | 95 | — | 240k coins | +20.8% | +47.1% | Esticada |
+| Steffi Jones | 91 | Icons | 90k coins | +23.5% | +44.9% | Esticada |
 | Kim Seung Sub | 90 | — | 65k coins | +8.3% | +44.4% | Momentum moderado |
-| Leroy Sané | 91 | Trendyol Süper Lig | 65k coins | +16.7% | +42.9% | Momentum moderado |
-| Willian Pacho | 90 | Ligue 1 McDonald's | 100k coins | +8.2% | +40% | Momentum moderado |
-| Robin Risser | 90 | — | 54k coins | +2.6% | +38.8% | Momentum moderado |
-| Aymeric Laporte | 90 | LALIGA EA SPORTS | 70k coins | +6.2% | +36% | Momentum moderado |
-| Gabriel Villamíl | 91 | — | 55k coins | +1.9% | +35.8% | Momentum moderado |
-| Mapi León | 90 | Liga F | 92k coins | +2.2% | +35.6% | Momentum moderado |
-| David Ayala | 91 | — | 54k coins | +18% | +35% | Momentum moderado |
+| Unai Simón | 90 | LALIGA EA SPORTS | 64k coins | +6.4% | +43.3% | Momentum moderado |
+| Patri Guijarro | 91 | Liga F | 115k coins | +4.5% | +41.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Caroline Seger (90)** — 120k coins, **+76.6% em 7 dias** (+28% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jens Petter Hauge (91)** — 90k coins, **+87.5% em 7 dias** (+6.5% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dodi Lukébakio (94)** — 140k coins, **+64.7% em 7 dias** (+1.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Guéla Doué (94)** — 22k coins, **+79.6% em 7 dias** (+10% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aya Miyama (90)** — 116k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessia Russo (90)** — 136k coins, **+73.6% em 7 dias** (+15% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patri Guijarro (90)** — 98k coins, **+55.6% em 7 dias** (+7.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bobby Moore (90)** — 98k coins, **+72.1% em 7 dias** (+3.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Bobby Moore (90)** — 98k coins, **+51.5% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patri Guijarro (90)** — 98k coins, **+61.2% em 7 dias** (+13.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Caroline Seger (90, Sverige Liga) lidera, com +76.6% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jens Petter Hauge (91, Eliteserien) lidera, com +87.5% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
