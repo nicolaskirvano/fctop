@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:50:15.000Z
+pubDatetime: 2026-07-25T10:58:17.000Z
 title: "Mercado EA FC em 25/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Camille Abily (91), -50% em 24h, a 30k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 181 cartas em alta contra 639 em queda (média -19.7%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 182 cartas em alta contra 639 em queda (média -19.71%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. **181 valorizações** contra **639 quedas** entre as cartas relevantes, com média de **-19.7%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. **182 valorizações** contra **639 quedas** entre as cartas relevantes, com média de **-19.71%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Bukayo Saka (98) **+58.1%** · 🔴 **Maior baixa:** Camille Abily (91) **-50%**
 
@@ -36,16 +36,15 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 22.1% entre as cartas que se moveram; o universo observado reúne 878 cartas.
-- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
+- **Participação das altas:** 22.2% entre as cartas que se moveram; o universo observado reúne 878 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Bukayo Saka | 98 | — | 1.50M coins | +58.1% | -33.4% |
-| Roberto Baggio | 91 | Icons | 142k coins | +57% | +57.8% |
-| Lindsey Heaps | 90 | D1 Arkema | 91k coins | +55.6% | +24.7% |
+| Lindsey Heaps | 90 | D1 Arkema | 92k coins | +55.6% | +24.7% |
 | Ousmane Dembélé | 96 | — | 2M coins | +55.2% | -34% |
 | Federico Valverde | 91 | LALIGA EA SPORTS | 542k coins | +54.9% | -26.4% |
 | Rivaldo | 90 | Icons | 116k coins | +54.8% | +9.1% |
@@ -53,6 +52,7 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 | Thierry Henry | 91 | Icons | 2.30M coins | +53.4% | -17.9% |
 | Thierry Henry | 93 | Icons | 2.20M coins | +52.4% | +4.8% |
 | Jens Petter Hauge | 91 | Eliteserien | 64k coins | +50.6% | +0.8% |
+| Carlos Alberto | 91 | Icons | 130k coins | +50.4% | -6.9% |
 
 
 ### Análise das altas
@@ -63,9 +63,9 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 
 - **Bukayo Saka (98)** subiu **+58.1%** em 24h, a **1.50M coins** (faixa do dia: 1.04M–1.70M). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Roberto Baggio (91)** subiu **+57%** em 24h, a **142k coins** (faixa do dia: 84k–186k). Está +22% acima da média de 7 dias (aquecida).
+- **Lindsey Heaps (90)** subiu **+55.6%** em 24h, a **92k coins** (faixa do dia: 75k–95k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Lindsey Heaps (90)** subiu **+55.6%** em 24h, a **91k coins** (faixa do dia: 75k–95k). Está +44% acima da média de 7 dias (aquecida).
+- **Ousmane Dembélé (96)** subiu **+55.2%** em 24h, a **2M coins** (faixa do dia: 580k–3M). Está em linha com a média de 7 dias (+1%).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -76,12 +76,12 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 | Homare Sawa | 91 | Icons | 74k coins | -50% | -48.6% |
 | Ewa Pajor | 96 | Liga F | 78k coins | -50% | -76% |
 | Sol Campbell | 91 | — | 28k coins | -49.6% | -28.7% |
-| Sam Surridge | 91 | — | 35k coins | -49.3% | -18.2% |
-| Marco van Basten | 91 | Icons | 106k coins | -49% | -3.6% |
+| Sam Surridge | 91 | — | 35k coins | -49.3% | -21% |
+| Marco van Basten | 91 | Icons | 105k coins | -49% | -3.6% |
 | Sammy Braybrooke | 91 | — | 24k coins | -49% | -38.4% |
-| Marquinhos | 96 | — | 156k coins | -48.4% | -63.9% |
 | Xavi | 96 | — | 99k coins | -48.2% | -56.2% |
 | Romelu Lukaku | 95 | — | 37k coins | -47.8% | -47.4% |
+| Franz Beckenbauer | 92 | Icons | 109k coins | -47.3% | -28.8% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Bukayo Saka (98, sem liga), com +58.1% em 24h, a 1.50M coins no PC.
 Camille Abily (91), -50% em 24h, a 30k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 181 cartas em alta contra 639 em queda (média -19.7%).
+Hoje o mercado está em baixa — predominam as quedas, com 182 cartas em alta contra 639 em queda (média -19.71%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

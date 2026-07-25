@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:50:07.000Z
+pubDatetime: 2026-07-25T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -44,9 +44,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Caroline Graham Hansen | 90 | Liga F | 44k coins | +19.9% | +75% | Esticada |
-| Nick Woltemade | 90 | Premier League | 138k coins | +21.5% | +68% | Esticada |
+| Nick Woltemade | 90 | Premier League | 137k coins | +22.5% | +68% | Esticada |
 | Erling Haaland | 90 | Premier League | 19.500 coins | +25% | +66.7% | Esticada |
-| Nikola Katić | 90 | — | 103k coins | +24.7% | +56.8% | Esticada |
+| Nikola Katić | 90 | — | 103k coins | +20.4% | +51.4% | Esticada |
 | Mohamed Salah | 91 | Premier League | 48k coins | +17.6% | +42.9% | Momentum moderado |
 | Mike Maignan | 93 | — | 29k coins | +40% | +40% | Esticada |
 | Weston McKennie | 92 | Serie A TIM | 48k coins | +2.1% | +32.9% | Momentum moderado |
@@ -64,11 +64,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Caroline Graham Hansen (90)** — 44k coins, **+75% em 7 dias** (+19.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nick Woltemade (90)** — 138k coins, **+68% em 7 dias** (+21.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nick Woltemade (90)** — 137k coins, **+68% em 7 dias** (+22.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Erling Haaland (90)** — 19.500 coins, **+66.7% em 7 dias** (+25% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Katić (90)** — 103k coins, **+56.8% em 7 dias** (+24.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nikola Katić (90)** — 103k coins, **+51.4% em 7 dias** (+20.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Mohamed Salah (91)** — 48k coins, **+42.9% em 7 dias** (+17.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

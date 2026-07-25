@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:50:16.000Z
+pubDatetime: 2026-07-25T10:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 25/07 — PC"
 draft: false
 featured: true
@@ -54,10 +54,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Mateusz Lis | 92 | — | 28k coins | +20% | +37.9% | Esticada |
 | Simone Laudehr | 91 | GPFBL | 65k coins | +19.3% | +36.8% | Momentum moderado |
 | Francisco Moura | 90 | Liga Portugal | 74k coins | +14.7% | +35.8% | Momentum moderado |
+| Yanis Begraoui | 92 | — | 22k coins | +36.1% | +34.5% | Esticada |
 | Mile Svilar | 91 | — | 60k coins | +25% | +34.1% | Esticada |
 | Carlos Baleba | 90 | Premier League | 120k coins | +39.5% | +33.3% | Esticada |
 | Caroline Graham Hansen | 90 | Liga F | 32k coins | +5.9% | +31.2% | Momentum moderado |
-| Caroline Seger | 90 | Icons | 89k coins | +30% | +30% | Esticada |
 
 
 ## 📈 Análise dos destaques
