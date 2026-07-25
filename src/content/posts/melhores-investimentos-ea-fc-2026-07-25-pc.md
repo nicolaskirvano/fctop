@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:58:19.000Z
+pubDatetime: 2026-07-25T19:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Khadija Shaw (90, Barclays WSL) lidera, com +72.7% em 7 dias a 91k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Angelo Stiller (94, sem liga) lidera, com +74.5% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Khadija Shaw (90) acumula **+72.7% em 7 dias** a 91k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Angelo Stiller (94) acumula **+74.5% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+27.2% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.0% em 24h** e **+18.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 91k coins | +26.7% | +72.7% | Esticada |
-| Jürgen Kohler | 90 | Bundesliga | 70k coins | +16.7% | +55.6% | Momentum moderado |
-| Francisco Moura | 90 | Liga Portugal | 74k coins | +13.8% | +45.1% | Momentum moderado |
-| Orlando Gill | 95 | — | 35k coins | +9.3% | +37.2% | Momentum moderado |
-| David Raya | 93 | — | 34k coins | +34.9% | +33.3% | Esticada |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 68k coins | +2.2% | +29.9% | Momentum moderado |
-| David Raya | 93 | Premier League | 81k coins | +25.4% | +28.3% | Esticada |
-| Roberto Baggio | 94 | — | 219k coins | +25.7% | +27.2% | Esticada |
-| Madeline Dahlien | 90 | — | 57k coins | +5.6% | +26.7% | Momentum moderado |
-| Harry Kane | 91 | Bundesliga | 250k coins | +21.5% | +26.3% | Esticada |
-| Charles De Ketelaere | 95 | — | 30k coins | +17.5% | +23.7% | Momentum moderado |
-| Lindsey Heaps | 90 | D1 Arkema | 88k coins | +18% | +21.2% | Momentum moderado |
-| Craig Halkett | 91 | — | 49k coins | +10.6% | +17.1% | Momentum moderado |
-| Henrik Larsson | 91 | — | 54k coins | +3.7% | +16.5% | Entrada a observar |
-| Sultan Mandash | 93 | — | 22k coins | +9.8% | +15.4% | Momentum moderado |
+| Angelo Stiller | 94 | — | 46k coins | +6.9% | +74.5% | Esticada |
+| Erling Haaland | 90 | Premier League | 19.000 coins | +22.7% | +68.8% | Esticada |
+| Khadija Shaw | 90 | Barclays WSL | 85k coins | +16% | +58.2% | Momentum moderado |
+| Jürgen Kohler | 90 | Bundesliga | 63k coins | +11.7% | +48.9% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 74k coins | +13.1% | +44.1% | Momentum moderado |
+| Ben Chilwell | 90 | Ligue 1 McDonald's | 65k coins | +21.8% | +38.1% | Esticada |
+| Kai Havertz | 91 | Premier League | 249k coins | +29.4% | +19.9% | Esticada |
+| Lothar Matthäus | 90 | Icons | 151k coins | +29.2% | +18% | Esticada |
+| Dominik Szoboszlai | 90 | Premier League | 200k coins | +6.4% | +17.6% | Momentum moderado |
+| Ashley Cole | 92 | — | 109k coins | +28.2% | +17.2% | Esticada |
+| Lindsey Heaps | 90 | D1 Arkema | 84k coins | +13.3% | +16.4% | Momentum moderado |
+| Tristan Crama | 92 | — | 24k coins | +20% | +13.7% | Esticada |
+| Claudio Pizarro | 94 | — | 62k coins | +33.3% | +12.7% | Esticada |
+| Aleksandar Pavlović | 94 | — | 16.250 coins | +4.9% | +12.3% | Entrada a observar |
+| Sergi Domínguez | 92 | — | 28k coins | +31.4% | +11.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Khadija Shaw (90)** — 91k coins, **+72.7% em 7 dias** (+26.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (94)** — 46k coins, **+74.5% em 7 dias** (+6.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 70k coins, **+55.6% em 7 dias** (+16.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Erling Haaland (90)** — 19.000 coins, **+68.8% em 7 dias** (+22.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Moura (90)** — 74k coins, **+45.1% em 7 dias** (+13.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khadija Shaw (90)** — 85k coins, **+58.2% em 7 dias** (+16% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Orlando Gill (95)** — 35k coins, **+37.2% em 7 dias** (+9.3% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 63k coins, **+48.9% em 7 dias** (+11.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Raya (93)** — 34k coins, **+33.3% em 7 dias** (+34.9% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 74k coins, **+44.1% em 7 dias** (+13.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Khadija Shaw (90, Barclays WSL) lidera, com +72.7% em 7 dias a 91k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Angelo Stiller (94, sem liga) lidera, com +74.5% em 7 dias a 46k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
