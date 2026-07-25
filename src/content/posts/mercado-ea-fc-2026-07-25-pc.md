@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:58:17.000Z
+pubDatetime: 2026-07-25T16:58:17.000Z
 title: "Mercado EA FC em 25/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Julián Alvarez (96, sem liga), com +59.5% em 24h, a 820k coins no PC."
+    a: "Raphinha (90, LALIGA EA SPORTS), com +56% em 24h, a 195k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ewa Pajor (96), -50% em 24h, a 78k coins."
+    a: "Kieran Tierney (96), -50% em 24h, a 60k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 140 cartas em alta contra 640 em queda (média -22.16%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 146 cartas em alta contra 607 em queda (média -16.19%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. **140 valorizações** contra **640 quedas** entre as cartas relevantes, com média de **-22.16%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. **146 valorizações** contra **607 quedas** entre as cartas relevantes, com média de **-16.19%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Julián Alvarez (96) **+59.5%** · 🔴 **Maior baixa:** Ewa Pajor (96) **-50%**
+> 🟢 **Maior alta:** Raphinha (90) **+56%** · 🔴 **Maior baixa:** Kieran Tierney (96) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 17.9% entre as cartas que se moveram; o universo observado reúne 844 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 19.4% entre as cartas que se moveram; o universo observado reúne 832 cartas.
+- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julián Alvarez | 96 | — | 820k coins | +59.5% | +47.3% |
-| Raphinha | 90 | LALIGA EA SPORTS | 195k coins | +54.8% | -20.4% |
-| Antony | 91 | LALIGA EA SPORTS | 200k coins | +51.5% | +2% |
-| Marcus Rashford | 90 | LALIGA EA SPORTS | 643k coins | +50.2% | +28.6% |
-| Federico Valverde | 90 | LALIGA EA SPORTS | 275k coins | +48.6% | -8.3% |
-| Nuno Mendes | 97 | Ligue 1 McDonald's | 2.50M coins | +48.5% | +38.9% |
-| Alexia Putellas | 91 | Liga F | 22k coins | +48.3% | +14.1% |
-| Diego Armando Maradona | 95 | Icons | 1.39M coins | +45.8% | -55.9% |
-| Orkun Kökçü | 95 | — | 140k coins | +40% | +8.5% |
-| Nick Woltemade | 90 | Premier League | 125k coins | +39.7% | -4.6% |
+| Raphinha | 90 | LALIGA EA SPORTS | 195k coins | +56% | -20.4% |
+| Vanessa Gilles | 94 | — | 35k coins | +54.3% | +30.6% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.80M coins | +53.8% | +35.2% |
+| Azzedine Ounahi | 95 | — | 505k coins | +49.4% | +18.3% |
+| Gerd Müller | 92 | Icons | 114k coins | +44.3% | +18.1% |
+| Kika Nazareth | 96 | — | 1.90M coins | +43.3% | +25% |
+| Deniz Undav | 95 | — | 138k coins | +42% | -24.1% |
+| Marcus Rashford | 92 | — | 630k coins | +39.4% | +22.3% |
+| Diego Milito | 91 | — | 48k coins | +39.3% | -8.9% |
+| Nuno Mendes | 96 | — | 370k coins | +37.5% | -61.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Julián Alvarez (96)** subiu **+59.5%** em 24h, a **820k coins** (faixa do dia: 379k–999k). Está +53% acima da média de 7 dias (aquecida).
+- **Raphinha (90)** subiu **+56%** em 24h, a **195k coins** (faixa do dia: 90k–248k). Está em linha com a média de 7 dias (-2%).
 
-- **Raphinha (90)** subiu **+54.8%** em 24h, a **195k coins** (faixa do dia: 77k–248k). Está em linha com a média de 7 dias (-3%).
+- **Vanessa Gilles (94)** subiu **+54.3%** em 24h, a **35k coins** (faixa do dia: 14.000–36k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Antony (91)** subiu **+51.5%** em 24h, a **200k coins** (faixa do dia: 136k–200k). Está +13% acima da média de 7 dias (aquecida).
+- **Désiré Doué (91)** subiu **+53.8%** em 24h, a **1.80M coins** (faixa do dia: 713k–2M). Está +31% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ewa Pajor | 96 | Liga F | 78k coins | -50% | -78.2% |
-| Cesc Fàbregas | 93 | — | 20k coins | -49.7% | -41.5% |
-| Bixente Lizarazu | 90 | — | 30k coins | -48.8% | -35.3% |
-| Lothar Matthäus | 90 | Icons | 98k coins | -48.7% | -33.3% |
-| Cafu | 96 | — | 78k coins | -48.7% | -55.6% |
-| Rayan Cherki | 95 | — | 29k coins | -48.7% | -48.3% |
-| Vini Jr. | 91 | — | 248k coins | -48.2% | -79.3% |
-| Rúben Dias | 95 | — | 40k coins | -48.1% | -49.7% |
-| Dodi Lukébakio | 94 | — | 124k coins | -48.1% | +20% |
-| Homare Sawa | 91 | Icons | 80k coins | -47.9% | -51.3% |
+| Kieran Tierney | 96 | — | 60k coins | -50% | -57.1% |
+| Alyssa Thompson | 95 | — | 54k coins | -50% | -30.1% |
+| Uli Hoeneß | 90 | — | 27k coins | -49% | -50% |
+| Omar Marmoush | 96 | — | 153k coins | -48.2% | -60.1% |
+| Adalberto Carrasquilla | 91 | — | 23k coins | -47.8% | -32.9% |
+| Zico | 95 | — | 101k coins | -46.8% | -52.8% |
+| Caroline Graham Hansen | 96 | — | 317k coins | -46.7% | -56.2% |
+| Ewa Pajor | 96 | Liga F | 78k coins | -46.6% | -78.2% |
+| Celia Šašić | 92 | GPFBL | 32k coins | -46.1% | -22.3% |
+| Alessandro Del Piero | 90 | Icons | 69k coins | -46.1% | -25.3% |
 
 
 ### Análise das baixas
 
-- **Ewa Pajor (96)** caiu **-50%** em 24h, a **78k coins** (faixa do dia: 78k–197k). Está -63% abaixo da média de 7 dias (descontada).
+- **Kieran Tierney (96)** caiu **-50%** em 24h, a **60k coins** (faixa do dia: 36k–119k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Cesc Fàbregas (93)** caiu **-49.7%** em 24h, a **20k coins** (faixa do dia: 18.250–46k). Está -41% abaixo da média de 7 dias (descontada).
+- **Alyssa Thompson (95)** caiu **-50%** em 24h, a **54k coins** (faixa do dia: 26k–120k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Bixente Lizarazu (90)** caiu **-48.8%** em 24h, a **30k coins** (faixa do dia: 30k–70k). Está -37% abaixo da média de 7 dias (descontada).
+- **Uli Hoeneß (90)** caiu **-49%** em 24h, a **27k coins** (faixa do dia: 18.750–60k). Está -46% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Julián Alvarez já avançou 59.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Raphinha já avançou 56% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ewa Pajor recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kieran Tierney recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Julián Alvarez (96, sem liga), com +59.5% em 24h, a 820k coins no PC.
+Raphinha (90, LALIGA EA SPORTS), com +56% em 24h, a 195k coins no PC.
 
 **E a maior queda do dia?**
-Ewa Pajor (96), -50% em 24h, a 78k coins.
+Kieran Tierney (96), -50% em 24h, a 60k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 140 cartas em alta contra 640 em queda (média -22.16%).
+Hoje o mercado está em baixa — predominam as quedas, com 146 cartas em alta contra 607 em queda (média -16.19%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
