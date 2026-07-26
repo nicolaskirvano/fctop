@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:58:10.000Z
+pubDatetime: 2026-07-26T22:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Orlando Gill (96, sem liga) lidera, com +52.5% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Orlando Gill (96, sem liga) lidera, com +52.4% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Orlando Gill (96) acumula **+52.5% em 7 dias** a 22k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Orlando Gill (96) acumula **+52.4% em 7 dias** a 21k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+18.8% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.2% em 24h** e **+27.5% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Orlando Gill | 96 | — | 22k coins | +38.8% | +52.5% | Esticada |
-| Diego Milito | 91 | — | 49k coins | +5.3% | +33.7% | Momentum moderado |
-| Aleksandar Pavlović | 94 | — | 17.250 coins | +9.7% | +33.3% | Momentum moderado |
-| Malik Tillman | 95 | — | 17.250 coins | +9.5% | +30.2% | Momentum moderado |
-| Thibaut Courtois | 92 | — | 46k coins | +27.6% | +27.6% | Esticada |
-| Joan García | 94 | — | 39k coins | +9.1% | +27.3% | Momentum moderado |
-| Noussair Mazraoui | 95 | — | 15.000 coins | +12.5% | +21.2% | Momentum moderado |
-| José María Giménez | 94 | — | 17.750 coins | +22.6% | +18.8% | Esticada |
-| Jesper Karlström | 93 | — | 17.500 coins | +8.8% | +17.5% | Momentum moderado |
-| Alexis Saelemaekers | 93 | — | 17.500 coins | +17.5% | +17.5% | Momentum moderado |
-| Hamdy Fathy | 93 | — | 17.500 coins | +15.9% | +15.9% | Momentum moderado |
-| Andrés Cubas | 93 | — | 18.000 coins | +7.4% | +15.9% | Momentum moderado |
-| Gideon Mensah | 92 | — | 16.000 coins | +14.1% | +15.9% | Momentum moderado |
-| Çağlar Söyüncü | 93 | — | 17.500 coins | +12.3% | +15.9% | Momentum moderado |
-| Sergiño Dest | 93 | — | 17.250 coins | +15.6% | +15.6% | Momentum moderado |
+| Orlando Gill | 96 | — | 21k coins | +33.3% | +52.4% | Esticada |
+| Hannah Hampton | 92 | — | 30k coins | +40% | +47.4% | Esticada |
+| Olivia Moultrie | 93 | — | 24k coins | +34.9% | +36.6% | Esticada |
+| Zion Suzuki | 95 | — | 17.750 coins | +16.7% | +32.1% | Momentum moderado |
+| Pau Cubarsí | 93 | — | 30k coins | +2.7% | +30.7% | Momentum moderado |
+| Luka Vušković | 94 | — | 16.250 coins | +11.7% | +28.8% | Momentum moderado |
+| Caleb Yirenkyi | 94 | — | 16.000 coins | +8.3% | +27.5% | Momentum moderado |
+| Patrick Beach | 93 | — | 16.000 coins | +10.2% | +27.5% | Momentum moderado |
+| Noah Sadiki | 93 | — | 16.000 coins | +8.3% | +27.5% | Momentum moderado |
+| Kojo Peprah Oppong | 93 | — | 16.250 coins | +6.6% | +27.5% | Momentum moderado |
+| Luc De Fougerolles | 93 | — | 16.000 coins | +8.3% | +27.5% | Momentum moderado |
+| Lucas Herrington | 93 | — | 16.250 coins | +8.3% | +27.5% | Momentum moderado |
+| Vózinha | 96 | — | 20k coins | +22.1% | +27% | Esticada |
+| Sidny Cabral | 93 | — | 16.250 coins | +8.2% | +26.9% | Momentum moderado |
+| Nilson Angulo | 95 | — | 16.000 coins | +11.9% | +26.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Orlando Gill (96)** — 22k coins, **+52.5% em 7 dias** (+38.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Orlando Gill (96)** — 21k coins, **+52.4% em 7 dias** (+33.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Milito (91)** — 49k coins, **+33.7% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hannah Hampton (92)** — 30k coins, **+47.4% em 7 dias** (+40% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (94)** — 17.250 coins, **+33.3% em 7 dias** (+9.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (93)** — 24k coins, **+36.6% em 7 dias** (+34.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (95)** — 17.250 coins, **+30.2% em 7 dias** (+9.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Zion Suzuki (95)** — 17.750 coins, **+32.1% em 7 dias** (+16.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Thibaut Courtois (92)** — 46k coins, **+27.6% em 7 dias** (+27.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pau Cubarsí (93)** — 30k coins, **+30.7% em 7 dias** (+2.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Orlando Gill (96, sem liga) lidera, com +52.5% em 7 dias a 22k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Orlando Gill (96, sem liga) lidera, com +52.4% em 7 dias a 21k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
