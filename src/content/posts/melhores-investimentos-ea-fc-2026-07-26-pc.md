@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:48:48.000Z
+pubDatetime: 2026-07-26T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 26/07 — PC"
 draft: false
 featured: true
@@ -34,7 +34,7 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 ## O que os números desta lista mostram
 
 - A mediana é de **+16.3% em 24h** e **+46.9% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga F** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,16 +45,16 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Alexia Putellas | 91 | Liga F | 24k coins | +12.6% | +71.9% | Esticada |
 | Mylène Chavas | 93 | — | 48k coins | +31.9% | +65.2% | Esticada |
-| Jonathan Tah | 95 | — | 191k coins | +9.1% | +60.5% | Esticada |
 | Darwin Núñez | 90 | ROSHN Saudi League | 200k coins | +8.1% | +60% | Esticada |
+| Jonathan Tah | 95 | — | 191k coins | +13% | +59.2% | Momentum moderado |
 | Marco van Basten | 94 | — | 150k coins | +11.9% | +57.9% | Momentum moderado |
+| Yan Diomande | 92 | — | 39k coins | +30% | +50% | Esticada |
 | Jens Petter Hauge | 91 | Eliteserien | 88k coins | +38.3% | +50% | Esticada |
-| Yan Diomande | 92 | — | 39k coins | +34.5% | +50% | Esticada |
 | Andrea Pirlo | 90 | Icons | 210k coins | +40% | +46.9% | Esticada |
 | Raphinha | 91 | LALIGA EA SPORTS | 122k coins | +33.3% | +44.4% | Esticada |
 | Alexia Putellas | 92 | Liga F | 75k coins | +16.3% | +40.2% | Momentum moderado |
 | Angelo Stiller | 94 | — | 50k coins | +13.1% | +38.5% | Momentum moderado |
-| Melle Meulensteen | 91 | — | 54k coins | +13% | +37.1% | Momentum moderado |
+| Melle Meulensteen | 91 | — | 54k coins | +15.3% | +37.1% | Momentum moderado |
 | Joan García | 94 | — | 57k coins | +39% | +36.5% | Esticada |
 | Mapi León | 90 | Liga F | 75k coins | +22% | +36.4% | Esticada |
 | Mohamed Ihattaren | 91 | — | 36k coins | +15% | +32.7% | Momentum moderado |
@@ -66,9 +66,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Mylène Chavas (93)** — 48k coins, **+65.2% em 7 dias** (+31.9% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Tah (95)** — 191k coins, **+60.5% em 7 dias** (+9.1% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Darwin Núñez (90)** — 200k coins, **+60% em 7 dias** (+8.1% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jonathan Tah (95)** — 191k coins, **+59.2% em 7 dias** (+13% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Marco van Basten (94)** — 150k coins, **+57.9% em 7 dias** (+11.9% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

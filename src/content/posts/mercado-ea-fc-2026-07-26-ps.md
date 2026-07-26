@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:48:37.000Z
+pubDatetime: 2026-07-26T10:58:07.000Z
 title: "Mercado EA FC em 26/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Alessandro Bastoni (91), -49.3% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 508 cartas em alta contra 545 em queda (média 3.1%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 509 cartas em alta contra 546 em queda (média 3.15%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **508 subiram**, **545 caíram** (80+ e 5k+ coins), média de **3.1%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **509 subiram**, **546 caíram** (80+ e 5k+ coins), média de **3.15%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Vangelis Pavlidis (90) **+60%** · 🔴 **Maior baixa:** Alessandro Bastoni (91) **-49.3%**
 
@@ -44,15 +44,15 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vangelis Pavlidis | 90 | Liga Portugal | 80k coins | +60% | +45.5% |
-| Virgil van Dijk | 95 | Premier League | 700k coins | +59.1% | -15.7% |
+| Virgil van Dijk | 95 | Premier League | 700k coins | +59.5% | -15.7% |
 | Camille Abily | 90 | Icons | 108k coins | +58.8% | +35% |
+| Désiré Doué | 96 | — | 865k coins | +58.7% | +21% |
 | Folarin Balogun | 95 | — | 70k coins | +57.3% | -27.8% |
+| Patrick Berg | 95 | — | 34k coins | +56.8% | +12.2% |
 | Jonathan David | 95 | — | 102k coins | +55.7% | -10.5% |
-| Patrick Berg | 95 | — | 34k coins | +55.1% | +12.2% |
+| Klara Bühl | 97 | — | 86k coins | +55% | -40.3% |
 | Jamie Vardy | 90 | Serie A TIM | 278k coins | +54.4% | +35.6% |
 | Julián Alvarez | 96 | — | 102k coins | +53.4% | -49.8% |
-| Alex Morgan | 91 | Icons | 242k coins | +53.2% | -9.7% |
-| Jurriën Timber | 93 | — | 35k coins | +52.2% | -44% |
 
 
 ### Análise das altas
@@ -63,7 +63,7 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 - **Vangelis Pavlidis (90)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 38k–80k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Virgil van Dijk (95)** subiu **+59.1%** em 24h, a **700k coins** (faixa do dia: 415k–889k). Está em linha com a média de 7 dias (+1%).
+- **Virgil van Dijk (95)** subiu **+59.5%** em 24h, a **700k coins** (faixa do dia: 415k–889k). Está em linha com a média de 7 dias (+1%).
 
 - **Camille Abily (90)** subiu **+58.8%** em 24h, a **108k coins** (faixa do dia: 68k–116k). Está +16% acima da média de 7 dias (aquecida).
 
@@ -77,7 +77,7 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 | Tsuyoshi Watanabe | 91 | — | 26k coins | -48.5% | -39.4% |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | -48.5% | -54.5% |
 | Bruno Fernandes | 93 | Premier League | 98k coins | -46.7% | -50.5% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 44k coins | -46.6% | -50.3% |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 44k coins | -46.3% | -50.3% |
 | Josip Šutalo | 90 | Eredivisie | 35k coins | -45.8% | -46.2% |
 | Diego Milito | 91 | — | 24k coins | -45.6% | -45.6% |
 | Ryan Yates | 92 | — | 33k coins | -45.5% | -22.2% |
@@ -115,7 +115,7 @@ Vangelis Pavlidis (90, Liga Portugal), com +60% em 24h, a 80k coins no Console (
 Alessandro Bastoni (91), -49.3% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 508 cartas em alta contra 545 em queda (média 3.1%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 509 cartas em alta contra 546 em queda (média 3.15%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:48:47.000Z
+pubDatetime: 2026-07-26T10:58:17.000Z
 title: "Mercado EA FC em 26/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Stine Ballisager (93, sem liga), com +59.6% em 24h, a 23k coins no PC."
+    a: "Lev Yashin (92, Icons), com +58.2% em 24h, a 121k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Mile Svilar (91), -50% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 425 cartas em alta contra 599 em queda (média 0.4%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 425 cartas em alta contra 596 em queda (média 0.33%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **425 subiram**, **599 caíram** (80+ e 5k+ coins), média de **0.4%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **425 subiram**, **596 caíram** (80+ e 5k+ coins), média de **0.33%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Stine Ballisager (93) **+59.6%** · 🔴 **Maior baixa:** Mile Svilar (91) **-50%**
+> 🟢 **Maior alta:** Lev Yashin (92) **+58.2%** · 🔴 **Maior baixa:** Mile Svilar (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,21 +35,21 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 41.5% entre as cartas que se moveram; o universo observado reúne 1203 cartas.
+- **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 41.6% entre as cartas que se moveram; o universo observado reúne 1203 cartas.
 - **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Stine Ballisager | 93 | — | 23k coins | +59.6% | -15% |
-| Balde | 90 | LALIGA EA SPORTS | 127k coins | +58.8% | +17.6% |
-| Hervé Koffi | 94 | — | 46k coins | +58.6% | +84% |
 | Lev Yashin | 92 | Icons | 121k coins | +58.2% | +4.3% |
 | Paul Scholes | 91 | Icons | 190k coins | +57% | +216.7% |
 | George Best | 90 | Icons | 157k coins | +57% | -8.2% |
+| Tyrone Mings | 96 | — | 69k coins | +56.8% | -54% |
 | Scott McTominay | 94 | — | 210k coins | +56.7% | -2.3% |
+| Carl Rushworth | 93 | — | 50k coins | +56.6% | +47.4% |
+| Hervé Koffi | 94 | — | 46k coins | +55.9% | +84% |
 | Paul Onuachu | 95 | — | 108k coins | +55.4% | +35% |
 | Esmee Brugts | 94 | — | 23k coins | +55% | -15.5% |
 | Amar Dedić | 93 | — | 24k coins | +54.8% | -28.9% |
@@ -61,11 +61,11 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Stine Ballisager (93)** subiu **+59.6%** em 24h, a **23k coins** (faixa do dia: 13.750–23k). Está em linha com a média de 7 dias (-2%).
+- **Lev Yashin (92)** subiu **+58.2%** em 24h, a **121k coins** (faixa do dia: 70k–129k). Está em linha com a média de 7 dias (+2%).
 
-- **Balde (90)** subiu **+58.8%** em 24h, a **127k coins** (faixa do dia: 75k–170k). Está +28% acima da média de 7 dias (aquecida).
+- **Paul Scholes (91)** subiu **+57%** em 24h, a **190k coins** (faixa do dia: 98k–190k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Hervé Koffi (94)** subiu **+58.6%** em 24h, a **46k coins** (faixa do dia: 17.250–48k). Está +53% acima da média de 7 dias (aquecida).
+- **George Best (90)** subiu **+57%** em 24h, a **157k coins** (faixa do dia: 90k–190k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -79,9 +79,9 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 | Oliver Bierhoff | 90 | — | 20k coins | -49.1% | -57.4% |
 | Luis Díaz | 95 | — | 199k coins | -48.8% | -56.8% |
 | Vincent Kompany | 91 | Premier League | 32k coins | -48.4% | -44% |
-| Gianluca Vialli | 91 | — | 24k coins | -48.1% | -38.8% |
-| Alex Morgan | 91 | Icons | 900k coins | -47.8% | -52.6% |
+| Alex Morgan | 91 | Icons | 900k coins | -47.8% | -50% |
 | Emilio Butragueño | 93 | — | 189k coins | -47.1% | -42.9% |
+| Gonçalo Ramos | 96 | — | 105k coins | -47% | -69.7% |
 
 
 ### Análise das baixas
@@ -95,7 +95,7 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas s
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Stine Ballisager já avançou 59.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lev Yashin já avançou 58.2% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Mile Svilar recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Stine Ballisager (93, sem liga), com +59.6% em 24h, a 23k coins no PC.
+Lev Yashin (92, Icons), com +58.2% em 24h, a 121k coins no PC.
 
 **E a maior queda do dia?**
 Mile Svilar (91), -50% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 425 cartas em alta contra 599 em queda (média 0.4%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 425 cartas em alta contra 596 em queda (média 0.33%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

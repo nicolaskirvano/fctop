@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:48:39.000Z
+pubDatetime: 2026-07-26T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -51,13 +51,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Fridolina Rolfö | 90 | Barclays WSL | 65k coins | +16.1% | +30% | Momentum moderado |
 | Roberto Lopes | 95 | — | 36k coins | +10.6% | +24.8% | Momentum moderado |
 | Pau Cubarsí | 93 | — | 27k coins | +33.8% | +21.6% | Esticada |
+| Carl Rushworth | 93 | — | 34k coins | +16% | +21.1% | Momentum moderado |
 | Alyssa Thompson | 91 | Barclays WSL | 210k coins | +7.7% | +20.7% | Momentum moderado |
-| Carl Rushworth | 93 | — | 34k coins | +16% | +20% | Momentum moderado |
 | Salem Al Dawsari | 92 | — | 40k coins | +26% | +19.4% | Esticada |
-| Cafu | 91 | Icons | 160k coins | +25% | +17.6% | Esticada |
+| Cafu | 91 | Icons | 160k coins | +27% | +17.6% | Esticada |
 | Dennis Bergkamp | 93 | Icons | 249k coins | +11.7% | +17.5% | Momentum moderado |
+| Vózinha | 96 | — | 22k coins | +38.7% | +16.2% | Esticada |
 | Piero Hincapié | 93 | — | 97k coins | +9.6% | +16.2% | Momentum moderado |
-| Orlando Gill | 96 | — | 18.000 coins | +22% | +16.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
