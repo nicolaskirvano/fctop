@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:58:17.000Z
+pubDatetime: 2026-07-26T01:58:17.000Z
 title: "Mercado EA FC em 25/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Lamine Yamal (92, LALIGA EA SPORTS), com +59.1% em 24h, a 640k coins no PC."
+    a: "Javier Mascherano (90, LALIGA EA SPORTS), com +59.3% em 24h, a 94k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mohammed Noor (90), -49.6% em 24h, a 20k coins."
+    a: "Salem Al Dawsari (92), -50% em 24h, a 24k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 299 cartas em alta contra 463 em queda (média -1.91%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 352 cartas em alta contra 392 em queda (média 0.22%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. **299 valorizações** contra **463 quedas** entre as cartas relevantes, com média de **-1.91%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **25/07/2026** no PC: mercado **lateral** — sem direção clara. **352 valorizações** contra **392 quedas** entre as cartas relevantes, com média de **0.22%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lamine Yamal (92) **+59.1%** · 🔴 **Maior baixa:** Mohammed Noor (90) **-49.6%**
+> 🟢 **Maior alta:** Javier Mascherano (90) **+59.3%** · 🔴 **Maior baixa:** Salem Al Dawsari (92) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.2% entre as cartas que se moveram; o universo observado reúne 922 cartas.
+- **Amplitude do dia:** 109.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 919 cartas.
 - **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lamine Yamal | 92 | LALIGA EA SPORTS | 640k coins | +59.1% | -53.3% |
-| Mikel Merino | 95 | — | 45k coins | +58.6% | -49.1% |
-| Ronaldo | 97 | — | 4.50M coins | +56.7% | -28.1% |
-| Michael Boxall | 91 | — | 42k coins | +56.3% | +32.9% |
-| Piero Hincapié | 93 | — | 110k coins | +55.4% | -8.3% |
-| Deniz Undav | 95 | — | 106k coins | +52.8% | -42.1% |
-| Erling Haaland | 91 | Premier League | 310k coins | +50% | -13.2% |
-| Jonathan David | 90 | Serie A TIM | 55k coins | +49.7% | +16.7% |
-| Mohamed Salah | 92 | Premier League | 476k coins | +48.3% | -13.5% |
-| Rafael Leão | 93 | Serie A TIM | 1.50M coins | +47.9% | -25% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 94k coins | +59.3% | +35.3% |
+| Michael Boxall | 91 | — | 38k coins | +58.8% | +10% |
+| Vladimír Coufal | 91 | — | 38k coins | +52.3% | -6.1% |
+| Claudio Pizarro | 94 | — | 56k coins | +51.9% | +17.6% |
+| Paulo Dybala | 91 | Serie A TIM | 175k coins | +51.5% | +17.6% |
+| Kerim Alajbegović | 94 | — | 30k coins | +48.1% | +11.1% |
+| Mohamed Salah | 96 | — | 399k coins | +47.5% | -40.7% |
+| Christian Pulisic | 96 | — | 94k coins | +46.2% | -35.8% |
+| Birgit Prinz | 94 | — | 30k coins | +45.8% | -11.4% |
+| Nilson Angulo | 95 | — | 74k coins | +44.8% | +20.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **25/07/2026** no PC: mercado **em baixa** — predominam as quedas. *
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lamine Yamal (92)** subiu **+59.1%** em 24h, a **640k coins** (faixa do dia: 500k–789k). Está -44% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (90)** subiu **+59.3%** em 24h, a **94k coins** (faixa do dia: 49k–100k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Mikel Merino (95)** subiu **+58.6%** em 24h, a **45k coins** (faixa do dia: 34k–73k). Está -39% abaixo da média de 7 dias (descontada).
+- **Michael Boxall (91)** subiu **+58.8%** em 24h, a **38k coins** (faixa do dia: 13.750–46k). Está em linha com a média de 7 dias (-6%).
 
-- **Ronaldo (97)** subiu **+56.7%** em 24h, a **4.50M coins** (faixa do dia: 2.88M–8.50M). Está em linha com a média de 7 dias (-7%).
+- **Vladimír Coufal (91)** subiu **+52.3%** em 24h, a **38k coins** (faixa do dia: 12.000–50k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mohammed Noor | 90 | — | 20k coins | -49.6% | -63.5% |
-| Luis Milla | 90 | — | 20k coins | -49.4% | -55.6% |
-| Darwin Núñez | 90 | ROSHN Saudi League | 71k coins | -47.9% | -51.9% |
-| Ryan Yates | 92 | — | 46k coins | -47.8% | -47.8% |
-| Federico Bernardeschi | 91 | — | 26k coins | -47% | -48% |
-| Adam Wharton | 96 | — | 404k coins | -46.9% | -68.8% |
-| Evann Guessand | 96 | — | 113k coins | -46.8% | -71.3% |
-| Khadija Shaw | 91 | — | 50k coins | -46.5% | -16.7% |
-| Harry Kane | 91 | Bundesliga | 190k coins | -46.5% | -41.2% |
-| Ricardo Horta | 90 | Liga Portugal | 35k coins | -46.3% | -51.8% |
+| Salem Al Dawsari | 92 | — | 24k coins | -50% | -43.7% |
+| Toni Kroos | 90 | Icons | 69k coins | -49.3% | -60% |
+| Hugo Ekitiké | 90 | Premier League | 32k coins | -49.2% | -49.2% |
+| Reece James | 91 | — | 26k coins | -49% | -49% |
+| Wesley | 91 | — | 24k coins | -49% | -45% |
+| Manuel Akanji | 91 | — | 24k coins | -48.9% | -42.9% |
+| Nathan Zézé | 91 | — | 23k coins | -48.9% | -43.1% |
+| Oyarzabal | 91 | — | 20k coins | -47.8% | -60.7% |
+| Oliver Baumann | 91 | — | 29k coins | -47.7% | -37.2% |
+| Jean-Philippe Mateta | 92 | Premier League | 23k coins | -47.5% | -60.8% |
 
 
 ### Análise das baixas
 
-- **Mohammed Noor (90)** caiu **-49.6%** em 24h, a **20k coins** (faixa do dia: 11.500–32k). Está -57% abaixo da média de 7 dias (descontada).
+- **Salem Al Dawsari (92)** caiu **-50%** em 24h, a **24k coins** (faixa do dia: 19.750–40k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Luis Milla (90)** caiu **-49.4%** em 24h, a **20k coins** (faixa do dia: 17.250–60k). Está -57% abaixo da média de 7 dias (descontada).
+- **Toni Kroos (90)** caiu **-49.3%** em 24h, a **69k coins** (faixa do dia: 68k–149k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Darwin Núñez (90)** caiu **-47.9%** em 24h, a **71k coins** (faixa do dia: 62k–210k). Está -50% abaixo da média de 7 dias (descontada).
+- **Hugo Ekitiké (90)** caiu **-49.2%** em 24h, a **32k coins** (faixa do dia: 17.000–64k). Está -43% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lamine Yamal já avançou 59.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Javier Mascherano já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mohammed Noor recuou -49.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Salem Al Dawsari recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Lamine Yamal (92, LALIGA EA SPORTS), com +59.1% em 24h, a 640k coins no PC.
+Javier Mascherano (90, LALIGA EA SPORTS), com +59.3% em 24h, a 94k coins no PC.
 
 **E a maior queda do dia?**
-Mohammed Noor (90), -49.6% em 24h, a 20k coins.
+Salem Al Dawsari (92), -50% em 24h, a 24k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 299 cartas em alta contra 463 em queda (média -1.91%).
+Hoje o mercado está lateral — sem direção clara, com 352 cartas em alta contra 392 em queda (média 0.22%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
