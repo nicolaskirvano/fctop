@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:58:17.000Z
+pubDatetime: 2026-07-26T16:58:17.000Z
 title: "Mercado EA FC em 26/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Ryan Gravenberch (93, Premier League), com +53.8% em 24h, a 98k coins no PC."
+    a: "Ewa Pajor (96, sem liga), com +59.2% em 24h, a 600k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Arda Güler (93), -49.7% em 24h, a 92k coins."
+    a: "Maghnes Akliouche (91), -50% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 236 cartas em alta contra 363 em queda (média -1.49%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 303 cartas em alta contra 453 em queda (média -0.28%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **236 subiram**, **363 caíram** (80+ e 5k+ coins), média de **-1.49%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **303 subiram**, **453 caíram** (80+ e 5k+ coins), média de **-0.28%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ryan Gravenberch (93) **+53.8%** · 🔴 **Maior baixa:** Arda Güler (93) **-49.7%**
+> 🟢 **Maior alta:** Ewa Pajor (96) **+59.2%** · 🔴 **Maior baixa:** Maghnes Akliouche (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.4% entre as cartas que se moveram; o universo observado reúne 774 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.1% entre as cartas que se moveram; o universo observado reúne 937 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | Premier League | 98k coins | +53.8% | -58.5% |
-| Illia Zabarnyi | 96 | — | 193k coins | +51.2% | -42.1% |
+| Ewa Pajor | 96 | — | 600k coins | +59.2% | -19.7% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 3.16M coins | +57.9% | -41.5% |
+| David Beckham | 94 | — | 30k coins | +56.4% | -33.6% |
+| Sam Surridge | 91 | — | 52k coins | +55.4% | +26.3% |
+| Julián Alvarez | 96 | — | 490k coins | +55.3% | +16.3% |
+| Ronald Koeman Jr. | 91 | — | 47k coins | +52.9% | -3.2% |
+| Arseniy Batagov | 94 | — | 32k coins | +51.2% | +6.6% |
+| Hannah Hampton | 92 | — | 42k coins | +50.4% | +65.7% |
 | Ronaldo | 92 | Icons | 15M coins | +50% | 0% |
-| Rafael Leão | 93 | Serie A TIM | 1.50M coins | +47.9% | -24.6% |
-| Maxence Lacroix | 96 | — | 1.70M coins | +44.7% | -28.9% |
-| Djed Spence | 96 | — | 544k coins | +43.8% | -27.3% |
-| George Best | 90 | Icons | 134k coins | +43.3% | -24.9% |
-| Vini Jr. | 97 | — | 1.50M coins | +41.8% | -49.3% |
-| Amir Murillo | 92 | — | 25k coins | +41.2% | +20% |
-| Oliver Baumann | 91 | — | 49k coins | +41% | +28.7% |
+| Andrea Pirlo | 90 | Icons | 210k coins | +49.3% | +46.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ryan Gravenberch (93)** subiu **+53.8%** em 24h, a **98k coins** (faixa do dia: 52k–100k). Está -51% abaixo da média de 7 dias (descontada).
+- **Ewa Pajor (96)** subiu **+59.2%** em 24h, a **600k coins** (faixa do dia: 350k–955k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Illia Zabarnyi (96)** subiu **+51.2%** em 24h, a **193k coins** (faixa do dia: 108k–200k). Está -21% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (92)** subiu **+57.9%** em 24h, a **3.16M coins** (faixa do dia: 1.90M–6.40M). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Ronaldo (92)** subiu **+50%** em 24h, a **15M coins** (faixa do dia: 10M–15M). Está em linha com a média de 7 dias (+6%).
+- **David Beckham (94)** subiu **+56.4%** em 24h, a **30k coins** (faixa do dia: 20k–43k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arda Güler | 93 | LALIGA EA SPORTS | 92k coins | -49.7% | -46.4% |
-| Benjamin Nygren | 90 | — | 28k coins | -47.8% | -46.7% |
-| Bixente Lizarazu | 90 | — | 25k coins | -47.5% | -66.3% |
-| Henrik Larsson | 91 | — | 31k coins | -46.7% | -20.5% |
-| Roy Makaay | 91 | — | 20k coins | -45.7% | -57.8% |
-| Gonçalo Ramos | 96 | — | 100k coins | -44.7% | -68.4% |
-| Eusébio | 92 | Icons | 634k coins | -44.6% | -75.7% |
-| Jay-Jay Okocha | 90 | Premier League | 151k coins | -43.5% | -48.8% |
-| Thomas Strakosha | 91 | — | 29k coins | -43.1% | -30.7% |
-| Tomáš Chorý | 95 | — | 22k coins | -42.5% | -37.8% |
+| Maghnes Akliouche | 91 | — | 20k coins | -50% | -52.9% |
+| Lothar Matthäus | 91 | Icons | 710k coins | -49.3% | -40.8% |
+| Klara Bühl | 93 | — | 40k coins | -48.8% | -53.6% |
+| Jay-Jay Okocha | 90 | Premier League | 135k coins | -48.3% | -53.3% |
+| Erling Haaland | 91 | Premier League | 162k coins | -46.9% | -38.5% |
+| Arda Güler | 93 | LALIGA EA SPORTS | 86k coins | -45.4% | -51.4% |
+| Jude Bellingham | 96 | — | 1.70M coins | -43.8% | -7.5% |
+| Zlatan Ibrahimović | 92 | Icons | 4M coins | -42.9% | -57.7% |
+| Noa Lang | 91 | Trendyol Süper Lig | 42k coins | -42.7% | -33.8% |
+| Henrik Larsson | 91 | — | 29k coins | -41.2% | -25.5% |
 
 
 ### Análise das baixas
 
-- **Arda Güler (93)** caiu **-49.7%** em 24h, a **92k coins** (faixa do dia: 84k–192k). Está -47% abaixo da média de 7 dias (descontada).
+- **Maghnes Akliouche (91)** caiu **-50%** em 24h, a **20k coins** (faixa do dia: 16.000–48k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Benjamin Nygren (90)** caiu **-47.8%** em 24h, a **28k coins** (faixa do dia: 20k–46k). Está -42% abaixo da média de 7 dias (descontada).
+- **Lothar Matthäus (91)** caiu **-49.3%** em 24h, a **710k coins** (faixa do dia: 710k–1.40M). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Bixente Lizarazu (90)** caiu **-47.5%** em 24h, a **25k coins** (faixa do dia: 13.250–70k). Está -45% abaixo da média de 7 dias (descontada).
+- **Klara Bühl (93)** caiu **-48.8%** em 24h, a **40k coins** (faixa do dia: 32k–62k). Está -42% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ryan Gravenberch já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ewa Pajor já avançou 59.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Arda Güler recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Maghnes Akliouche recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Ryan Gravenberch (93, Premier League), com +53.8% em 24h, a 98k coins no PC.
+Ewa Pajor (96, sem liga), com +59.2% em 24h, a 600k coins no PC.
 
 **E a maior queda do dia?**
-Arda Güler (93), -49.7% em 24h, a 92k coins.
+Maghnes Akliouche (91), -50% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 236 cartas em alta contra 363 em queda (média -1.49%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 303 cartas em alta contra 453 em queda (média -0.28%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
