@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:58:07.000Z
+pubDatetime: 2026-07-26T13:58:08.000Z
 title: "Mercado EA FC em 26/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Vangelis Pavlidis (90, Liga Portugal), com +60% em 24h, a 80k coins no Console (PS)."
+    a: "Mateo Kovačić (91, Premier League), com +60% em 24h, a 25k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alessandro Bastoni (91), -49.3% em 24h, a 36k coins."
+    a: "Lilian Thuram (94), -49.9% em 24h, a 230k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 509 cartas em alta contra 546 em queda (média 3.15%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 289 cartas em alta contra 346 em queda (média -0.41%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **509 subiram**, **546 caíram** (80+ e 5k+ coins), média de **3.15%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está **de lado** — altas e quedas se equilibram — **289 subiram**, **346 caíram** (80+ e 5k+ coins), média de **-0.41%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Vangelis Pavlidis (90) **+60%** · 🔴 **Maior baixa:** Alessandro Bastoni (91) **-49.3%**
+> 🟢 **Maior alta:** Mateo Kovačić (91) **+60%** · 🔴 **Maior baixa:** Lilian Thuram (94) **-49.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.2% entre as cartas que se moveram; o universo observado reúne 1203 cartas.
-- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.5% entre as cartas que se moveram; o universo observado reúne 779 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 90 | Liga Portugal | 80k coins | +60% | +45.5% |
-| Virgil van Dijk | 95 | Premier League | 700k coins | +59.5% | -15.7% |
-| Camille Abily | 90 | Icons | 108k coins | +58.8% | +35% |
-| Désiré Doué | 96 | — | 865k coins | +58.7% | +21% |
-| Folarin Balogun | 95 | — | 70k coins | +57.3% | -27.8% |
-| Patrick Berg | 95 | — | 34k coins | +56.8% | +12.2% |
-| Jonathan David | 95 | — | 102k coins | +55.7% | -10.5% |
-| Klara Bühl | 97 | — | 86k coins | +55% | -40.3% |
-| Jamie Vardy | 90 | Serie A TIM | 278k coins | +54.4% | +35.6% |
-| Julián Alvarez | 96 | — | 102k coins | +53.4% | -49.8% |
+| Mateo Kovačić | 91 | Premier League | 25k coins | +60% | -27.3% |
+| Alex Scott | 93 | — | 70k coins | +52% | +60% |
+| Virgil van Dijk | 95 | Premier League | 609k coins | +49.7% | -20.8% |
+| Iniesta | 92 | Icons | 198k coins | +46.7% | -18.2% |
+| Eusébio | 91 | Icons | 378k coins | +45.2% | -32% |
+| João Neves | 93 | Ligue 1 McDonald's | 105k coins | +42.2% | -36.6% |
+| Garrincha | 93 | Icons | 685k coins | +36.2% | +16.7% |
+| Cristian Roldan | 94 | — | 24k coins | +36.1% | +16.7% |
+| Gabriel Batistuta | 92 | Icons | 244k coins | +35.6% | -21.3% |
+| Dominik Szoboszlai | 94 | — | 80k coins | +33.9% | -15.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**26/07/2026**, Console (PS)) o Ultimate Team está em clima **comprador**
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vangelis Pavlidis (90)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 38k–80k). Está +44% acima da média de 7 dias (aquecida).
+- **Mateo Kovačić (91)** subiu **+60%** em 24h, a **25k coins** (faixa do dia: 24k–42k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Virgil van Dijk (95)** subiu **+59.5%** em 24h, a **700k coins** (faixa do dia: 415k–889k). Está em linha com a média de 7 dias (+1%).
+- **Alex Scott (93)** subiu **+52%** em 24h, a **70k coins** (faixa do dia: 38k–82k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Camille Abily (90)** subiu **+58.8%** em 24h, a **108k coins** (faixa do dia: 68k–116k). Está +16% acima da média de 7 dias (aquecida).
+- **Virgil van Dijk (95)** subiu **+49.7%** em 24h, a **609k coins** (faixa do dia: 448k–889k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alessandro Bastoni | 91 | Serie A TIM | 36k coins | -49.3% | -40.8% |
-| Mariona | 90 | Barclays WSL | 50k coins | -49.2% | -48.5% |
-| Tsuyoshi Watanabe | 91 | — | 26k coins | -48.5% | -39.4% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 25k coins | -48.5% | -54.5% |
-| Bruno Fernandes | 93 | Premier League | 98k coins | -46.7% | -50.5% |
-| Abedi Pelé | 91 | Ligue 1 McDonald's | 44k coins | -46.3% | -50.3% |
-| Josip Šutalo | 90 | Eredivisie | 35k coins | -45.8% | -46.2% |
-| Diego Milito | 91 | — | 24k coins | -45.6% | -45.6% |
-| Ryan Yates | 92 | — | 33k coins | -45.5% | -22.2% |
-| Deniz Undav | 91 | Bundesliga | 38k coins | -45.3% | -56.6% |
+| Lilian Thuram | 94 | — | 230k coins | -49.9% | -44.4% |
+| Ryan Yates | 92 | — | 32k coins | -47.2% | -24% |
+| Emmanuel Fernandez | 90 | — | 26k coins | -44.2% | -60.6% |
+| Abedi Pelé | 91 | Ligue 1 McDonald's | 40k coins | -43.5% | -50.3% |
+| Johan Cruyff | 94 | Icons | 430k coins | -40.9% | -30% |
+| Theo Hernández | 95 | — | 41k coins | -40.4% | -64.8% |
+| Leroy Sané | 91 | Trendyol Süper Lig | 20k coins | -39.4% | -62.6% |
+| Marcos Llorente | 90 | LALIGA EA SPORTS | 56k coins | -36.5% | -56.2% |
+| Tyrick Mitchell | 96 | — | 108k coins | -36.4% | -60.7% |
+| Gisele Thompson | 90 | NWSL | 24k coins | -35.8% | -52.5% |
 
 
 ### Análise das baixas
 
-- **Alessandro Bastoni (91)** caiu **-49.3%** em 24h, a **36k coins** (faixa do dia: 24k–65k). Está -39% abaixo da média de 7 dias (descontada).
+- **Lilian Thuram (94)** caiu **-49.9%** em 24h, a **230k coins** (faixa do dia: 129k–353k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Mariona (90)** caiu **-49.2%** em 24h, a **50k coins** (faixa do dia: 40k–160k). Está -47% abaixo da média de 7 dias (descontada).
+- **Ryan Yates (92)** caiu **-47.2%** em 24h, a **32k coins** (faixa do dia: 27k–64k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Tsuyoshi Watanabe (91)** caiu **-48.5%** em 24h, a **26k coins** (faixa do dia: 21k–55k). Está -44% abaixo da média de 7 dias (descontada).
+- **Emmanuel Fernandez (90)** caiu **-44.2%** em 24h, a **26k coins** (faixa do dia: 15.000–45k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vangelis Pavlidis já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mateo Kovačić já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alessandro Bastoni recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lilian Thuram recuou -49.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Vangelis Pavlidis (90, Liga Portugal), com +60% em 24h, a 80k coins no Console (PS).
+Mateo Kovačić (91, Premier League), com +60% em 24h, a 25k coins no Console (PS).
 
 **E a maior queda do dia?**
-Alessandro Bastoni (91), -49.3% em 24h, a 36k coins.
+Lilian Thuram (94), -49.9% em 24h, a 230k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 509 cartas em alta contra 546 em queda (média 3.15%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 289 cartas em alta contra 346 em queda (média -0.41%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
