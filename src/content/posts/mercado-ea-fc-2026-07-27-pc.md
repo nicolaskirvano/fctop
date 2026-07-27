@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:58:17.000Z
+pubDatetime: 2026-07-27T13:58:17.000Z
 title: "Mercado EA FC em 27/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Irene Paredes (96, sem liga), com +59.7% em 24h, a 95k coins no PC."
+    a: "Erling Haaland (91, Premier League), com +60% em 24h, a 290k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Romée Leuchter (90), -49.1% em 24h, a 86k coins."
+    a: "Raphinha (91), -46.7% em 24h, a 157k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 492 cartas em alta contra 267 em queda (média 10.58%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 536 cartas em alta contra 270 em queda (média 11.44%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **492 subiram** e **267 caíram**, com variação média de **10.58%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **536 subiram** e **270 caíram**, com variação média de **11.44%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Irene Paredes (96) **+59.7%** · 🔴 **Maior baixa:** Romée Leuchter (90) **-49.1%**
+> 🟢 **Maior alta:** Erling Haaland (91) **+60%** · 🔴 **Maior baixa:** Raphinha (91) **-46.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 64.8% entre as cartas que se moveram; o universo observado reúne 935 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 66.5% entre as cartas que se moveram; o universo observado reúne 909 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Irene Paredes | 96 | — | 95k coins | +59.7% | -25.2% |
-| Abdukodir Khusanov | 93 | — | 29k coins | +58.2% | -19.7% |
-| Fernando Hierro | 93 | — | 78k coins | +55.4% | +24% |
-| Christopher Bonsu Baah | 90 | — | 35k coins | +54.9% | -20.8% |
-| Enzo Fernández | 96 | — | 271k coins | +54.6% | -12.5% |
-| Zico | 92 | Icons | 1M coins | +54.3% | +11.1% |
-| Hannah Hampton | 92 | — | 32k coins | +54.2% | +28% |
-| Deniz Undav | 91 | Bundesliga | 160k coins | +53.8% | +23.1% |
-| Orlando Gill | 96 | — | 22k coins | +53.8% | +14.3% |
-| Nikola Katić | 90 | — | 92k coins | +53.3% | -35.2% |
+| Erling Haaland | 91 | Premier League | 290k coins | +60% | +81.8% |
+| Luka Modrić | 97 | — | 86k coins | +60% | -75.5% |
+| Thibaut Courtois | 92 | — | 58k coins | +60% | +41.2% |
+| Keisuke Goto | 90 | — | 62k coins | +59.5% | +24.2% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 780k coins | +59.2% | -44.3% |
+| William Saliba | 95 | — | 300k coins | +58.6% | -14.7% |
+| Rúben Neves | 95 | — | 48k coins | +58.1% | +40% |
+| Alessandro Nesta | 92 | — | 68k coins | +57.3% | +43.6% |
+| Roberto Baggio | 91 | Icons | 125k coins | +56.5% | +11.5% |
+| Khvicha Kvaratskhelia | 96 | — | 995k coins | +56.2% | -33.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Irene Paredes (96)** subiu **+59.7%** em 24h, a **95k coins** (faixa do dia: 44k–98k). Está em linha com a média de 7 dias (-4%).
+- **Erling Haaland (91)** subiu **+60%** em 24h, a **290k coins** (faixa do dia: 105k–380k). Está em linha com a média de 7 dias (-2%).
 
-- **Abdukodir Khusanov (93)** subiu **+58.2%** em 24h, a **29k coins** (faixa do dia: 16.750–41k). Está em linha com a média de 7 dias (+7%).
+- **Luka Modrić (97)** subiu **+60%** em 24h, a **86k coins** (faixa do dia: 46k–100k). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Fernando Hierro (93)** subiu **+55.4%** em 24h, a **78k coins** (faixa do dia: 48k–78k). Está +22% acima da média de 7 dias (aquecida).
+- **Thibaut Courtois (92)** subiu **+60%** em 24h, a **58k coins** (faixa do dia: 35k–81k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Romée Leuchter | 90 | D1 Arkema | 86k coins | -49.1% | -43.4% |
-| Ethan Nwaneri | 91 | Ligue 1 McDonald's | 31k coins | -46.7% | -36.9% |
-| Victor Lindelöf | 96 | — | 79k coins | -46.3% | -59.9% |
-| Oh Hyeon Gyu | 91 | — | 25k coins | -46.2% | -31.5% |
-| Luís Figo | 90 | Icons | 22k coins | -43.6% | -53.7% |
-| Chadi Riad | 96 | — | 405k coins | -42.1% | -54.9% |
-| Eden Hazard | 96 | — | 1.45M coins | -42% | -35.6% |
-| Raphinha | 91 | LALIGA EA SPORTS | 183k coins | -40.6% | -39.1% |
-| Marinette Pichon | 90 | Icons | 51k coins | -40.2% | -36.9% |
-| Lautaro Martínez | 90 | Serie A TIM | 46k coins | -40.2% | -67.3% |
+| Raphinha | 91 | LALIGA EA SPORTS | 157k coins | -46.7% | -48.7% |
+| João Neves | 96 | — | 420k coins | -46.6% | -33.9% |
+| Harry Kane | 97 | — | 750k coins | -46% | -13.7% |
+| Mohamed Salah | 92 | Premier League | 145k coins | -44.2% | -44.2% |
+| Nuno Mendes | 97 | Ligue 1 McDonald's | 850k coins | -43.3% | -57.3% |
+| Kim Seung Sub | 90 | — | 28k coins | -42.2% | -15.7% |
+| Carl Rushworth | 93 | — | 36k coins | -42.1% | +8.3% |
+| Eden Hazard | 96 | — | 1.45M coins | -42% | -36.9% |
+| Pedri | 95 | LALIGA EA SPORTS | 200k coins | -41.9% | -60.9% |
+| Ollie Watkins | 96 | — | 90k coins | -41.9% | -58.9% |
 
 
 ### Análise das baixas
 
-- **Romée Leuchter (90)** caiu **-49.1%** em 24h, a **86k coins** (faixa do dia: 69k–169k). Está -36% abaixo da média de 7 dias (descontada).
+- **Raphinha (91)** caiu **-46.7%** em 24h, a **157k coins** (faixa do dia: 124k–370k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Ethan Nwaneri (91)** caiu **-46.7%** em 24h, a **31k coins** (faixa do dia: 19.000–64k). Está -49% abaixo da média de 7 dias (descontada).
+- **João Neves (96)** caiu **-46.6%** em 24h, a **420k coins** (faixa do dia: 308k–791k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Victor Lindelöf (96)** caiu **-46.3%** em 24h, a **79k coins** (faixa do dia: 40k–147k). Está -36% abaixo da média de 7 dias (descontada).
+- **Harry Kane (97)** caiu **-46%** em 24h, a **750k coins** (faixa do dia: 741k–1.39M). Está -30% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Irene Paredes já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Erling Haaland já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Romée Leuchter recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Raphinha recuou -46.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Irene Paredes (96, sem liga), com +59.7% em 24h, a 95k coins no PC.
+Erling Haaland (91, Premier League), com +60% em 24h, a 290k coins no PC.
 
 **E a maior queda do dia?**
-Romée Leuchter (90), -49.1% em 24h, a 86k coins.
+Raphinha (91), -46.7% em 24h, a 157k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 492 cartas em alta contra 267 em queda (média 10.58%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 536 cartas em alta contra 270 em queda (média 11.44%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
