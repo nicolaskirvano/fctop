@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:51:41.000Z
+pubDatetime: 2026-07-27T10:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Randal Kolo Muani (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
+    a: "Ciro Immobile (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Randal Kolo Muani (96) por apenas 11.750 coins.
+> 💰 **Melhor pechincha:** Ciro Immobile (96) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 27/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.067 coins.
+- **Preço médio das 15 opções:** 12.500 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.250 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Randal Kolo Muani | 96 | ST | — | 11.750 coins | +9.1% |
-| Mayra Ramírez | 96 | ST | — | 11.750 coins | +2.1% |
 | Ciro Immobile | 96 | ST | — | 11.750 coins | +2.1% |
 | Arnaut Danjuma | 96 | LM | — | 11.750 coins | +4.3% |
-| Ivan Perišić | 96 | RW | — | 12.000 coins | +4.3% |
-| Ayoze | 96 | ST | — | 12.000 coins | +4.3% |
+| Randal Kolo Muani | 96 | ST | — | 11.750 coins | +9.1% |
+| Mayra Ramírez | 96 | ST | — | 11.750 coins | +2.1% |
 | Lorenzo Insigne | 96 | CAM | — | 12.000 coins | +4.3% |
+| Ivan Perišić | 96 | RW | — | 12.000 coins | +4.3% |
 | Manuel Lanzini | 96 | CAM | — | 12.000 coins | 0% |
+| Ayoze | 96 | ST | — | 12.000 coins | +4.3% |
 | Tyrhys Dolan | 96 | RM | — | 12.250 coins | +6.5% |
-| Ethan Mbappé | 96 | CM | — | 12.500 coins | -2% |
-| Héctor Bellerín | 96 | RB | — | 12.500 coins | +9.1% |
 | Xherdan Shaqiri | 96 | CAM | — | 12.500 coins | +2.1% |
+| Héctor Bellerín | 96 | RB | — | 12.500 coins | +9.1% |
+| Ethan Mbappé | 96 | CM | — | 12.500 coins | -2% |
 | Gelson Martins | 96 | RM | — | 13.500 coins | +4% |
-| Claire Lavogez | 95 | CAM | — | 11.250 coins | +2.2% |
-| Gabriel Silva | 95 | LW | — | 11.500 coins | +2.2% |
+| Hayden Hackney | 96 | CM | — | 14.500 coins | +25% |
+| Julian Quiñones | 96 | LW | — | 14.750 coins | +13.2% |
 
 
 ## 📈 Destaques
-
-- **Randal Kolo Muani (96, ST)** da —, a apenas **11.750 coins**
-
-- **Mayra Ramírez (96, ST)** da —, a apenas **11.750 coins**
 
 - **Ciro Immobile (96, ST)** da —, a apenas **11.750 coins**
 
 - **Arnaut Danjuma (96, LM)** da —, a apenas **11.750 coins**
 
-- **Ivan Perišić (96, RW)** da —, a apenas **12.000 coins**
+- **Randal Kolo Muani (96, ST)** da —, a apenas **11.750 coins**
+
+- **Mayra Ramírez (96, ST)** da —, a apenas **11.750 coins**
+
+- **Lorenzo Insigne (96, CAM)** da —, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Arnaut Danjuma (96, LM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Randal Kolo Muani (96, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Ciro Immobile (96, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Randal Kolo Muani (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
+Ciro Immobile (96, sem liga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

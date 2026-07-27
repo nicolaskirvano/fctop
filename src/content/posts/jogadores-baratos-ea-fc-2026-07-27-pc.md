@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:51:51.000Z
+pubDatetime: 2026-07-27T10:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 27/07 — PC"
 draft: false
 featured: false
@@ -41,40 +41,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ivan Perišić | 96 | RW | — | 11.250 coins | +2.1% |
-| Héctor Bellerín | 96 | RB | — | 12.000 coins | +2.1% |
+| Xherdan Shaqiri | 96 | CAM | — | 12.000 coins | -2% |
 | Manuel Lanzini | 96 | CAM | — | 12.000 coins | 0% |
-| Ayoze | 96 | ST | — | 12.000 coins | +2.1% |
-| Ciro Immobile | 96 | ST | — | 12.000 coins | +2.1% |
 | Tyrhys Dolan | 96 | RM | — | 12.000 coins | 0% |
 | Lorenzo Insigne | 96 | CAM | — | 12.000 coins | +2.1% |
-| Xherdan Shaqiri | 96 | CAM | — | 12.000 coins | -5.9% |
-| Mayra Ramírez | 96 | ST | — | 12.000 coins | +2.1% |
+| Héctor Bellerín | 96 | RB | — | 12.000 coins | +2.1% |
+| Ayoze | 96 | ST | — | 12.000 coins | +2.1% |
+| Ciro Immobile | 96 | ST | — | 12.000 coins | +2.1% |
 | Randal Kolo Muani | 96 | ST | — | 12.000 coins | 0% |
+| Mayra Ramírez | 96 | ST | — | 12.000 coins | +2.1% |
 | Arnaut Danjuma | 96 | LM | — | 12.000 coins | 0% |
 | Ethan Mbappé | 96 | CM | — | 12.250 coins | +2.1% |
 | Gelson Martins | 96 | RM | — | 13.500 coins | +4.2% |
 | Mamadou Sangaré | 96 | CM | — | 14.250 coins | +7.5% |
-| Julian Quiñones | 96 | LW | — | 14.250 coins | +3.6% |
+| Joey Veerman | 96 | CM | — | 14.250 coins | +18.4% |
 
 
 ## 📈 Destaques
 
 - **Ivan Perišić (96, RW)** da —, a apenas **11.250 coins**
 
-- **Héctor Bellerín (96, RB)** da —, a apenas **12.000 coins**
+- **Xherdan Shaqiri (96, CAM)** da —, a apenas **12.000 coins**
 
 - **Manuel Lanzini (96, CAM)** da —, a apenas **12.000 coins**
 
-- **Ayoze (96, ST)** da —, a apenas **12.000 coins**
+- **Tyrhys Dolan (96, RM)** da —, a apenas **12.000 coins**
 
-- **Ciro Immobile (96, ST)** da —, a apenas **12.000 coins**
+- **Lorenzo Insigne (96, CAM)** da —, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Héctor Bellerín (96, RB) por 12.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Manuel Lanzini (96, CAM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Xherdan Shaqiri (96, CAM) por 12.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Ivan Perišić (96, RW) por 11.250 coins é a referência de rating deste recorte.
 

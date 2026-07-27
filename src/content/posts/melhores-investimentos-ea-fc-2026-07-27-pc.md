@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:51:49.000Z
+pubDatetime: 2026-07-27T10:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 27/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.9% em 24h** e **+52.0% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+22.3% em 24h** e **+45.5% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lindsey Heaps | 90 | D1 Arkema | 94k coins | +30.3% | +76.6% | Esticada |
-| Gheorghe Hagi | 90 | Icons | 130k coins | +37.6% | +66.7% | Esticada |
 | Simone Laudehr | 90 | GPFBL | 50k coins | +3.6% | +65.8% | Esticada |
 | Patrick Berg | 95 | — | 80k coins | +22.3% | +63.9% | Esticada |
+| Gheorghe Hagi | 90 | Icons | 130k coins | +27.5% | +54.4% | Esticada |
 | Alessia Russo | 90 | — | 117k coins | +23.2% | +53.9% | Esticada |
-| Orlando Gill | 95 | — | 98k coins | +22.9% | +52.6% | Esticada |
-| Salem Al Dawsari | 91 | ROSHN Saudi League | 72k coins | +35.5% | +52% | Esticada |
 | Nadine Keßler | 90 | GPFBL | 54k coins | +15.2% | +52% | Momentum moderado |
+| Salem Al Dawsari | 91 | ROSHN Saudi League | 72k coins | +35.5% | +49% | Esticada |
 | Mapi León | 90 | Liga F | 80k coins | +6.7% | +45.5% | Momentum moderado |
 | Wouter Burger | 90 | — | 65k coins | +35.4% | +45.3% | Esticada |
 | Leah Williamson | 95 | Barclays WSL | 174k coins | +14.7% | +36.6% | Momentum moderado |
 | Mark McKenzie | 90 | Ligue 1 McDonald's | 75k coins | +15.4% | +36.4% | Momentum moderado |
 | Marcel Desailly | 93 | — | 82k coins | +7.1% | +33.9% | Momentum moderado |
 | Louisa Necib | 90 | D1 Arkema | 60k coins | +29% | +31.1% | Esticada |
-| Valentín Barco | 95 | — | 27k coins | +33.8% | +27.4% | Esticada |
+| Valentín Barco | 95 | — | 27k coins | +35% | +28.6% | Esticada |
+| Santiago Sosa | 93 | — | 28k coins | +8.9% | +25% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Lindsey Heaps (90)** — 94k coins, **+76.6% em 7 dias** (+30.3% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gheorghe Hagi (90)** — 130k coins, **+66.7% em 7 dias** (+37.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Simone Laudehr (90)** — 50k coins, **+65.8% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Patrick Berg (95)** — 80k coins, **+63.9% em 7 dias** (+22.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Gheorghe Hagi (90)** — 130k coins, **+54.4% em 7 dias** (+27.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Alessia Russo (90)** — 117k coins, **+53.9% em 7 dias** (+23.2% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

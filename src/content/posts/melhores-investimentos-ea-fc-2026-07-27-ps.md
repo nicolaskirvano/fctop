@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:51:40.000Z
+pubDatetime: 2026-07-27T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.6% em 24h** e **+38.5% em 7 dias**.
+- A mediana é de **+11.1% em 24h** e **+39.5% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pape Gueye | 95 | — | 70k coins | +29.1% | +77.5% | Esticada |
-| Alexia Putellas | 91 | Liga F | 26k coins | +6.2% | +67.2% | Esticada |
 | Erling Haaland | 90 | Premier League | 20k coins | +1.3% | +66.7% | Esticada |
-| Mailson | 92 | — | 25k coins | +12.6% | +49% | Momentum moderado |
-| Thibaut Courtois | 92 | — | 58k coins | +16.8% | +46.1% | Momentum moderado |
+| Alexia Putellas | 91 | Liga F | 25k coins | +6.2% | +61.9% | Esticada |
+| Mailson | 92 | — | 32k coins | +12.6% | +50.5% | Momentum moderado |
+| Nick Woltemade | 90 | Premier League | 131k coins | +5% | +47.7% | Momentum moderado |
 | Roberto Lopes | 95 | — | 40k coins | +9.6% | +42.9% | Momentum moderado |
 | Vózinha | 96 | — | 30k coins | +33.7% | +40.2% | Esticada |
+| Thibaut Courtois | 92 | — | 58k coins | +11.6% | +39.5% | Momentum moderado |
 | Carlos Baleba | 90 | Premier League | 138k coins | +3.8% | +38.5% | Momentum moderado |
 | Alexia Putellas | 92 | Liga F | 80k coins | +11.1% | +36.8% | Momentum moderado |
 | Stephen Eustáquio | 95 | — | 39k coins | +6.2% | +33.6% | Momentum moderado |
 | Hannah Hampton | 92 | — | 28k coins | +40% | +27.3% | Esticada |
 | Ronald Araujo | 94 | — | 190k coins | +14.3% | +20.8% | Momentum moderado |
 | Mika Godts | 93 | — | 24k coins | +18.9% | +18.9% | Momentum moderado |
-| Rúben Neves | 95 | — | 28k coins | +5% | +18.9% | Entrada a observar |
-| Steph Catley | 90 | Barclays WSL | 74k coins | +18.6% | +15.7% | Momentum moderado |
+| Rúben Neves | 95 | — | 28k coins | +3.3% | +17% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **Pape Gueye (95)** — 70k coins, **+77.5% em 7 dias** (+29.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexia Putellas (91)** — 26k coins, **+67.2% em 7 dias** (+6.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Erling Haaland (90)** — 20k coins, **+66.7% em 7 dias** (+1.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mailson (92)** — 25k coins, **+49% em 7 dias** (+12.6% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexia Putellas (91)** — 25k coins, **+61.9% em 7 dias** (+6.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Thibaut Courtois (92)** — 58k coins, **+46.1% em 7 dias** (+16.8% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mailson (92)** — 32k coins, **+50.5% em 7 dias** (+12.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Nick Woltemade (90)** — 131k coins, **+47.7% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
