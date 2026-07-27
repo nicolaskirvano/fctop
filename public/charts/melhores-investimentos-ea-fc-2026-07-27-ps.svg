@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Diomande</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+87.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
-<rect x="285" y="153" width="384" height="28" rx="7" fill="#22c55e"/>
-<text x="679" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orlando Gill</text>
-<rect x="285" y="211" width="381" height="28" rx="7" fill="#22c55e"/>
-<text x="676" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vózinha</text>
-<rect x="285" y="269" width="222" height="28" rx="7" fill="#22c55e"/>
-<text x="517" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khadija Shaw</text>
-<rect x="285" y="327" width="214" height="28" rx="7" fill="#22c55e"/>
-<text x="509" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joan García</text>
-<rect x="285" y="385" width="198" height="28" rx="7" fill="#22c55e"/>
-<text x="493" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Orlando Gill</text>
+<rect x="285" y="153" width="261" height="28" rx="7" fill="#22c55e"/>
+<text x="556" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexia Putellas</text>
+<rect x="285" y="211" width="209" height="28" rx="7" fill="#22c55e"/>
+<text x="504" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hannah Hampton</text>
+<rect x="285" y="269" width="200" height="28" rx="7" fill="#22c55e"/>
+<text x="495" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vózinha</text>
+<rect x="285" y="327" width="196" height="28" rx="7" fill="#22c55e"/>
+<text x="491" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Izzy Rodriguez</text>
+<rect x="285" y="385" width="149" height="28" rx="7" fill="#22c55e"/>
+<text x="444" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.9%</text>
 </svg>
