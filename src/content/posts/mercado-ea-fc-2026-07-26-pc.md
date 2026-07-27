@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:58:17.000Z
+pubDatetime: 2026-07-27T01:58:18.000Z
 title: "Mercado EA FC em 26/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Andrea Pirlo (90, Icons), com +60% em 24h, a 195k coins no PC."
+    a: "Luciano Valente (92, sem liga), com +60% em 24h, a 22k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Zlatan Ibrahimović (92), -50% em 24h, a 3.50M coins."
+    a: "Alexia Putellas (92), -49.4% em 24h, a 43k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 447 cartas em alta contra 308 em queda (média 6.62%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 445 cartas em alta contra 310 em queda (média 6.99%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **447 subiram**, **308 caíram** (80+ e 5k+ coins), média de **6.62%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **445 subiram**, **310 caíram** (80+ e 5k+ coins), média de **6.99%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Andrea Pirlo (90) **+60%** · 🔴 **Maior baixa:** Zlatan Ibrahimović (92) **-50%**
+> 🟢 **Maior alta:** Luciano Valente (92) **+60%** · 🔴 **Maior baixa:** Alexia Putellas (92) **-49.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.2% entre as cartas que se moveram; o universo observado reúne 914 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 58.9% entre as cartas que se moveram; o universo observado reúne 928 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 195k coins | +60% | +39.9% |
-| Julián Alvarez | 96 | — | 390k coins | +59.2% | -33.8% |
-| Momoko Tanikawa | 91 | — | 54k coins | +58.3% | +83.3% |
+| Luciano Valente | 92 | — | 22k coins | +60% | -14.6% |
+| Vanessa Fudalla | 96 | — | 99k coins | +59.2% | -22.4% |
+| Caroline Seger | 90 | Icons | 50k coins | +59.1% | +75.9% |
 | Roberto Carlos | 91 | Icons | 890k coins | +57% | -5.8% |
-| Chibuike Nwaiwu | 90 | — | 47k coins | +56.9% | +7.2% |
-| Víctor Gómez | 91 | — | 62k coins | +55.7% | +45.3% |
-| Aitana Bonmatí | 96 | — | 558k coins | +55% | -44.2% |
-| Christiane Endler | 94 | D1 Arkema | 139k coins | +54.7% | -31.7% |
+| Arthur Theate | 93 | — | 25k coins | +56.2% | +31.6% |
+| Claudia Pina | 96 | — | 1.01M coins | +56.2% | +7.9% |
+| Salem Al Dawsari | 92 | — | 31k coins | +54.5% | -17.1% |
 | Zico | 92 | Icons | 1M coins | +54.3% | +11.1% |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 240k coins | +52.9% | +17.6% |
+| Rúben Neves | 95 | — | 31k coins | +54.2% | -2.6% |
+| Paulo Dybala | 91 | Serie A TIM | 310k coins | +53.5% | +10.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Andrea Pirlo (90)** subiu **+60%** em 24h, a **195k coins** (faixa do dia: 100k–210k). Está +23% acima da média de 7 dias (aquecida).
+- **Luciano Valente (92)** subiu **+60%** em 24h, a **22k coins** (faixa do dia: 12.750–22k). Está em linha com a média de 7 dias (-4%).
 
-- **Julián Alvarez (96)** subiu **+59.2%** em 24h, a **390k coins** (faixa do dia: 250k–750k). Está -23% abaixo da média de 7 dias (descontada).
+- **Vanessa Fudalla (96)** subiu **+59.2%** em 24h, a **99k coins** (faixa do dia: 73k–166k). Está em linha com a média de 7 dias (-6%).
 
-- **Momoko Tanikawa (91)** subiu **+58.3%** em 24h, a **54k coins** (faixa do dia: 34k–60k). Está +10% acima da média de 7 dias (aquecida).
+- **Caroline Seger (90)** subiu **+59.1%** em 24h, a **50k coins** (faixa do dia: 44k–90k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Zlatan Ibrahimović | 92 | Icons | 3.50M coins | -50% | -63% |
-| Ingrid Syrstad Engen | 93 | — | 26k coins | -48.8% | -46.3% |
-| Alexia Putellas | 92 | Liga F | 39k coins | -46.6% | -27.1% |
-| Max Arfsten | 90 | — | 20k coins | -45.9% | -55.3% |
-| Nico Williams | 93 | LALIGA EA SPORTS | 277k coins | -44.8% | -54.4% |
-| Nuno Tavares | 91 | Serie A TIM | 41k coins | -43.8% | -36.9% |
-| Oh Hyeon Gyu | 91 | — | 22k coins | -43.8% | -37.5% |
-| Jens Petter Hauge | 91 | Eliteserien | 40k coins | -42.1% | -28.8% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 37k coins | -41.2% | -19% |
-| Matvey Safonov | 96 | — | 155k coins | -39.2% | -84.5% |
+| Alexia Putellas | 92 | Liga F | 43k coins | -49.4% | -19.6% |
+| Diego Armando Maradona | 95 | Icons | 814k coins | -48.7% | -67.3% |
+| Bobby Charlton | 92 | Icons | 80k coins | -47.8% | -37.5% |
+| Caroline Weir | 95 | — | 34k coins | -47.4% | -60.3% |
+| Nuno Tavares | 91 | Serie A TIM | 41k coins | -45.3% | -36.9% |
+| Lautaro Martínez | 90 | Serie A TIM | 46k coins | -44.5% | -67.3% |
+| Jens Petter Hauge | 91 | Eliteserien | 36k coins | -43.8% | -27.7% |
+| Micky van de Ven | 90 | Premier League | 1.98M coins | -43.7% | -3.8% |
+| Piero Hincapié | 93 | — | 61k coins | -42.5% | -46.5% |
+| Julie Foudy | 91 | Icons | 22k coins | -42.3% | -43.8% |
 
 
 ### Análise das baixas
 
-- **Zlatan Ibrahimović (92)** caiu **-50%** em 24h, a **3.50M coins** (faixa do dia: 3.50M–7M). Está -57% abaixo da média de 7 dias (descontada).
+- **Alexia Putellas (92)** caiu **-49.4%** em 24h, a **43k coins** (faixa do dia: 39k–85k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Ingrid Syrstad Engen (93)** caiu **-48.8%** em 24h, a **26k coins** (faixa do dia: 14.000–41k). Está -21% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (95)** caiu **-48.7%** em 24h, a **814k coins** (faixa do dia: 814k–8.10M). Está -64% abaixo da média de 7 dias (descontada).
 
-- **Alexia Putellas (92)** caiu **-46.6%** em 24h, a **39k coins** (faixa do dia: 39k–100k). Está -32% abaixo da média de 7 dias (descontada).
+- **Bobby Charlton (92)** caiu **-47.8%** em 24h, a **80k coins** (faixa do dia: 70k–250k). Está -42% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Andrea Pirlo já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Luciano Valente já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Zlatan Ibrahimović recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alexia Putellas recuou -49.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Andrea Pirlo (90, Icons), com +60% em 24h, a 195k coins no PC.
+Luciano Valente (92, sem liga), com +60% em 24h, a 22k coins no PC.
 
 **E a maior queda do dia?**
-Zlatan Ibrahimović (92), -50% em 24h, a 3.50M coins.
+Alexia Putellas (92), -49.4% em 24h, a 43k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 447 cartas em alta contra 308 em queda (média 6.62%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 445 cartas em alta contra 310 em queda (média 6.99%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
