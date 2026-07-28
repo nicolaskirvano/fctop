@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T16:58:19.000Z
+pubDatetime: 2026-07-28T19:58:18.000Z
 title: "Mercado EA FC em 28/07: Cartas 90+ — PC"
 draft: false
 featured: true
