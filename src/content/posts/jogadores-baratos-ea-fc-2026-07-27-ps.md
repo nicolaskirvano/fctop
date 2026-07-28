@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:58:11.000Z
+pubDatetime: 2026-07-28T01:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -41,19 +41,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | -14.5% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Jamie Carragher | 92 | CB | — | 11.500 coins | -3% |
-| Mario Mandžukić | 92 | ST | — | 13.500 coins | 0% |
-| Morgan Gibbs-White | 91 | CAM | — | 11.500 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
+| Mario Mandžukić | 92 | ST | — | 13.500 coins | +9.1% |
+| Antonio Rüdiger | 91 | CB | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Aya Miyama | 91 | LM | Icons | 11.500 coins | 0% |
-| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Diogo Costa | 91 | GK | — | 11.500 coins | 0% |
+| Morgan Gibbs-White | 91 | CAM | — | 11.500 coins | 0% |
+| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
+| Steffi Jones | 91 | CB | Icons | 11.500 coins | 0% |
+| Denise O'Sullivan | 91 | CDM | Barclays WSL | 11.500 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Iván Zamorano | 91 | ST | LALIGA EA SPORTS | 11.500 coins | -14.8% |
 
 
@@ -61,18 +61,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jamie Carragher (92, CB)** da —, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mario Mandžukić (92, ST)** da —, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jamie Carragher (92, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Antonio Rüdiger (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 

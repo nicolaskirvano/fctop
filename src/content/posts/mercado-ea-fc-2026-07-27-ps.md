@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:58:08.000Z
+pubDatetime: 2026-07-28T01:58:07.000Z
 title: "Mercado EA FC em 27/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Kang Sang Yoon (93, sem liga), com +59.7% em 24h, a 28k coins no Console (PS)."
+    a: "Selma Bacha (94, sem liga), com +58.9% em 24h, a 37k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paolo Maldini (94), -48.7% em 24h, a 39k coins."
+    a: "Kylian Mbappé (91), -50% em 24h, a 49k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 626 cartas em alta contra 247 em queda (média 5.75%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 598 cartas em alta contra 292 em queda (média 5.4%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **626 subiram** e **247 caíram**, com variação média de **5.75%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **598 subiram** e **292 caíram**, com variação média de **5.4%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kang Sang Yoon (93) **+59.7%** · 🔴 **Maior baixa:** Paolo Maldini (94) **-48.7%**
+> 🟢 **Maior alta:** Selma Bacha (94) **+58.9%** · 🔴 **Maior baixa:** Kylian Mbappé (91) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-27-ps.svg)
 
@@ -35,24 +35,24 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 71.7% entre as cartas que se moveram; o universo observado reúne 937 cartas.
-- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 67.2% entre as cartas que se moveram; o universo observado reúne 956 cartas.
+- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kang Sang Yoon | 93 | — | 28k coins | +59.7% | +15% |
-| Noa Lang | 91 | Trendyol Süper Lig | 34k coins | +54.5% | -32% |
-| Nikola Katić | 90 | — | 171k coins | +54.1% | +94.3% |
-| Leroy Sané | 91 | Trendyol Süper Lig | 28k coins | +52% | -31.3% |
-| Andy Najar | 91 | — | 28k coins | +51.3% | -38.2% |
-| Jens Petter Hauge | 91 | Eliteserien | 42k coins | +48.1% | -20% |
-| Jean-Philippe Mateta | 96 | — | 190k coins | +47.6% | -36% |
-| Brian Brobbey | 96 | — | 22k coins | +45.6% | -15.4% |
-| Tsuyoshi Watanabe | 91 | — | 36k coins | +44.9% | -21.1% |
-| Javier Zanetti | 92 | — | 35k coins | +44.4% | -20.8% |
+| Selma Bacha | 94 | — | 37k coins | +58.9% | +30.2% |
+| Orkun Kökçü | 95 | — | 78k coins | +56.8% | +28.9% |
+| Willian Pacho | 90 | Ligue 1 McDonald's | 29k coins | +56.8% | -56.1% |
+| Philipp Lahm | 90 | Icons | 500k coins | +54.8% | +13.6% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 40k coins | +53.8% | -25.9% |
+| Mariona | 90 | Barclays WSL | 150k coins | +53.1% | +66.7% |
+| Dara O'Shea | 91 | — | 30k coins | +52.9% | -21.8% |
+| Kang Sang Yoon | 93 | — | 28k coins | +52.8% | +5.8% |
+| Esmee Brugts | 94 | — | 25k coins | +49.3% | +16.3% |
+| Troy Parrott | 91 | — | 42k coins | +49.2% | -13.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kang Sang Yoon (93)** subiu **+59.7%** em 24h, a **28k coins** (faixa do dia: 17.000–29k). Está +22% acima da média de 7 dias (aquecida).
+- **Selma Bacha (94)** subiu **+58.9%** em 24h, a **37k coins** (faixa do dia: 21k–40k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Noa Lang (91)** subiu **+54.5%** em 24h, a **34k coins** (faixa do dia: 25k–42k). Está -31% abaixo da média de 7 dias (descontada).
+- **Orkun Kökçü (95)** subiu **+56.8%** em 24h, a **78k coins** (faixa do dia: 39k–94k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Nikola Katić (90)** subiu **+54.1%** em 24h, a **171k coins** (faixa do dia: 95k–201k). Está +58% acima da média de 7 dias (aquecida).
+- **Willian Pacho (90)** subiu **+56.8%** em 24h, a **29k coins** (faixa do dia: 16.000–78k). Está -52% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 94 | Icons | 39k coins | -48.7% | -95.4% |
-| Eden Hazard | 94 | — | 39k coins | -45.9% | -95.2% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 750k coins | -42.3% | -64.1% |
-| Youri Tielemans | 96 | — | 134k coins | -41.7% | -57.6% |
-| Marta | 90 | NWSL | 25k coins | -41.1% | -62.1% |
-| George Best | 90 | Icons | 157k coins | -40.9% | +4% |
-| Cesc Fàbregas | 91 | Premier League | 213k coins | -38.9% | +5.9% |
-| Cafu | 91 | Icons | 94k coins | -38.6% | -41.1% |
-| Craig Halkett | 91 | — | 28k coins | -36.8% | -31.2% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 26k coins | -35.3% | -66.2% |
+| Kylian Mbappé | 91 | LALIGA EA SPORTS | 49k coins | -50% | -75.8% |
+| Carlos Baleba | 90 | Premier League | 68k coins | -49.3% | -45.7% |
+| Eden Hazard | 94 | — | 45k coins | -45.9% | -95.2% |
+| Cesc Fàbregas | 91 | Premier League | 196k coins | -43.4% | -3.4% |
+| Park Ji Sung | 91 | Eredivisie | 50k coins | -41.4% | -49.4% |
+| Craig Halkett | 91 | — | 27k coins | -40.8% | -35.9% |
+| Joshua Kimmich | 90 | Bundesliga | 43k coins | -40.5% | -24.6% |
+| Raphinha | 91 | LALIGA EA SPORTS | 61k coins | -38.9% | -37.6% |
+| Cafu | 91 | Icons | 94k coins | -36.8% | -35.5% |
+| Bastian Schweinsteiger | 96 | — | 480k coins | -36.8% | -3.4% |
 
 
 ### Análise das baixas
 
-- **Paolo Maldini (94)** caiu **-48.7%** em 24h, a **39k coins** (faixa do dia: 32k–76k). Está -92% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (91)** caiu **-50%** em 24h, a **49k coins** (faixa do dia: 45k–120k). Está -68% abaixo da média de 7 dias (descontada).
 
-- **Eden Hazard (94)** caiu **-45.9%** em 24h, a **39k coins** (faixa do dia: 36k–74k). Está -93% abaixo da média de 7 dias (descontada).
+- **Carlos Baleba (90)** caiu **-49.3%** em 24h, a **68k coins** (faixa do dia: 50k–175k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Kylian Mbappé (92)** caiu **-42.3%** em 24h, a **750k coins** (faixa do dia: 694k–1.30M). Está -47% abaixo da média de 7 dias (descontada).
+- **Eden Hazard (94)** caiu **-45.9%** em 24h, a **45k coins** (faixa do dia: 36k–74k). Está -91% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kang Sang Yoon já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Selma Bacha já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paolo Maldini recuou -48.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kylian Mbappé recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Kang Sang Yoon (93, sem liga), com +59.7% em 24h, a 28k coins no Console (PS).
+Selma Bacha (94, sem liga), com +58.9% em 24h, a 37k coins no Console (PS).
 
 **E a maior queda do dia?**
-Paolo Maldini (94), -48.7% em 24h, a 39k coins.
+Kylian Mbappé (91), -50% em 24h, a 49k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 626 cartas em alta contra 247 em queda (média 5.75%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 598 cartas em alta contra 292 em queda (média 5.4%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
