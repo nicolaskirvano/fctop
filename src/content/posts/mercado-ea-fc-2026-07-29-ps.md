@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:58:09.000Z
+pubDatetime: 2026-07-29T22:58:09.000Z
 title: "Mercado EA FC em 29/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Khadija Shaw (90, Barclays WSL), com +59.3% em 24h, a 68k coins no Console (PS)."
+    a: "Caroline Graham Hansen (90, Liga F), com +59.3% em 24h, a 35k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Thomas Strakosha (91), -50% em 24h, a 32k coins."
+    a: "Nuno Tavares (91), -49.5% em 24h, a 46k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 491 cartas em alta contra 314 em queda (média 7.3%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 555 cartas em alta contra 318 em queda (média 7.94%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **29/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **491 cartas subiram** e **314 caíram** (80+ acima de 5k coins), variação média de **7.3%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **29/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **555 cartas subiram** e **318 caíram** (80+ acima de 5k coins), variação média de **7.94%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Khadija Shaw (90) **+59.3%** · 🔴 **Maior baixa:** Thomas Strakosha (91) **-50%**
+> 🟢 **Maior alta:** Caroline Graham Hansen (90) **+59.3%** · 🔴 **Maior baixa:** Nuno Tavares (91) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **29/07/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 61.0% entre as cartas que se moveram; o universo observado reúne 889 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 63.6% entre as cartas que se moveram; o universo observado reúne 959 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Khadija Shaw | 90 | Barclays WSL | 68k coins | +59.3% | +22.3% |
-| Pablo Barrios | 90 | — | 25k coins | +57.9% | -46.9% |
-| Khadija Shaw | 90 | Barclays WSL | 283k coins | +57.2% | -4.1% |
-| Fernando Torres | 90 | Icons | 915k coins | +55.5% | +129.6% |
-| Pierre Kalulu | 91 | Serie A TIM | 64k coins | +51.4% | -17.3% |
-| Alexia Putellas | 91 | Liga F | 29k coins | +50% | +34.8% |
-| Gareth Bale | 94 | Icons | 3.43M coins | +49.8% | +24% |
-| John Stones | 95 | — | 50k coins | +49.4% | -37.9% |
-| Alexis Mac Allister | 91 | — | 40k coins | +49.2% | -43.7% |
-| Jerdy Schouten | 94 | — | 25k coins | +48.8% | +20.2% |
+| Caroline Graham Hansen | 90 | Liga F | 35k coins | +59.3% | -2.7% |
+| Carlos Alberto | 91 | Icons | 92k coins | +58.3% | -3% |
+| Olivia Holdt | 90 | — | 25k coins | +57.4% | -50% |
+| Khadija Shaw | 90 | Barclays WSL | 283k coins | +57.2% | +11.9% |
+| Tasos Douvikas | 90 | — | 35k coins | +56.2% | -42.1% |
+| Daniele De Rossi | 91 | Serie A TIM | 312k coins | +56% | +7.2% |
+| Mapi León | 90 | Liga F | 74k coins | +55.6% | -14.4% |
+| Leela Egli | 91 | — | 30k coins | +55% | -43.6% |
+| Johan Cruyff | 94 | Icons | 553k coins | +52.5% | +9.9% |
+| Diego Luna | 93 | — | 22k coins | +52.3% | +1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **29/07/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Khadija Shaw (90)** subiu **+59.3%** em 24h, a **68k coins** (faixa do dia: 43k–75k). Está em linha com a média de 7 dias (-1%).
+- **Caroline Graham Hansen (90)** subiu **+59.3%** em 24h, a **35k coins** (faixa do dia: 20k–43k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Pablo Barrios (90)** subiu **+57.9%** em 24h, a **25k coins** (faixa do dia: 17.250–30k). Está -14% abaixo da média de 7 dias (descontada).
+- **Carlos Alberto (91)** subiu **+58.3%** em 24h, a **92k coins** (faixa do dia: 82k–142k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Khadija Shaw (90)** subiu **+57.2%** em 24h, a **283k coins** (faixa do dia: 180k–440k). Está +14% acima da média de 7 dias (aquecida).
+- **Olivia Holdt (90)** subiu **+57.4%** em 24h, a **25k coins** (faixa do dia: 17.000–30k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Thomas Strakosha | 91 | — | 32k coins | -50% | -47.1% |
-| Henrik Larsson | 91 | — | 24k coins | -45.9% | -52.8% |
-| Dayne St. Clair | 92 | — | 25k coins | -45.6% | -5.8% |
-| Tyrick Mitchell | 96 | — | 123k coins | -44.2% | -31.5% |
-| Antoine Semenyo | 91 | Premier League | 96k coins | -43.5% | -37.1% |
-| Jaydee Canvot | 96 | — | 88k coins | -43.3% | -40.1% |
-| Vini Jr. | 92 | LALIGA EA SPORTS | 417k coins | -42.3% | -25.8% |
-| Harry Kane | 91 | Bundesliga | 82k coins | -41.9% | -7.3% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 142k coins | -41.1% | -67.5% |
-| Nadine Keßler | 90 | GPFBL | 22k coins | -40.1% | -58.3% |
+| Nuno Tavares | 91 | Serie A TIM | 46k coins | -49.5% | -34.3% |
+| Henrik Larsson | 91 | — | 22k coins | -49.4% | -56.1% |
+| Mariona | 96 | Barclays WSL | 78k coins | -48% | -30.2% |
+| Harry Maguire | 90 | Premier League | 45k coins | -46% | -68.3% |
+| Kai Havertz | 91 | Premier League | 204k coins | -43.7% | +11.4% |
+| Dominik Szoboszlai | 90 | Premier League | 115k coins | -40% | -3.8% |
+| Unai Simón | 90 | LALIGA EA SPORTS | 30k coins | -38.5% | -57.9% |
+| Caroline Weir | 97 | — | 46k coins | -38.3% | — |
+| Jaydee Canvot | 96 | — | 94k coins | -38.3% | -36.6% |
+| Rodri | 91 | Premier League | 270k coins | -36.6% | +7.3% |
 
 
 ### Análise das baixas
 
-- **Thomas Strakosha (91)** caiu **-50%** em 24h, a **32k coins** (faixa do dia: 24k–63k). Está -33% abaixo da média de 7 dias (descontada).
+- **Nuno Tavares (91)** caiu **-49.5%** em 24h, a **46k coins** (faixa do dia: 35k–91k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Henrik Larsson (91)** caiu **-45.9%** em 24h, a **24k coins** (faixa do dia: 23k–38k). Está -29% abaixo da média de 7 dias (descontada).
+- **Henrik Larsson (91)** caiu **-49.4%** em 24h, a **22k coins** (faixa do dia: 20k–38k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Dayne St. Clair (92)** caiu **-45.6%** em 24h, a **25k coins** (faixa do dia: 24k–45k). Está -15% abaixo da média de 7 dias (descontada).
+- **Mariona (96)** caiu **-48%** em 24h, a **78k coins** (faixa do dia: 78k–92k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Khadija Shaw já avançou 59.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Caroline Graham Hansen já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Thomas Strakosha recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nuno Tavares recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Khadija Shaw (90, Barclays WSL), com +59.3% em 24h, a 68k coins no Console (PS).
+Caroline Graham Hansen (90, Liga F), com +59.3% em 24h, a 35k coins no Console (PS).
 
 **E a maior queda do dia?**
-Thomas Strakosha (91), -50% em 24h, a 32k coins.
+Nuno Tavares (91), -49.5% em 24h, a 46k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 491 cartas em alta contra 314 em queda (média 7.3%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 555 cartas em alta contra 318 em queda (média 7.94%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
