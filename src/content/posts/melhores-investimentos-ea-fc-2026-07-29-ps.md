@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:58:10.000Z
+pubDatetime: 2026-07-29T13:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 29/07 — Console (PS)"
 draft: false
 featured: true
