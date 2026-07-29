@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:58:18.000Z
+pubDatetime: 2026-07-29T19:58:19.000Z
 title: "Mercado EA FC em 29/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Chiamaka Nnadozie (90, Barclays WSL), com +54.2% em 24h, a 44k coins no PC."
+    a: "Maxence Lacroix (96, sem liga), com +59.7% em 24h, a 2M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vitinha (97), -28.7% em 24h, a 340k coins."
+    a: "Lilian Thuram (93), -49.9% em 24h, a 601k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 321 cartas em alta contra 162 em queda (média 3.38%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 421 cartas em alta contra 334 em queda (média 4.76%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **321 cartas subiram** e **162 caíram** (80+ acima de 5k coins), variação média de **3.38%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **421 cartas subiram** e **334 caíram** (80+ acima de 5k coins), variação média de **4.76%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Chiamaka Nnadozie (90) **+54.2%** · 🔴 **Maior baixa:** Vitinha (97) **-28.7%**
+> 🟢 **Maior alta:** Maxence Lacroix (96) **+59.7%** · 🔴 **Maior baixa:** Lilian Thuram (93) **-49.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 82.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 66.5% entre as cartas que se moveram; o universo observado reúne 634 cartas.
-- **Concentração:** Barclays WSL aparece em 1 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.8% entre as cartas que se moveram; o universo observado reúne 904 cartas.
+- **Concentração:** Premier League aparece em 1 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Chiamaka Nnadozie | 90 | Barclays WSL | 44k coins | +54.2% | -4.8% |
-| Luis Javier Suárez | 96 | — | 22k coins | +50% | +20% |
-| Temwa Chawinga | 97 | — | 219k coins | +45.9% | -17.9% |
-| Marcelo | 96 | — | 94k coins | +43.3% | +6.7% |
-| Alexia Putellas | 92 | Liga F | 42k coins | +41.2% | -6.1% |
-| Dominik Szoboszlai | 94 | — | 138k coins | +38% | +39.4% |
-| Marek Hamšík | 97 | — | 84k coins | +37.7% | — |
-| Désiré Doué | 96 | — | 672k coins | +34.3% | +26.1% |
-| Cristian Martínez | 92 | — | 22k coins | +33.3% | +14.3% |
-| Gianluigi Donnarumma | 95 | — | 220k coins | +33.3% | +74.6% |
+| Maxence Lacroix | 96 | — | 2M coins | +59.7% | -5.7% |
+| Esmee Brugts | 94 | — | 39k coins | +59% | +65.6% |
+| Virgil van Dijk | 95 | Premier League | 1.02M coins | +58.9% | -7.3% |
+| Thierry Henry | 96 | — | 1.10M coins | +58.3% | +10.1% |
+| Yeremy Pino | 96 | — | 395k coins | +58% | -12% |
+| Michael Olise | 96 | — | 340k coins | +56.1% | +19% |
+| Yui Hasegawa | 94 | — | 27k coins | +55.3% | +25.5% |
+| Craig Halkett | 91 | — | 52k coins | +53.7% | -13.9% |
+| Vitinha | 90 | Ligue 1 McDonald's | 211k coins | +53.7% | +115.5% |
+| Riley Tiernan | 91 | — | 29k coins | +51.9% | -38.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **29/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Chiamaka Nnadozie (90)** subiu **+54.2%** em 24h, a **44k coins** (faixa do dia: 44k–69k). Está -28% abaixo da média de 7 dias (descontada).
+- **Maxence Lacroix (96)** subiu **+59.7%** em 24h, a **2M coins** (faixa do dia: 942k–2.29M). Está +32% acima da média de 7 dias (aquecida).
 
-- **Luis Javier Suárez (96)** subiu **+50%** em 24h, a **22k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (-2%).
+- **Esmee Brugts (94)** subiu **+59%** em 24h, a **39k coins** (faixa do dia: 25k–40k). Está +54% acima da média de 7 dias (aquecida).
 
-- **Temwa Chawinga (97)** subiu **+45.9%** em 24h, a **219k coins** (faixa do dia: 197k–219k). Está em linha com a média de 7 dias (+1%).
+- **Virgil van Dijk (95)** subiu **+58.9%** em 24h, a **1.02M coins** (faixa do dia: 642k–1.02M). Está +22% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 97 | — | 340k coins | -28.7% | -15% |
-| Jill Scott | 94 | — | 65k coins | -20.8% | -43% |
-| Cafu | 96 | — | 90k coins | -18.7% | -43.3% |
-| Jadon Sancho | 96 | — | 400k coins | -18.6% | -12.5% |
-| Daniel Muñoz | 97 | — | 100k coins | -17.1% | -17.1% |
-| Iñaki Williams | 97 | — | 650k coins | -16.9% | +0.2% |
-| Weston McKennie | 92 | — | 20k coins | -16.7% | -23.1% |
-| David Ayala | 91 | — | 25k coins | -16.5% | -56.4% |
-| Andy Najar | 91 | — | 30k coins | -14.4% | -48.3% |
-| Jude Bellingham | 94 | LALIGA EA SPORTS | 1.25M coins | -14.4% | +9% |
+| Lilian Thuram | 93 | Icons | 601k coins | -49.9% | -14.1% |
+| Diego Milito | 91 | — | 34k coins | -49.6% | -40.4% |
+| Dara O'Shea | 91 | — | 24k coins | -49.5% | -42.9% |
+| Evann Guessand | 96 | — | 185k coins | -49.1% | -50.4% |
+| Jamie Carragher | 92 | — | 32k coins | -47.7% | +23.6% |
+| Andrei Rațiu | 92 | — | 36k coins | -46.4% | -25.5% |
+| Aitana Bonmatí | 96 | — | 337k coins | -46.2% | -51.4% |
+| Esmee Brugts | 96 | — | 202k coins | -45.7% | -58.7% |
+| Jaap Stam | 96 | — | 1.65M coins | -45% | +23.1% |
+| Cata Coll | 96 | — | 30k coins | -44.9% | -75% |
 
 
 ### Análise das baixas
 
-- **Vitinha (97)** caiu **-28.7%** em 24h, a **340k coins** (faixa do dia: 300k–340k). Está em linha com a média de 7 dias (+0%).
+- **Lilian Thuram (93)** caiu **-49.9%** em 24h, a **601k coins** (faixa do dia: 601k–1.20M). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Jill Scott (94)** caiu **-20.8%** em 24h, a **65k coins** (faixa do dia: 57k–72k). Está -18% abaixo da média de 7 dias (descontada).
+- **Diego Milito (91)** caiu **-49.6%** em 24h, a **34k coins** (faixa do dia: 34k–68k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Cafu (96)** caiu **-18.7%** em 24h, a **90k coins** (faixa do dia: 75k–100k). Está -13% abaixo da média de 7 dias (descontada).
+- **Dara O'Shea (91)** caiu **-49.5%** em 24h, a **24k coins** (faixa do dia: 22k–48k). Está -35% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Chiamaka Nnadozie já avançou 54.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Maxence Lacroix já avançou 59.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vitinha recuou -28.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lilian Thuram recuou -49.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Chiamaka Nnadozie (90, Barclays WSL), com +54.2% em 24h, a 44k coins no PC.
+Maxence Lacroix (96, sem liga), com +59.7% em 24h, a 2M coins no PC.
 
 **E a maior queda do dia?**
-Vitinha (97), -28.7% em 24h, a 340k coins.
+Lilian Thuram (93), -49.9% em 24h, a 601k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 321 cartas em alta contra 162 em queda (média 3.38%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 421 cartas em alta contra 334 em queda (média 4.76%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
