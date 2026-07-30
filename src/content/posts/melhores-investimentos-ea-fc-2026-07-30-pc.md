@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:52:38.000Z
+pubDatetime: 2026-07-30T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 30/07 — PC"
 draft: false
 featured: true
@@ -57,7 +57,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Gregor Kobel | 95 | — | 18.500 coins | +12.1% | +60.9% | Esticada |
 | Zion Suzuki | 95 | — | 22k coins | +40% | +60.7% | Esticada |
 | Alessandro Nesta | 92 | — | 79k coins | +11.1% | +58.4% | Momentum moderado |
-| Johan Manzambi | 95 | — | 18.000 coins | +10.8% | +56.5% | Momentum moderado |
+| Roberto Alvarado | 94 | — | 18.000 coins | +12.5% | +56.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -70,7 +70,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Alexia Putellas (91)** — 25k coins, **+72.4% em 7 dias** (+13.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aitana Bonmatí (91)** — 26k coins, **+70.3% em 7 dias** (+21.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aitana Bonmatí (91)** — 26k coins, **+70.3% em 7 dias** (+21.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

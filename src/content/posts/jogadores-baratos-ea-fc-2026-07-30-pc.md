@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:52:39.000Z
+pubDatetime: 2026-07-30T10:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.917 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.150 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,16 +45,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 12.750 coins | 0% |
-| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 13.250 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
-| Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 12.250 coins | 0% |
-| Iván Zamorano | 91 | ST | LALIGA EA SPORTS | 11.500 coins | 0% |
+| Esperanza Pizarro | 92 | CM | — | 14.500 coins | +9.1% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:52:36.000Z
+pubDatetime: 2026-07-30T10:58:17.000Z
 title: "Mercado EA FC em 30/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
     a: "Matvey Safonov (96, sem liga), com +60% em 24h, a 400k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Max Arfsten (90), -49.7% em 24h, a 22k coins."
+    a: "Jamie Carragher (92), -49.6% em 24h, a 32k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 500 cartas em alta contra 312 em queda (média 9.11%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 501 cartas em alta contra 310 em queda (média 9.07%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **500 valorizações** contra **312 quedas** entre as cartas relevantes, com média de **9.11%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **501 valorizações** contra **310 quedas** entre as cartas relevantes, com média de **9.07%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Matvey Safonov (96) **+60%** · 🔴 **Maior baixa:** Max Arfsten (90) **-49.7%**
+> 🟢 **Maior alta:** Matvey Safonov (96) **+60%** · 🔴 **Maior baixa:** Jamie Carragher (92) **-49.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,8 +35,8 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 61.6% entre as cartas que se moveram; o universo observado reúne 964 cartas.
+- **Amplitude do dia:** 109.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 61.8% entre as cartas que se moveram; o universo observado reúne 960 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -49,10 +49,10 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 | Vitinha | 90 | Ligue 1 McDonald's | 216k coins | +58.8% | +160.2% |
 | Trincão | 94 | — | 26k coins | +56.6% | +34% |
 | Selina Cerci | 95 | — | 50k coins | +56.2% | -53.3% |
-| Giuliano Simeone | 96 | — | 89k coins | +54.9% | -41.2% |
 | Ben Chilwell | 90 | Ligue 1 McDonald's | 45k coins | +54.3% | -29.5% |
 | Marcus Rashford | 90 | LALIGA EA SPORTS | 650k coins | +51.2% | +18.2% |
 | Paolo Maldini | 95 | — | 1.50M coins | +50.8% | +15.9% |
+| Klara Bühl | 97 | — | 149k coins | +50.8% | -12.8% |
 
 
 ### Análise das altas
@@ -72,32 +72,32 @@ Resumo de **30/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Max Arfsten | 90 | — | 22k coins | -49.7% | -58.2% |
 | Jamie Carragher | 92 | — | 32k coins | -49.6% | +0.8% |
 | Roony Bardghji | 90 | LALIGA EA SPORTS | 30k coins | -49.6% | -49.2% |
 | Marcos Llorente | 90 | LALIGA EA SPORTS | 210k coins | -48.4% | -48.7% |
 | Jaap Stam | 96 | — | 1.56M coins | -48.1% | +15.5% |
 | Patrik Mercado | 91 | — | 29k coins | -47.7% | -42.5% |
-| George Best | 90 | Icons | 150k coins | -46.4% | -17.1% |
 | Erling Haaland | 92 | — | 90k coins | -46.2% | -63.2% |
 | Esmee Brugts | 96 | — | 218k coins | -45.7% | -67.2% |
 | Christian Pulisic | 96 | — | 72k coins | -45.4% | -41.2% |
+| Eden Hazard | 96 | — | 1.30M coins | -45% | -38.9% |
+| Andriy Shevchenko | 93 | — | 47k coins | -43.8% | -35% |
 
 
 ### Análise das baixas
 
-- **Max Arfsten (90)** caiu **-49.7%** em 24h, a **22k coins** (faixa do dia: 21k–42k). Está -43% abaixo da média de 7 dias (descontada).
-
 - **Jamie Carragher (92)** caiu **-49.6%** em 24h, a **32k coins** (faixa do dia: 20k–65k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Roony Bardghji (90)** caiu **-49.6%** em 24h, a **30k coins** (faixa do dia: 20k–62k). Está -31% abaixo da média de 7 dias (descontada).
+- **Roony Bardghji (90)** caiu **-49.6%** em 24h, a **30k coins** (faixa do dia: 20k–62k). Está -33% abaixo da média de 7 dias (descontada).
+
+- **Marcos Llorente (90)** caiu **-48.4%** em 24h, a **210k coins** (faixa do dia: 69k–210k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Matvey Safonov já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Max Arfsten recuou -49.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jamie Carragher recuou -49.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 Matvey Safonov (96, sem liga), com +60% em 24h, a 400k coins no PC.
 
 **E a maior queda do dia?**
-Max Arfsten (90), -49.7% em 24h, a 22k coins.
+Jamie Carragher (92), -49.6% em 24h, a 32k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 500 cartas em alta contra 312 em queda (média 9.11%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 501 cartas em alta contra 310 em queda (média 9.07%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

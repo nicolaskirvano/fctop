@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:52:29.000Z
+pubDatetime: 2026-07-30T10:58:11.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -31,7 +31,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 ## Retrato do recorte de hoje
 
 - **Preço médio das 15 opções:** 12.100 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
+- **Posição mais frequente:** CAM, com 4 cartas.
 - **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
 | Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | 0% |
-| Ramires | 93 | CDM | — | 11.750 coins | -13% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 11.750 coins | 0% |
+| Ramires | 93 | CDM | — | 11.750 coins | -13% |
 | Bobby Charlton | 93 | CAM | Icons | 14.000 coins | 0% |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 14.750 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
+| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
 | Cafu | 92 | RB | Icons | 11.500 coins | 0% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
-| Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
-| Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Pedri | 92 | CM | LALIGA EA SPORTS | 13.250 coins | 0% |
+| Florian Wirtz | 92 | CAM | Premier League | 13.250 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ramires (93, CDM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lev Yashin (93, GK)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ramires (93, CDM)** da —, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
