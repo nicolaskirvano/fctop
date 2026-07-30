@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:58:08.000Z
+pubDatetime: 2026-07-30T13:58:08.000Z
 title: "Mercado EA FC em 30/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 30/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Raphinha (95, LALIGA EA SPORTS), com +58.7% em 24h, a 619k coins no Console (PS)."
+    a: "Ronaldo (92, Icons), com +59.4% em 24h, a 12.10M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Eusébio (92), -48.1% em 24h, a 399k coins."
+    a: "Alex Morgan (91), -41.4% em 24h, a 220k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 117k coins."
+    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 110k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 559 cartas em alta contra 290 em queda (média 10.21%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 428 cartas em alta contra 405 em queda (média 2.92%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **30/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **559 valorizações** contra **290 quedas** entre as cartas relevantes, com média de **10.21%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **30/07/2026** no Console (PS): mercado **aquecido** — as altas dominam o dia. **428 valorizações** contra **405 quedas** entre as cartas relevantes, com média de **2.92%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Raphinha (95) **+58.7%** · 🔴 **Maior baixa:** Eusébio (92) **-48.1%**
+> 🟢 **Maior alta:** Ronaldo (92) **+59.4%** · 🔴 **Maior baixa:** Alex Morgan (91) **-41.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-30-ps.svg)
 
@@ -37,24 +37,24 @@ Resumo de **30/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 65.8% entre as cartas que se moveram; o universo observado reúne 948 cartas.
-- **Concentração:** Barclays WSL aparece em 3 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 961 cartas.
+- **Concentração:** Icons aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Raphinha | 95 | LALIGA EA SPORTS | 619k coins | +58.7% | +73.1% |
-| Alessia Russo | 90 | — | 79k coins | +58.4% | -23.8% |
-| Matvey Safonov | 96 | — | 238k coins | +57.8% | -26.6% |
-| Khadija Shaw | 90 | Barclays WSL | 283k coins | +57.2% | -5.7% |
-| Nadine Keßler | 90 | GPFBL | 59k coins | +55.3% | +8.3% |
-| Rayan Cherki | 93 | — | 29k coins | +54.9% | -12.7% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 44k coins | +54.4% | -37.1% |
-| Fernando Morientes | 94 | — | 99k coins | +53.8% | +25% |
-| Romelu Lukaku | 95 | — | 44k coins | +53.6% | -7.5% |
-| Merveille Kanjinga | 96 | — | 34k coins | +52.8% | -1.4% |
+| Ronaldo | 92 | Icons | 12.10M coins | +59.4% | +4% |
+| Patrick Berg | 95 | — | 40k coins | +59% | +44.5% |
+| Kerim Alajbegović | 94 | — | 35k coins | +57.6% | +39.4% |
+| Patrick Vieira | 90 | Icons | 495k coins | +57.3% | +28.5% |
+| Laura Dick | 93 | — | 45k coins | +56.3% | +89.8% |
+| Joško Gvardiol | 96 | — | 110k coins | +53.3% | -38.5% |
+| Lee Dong Kyeong | 94 | — | 33k coins | +52.5% | +80% |
+| Said El Mala | 90 | — | 29k coins | +52% | -37.9% |
+| Dominik Szoboszlai | 94 | — | 128k coins | +51.9% | +50.9% |
+| Rúben Neves | 95 | — | 31k coins | +50.8% | +54.8% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Resumo de **30/07/2026** no Console (PS): mercado **aquecido** — as altas domi
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Raphinha (95)** subiu **+58.7%** em 24h, a **619k coins** (faixa do dia: 397k–850k). Está +51% acima da média de 7 dias (aquecida).
+- **Ronaldo (92)** subiu **+59.4%** em 24h, a **12.10M coins** (faixa do dia: 6M–12.10M). Está +66% acima da média de 7 dias (aquecida).
 
-- **Alessia Russo (90)** subiu **+58.4%** em 24h, a **79k coins** (faixa do dia: 50k–137k). Está em linha com a média de 7 dias (+3%).
+- **Patrick Berg (95)** subiu **+59%** em 24h, a **40k coins** (faixa do dia: 24k–40k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Matvey Safonov (96)** subiu **+57.8%** em 24h, a **238k coins** (faixa do dia: 150k–275k). Está +10% acima da média de 7 dias (aquecida).
+- **Kerim Alajbegović (94)** subiu **+57.6%** em 24h, a **35k coins** (faixa do dia: 20k–36k). Está +58% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eusébio | 92 | Icons | 399k coins | -48.1% | -41.2% |
-| Mariona | 96 | Barclays WSL | 78k coins | -48% | -30.2% |
-| Henrik Larsson | 91 | — | 26k coins | -47.1% | -55% |
-| Stina Blackstenius | 90 | Barclays WSL | 24k coins | -46.6% | -63.2% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 29k coins | -45.6% | -55.7% |
-| Iniesta | 92 | Icons | 155k coins | -43.5% | +5% |
-| Eden Hazard | 94 | — | 26k coins | -42.2% | -96.9% |
-| Troy Parrott | 91 | — | 35k coins | -41.8% | -64.6% |
-| Tara McKeown | 95 | — | 40k coins | -41.6% | +14.3% |
-| Thomas Strakosha | 91 | — | 38k coins | -38.1% | -35% |
+| Alex Morgan | 91 | Icons | 220k coins | -41.4% | -4.7% |
+| Antonio Di Natale | 92 | Serie A TIM | 250k coins | -41.1% | +10.8% |
+| Khadija Shaw | 91 | — | 58k coins | -40% | -40% |
+| Olivia Smith | 91 | Barclays WSL | 236k coins | -39.9% | -30% |
+| Klara Bühl | 93 | — | 22k coins | -39.3% | -28.5% |
+| Ryan Christie | 90 | Premier League | 65k coins | -37.5% | -0.7% |
+| Khadija Shaw | 90 | Barclays WSL | 282k coins | -35.9% | -6% |
+| Eden Hazard | 94 | — | 26k coins | -33.3% | -96.5% |
+| Harry Kewell | 91 | Premier League | 549k coins | -32.3% | -13.9% |
+| Micah Richards | 96 | — | 25k coins | -32.3% | — |
 
 
 ### Análise das baixas
 
-- **Eusébio (92)** caiu **-48.1%** em 24h, a **399k coins** (faixa do dia: 307k–730k). Está -25% abaixo da média de 7 dias (descontada).
+- **Alex Morgan (91)** caiu **-41.4%** em 24h, a **220k coins** (faixa do dia: 205k–350k). Está em linha com a média de 7 dias (+1%).
 
-- **Mariona (96)** caiu **-48%** em 24h, a **78k coins** (faixa do dia: 78k–96k). Está -13% abaixo da média de 7 dias (descontada).
+- **Antonio Di Natale (92)** caiu **-41.1%** em 24h, a **250k coins** (faixa do dia: 197k–595k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Henrik Larsson (91)** caiu **-47.1%** em 24h, a **26k coins** (faixa do dia: 20k–38k). Está -17% abaixo da média de 7 dias (descontada).
+- **Khadija Shaw (91)** caiu **-40%** em 24h, a **58k coins** (faixa do dia: 53k–100k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Radar de valorização (24h)
@@ -101,14 +101,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 117k coins | 125k coins | 82% |
+| Ryan Gravenberch | 93 | 110k coins | 117k coins | 82% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Raphinha já avançou 58.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ronaldo já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eusébio recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alex Morgan recuou -41.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Raphinha (95, LALIGA EA SPORTS), com +58.7% em 24h, a 619k coins no Console (PS).
+Ronaldo (92, Icons), com +59.4% em 24h, a 12.10M coins no Console (PS).
 
 **E a maior queda do dia?**
-Eusébio (92), -48.1% em 24h, a 399k coins.
+Alex Morgan (91), -41.4% em 24h, a 220k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 117k coins.
+Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 110k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 559 cartas em alta contra 290 em queda (média 10.21%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 428 cartas em alta contra 405 em queda (média 2.92%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
