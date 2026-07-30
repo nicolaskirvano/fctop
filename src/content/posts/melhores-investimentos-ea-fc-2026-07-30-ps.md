@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:58:09.000Z
+pubDatetime: 2026-07-30T22:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Alexia Putellas (91, Liga F) lidera, com +88.4% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ivan Toney (92, sem liga) lidera, com +82.4% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexia Putellas (91) acumula **+88.4% em 7 dias** a 30k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ivan Toney (92) acumula **+82.4% em 7 dias** a 38k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.0% em 24h** e **+64.4% em 7 dias**.
-- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.1% em 24h** e **+53.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexia Putellas | 91 | Liga F | 30k coins | +12.1% | +88.4% | Esticada |
-| Rúben Neves | 95 | — | 50k coins | +19% | +78.6% | Esticada |
-| Ivan Toney | 92 | — | 36k coins | +29.8% | +74.1% | Esticada |
-| Pau Cubarsí | 93 | — | 30k coins | +26.7% | +69% | Esticada |
-| Ashley Cole | 92 | — | 102k coins | +15.7% | +68.9% | Esticada |
-| Pau Cubarsí | 96 | — | 49k coins | +14.6% | +67.9% | Esticada |
-| Joan García | 94 | — | 50k coins | +7.9% | +67.7% | Esticada |
-| Carl Rushworth | 93 | — | 40k coins | +19.4% | +64.4% | Esticada |
-| Tara McKeown | 95 | — | 58k coins | +37.3% | +63.4% | Esticada |
-| Kerim Alajbegović | 95 | — | 23k coins | +4.5% | +61.4% | Esticada |
-| Mailson | 92 | — | 40k coins | +33.3% | +55.3% | Esticada |
-| Tomáš Chorý | 95 | — | 30k coins | +33.3% | +55.1% | Esticada |
-| Stephen Eustáquio | 95 | — | 54k coins | +8.1% | +55.1% | Momentum moderado |
-| Aymeric Laporte | 97 | — | 196k coins | +10.4% | +46.3% | Momentum moderado |
-| Bremer | 95 | — | 84k coins | +16% | +46.2% | Momentum moderado |
+| Ivan Toney | 92 | — | 38k coins | +10.7% | +82.4% | Esticada |
+| Hervé Koffi | 94 | — | 37k coins | +22.1% | +81.8% | Esticada |
+| Ismael Saibari | 97 | — | 38k coins | +25% | +75.8% | Esticada |
+| Dayot Upamecano | 96 | — | 22k coins | +15.1% | +75.4% | Esticada |
+| Joan García | 94 | — | 59k coins | +20.4% | +69.8% | Esticada |
+| Marc Cucurella | 93 | — | 29k coins | +30.4% | +56.5% | Esticada |
+| Pau Cubarsí | 93 | — | 36k coins | +17.1% | +55.7% | Momentum moderado |
+| Tara McKeown | 95 | — | 50k coins | +32.5% | +53.4% | Esticada |
+| Nuno Mendes | 95 | — | 198k coins | +5.8% | +52.8% | Momentum moderado |
+| Vedat Muriqi | 95 | — | 28k coins | +13.6% | +52.3% | Momentum moderado |
+| Carl Rushworth | 93 | — | 38k coins | +2% | +49.5% | Momentum moderado |
+| Lee Dong Kyeong | 94 | — | 35k coins | +16.5% | +49.5% | Momentum moderado |
+| Cesc Fàbregas | 91 | Premier League | 200k coins | +13.6% | +49.3% | Momentum moderado |
+| Kai Havertz | 91 | Premier League | 186k coins | +19.3% | +48.9% | Momentum moderado |
+| Hannah Hampton | 92 | — | 32k coins | +33.3% | +48.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexia Putellas (91)** — 30k coins, **+88.4% em 7 dias** (+12.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Toney (92)** — 38k coins, **+82.4% em 7 dias** (+10.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rúben Neves (95)** — 50k coins, **+78.6% em 7 dias** (+19% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hervé Koffi (94)** — 37k coins, **+81.8% em 7 dias** (+22.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Toney (92)** — 36k coins, **+74.1% em 7 dias** (+29.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ismael Saibari (97)** — 38k coins, **+75.8% em 7 dias** (+25% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pau Cubarsí (93)** — 30k coins, **+69% em 7 dias** (+26.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (96)** — 22k coins, **+75.4% em 7 dias** (+15.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Cole (92)** — 102k coins, **+68.9% em 7 dias** (+15.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joan García (94)** — 59k coins, **+69.8% em 7 dias** (+20.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Alexia Putellas (91, Liga F) lidera, com +88.4% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ivan Toney (92, sem liga) lidera, com +82.4% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
