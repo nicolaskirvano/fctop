@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:58:19.000Z
+pubDatetime: 2026-07-31T16:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 31/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+50.0% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+61.5% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 95 | — | 170k coins | +6.2% | +88.9% | Esticada |
-| Marc Cucurella | 93 | — | 50k coins | +26.6% | +85.2% | Esticada |
-| Ismael Saibari | 97 | — | 30k coins | +12% | +70.4% | Esticada |
-| Harry Kane | 92 | Bundesliga | 230k coins | +25% | +64.3% | Esticada |
-| Marinette Pichon | 90 | Icons | 52k coins | +5.5% | +64.1% | Esticada |
-| Gregor Kobel | 95 | — | 20k coins | +9.9% | +62.5% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 42k coins | +2.4% | +50% | Momentum moderado |
-| Patrick Beach | 93 | — | 22k coins | +8.4% | +50% | Momentum moderado |
-| Carlos Romero | 95 | — | 32k coins | +24.2% | +47.2% | Esticada |
-| Dominik Szoboszlai | 94 | — | 128k coins | +36.2% | +44.6% | Esticada |
-| Dayot Upamecano | 96 | — | 19.000 coins | +12.8% | +44.3% | Momentum moderado |
-| Eldor Shomurodov | 93 | — | 29k coins | +25.3% | +44.2% | Esticada |
-| Patrick Vieira | 95 | — | 200k coins | +22.6% | +43.5% | Esticada |
-| Luc De Fougerolles | 93 | — | 20k coins | +7.5% | +43.3% | Momentum moderado |
-| Orkun Kökçü | 95 | — | 150k coins | +28.2% | +38.9% | Esticada |
+| Deniz Undav | 95 | — | 170k coins | +9.7% | +88.9% | Esticada |
+| Gilberto Mora | 95 | — | 30k coins | +10% | +83.3% | Esticada |
+| Hervé Koffi | 94 | — | 49k coins | +18.5% | +77.7% | Esticada |
+| Dennis Bergkamp | 90 | Icons | 168k coins | +11.1% | +72.4% | Esticada |
+| Marinette Pichon | 90 | Icons | 54k coins | +18.9% | +67.2% | Esticada |
+| Gregor Kobel | 95 | — | 18.000 coins | +12.7% | +66.7% | Esticada |
+| Pape Gueye | 95 | — | 96k coins | +10.3% | +64.1% | Esticada |
+| Mike Maignan | 93 | — | 39k coins | +5% | +61.5% | Esticada |
+| Roberto Carlos | 95 | — | 117k coins | +1.6% | +56% | Momentum moderado |
+| Santiago Sosa | 93 | — | 38k coins | +11.1% | +50% | Momentum moderado |
+| Ayyoub Bouaddi | 95 | — | 54k coins | +13.1% | +46.9% | Momentum moderado |
+| Mariona | 90 | Barclays WSL | 110k coins | +7.8% | +43.8% | Momentum moderado |
+| Anaële Le Moguédec | 92 | — | 29k coins | +21.9% | +41% | Esticada |
+| Declan Rice | 94 | Premier League | 196k coins | +36.1% | +38% | Esticada |
+| Caleb Yirenkyi | 94 | — | 19.500 coins | +2.5% | +36.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Deniz Undav (95)** — 170k coins, **+88.9% em 7 dias** (+6.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Deniz Undav (95)** — 170k coins, **+88.9% em 7 dias** (+9.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (93)** — 50k coins, **+85.2% em 7 dias** (+26.6% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gilberto Mora (95)** — 30k coins, **+83.3% em 7 dias** (+10% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ismael Saibari (97)** — 30k coins, **+70.4% em 7 dias** (+12% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hervé Koffi (94)** — 49k coins, **+77.7% em 7 dias** (+18.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (92)** — 230k coins, **+64.3% em 7 dias** (+25% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (90)** — 168k coins, **+72.4% em 7 dias** (+11.1% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marinette Pichon (90)** — 52k coins, **+64.1% em 7 dias** (+5.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 54k coins, **+67.2% em 7 dias** (+18.9% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

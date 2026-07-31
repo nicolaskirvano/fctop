@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:58:08.000Z
+pubDatetime: 2026-07-31T16:58:07.000Z
 title: "Mercado EA FC em 31/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Robert Pirès (93, sem liga), com +57.3% em 24h, a 74k coins no Console (PS)."
+    a: "Zico (91, Icons), com +56.3% em 24h, a 154k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ezri Konsa (96), -49.4% em 24h, a 42k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 142k coins."
+    a: "Douglas Luiz (96), -49.7% em 24h, a 47k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 298 cartas em alta contra 569 em queda (média -5.32%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 301 cartas em alta contra 549 em queda (média -5.0%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **298 subiram**, **569 caíram** (80+ e 5k+ coins), média de **-5.32%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **301 subiram**, **549 caíram** (80+ e 5k+ coins), média de **-5.0%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Robert Pirès (93) **+57.3%** · 🔴 **Maior baixa:** Ezri Konsa (96) **-49.4%**
+> 🟢 **Maior alta:** Zico (91) **+56.3%** · 🔴 **Maior baixa:** Douglas Luiz (96) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -37,24 +35,24 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 106.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 34.4% entre as cartas que se moveram; o universo observado reúne 964 cartas.
-- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.4% entre as cartas que se moveram; o universo observado reúne 948 cartas.
+- **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Robert Pirès | 93 | — | 74k coins | +57.3% | +60.6% |
-| Viktor Gyökeres | 94 | Premier League | 369k coins | +54.4% | +5.4% |
-| George Best | 91 | Icons | 224k coins | +54.2% | +9.3% |
-| Julian Ryerson | 93 | — | 104k coins | +52.3% | +29.7% |
-| Harry Kane | 90 | Bundesliga | 125k coins | +51.4% | +13.6% |
-| Çağlar Söyüncü | 93 | — | 32k coins | +47.7% | +120.3% |
-| Sam Surridge | 91 | — | 38k coins | +44.2% | -16.7% |
-| Roberto Carlos | 90 | Icons | 177k coins | +42.2% | -8.8% |
-| Pedri | 90 | LALIGA EA SPORTS | 60k coins | +42.1% | -54.4% |
-| Esther | 96 | — | 41k coins | +40.8% | +10% |
+| Zico | 91 | Icons | 154k coins | +56.3% | +27.3% |
+| Uli Hoeneß | 90 | — | 30k coins | +51.1% | -24.4% |
+| Enzo Fernández | 91 | Premier League | 50k coins | +49.6% | -25.7% |
+| Harry Kane | 90 | Bundesliga | 110k coins | +42.9% | +8.7% |
+| Kim Seung Sub | 90 | — | 35k coins | +42.9% | -30% |
+| Robin Risser | 90 | — | 46k coins | +41.9% | -3.5% |
+| Yoane Wissa | 95 | — | 115k coins | +41.8% | +88.2% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 269k coins | +41.1% | +46% |
+| Lionel Messi | 90 | MLS | 1.80M coins | +39.7% | +16.5% |
+| Yazan Al Arab | 95 | — | 30k coins | +38.6% | +38.6% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Hoje (**31/07/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Robert Pirès (93)** subiu **+57.3%** em 24h, a **74k coins** (faixa do dia: 38k–85k). Está +70% acima da média de 7 dias (aquecida).
+- **Zico (91)** subiu **+56.3%** em 24h, a **154k coins** (faixa do dia: 98k–154k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Viktor Gyökeres (94)** subiu **+54.4%** em 24h, a **369k coins** (faixa do dia: 199k–500k). Está +24% acima da média de 7 dias (aquecida).
+- **Uli Hoeneß (90)** subiu **+51.1%** em 24h, a **30k coins** (faixa do dia: 20k–40k). Está +55% acima da média de 7 dias (aquecida).
 
-- **George Best (91)** subiu **+54.2%** em 24h, a **224k coins** (faixa do dia: 127k–416k). Está -9% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (91)** subiu **+49.6%** em 24h, a **50k coins** (faixa do dia: 26k–90k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ezri Konsa | 96 | — | 42k coins | -49.4% | -58.3% |
-| Emiliano Buendía | 96 | — | 123k coins | -48.6% | -49.8% |
-| Gisele Thompson | 90 | NWSL | 36k coins | -48.6% | -38.5% |
-| Ian Maatsen | 96 | — | 57k coins | -48.4% | -58.8% |
-| Jaydee Canvot | 96 | — | 69k coins | -47.6% | -63.3% |
-| Mapi León | 96 | — | 44k coins | -46.1% | -53.6% |
-| Ezri Konsa | 96 | — | 42k coins | -45.2% | -58.6% |
-| Ronaldinho | 95 | — | 398k coins | -45.1% | -62.5% |
-| Matvey Safonov | 96 | — | 127k coins | -44.5% | -66.2% |
-| Morgan Rogers | 96 | — | 99k coins | -43.5% | -48.2% |
+| Douglas Luiz | 96 | — | 47k coins | -49.7% | -57% |
+| John McGinn | 96 | — | 47k coins | -49.5% | -60.5% |
+| Bruno Fernandes | 93 | Premier League | 65k coins | -48.4% | -49.2% |
+| Lindsey Heaps | 90 | D1 Arkema | 24k coins | -46.8% | -78.8% |
+| Esmee Brugts | 96 | — | 98k coins | -45.7% | -38.3% |
+| Angelo Stiller | 91 | Bundesliga | 35k coins | -43.8% | -27% |
+| Alessia Russo | 90 | — | 46k coins | -43.8% | -40.3% |
+| Ezri Konsa | 96 | — | 47k coins | -41.6% | -50.5% |
+| Lucas Digne | 96 | — | 25k coins | -39.4% | -37.5% |
+| Diego Milito | 91 | — | 23k coins | -38.9% | -58.3% |
 
 
 ### Análise das baixas
 
-- **Ezri Konsa (96)** caiu **-49.4%** em 24h, a **42k coins** (faixa do dia: 37k–76k). Está -31% abaixo da média de 7 dias (descontada).
+- **Douglas Luiz (96)** caiu **-49.7%** em 24h, a **47k coins** (faixa do dia: 34k–98k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Buendía (96)** caiu **-48.6%** em 24h, a **123k coins** (faixa do dia: 100k–260k). Está -38% abaixo da média de 7 dias (descontada).
+- **John McGinn (96)** caiu **-49.5%** em 24h, a **47k coins** (faixa do dia: 35k–89k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Gisele Thompson (90)** caiu **-48.6%** em 24h, a **36k coins** (faixa do dia: 16.750–66k). Está em linha com a média de 7 dias (-5%).
-
-
-## 🔮 O que o modelo prevê para as próximas 24h
-
-Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 142k coins | 151k coins | 82% |
+- **Bruno Fernandes (93)** caiu **-48.4%** em 24h, a **65k coins** (faixa do dia: 58k–145k). Está -44% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Robert Pirès já avançou 57.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Zico já avançou 56.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ezri Konsa recuou -49.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Douglas Luiz recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Robert Pirès (93, sem liga), com +57.3% em 24h, a 74k coins no Console (PS).
+Zico (91, Icons), com +56.3% em 24h, a 154k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ezri Konsa (96), -49.4% em 24h, a 42k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 142k coins.
+Douglas Luiz (96), -49.7% em 24h, a 47k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 298 cartas em alta contra 569 em queda (média -5.32%).
+Hoje o mercado está em baixa — predominam as quedas, com 301 cartas em alta contra 549 em queda (média -5.0%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
