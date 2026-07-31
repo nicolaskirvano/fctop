@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:58:17.000Z
+pubDatetime: 2026-07-31T19:58:16.000Z
 title: "Mercado EA FC em 31/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Cafu (91, Icons), com +59.2% em 24h, a 233k coins no PC."
+    a: "Zlatan Ibrahimović (95, Icons), com +60% em 24h, a 4.80M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Fermín (90), -49.1% em 24h, a 45k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 55k coins."
+    a: "Roberto Lopes (95), -45.5% em 24h, a 48k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 285 cartas em alta contra 490 em queda (média -2.43%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 274 cartas em alta contra 376 em queda (média -3.23%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **285 subiram**, **490 caíram** (80+ e 5k+ coins), média de **-2.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **274 subiram**, **376 caíram** (80+ e 5k+ coins), média de **-3.23%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Cafu (91) **+59.2%** · 🔴 **Maior baixa:** Fermín (90) **-49.1%**
+> 🟢 **Maior alta:** Zlatan Ibrahimović (95) **+60%** · 🔴 **Maior baixa:** Roberto Lopes (95) **-45.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -37,24 +35,24 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.8% entre as cartas que se moveram; o universo observado reúne 914 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 42.2% entre as cartas que se moveram; o universo observado reúne 797 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Cafu | 91 | Icons | 233k coins | +59.2% | -11.7% |
-| Gerd Müller | 92 | Icons | 190k coins | +58.5% | +146.8% |
-| Selma Bacha | 94 | — | 45k coins | +56% | -4.7% |
-| Gianluigi Donnarumma | 95 | Premier League | 450k coins | +55.6% | +21% |
-| Mohamed Salah | 92 | Premier League | 600k coins | +54.2% | +79.1% |
-| Franz Beckenbauer | 92 | Icons | 254k coins | +51.8% | +92.5% |
-| Raphinha | 91 | LALIGA EA SPORTS | 220k coins | +51.7% | -39.9% |
-| Kristijan Jakić | 92 | — | 24k coins | +51.1% | +61.6% |
-| Riccardo Calafiori | 90 | Premier League | 960k coins | +50% | 0% |
-| Marco van Basten | 91 | Icons | 108k coins | +49.7% | -5.2% |
+| Zlatan Ibrahimović | 95 | Icons | 4.80M coins | +60% | +52.4% |
+| Joshua Kimmich | 90 | Bundesliga | 130k coins | +55.7% | +30.7% |
+| Luis Díaz | 91 | Bundesliga | 326k coins | +55.2% | -7.6% |
+| Weston McKennie | 92 | Serie A TIM | 90k coins | +54.6% | +39.4% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 700k coins | +52.2% | -1.4% |
+| Florian Wirtz | 91 | — | 95k coins | +48.4% | -28.6% |
+| Gianluigi Donnarumma | 95 | Premier League | 447k coins | +46% | +33.3% |
+| Erling Haaland | 92 | — | 95k coins | +45.6% | -20.7% |
+| Estêvão | 91 | Premier League | 597k coins | +44.4% | -9.3% |
+| Yasin Ayari | 95 | — | 40k coins | +44.2% | +46.6% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Cafu (91)** subiu **+59.2%** em 24h, a **233k coins** (faixa do dia: 121k–242k). Está +45% acima da média de 7 dias (aquecida).
+- **Zlatan Ibrahimović (95)** subiu **+60%** em 24h, a **4.80M coins** (faixa do dia: 3M–4.80M). Está +24% acima da média de 7 dias (aquecida).
 
-- **Gerd Müller (92)** subiu **+58.5%** em 24h, a **190k coins** (faixa do dia: 119k–230k). Está +41% acima da média de 7 dias (aquecida).
+- **Joshua Kimmich (90)** subiu **+55.7%** em 24h, a **130k coins** (faixa do dia: 60k–140k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Selma Bacha (94)** subiu **+56%** em 24h, a **45k coins** (faixa do dia: 37k–70k). Está -9% abaixo da média de 7 dias (descontada).
+- **Luis Díaz (91)** subiu **+55.2%** em 24h, a **326k coins** (faixa do dia: 94k–326k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fermín | 90 | LALIGA EA SPORTS | 45k coins | -49.1% | -45.9% |
-| Gisele Thompson | 90 | NWSL | 46k coins | -48% | -26.8% |
-| Roberto Lopes | 95 | — | 29k coins | -47.3% | +1.8% |
-| Nilson Angulo | 95 | — | 24k coins | -46.4% | -53.3% |
-| Emiliano Buendía | 96 | — | 131k coins | -46.2% | -69.5% |
-| Patri Guijarro | 90 | Liga F | 54k coins | -45.5% | -28% |
-| Johan Cruyff | 94 | Icons | 454k coins | -43.2% | -43.2% |
-| Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -16.1% |
-| Dodi Lukébakio | 94 | — | 60k coins | -41.9% | -55% |
-| Salem Al Dawsari | 92 | — | 29k coins | -41.3% | -14.1% |
+| Roberto Lopes | 95 | — | 48k coins | -45.5% | +2.6% |
+| Ismaïla Sarr | 96 | — | 150k coins | -43.6% | -40.9% |
+| Daniel Muñoz | 96 | — | 123k coins | -43.2% | -77.4% |
+| Declan Rice | 94 | Premier League | 76k coins | -42.9% | -44.9% |
+| Folarin Balogun | 97 | — | 150k coins | -42.2% | -35.1% |
+| João Pedro | 92 | — | 24k coins | -41.9% | -16.7% |
+| Alessia Russo | 97 | Barclays WSL | 78k coins | -41.9% | -55.1% |
+| Salem Al Dawsari | 92 | — | 54k coins | -41.7% | -22.1% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 38k coins | -41.4% | -3.2% |
+| Sandro Tonali | 91 | Premier League | 122k coins | -41.2% | -41.2% |
 
 
 ### Análise das baixas
 
-- **Fermín (90)** caiu **-49.1%** em 24h, a **45k coins** (faixa do dia: 42k–110k). Está -42% abaixo da média de 7 dias (descontada).
+- **Roberto Lopes (95)** caiu **-45.5%** em 24h, a **48k coins** (faixa do dia: 26k–55k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Gisele Thompson (90)** caiu **-48%** em 24h, a **46k coins** (faixa do dia: 40k–90k). Está -37% abaixo da média de 7 dias (descontada).
+- **Ismaïla Sarr (96)** caiu **-43.6%** em 24h, a **150k coins** (faixa do dia: 139k–320k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Roberto Lopes (95)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 26k–55k). Está -12% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 O que o modelo prevê para as próximas 24h
-
-Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 55k coins | 56k coins | 61% |
+- **Daniel Muñoz (96)** caiu **-43.2%** em 24h, a **123k coins** (faixa do dia: 49k–246k). Está -62% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Cafu já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Zlatan Ibrahimović já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Fermín recuou -49.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Roberto Lopes recuou -45.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Cafu (91, Icons), com +59.2% em 24h, a 233k coins no PC.
+Zlatan Ibrahimović (95, Icons), com +60% em 24h, a 4.80M coins no PC.
 
 **E a maior queda do dia?**
-Fermín (90), -49.1% em 24h, a 45k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 55k coins.
+Roberto Lopes (95), -45.5% em 24h, a 48k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 285 cartas em alta contra 490 em queda (média -2.43%).
+Hoje o mercado está em baixa — predominam as quedas, com 274 cartas em alta contra 376 em queda (média -3.23%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
