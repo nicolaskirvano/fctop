@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:54:22.000Z
+pubDatetime: 2026-07-31T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 31/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.6% em 24h** e **+60.7% em 7 dias**.
-- **13 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+17.9% em 24h** e **+61.9% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ismael Saibari | 97 | — | 28k coins | +28.7% | +83.1% | Esticada |
-| Eldor Shomurodov | 93 | — | 37k coins | +33.3% | +74.1% | Esticada |
-| Noussair Mazraoui | 95 | — | 16.000 coins | +2.5% | +69.4% | Esticada |
+| Eldor Shomurodov | 93 | — | 33k coins | +33.3% | +74.1% | Esticada |
+| Fredrik Aursnes | 92 | — | 37k coins | +5.7% | +72.1% | Esticada |
+| Charles De Ketelaere | 95 | — | 41k coins | +17.9% | +71.9% | Esticada |
+| Noussair Mazraoui | 95 | — | 16.000 coins | +1.2% | +69.4% | Esticada |
 | Lindsey Heaps | 90 | D1 Arkema | 98k coins | +21.6% | +68.4% | Esticada |
-| Fredrik Aursnes | 92 | — | 37k coins | +5.7% | +68.2% | Esticada |
 | Pau Cubarsí | 96 | — | 54k coins | +3.1% | +65% | Esticada |
-| Gilberto Mora | 95 | — | 30k coins | +15.3% | +63.3% | Esticada |
-| Thibaut Courtois | 95 | — | 200k coins | +4.7% | +60.7% | Esticada |
-| Patrick Vieira | 95 | — | 240k coins | +31.7% | +57.9% | Esticada |
+| Thibaut Courtois | 95 | — | 200k coins | +4.7% | +61.9% | Esticada |
+| Patrick Vieira | 95 | — | 240k coins | +31.2% | +57.3% | Esticada |
 | Roberto Carlos | 95 | — | 116k coins | +5% | +56.2% | Momentum moderado |
-| Ismael Saibari | 96 | — | 31k coins | +17.8% | +52.6% | Momentum moderado |
 | Salem Al Dawsari | 92 | — | 54k coins | +26.7% | +49.3% | Esticada |
-| Kristijan Jakić | 92 | — | 30k coins | +28% | +47.1% | Esticada |
 | Carl Rushworth | 93 | — | 49k coins | +39.3% | +45.5% | Esticada |
-| Charles De Ketelaere | 95 | — | 41k coins | +24.3% | +45% | Esticada |
+| Luc De Fougerolles | 93 | — | 18.000 coins | +7.5% | +43.3% | Momentum moderado |
+| Julian Quiñones | 96 | — | 20k coins | +1.4% | +41.5% | Momentum moderado |
+| Anaële Le Moguédec | 92 | — | 27k coins | +26% | +39.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Ismael Saibari (97)** — 28k coins, **+83.1% em 7 dias** (+28.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eldor Shomurodov (93)** — 37k coins, **+74.1% em 7 dias** (+33.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eldor Shomurodov (93)** — 33k coins, **+74.1% em 7 dias** (+33.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noussair Mazraoui (95)** — 16.000 coins, **+69.4% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fredrik Aursnes (92)** — 37k coins, **+72.1% em 7 dias** (+5.7% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (90)** — 98k coins, **+68.4% em 7 dias** (+21.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Charles De Ketelaere (95)** — 41k coins, **+71.9% em 7 dias** (+17.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fredrik Aursnes (92)** — 37k coins, **+68.2% em 7 dias** (+5.7% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noussair Mazraoui (95)** — 16.000 coins, **+69.4% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

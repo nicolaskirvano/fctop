@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:54:11.000Z
+pubDatetime: 2026-07-31T10:58:07.000Z
 title: "Mercado EA FC em 31/07: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
