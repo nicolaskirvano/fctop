@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:58:18.000Z
+pubDatetime: 2026-08-01T22:58:18.000Z
 title: "Mercado EA FC em 01/08: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,22 +13,22 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Xavi Simons (97, sem liga), com +59.2% em 24h, a 274k coins no PC."
+    a: "Marquinhos (96, sem liga), com +58.9% em 24h, a 200k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lily Yohannes (91), -49.4% em 24h, a 21k coins."
+    a: "Roberto Baggio (91), -48% em 24h, a 77k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 21k coins."
+    a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 504 cartas em alta contra 268 em queda (média 6.5%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 496 cartas em alta contra 275 em queda (média 6.12%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **504 subiram** e **268 caíram**, com variação média de **6.5%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **496 subiram** e **275 caíram**, com variação média de **6.12%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Xavi Simons (97) **+59.2%** · 🔴 **Maior baixa:** Lily Yohannes (91) **-49.4%**
+> 🟢 **Maior alta:** Marquinhos (96) **+58.9%** · 🔴 **Maior baixa:** Roberto Baggio (91) **-48%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -37,24 +37,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 65.3% entre as cartas que se moveram; o universo observado reúne 993 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.3% entre as cartas que se moveram; o universo observado reúne 981 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Xavi Simons | 97 | — | 274k coins | +59.2% | +14.5% |
-| N'Golo Kanté | 93 | Trendyol Süper Lig | 167k coins | +57.5% | +19.8% |
-| Tara McKeown | 95 | — | 89k coins | +57% | -1.6% |
-| Morgan Rogers | 96 | — | 142k coins | +56% | -43.2% |
-| Lucy Bronze | 95 | Barclays WSL | 186k coins | +55.8% | +144.4% |
-| Gabriel Jesus | 97 | — | 49k coins | +55.4% | +5% |
-| Willian Pacho | 95 | — | 98k coins | +53.2% | +42.9% |
-| Jill Scott | 94 | — | 90k coins | +52.5% | +51.3% |
-| Eric García | 96 | — | 260k coins | +50.3% | +47.7% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 306k coins | +50% | +12.1% |
+| Marquinhos | 96 | — | 200k coins | +58.9% | +7.9% |
+| Mile Svilar | 91 | — | 49k coins | +57.6% | +64.2% |
+| Carlos Alberto | 91 | Icons | 200k coins | +57.2% | +73.6% |
+| Caleb Taylor | 92 | — | 23k coins | +56.8% | +86.8% |
+| Mapi León | 90 | Liga F | 85k coins | +54.5% | +102.4% |
+| Laura Georges | 93 | — | 38k coins | +54.2% | +37% |
+| Wouter Burger | 90 | — | 35k coins | +52.2% | +64.7% |
+| Antoine Semenyo | 94 | — | 172k coins | +48.1% | -20% |
+| Harry Kane | 92 | Bundesliga | 222k coins | +48% | +98.2% |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 215k coins | +46.2% | +6% |
 
 
 ### Análise das altas
@@ -63,36 +63,36 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Xavi Simons (97)** subiu **+59.2%** em 24h, a **274k coins** (faixa do dia: 173k–306k). Está +26% acima da média de 7 dias (aquecida).
+- **Marquinhos (96)** subiu **+58.9%** em 24h, a **200k coins** (faixa do dia: 88k–250k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **N'Golo Kanté (93)** subiu **+57.5%** em 24h, a **167k coins** (faixa do dia: 108k–230k). Está +13% acima da média de 7 dias (aquecida).
+- **Mile Svilar (91)** subiu **+57.6%** em 24h, a **49k coins** (faixa do dia: 21k–60k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Tara McKeown (95)** subiu **+57%** em 24h, a **89k coins** (faixa do dia: 51k–90k). Está em linha com a média de 7 dias (+2%).
+- **Carlos Alberto (91)** subiu **+57.2%** em 24h, a **200k coins** (faixa do dia: 69k–225k). Está +60% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lily Yohannes | 91 | — | 21k coins | -49.4% | -52.9% |
-| Franco Baresi | 91 | Icons | 69k coins | -49.1% | +27.1% |
-| Franz Beckenbauer | 92 | Icons | 130k coins | -48% | -7.1% |
-| Jonathan David | 90 | Serie A TIM | 46k coins | -46.2% | -6.2% |
-| Erling Haaland | 92 | — | 52k coins | -43.5% | -54.3% |
-| Vini Jr. | 91 | — | 205k coins | -42.3% | -16.5% |
-| Steph Catley | 90 | Barclays WSL | 50k coins | -41.8% | +1% |
-| Matty Cash | 96 | — | 103k coins | -41.4% | -48.5% |
-| Deniz Undav | 91 | Bundesliga | 100k coins | -39.3% | 0% |
-| Youri Tielemans | 96 | — | 140k coins | -38.8% | 0% |
+| Roberto Baggio | 91 | Icons | 77k coins | -48% | +5.4% |
+| Jerdy Schouten | 94 | — | 21k coins | -47.5% | -27.6% |
+| Zlatan Ibrahimović | 95 | Icons | 2.84M coins | -45.8% | -24.5% |
+| Maximiliano Araújo | 93 | — | 25k coins | -45% | +10% |
+| Vitinha | 90 | Ligue 1 McDonald's | 78k coins | -44.6% | -0.6% |
+| Lotta Schelin | 91 | Icons | 320k coins | -44.3% | -45.8% |
+| Illia Zabarnyi | 96 | — | 45k coins | -43.8% | -73.1% |
+| Marcelo | 95 | — | 450k coins | -43.8% | 0% |
+| Florian Wirtz | 91 | — | 52k coins | -43.7% | -26.2% |
+| Ingrid Syrstad Engen | 93 | — | 31k coins | -43.2% | +42% |
 
 
 ### Análise das baixas
 
-- **Lily Yohannes (91)** caiu **-49.4%** em 24h, a **21k coins** (faixa do dia: 20k–57k). Está -34% abaixo da média de 7 dias (descontada).
+- **Roberto Baggio (91)** caiu **-48%** em 24h, a **77k coins** (faixa do dia: 76k–173k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Franco Baresi (91)** caiu **-49.1%** em 24h, a **69k coins** (faixa do dia: 69k–186k). Está -19% abaixo da média de 7 dias (descontada).
+- **Jerdy Schouten (94)** caiu **-47.5%** em 24h, a **21k coins** (faixa do dia: 20k–40k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Franz Beckenbauer (92)** caiu **-48%** em 24h, a **130k coins** (faixa do dia: 120k–266k). Está -24% abaixo da média de 7 dias (descontada).
+- **Zlatan Ibrahimović (95)** caiu **-45.8%** em 24h, a **2.84M coins** (faixa do dia: 2.55M–4.80M). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -101,14 +101,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 21k coins | 22k coins | 61% |
+| Mohamed Salah | 91 | 28k coins | 28k coins | 61% |
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Xavi Simons já avançou 59.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Marquinhos já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lily Yohannes recuou -49.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Roberto Baggio recuou -48%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +120,16 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Xavi Simons (97, sem liga), com +59.2% em 24h, a 274k coins no PC.
+Marquinhos (96, sem liga), com +58.9% em 24h, a 200k coins no PC.
 
 **E a maior queda do dia?**
-Lily Yohannes (91), -49.4% em 24h, a 21k coins.
+Roberto Baggio (91), -48% em 24h, a 77k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 21k coins.
+Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 504 cartas em alta contra 268 em queda (média 6.5%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 496 cartas em alta contra 275 em queda (média 6.12%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

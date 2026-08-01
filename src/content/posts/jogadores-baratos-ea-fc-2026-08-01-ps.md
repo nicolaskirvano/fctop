@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:58:11.000Z
+pubDatetime: 2026-08-01T22:58:11.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.050 coins.
+- **Preço médio das 15 opções:** 12.200 coins.
 - **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jessie Fleming | 96 | CM | — | 11.000 coins | 0% |
-| Jess Park | 96 | CM | — | 11.750 coins | -2.1% |
-| Manuela Giugliano | 96 | CM | — | 11.750 coins | -2.1% |
-| Rodrigo Mora | 96 | CAM | — | 12.000 coins | 0% |
-| Grace Geyoro | 96 | CM | — | 12.000 coins | 0% |
-| Cata Coll | 96 | GK | — | 12.000 coins | -13% |
-| Zion Suzuki | 96 | GK | — | 12.500 coins | 0% |
-| Eduardo Quaresma | 96 | CB | — | 12.500 coins | 0% |
-| Moussa Diaby | 96 | RM | — | 13.000 coins | 0% |
-| Ethan Mbappé | 96 | CM | — | 13.500 coins | +4% |
-| Melween N'Dongala | 96 | RB | — | 14.000 coins | +3.8% |
-| Matteo Politano | 95 | RW | — | 11.000 coins | +2.2% |
-| Tahith Chong | 95 | CAM | — | 11.000 coins | +2.2% |
-| Chidera Ejuke | 95 | LM | — | 11.250 coins | +2.2% |
-| Anis Hadj-Moussa | 95 | RW | — | 11.500 coins | +2.2% |
+| Jessie Fleming | 96 | CM | — | 11.000 coins | +2.1% |
+| Rodrigo Mora | 96 | CAM | — | 11.500 coins | +2.1% |
+| Manuela Giugliano | 96 | CM | — | 12.000 coins | +2.1% |
+| Grace Geyoro | 96 | CM | — | 12.250 coins | 0% |
+| Jess Park | 96 | CM | — | 12.250 coins | 0% |
+| Ethan Mbappé | 96 | CM | — | 12.750 coins | +3.9% |
+| Melween N'Dongala | 96 | RB | — | 13.000 coins | 0% |
+| Zion Suzuki | 96 | GK | — | 14.000 coins | 0% |
+| Eduardo Quaresma | 96 | CB | — | 14.500 coins | -1.9% |
+| Cole Campbell | 95 | RM | — | 11.000 coins | +2.2% |
+| Tahith Chong | 95 | CAM | — | 11.500 coins | +2.2% |
+| Julien Duranville | 95 | RM | — | 11.750 coins | 0% |
+| Joshua King | 95 | ST | — | 11.750 coins | 0% |
+| Chidera Ejuke | 95 | LM | — | 11.750 coins | +2.2% |
+| Matteo Politano | 95 | RW | — | 12.000 coins | +2.2% |
 
 
 ## 📈 Destaques
 
 - **Jessie Fleming (96, CM)** da —, a apenas **11.000 coins**
 
-- **Jess Park (96, CM)** da —, a apenas **11.750 coins**
+- **Rodrigo Mora (96, CAM)** da —, a apenas **11.500 coins**
 
-- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
+- **Manuela Giugliano (96, CM)** da —, a apenas **12.000 coins**
 
-- **Rodrigo Mora (96, CAM)** da —, a apenas **12.000 coins**
+- **Grace Geyoro (96, CM)** da —, a apenas **12.250 coins**
 
-- **Grace Geyoro (96, CM)** da —, a apenas **12.000 coins**
+- **Jess Park (96, CM)** da —, a apenas **12.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Cata Coll (96, GK) por 12.000 coins é a referência de rating deste recorte.
+- **Defesa:** Melween N'Dongala (96, RB) por 13.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Jessie Fleming (96, CM) por 11.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Matteo Politano (95, RW) por 11.000 coins é a referência de rating deste recorte.
+- **Ataque:** Joshua King (95, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
