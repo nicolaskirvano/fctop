@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:58:07.000Z
+pubDatetime: 2026-08-01T16:58:08.000Z
 title: "Mercado EA FC em 01/08: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -13,22 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Salem Al Dawsari (92, sem liga), com +58.9% em 24h, a 28k coins no Console (PS)."
+    a: "Diego Armando Maradona (96, Icons), com +59.5% em 24h, a 2.40M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ryan Gravenberch (93), -50% em 24h, a 59k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 59k coins."
+    a: "Kylian Mbappé (96), -49.7% em 24h, a 544k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 486 cartas em alta contra 391 em queda (média -1.43%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 545 cartas em alta contra 352 em queda (média 1.8%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **486 subiram** e **391 caíram**, com variação média de **-1.43%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **545 subiram** e **352 caíram**, com variação média de **1.8%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Salem Al Dawsari (92) **+58.9%** · 🔴 **Maior baixa:** Ryan Gravenberch (93) **-50%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+59.5%** · 🔴 **Maior baixa:** Kylian Mbappé (96) **-49.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Cartas 90+ — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -37,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.4% entre as cartas que se moveram; o universo observado reúne 990 cartas.
+- **Amplitude do dia:** 109.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 60.8% entre as cartas que se moveram; o universo observado reúne 1037 cartas.
 - **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Salem Al Dawsari | 92 | — | 28k coins | +58.9% | +82.7% |
+| Diego Armando Maradona | 96 | Icons | 2.40M coins | +59.5% | +39.7% |
+| Daniele De Rossi | 95 | — | 885k coins | +59.2% | +78.7% |
 | Khadija Shaw | 90 | Barclays WSL | 496k coins | +58.5% | +77.8% |
-| Eden Hazard | 92 | Premier League | 708k coins | +56.1% | +37% |
-| Lothar Matthäus | 91 | Icons | 1.20M coins | +54% | +106.2% |
-| Patrick Vieira | 90 | Icons | 699k coins | +53.4% | +57.2% |
-| Jeremie Frimpong | 97 | — | 368k coins | +53.3% | +29.1% |
-| Thierry Henry | 93 | Icons | 1.08M coins | +50% | +71.7% |
-| Cristian Roldan | 94 | — | 27k coins | +50% | +53.8% |
-| Ruud Gullit | 95 | — | 139k coins | +48.4% | -45.3% |
-| Ben Chilwell | 90 | Ligue 1 McDonald's | 38k coins | +46.7% | -9.8% |
+| Ruud Gullit | 95 | — | 125k coins | +55.8% | -40.1% |
+| Birgit Prinz | 97 | — | 32k coins | +55.6% | — |
+| Nestory Irankunda | 96 | — | 72k coins | +53.2% | — |
+| Patrick Vieira | 90 | Icons | 749k coins | +53.2% | +29.1% |
+| Lamine Yamal | 92 | LALIGA EA SPORTS | 601k coins | +51.4% | +63.7% |
+| Laura Dick | 93 | — | 45k coins | +50.8% | +81% |
+| Lotta Schelin | 92 | Icons | 430k coins | +48.9% | +58.1% |
 
 
 ### Análise das altas
@@ -63,52 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Salem Al Dawsari (92)** subiu **+58.9%** em 24h, a **28k coins** (faixa do dia: 25k–60k). Está -27% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (96)** subiu **+59.5%** em 24h, a **2.40M coins** (faixa do dia: 1.55M–2.93M). Está +29% acima da média de 7 dias (aquecida).
 
-- **Khadija Shaw (90)** subiu **+58.5%** em 24h, a **496k coins** (faixa do dia: 313k–500k). Está +76% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (95)** subiu **+59.2%** em 24h, a **885k coins** (faixa do dia: 420k–950k). Está +63% acima da média de 7 dias (aquecida).
 
-- **Eden Hazard (92)** subiu **+56.1%** em 24h, a **708k coins** (faixa do dia: 359k–793k). Está +43% acima da média de 7 dias (aquecida).
+- **Khadija Shaw (90)** subiu **+58.5%** em 24h, a **496k coins** (faixa do dia: 313k–500k). Está +74% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | Premier League | 59k coins | -50% | -54.2% |
-| Kylian Mbappé | 96 | LALIGA EA SPORTS | 557k coins | -48.9% | -56% |
-| Alex Pfeiffer | 90 | NWSL | 30k coins | -48.9% | -47.7% |
-| Romée Leuchter | 90 | D1 Arkema | 35k coins | -46.2% | -39.7% |
-| Liam Kelly | 90 | — | 41k coins | -45.3% | -17.7% |
-| Mohamed Salah | 93 | — | 221k coins | -45.1% | -35% |
-| Julian Quiñones | 94 | — | 32k coins | -44.7% | -6.6% |
-| Raphinha | 93 | — | 29k coins | -43.8% | -14.6% |
-| Andrea Pirlo | 90 | Icons | 76k coins | -41.5% | -30.9% |
-| Dodi Lukébakio | 94 | — | 20k coins | -41.5% | -56.1% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 544k coins | -49.7% | -57.6% |
+| Vanessa Fudalla | 96 | — | 23k coins | -48.4% | -52.5% |
+| Nicolas Pépé | 95 | — | 64k coins | -45.9% | -3.6% |
+| Uli Hoeneß | 90 | — | 21k coins | -44.8% | 0% |
+| Caroline Weir | 95 | — | 26k coins | -44.5% | +6.7% |
+| Federico Valverde | 91 | LALIGA EA SPORTS | 349k coins | -41.8% | +23.3% |
+| Désiré Doué | 96 | — | 278k coins | -40.7% | -47.3% |
+| Alyssa Thompson | 95 | — | 45k coins | -39.6% | +17.4% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 370k coins | -38.3% | -61.1% |
+| Julie Foudy | 90 | Icons | 68k coins | -38.2% | 0% |
 
 
 ### Análise das baixas
 
-- **Ryan Gravenberch (93)** caiu **-50%** em 24h, a **59k coins** (faixa do dia: 55k–121k). Está -48% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 82% de probabilidade.
+- **Kylian Mbappé (96)** caiu **-49.7%** em 24h, a **544k coins** (faixa do dia: 450k–618k). Está -59% abaixo da média de 7 dias (descontada).
 
-- **Kylian Mbappé (96)** caiu **-48.9%** em 24h, a **557k coins** (faixa do dia: 450k–1.21M). Está -58% abaixo da média de 7 dias (descontada).
+- **Vanessa Fudalla (96)** caiu **-48.4%** em 24h, a **23k coins** (faixa do dia: 19.000–24k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Alex Pfeiffer (90)** caiu **-48.9%** em 24h, a **30k coins** (faixa do dia: 25k–78k). Está -62% abaixo da média de 7 dias (descontada).
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
-
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 93 | 59k coins | 63k coins | 82% |
+- **Nicolas Pépé (95)** caiu **-45.9%** em 24h, a **64k coins** (faixa do dia: 60k–131k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Salem Al Dawsari já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Diego Armando Maradona já avançou 59.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ryan Gravenberch recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kylian Mbappé recuou -49.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -120,16 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Salem Al Dawsari (92, sem liga), com +58.9% em 24h, a 28k coins no Console (PS).
+Diego Armando Maradona (96, Icons), com +59.5% em 24h, a 2.40M coins no Console (PS).
 
 **E a maior queda do dia?**
-Ryan Gravenberch (93), -50% em 24h, a 59k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**
-Pelo modelo FutQuant, Ryan Gravenberch (93) — 82% de probabilidade de alta, a 59k coins.
+Kylian Mbappé (96), -49.7% em 24h, a 544k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 486 cartas em alta contra 391 em queda (média -1.43%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 545 cartas em alta contra 352 em queda (média 1.8%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
