@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:49:12.000Z
+pubDatetime: 2026-08-01T10:58:07.000Z
 title: "Mercado EA FC em 01/08: Cartas 90+ — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Kylian Mbappé (92), -49.3% em 24h, a 474k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 480 cartas em alta contra 389 em queda (média -2.36%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 478 cartas em alta contra 380 em queda (média -1.97%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **480 subiram** e **389 caíram**, com variação média de **-2.36%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **478 subiram** e **380 caíram**, com variação média de **-1.97%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Rivellino (90) **+59.2%** · 🔴 **Maior baixa:** Kylian Mbappé (92) **-49.3%**
 
@@ -36,23 +36,23 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 108.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 55.2% entre as cartas que se moveram; o universo observado reúne 989 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Participação das altas:** 55.7% entre as cartas que se moveram; o universo observado reúne 977 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Rivellino | 90 | — | 108k coins | +59.2% | +29.9% |
+| Micah Richards | 96 | — | 35k coins | +58% | -14.7% |
 | Luís Figo | 90 | Icons | 30k coins | +56.5% | +23.1% |
 | Eden Hazard | 92 | Premier League | 677k coins | +56.1% | +37% |
-| Paolo Maldini | 94 | Icons | 36k coins | +56% | -53.3% |
 | Patrick Vieira | 90 | Icons | 750k coins | +54% | +66.3% |
-| Eden Hazard | 94 | — | 40k coins | +51.7% | -39.5% |
 | Chiamaka Nnadozie | 90 | Barclays WSL | 94k coins | +48.4% | +84% |
+| Wouter Burger | 90 | — | 26k coins | +46.8% | +50.7% |
 | Patrik Mercado | 91 | — | 33k coins | +46.7% | -5.7% |
-| Johan Cruyff | 93 | Icons | 325k coins | +42.7% | +64.2% |
-| Jeremie Frimpong | 97 | — | 330k coins | +41.7% | +17.2% |
+| Aitana Bonmatí | 96 | — | 188k coins | +44.6% | -14.9% |
+| Nikola Vlašić | 91 | — | 28k coins | +44.3% | +14% |
 
 
 ### Análise das altas
@@ -63,9 +63,9 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Rivellino (90)** subiu **+59.2%** em 24h, a **108k coins** (faixa do dia: 70k–135k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Luís Figo (90)** subiu **+56.5%** em 24h, a **30k coins** (faixa do dia: 14.000–44k). Está +23% acima da média de 7 dias (aquecida).
+- **Micah Richards (96)** subiu **+58%** em 24h, a **35k coins** (faixa do dia: 21k–35k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Eden Hazard (92)** subiu **+56.1%** em 24h, a **677k coins** (faixa do dia: 359k–793k). Está +36% acima da média de 7 dias (aquecida).
+- **Luís Figo (90)** subiu **+56.5%** em 24h, a **30k coins** (faixa do dia: 14.000–44k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,20 +73,20 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 474k coins | -49.3% | -58.6% |
-| Alex Morgan | 93 | Icons | 248k coins | -48.8% | -19.4% |
-| Jens Petter Hauge | 91 | Eliteserien | 20k coins | -48.8% | -48.8% |
+| Alex Morgan | 93 | Icons | 248k coins | -48.8% | -16.7% |
+| Jens Petter Hauge | 91 | Eliteserien | 20k coins | -48.8% | -41.4% |
 | Bradley Barcola | 92 | — | 34k coins | -48.5% | +8.1% |
 | Federico Valverde | 91 | LALIGA EA SPORTS | 289k coins | -47.4% | +8.6% |
-| Harry Kane | 97 | — | 80k coins | -42.1% | -2.5% |
-| Andrea Pirlo | 90 | Icons | 73k coins | -41.8% | -24.3% |
-| Granit Xhaka | 96 | — | 78k coins | -41.7% | -34.4% |
+| Harry Kane | 97 | — | 94k coins | -42.1% | -2.5% |
+| Andrea Pirlo | 90 | Icons | 72k coins | -41.8% | -25% |
+| Granit Xhaka | 96 | — | 81k coins | -41.7% | -34.4% |
 | Claudio Pizarro | 94 | — | 33k coins | -41.5% | +33.8% |
-| Caroline Weir | 95 | — | 46k coins | -40.1% | +95.8% |
+| Christian Pulisic | 96 | — | 24k coins | -41.4% | -42% |
 
 
 ### Análise das baixas
 
-- **Kylian Mbappé (92)** caiu **-49.3%** em 24h, a **474k coins** (faixa do dia: 373k–708k). Está -43% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (92)** caiu **-49.3%** em 24h, a **474k coins** (faixa do dia: 375k–708k). Está -43% abaixo da média de 7 dias (descontada).
 
 - **Alex Morgan (93)** caiu **-48.8%** em 24h, a **248k coins** (faixa do dia: 162k–368k). Está -24% abaixo da média de 7 dias (descontada).
 
@@ -115,7 +115,7 @@ Rivellino (90, sem liga), com +59.2% em 24h, a 108k coins no Console (PS).
 Kylian Mbappé (92), -49.3% em 24h, a 474k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 480 cartas em alta contra 389 em queda (média -2.36%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 478 cartas em alta contra 380 em queda (média -1.97%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

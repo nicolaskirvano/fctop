@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:49:21.000Z
+pubDatetime: 2026-08-01T10:58:17.000Z
 title: "Mercado EA FC em 01/08: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 400 cartas em alta contra 420 em queda (média -2.48%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 384 cartas em alta contra 421 em queda (média -3.52%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **400 subiram** e **420 caíram**, com variação média de **-2.48%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **384 subiram** e **421 caíram**, com variação média de **-3.52%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Mika Godts (93) **+60%** · 🔴 **Maior baixa:** Celia Šašić (94) **-50%**
 
@@ -38,7 +38,7 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 110.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 973 cartas.
+- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 960 cartas.
 - **Concentração:** Premier League aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -50,11 +50,11 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 | Paulo Dybala | 91 | Serie A TIM | 350k coins | +58.4% | +84.2% |
 | Daniele De Rossi | 95 | — | 800k coins | +57.8% | +14.4% |
 | Ayase Ueda | 92 | — | 32k coins | +57.5% | +53.7% |
+| Gilberto Silva | 97 | — | 120k coins | +56.8% | +12.4% |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 39k coins | +56.6% | -88.5% |
-| Camille Abily | 97 | — | 60k coins | +55.8% | -16.2% |
+| Camille Abily | 97 | — | 58k coins | +55.8% | -16.2% |
 | Jérémy Doku | 91 | Premier League | 420k coins | +55.6% | +40% |
-| Zico | 91 | Icons | 295k coins | +55.3% | +54.5% |
-| Mapi León | 90 | Liga F | 85k coins | +54.5% | +39.3% |
+| Zico | 91 | Icons | 295k coins | +55.3% | +57.8% |
 
 
 ### Análise das altas
@@ -77,10 +77,10 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 | Celia Šašić | 94 | — | 36k coins | -50% | +59.8% |
 | Declan Rice | 94 | Premier League | 76k coins | -49.3% | -44.9% |
 | Folarin Balogun | 95 | — | 50k coins | -47.1% | +18.3% |
-| Frenkie de Jong | 97 | — | 425k coins | -46.4% | -40.6% |
+| Frenkie de Jong | 97 | — | 419k coins | -47% | -41.3% |
 | Zico | 92 | Icons | 538k coins | -46.2% | -17% |
-| Tasos Douvikas | 90 | — | 24k coins | -45.5% | -45.1% |
-| Adam Wharton | 96 | — | 163k coins | -44.8% | -78.5% |
+| Tasos Douvikas | 90 | — | 39k coins | -45.5% | -45.1% |
+| Adam Wharton | 96 | — | 158k coins | -44.8% | -78.5% |
 | Yasin Ayari | 95 | — | 23k coins | -44.5% | -9.4% |
 | Tabitha Chawinga | 97 | — | 95k coins | -44.4% | -42.5% |
 | Pau Torres | 96 | — | 70k coins | -43.5% | -43% |
@@ -101,7 +101,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Mohamed Salah | 91 | 28k coins | 29k coins | 61% |
+| Mohamed Salah | 91 | 28k coins | 28k coins | 61% |
 
 
 ## Decisão prática para hoje
@@ -129,7 +129,7 @@ Celia Šašić (94), -50% em 24h, a 36k coins.
 Pelo modelo FutQuant, Mohamed Salah (91) — 61% de probabilidade de alta, a 28k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 400 cartas em alta contra 420 em queda (média -2.48%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 384 cartas em alta contra 421 em queda (média -3.52%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

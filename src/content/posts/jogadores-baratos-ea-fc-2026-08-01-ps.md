@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:49:14.000Z
+pubDatetime: 2026-08-01T10:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.133 coins.
+- **Preço médio das 15 opções:** 11.950 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
 - **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ethan Mbappé | 96 | CM | — | 12.500 coins | +7.7% |
 | Zinedine Zidane | 95 | CAM | Icons | 14.250 coins | +10.4% |
 | Eusébio | 94 | ST | Icons | 12.750 coins | 0% |
-| Leon Goretzka | 94 | CM | — | 14.000 coins | +6.7% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Ramires | 93 | CDM | — | 11.750 coins | +10.6% |
 | Lev Yashin | 93 | GK | Icons | 11.750 coins | +2.1% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 12.250 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 12.000 coins | +2.1% |
 | Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Florian Wirtz | 92 | CAM | Premier League | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Pedri | 92 | CM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
-| Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Eusébio (94, ST)** da Icons, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Leon Goretzka (94, CM)** da —, a apenas **14.000 coins**
-
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Wesley Sneijder (93, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

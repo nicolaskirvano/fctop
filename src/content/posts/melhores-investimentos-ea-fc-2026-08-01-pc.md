@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:49:23.000Z
+pubDatetime: 2026-08-01T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 01/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.8% em 24h** e **+61.8% em 7 dias**.
-- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.6% em 24h** e **+61.1% em 7 dias**.
+- **12 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | João Félix | 96 | — | 182k coins | +3.8% | +90% | Esticada |
 | Arseniy Batagov | 94 | — | 34k coins | +26.9% | +89.7% | Esticada |
-| Nico O'Reilly | 96 | — | 115k coins | +9.8% | +84.8% | Esticada |
+| Nico O'Reilly | 96 | — | 133k coins | +9% | +84.7% | Esticada |
 | Gilberto Mora | 95 | — | 55k coins | +8% | +80% | Esticada |
-| Chris Richards | 96 | — | 50k coins | +12.1% | +66.7% | Esticada |
-| Santiago Sosa | 93 | — | 38k coins | +8% | +63.6% | Esticada |
-| Mylène Chavas | 93 | — | 48k coins | +35.9% | +63.6% | Esticada |
+| Roberto Carlos | 95 | — | 101k coins | +12.2% | +66.5% | Esticada |
+| Mylène Chavas | 93 | — | 46k coins | +35.9% | +63.6% | Esticada |
 | Mauro Júnior | 95 | — | 20k coins | +14.6% | +61.8% | Esticada |
 | Leah Williamson | 95 | Barclays WSL | 199k coins | +6.3% | +61.1% | Esticada |
 | Matt Grimes | 94 | — | 35k coins | +31.1% | +58% | Esticada |
 | Renato Veiga | 94 | — | 22k coins | +12.8% | +57.1% | Momentum moderado |
-| Rayan Cherki | 95 | — | 60k coins | +7% | +55% | Momentum moderado |
-| Bixente Lizarazu | 93 | — | 23k coins | +31% | +55% | Esticada |
-| Noussair Mazraoui | 95 | — | 23k coins | +1.3% | +54% | Momentum moderado |
-| Blás Riveros | 94 | — | 27k coins | +9.1% | +51.9% | Momentum moderado |
+| Bixente Lizarazu | 93 | — | 22k coins | +31% | +55% | Esticada |
+| Noussair Mazraoui | 95 | — | 22k coins | +1.3% | +54% | Momentum moderado |
+| Hugo Ekitiké | 93 | — | 37k coins | +16.9% | +51.3% | Momentum moderado |
+| Mohamed Simakan | 93 | — | 35k coins | +34.9% | +50.5% | Esticada |
+| Maria Méndez | 93 | — | 22k coins | +30.4% | +50% | Esticada |
 
 
 ## 📈 Análise dos destaques
@@ -66,11 +66,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Arseniy Batagov (94)** — 34k coins, **+89.7% em 7 dias** (+26.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico O'Reilly (96)** — 115k coins, **+84.8% em 7 dias** (+9.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico O'Reilly (96)** — 133k coins, **+84.7% em 7 dias** (+9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Gilberto Mora (95)** — 55k coins, **+80% em 7 dias** (+8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Chris Richards (96)** — 50k coins, **+66.7% em 7 dias** (+12.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 101k coins, **+66.5% em 7 dias** (+12.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

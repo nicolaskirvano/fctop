@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:49:24.000Z
+pubDatetime: 2026-08-01T10:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.217 coins.
+- **Preço médio das 15 opções:** 12.100 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.750 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Mayra Ramírez | 96 | ST | — | 11.750 coins | +2.1% |
 | Ciro Immobile | 96 | ST | — | 11.750 coins | +2.1% |
+| Lorenzo Insigne | 96 | CAM | — | 11.750 coins | 0% |
+| Randal Kolo Muani | 96 | ST | — | 11.750 coins | 0% |
 | Ivan Perišić | 96 | RW | — | 11.750 coins | 0% |
-| Randal Kolo Muani | 96 | ST | — | 11.750 coins | +2.1% |
-| Lorenzo Insigne | 96 | CAM | — | 12.000 coins | 0% |
-| Arnaut Danjuma | 96 | LM | — | 12.000 coins | 0% |
+| Xherdan Shaqiri | 96 | CAM | — | 12.000 coins | -4% |
 | Tyrhys Dolan | 96 | RM | — | 12.000 coins | -4% |
+| Ethan Mbappé | 96 | CM | — | 12.250 coins | +6.2% |
 | Manuel Lanzini | 96 | CAM | — | 12.250 coins | 0% |
 | Ayoze | 96 | ST | — | 12.500 coins | +2.1% |
+| Arnaut Danjuma | 96 | LM | — | 12.500 coins | 0% |
 | Héctor Bellerín | 96 | RB | — | 12.500 coins | +4.2% |
-| Xherdan Shaqiri | 96 | CAM | — | 12.750 coins | -4% |
-| Ethan Mbappé | 96 | CM | — | 13.000 coins | +4.1% |
-| Gelson Martins | 96 | RM | — | 13.750 coins | +12.8% |
+| Gelson Martins | 96 | RM | — | 13.250 coins | +12.8% |
+| Miles Robinson | 95 | CB | — | 11.750 coins | 0% |
 | Claire Lavogez | 95 | CAM | — | 11.750 coins | 0% |
-| Gabriel Silva | 95 | LW | — | 11.750 coins | 0% |
 
 
 ## 📈 Destaques
@@ -63,18 +63,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ciro Immobile (96, ST)** da —, a apenas **11.750 coins**
 
-- **Ivan Perišić (96, RW)** da —, a apenas **11.750 coins**
+- **Lorenzo Insigne (96, CAM)** da —, a apenas **11.750 coins**
 
 - **Randal Kolo Muani (96, ST)** da —, a apenas **11.750 coins**
 
-- **Lorenzo Insigne (96, CAM)** da —, a apenas **12.000 coins**
+- **Ivan Perišić (96, RW)** da —, a apenas **11.750 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Héctor Bellerín (96, RB) por 12.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Lorenzo Insigne (96, CAM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Lorenzo Insigne (96, CAM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Mayra Ramírez (96, ST) por 11.750 coins é a referência de rating deste recorte.
 
