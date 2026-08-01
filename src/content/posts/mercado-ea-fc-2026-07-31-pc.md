@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:58:17.000Z
+pubDatetime: 2026-08-01T01:58:18.000Z
 title: "Mercado EA FC em 31/07: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Ousmane Dembélé (91, Ligue 1 McDonald's), com +55.5% em 24h, a 440k coins no PC."
+    a: "Thomas Strakosha (91, sem liga), com +58.9% em 24h, a 36k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mahamadou Doumbia (91), -50% em 24h, a 28k coins."
+    a: "Julián Alvarez (96), -48.1% em 24h, a 75k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 363 cartas em alta contra 377 em queda (média -1.54%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 377 cartas em alta contra 384 em queda (média -1.31%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as quedas — **363 subiram**, **377 caíram** (80+ e 5k+ coins), média de **-1.54%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**31/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **377 subiram**, **384 caíram** (80+ e 5k+ coins), média de **-1.31%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ousmane Dembélé (91) **+55.5%** · 🔴 **Maior baixa:** Mahamadou Doumbia (91) **-50%**
+> 🟢 **Maior alta:** Thomas Strakosha (91) **+58.9%** · 🔴 **Maior baixa:** Julián Alvarez (96) **-48.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 877 cartas.
-- **Concentração:** Barclays WSL aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.5% entre as cartas que se moveram; o universo observado reúne 893 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 440k coins | +55.5% | -41.9% |
-| Amar Dedić | 93 | — | 21k coins | +53.8% | +14.9% |
-| Morgan Rogers | 96 | — | 215k coins | +51.5% | -21.9% |
-| William Saliba | 94 | Premier League | 550k coins | +50.4% | +36.5% |
-| Cafu | 95 | — | 455k coins | +49.7% | +3.4% |
-| Weston McKennie | 92 | Serie A TIM | 88k coins | +46.3% | +32.4% |
-| Mapi León | 91 | — | 74k coins | +46.1% | -6.9% |
-| Stine Ballisager | 93 | — | 24k coins | +46.1% | +77.4% |
-| Georgia Stanway | 97 | — | 29k coins | +45.6% | -42.5% |
-| Agnes Beever-Jones | 90 | Barclays WSL | 96k coins | +45.5% | -2.5% |
+| Thomas Strakosha | 91 | — | 36k coins | +58.9% | -28.5% |
+| Paulo Dybala | 91 | Serie A TIM | 350k coins | +58.4% | +29.6% |
+| Ona Batlle | 90 | Liga F | 24k coins | +56.7% | -21.7% |
+| William Saliba | 94 | Premier League | 495k coins | +55.3% | +29.2% |
+| Julian Ryerson | 93 | — | 110k coins | +54.9% | +37.5% |
+| Jude Bellingham | 91 | LALIGA EA SPORTS | 680k coins | +54.4% | +68.3% |
+| Chris Richards | 96 | — | 42k coins | +52.9% | +95% |
+| Jerdy Schouten | 94 | — | 40k coins | +52.4% | +33.3% |
+| Oh Hyeon Gyu | 91 | — | 36k coins | +52.1% | -6.4% |
+| Paolo Maldini | 94 | Icons | 27k coins | +50.6% | -71.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**31/07/2026**, PC) o Ultimate Team está **em baixa** — predominam as q
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ousmane Dembélé (91)** subiu **+55.5%** em 24h, a **440k coins** (faixa do dia: 298k–469k). Está +22% acima da média de 7 dias (aquecida).
+- **Thomas Strakosha (91)** subiu **+58.9%** em 24h, a **36k coins** (faixa do dia: 19.250–70k). Está em linha com a média de 7 dias (-6%).
 
-- **Amar Dedić (93)** subiu **+53.8%** em 24h, a **21k coins** (faixa do dia: 13.000–35k). Está em linha com a média de 7 dias (+1%).
+- **Paulo Dybala (91)** subiu **+58.4%** em 24h, a **350k coins** (faixa do dia: 221k–350k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Morgan Rogers (96)** subiu **+51.5%** em 24h, a **215k coins** (faixa do dia: 50k–285k). Está -13% abaixo da média de 7 dias (descontada).
+- **Ona Batlle (90)** subiu **+56.7%** em 24h, a **24k coins** (faixa do dia: 16.500–27k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mahamadou Doumbia | 91 | — | 28k coins | -50% | -58.9% |
-| Julián Alvarez | 96 | — | 92k coins | -49.4% | -31.4% |
-| Klara Bühl | 97 | — | 76k coins | -49.1% | -47.5% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 33k coins | -48.4% | -12% |
-| Carles Puyol | 94 | — | 70k coins | -48.1% | -35.8% |
-| Alessia Russo | 97 | Barclays WSL | 78k coins | -47.3% | -54.1% |
+| Julián Alvarez | 96 | — | 75k coins | -48.1% | -27.8% |
 | Zico | 92 | Icons | 538k coins | -46.2% | -17% |
-| Caroline Graham Hansen | 96 | — | 180k coins | -44.6% | -70.3% |
-| Ronaldinho | 95 | — | 152k coins | -42.9% | -88.4% |
-| Adam Reach | 94 | — | 25k coins | -42.7% | +6.8% |
+| Rivaldo | 91 | Icons | 62k coins | -45% | -20% |
+| Jonathan David | 95 | — | 30k coins | -43.9% | -62.2% |
+| Gabriel | 96 | — | 65k coins | -42.7% | -4.1% |
+| Blaise Matuidi | 95 | — | 27k coins | -41.3% | -12.9% |
+| Enzo Fernández | 93 | — | 34k coins | -41.1% | -20.1% |
+| Lee Dong Kyeong | 94 | — | 30k coins | -40.5% | -38% |
+| Yaya Touré | 93 | Premier League | 1.55M coins | -40.4% | -29.5% |
+| Dennis Bergkamp | 93 | Icons | 118k coins | -38.9% | -54.8% |
 
 
 ### Análise das baixas
 
-- **Mahamadou Doumbia (91)** caiu **-50%** em 24h, a **28k coins** (faixa do dia: 18.500–50k). Está -14% abaixo da média de 7 dias (descontada).
+- **Julián Alvarez (96)** caiu **-48.1%** em 24h, a **75k coins** (faixa do dia: 75k–179k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Julián Alvarez (96)** caiu **-49.4%** em 24h, a **92k coins** (faixa do dia: 78k–179k). Está -29% abaixo da média de 7 dias (descontada).
+- **Zico (92)** caiu **-46.2%** em 24h, a **538k coins** (faixa do dia: 538k–1M). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Klara Bühl (97)** caiu **-49.1%** em 24h, a **76k coins** (faixa do dia: 65k–172k). Está -37% abaixo da média de 7 dias (descontada).
+- **Rivaldo (91)** caiu **-45%** em 24h, a **62k coins** (faixa do dia: 54k–120k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ousmane Dembélé já avançou 55.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Thomas Strakosha já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mahamadou Doumbia recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julián Alvarez recuou -48.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Ousmane Dembélé (91, Ligue 1 McDonald's), com +55.5% em 24h, a 440k coins no PC.
+Thomas Strakosha (91, sem liga), com +58.9% em 24h, a 36k coins no PC.
 
 **E a maior queda do dia?**
-Mahamadou Doumbia (91), -50% em 24h, a 28k coins.
+Julián Alvarez (96), -48.1% em 24h, a 75k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 363 cartas em alta contra 377 em queda (média -1.54%).
+Hoje o mercado está lateral — sem direção clara, com 377 cartas em alta contra 384 em queda (média -1.31%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

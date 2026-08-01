@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:58:10.000Z
+pubDatetime: 2026-08-01T01:58:11.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.833 coins.
+- **Preço médio das 15 opções:** 12.200 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,39 +40,39 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
-| Eusébio | 94 | ST | Icons | 11.750 coins | 0% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | +12.5% |
+| Nestory Irankunda | 95 | RM | — | 14.500 coins | +23.6% |
+| Eusébio | 94 | ST | Icons | 11.750 coins | +6.4% |
+| Daniel Muñoz | 94 | RB | — | 14.250 coins | +19.6% |
 | Gerd Müller | 93 | ST | Icons | 11.750 coins | 0% |
-| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 11.750 coins | 0% |
 | Bobby Charlton | 93 | CAM | Icons | 11.750 coins | 0% |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
-| Lev Yashin | 93 | GK | Icons | 11.750 coins | +4.3% |
-| Ramires | 93 | CDM | — | 11.750 coins | 0% |
-| Laura Georges | 93 | CB | — | 14.250 coins | -12.5% |
-| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
-| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Lev Yashin | 93 | GK | Icons | 12.000 coins | 0% |
+| Robert Lewandowski | 93 | ST | LALIGA EA SPORTS | 12.500 coins | 0% |
+| Ramires | 93 | CDM | — | 13.250 coins | +2.1% |
 | Wayne Rooney | 92 | ST | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Aurélien Tchouaméni | 92 | CDM | — | 11.500 coins | 0% |
 | Erling Haaland | 92 | ST | Premier League | 11.500 coins | 0% |
+| Cafu | 92 | RB | Icons | 11.500 coins | 0% |
+| Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Zinedine Zidane (95, CAM)** da Icons, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Nestory Irankunda (95, RM)** da —, a apenas **14.500 coins** A alta de 24h pede uma nova checagem antes da compra.
+
 - **Eusébio (94, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Daniel Muñoz (94, RB)** da —, a apenas **14.250 coins**
+
 - **Gerd Müller (93, ST)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Robert Lewandowski (93, ST)** da LALIGA EA SPORTS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Bobby Charlton (93, CAM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lev Yashin (93, GK) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Daniel Muñoz (94, RB) por 14.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Zinedine Zidane (95, CAM) por 12.000 coins é a referência de rating deste recorte.
 
