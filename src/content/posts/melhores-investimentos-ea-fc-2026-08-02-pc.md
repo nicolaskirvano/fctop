@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:58:21.000Z
+pubDatetime: 2026-08-02T22:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "David Beckham (94, sem liga) lidera, com +84.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lazar Carević (92, sem liga) lidera, com +87.2% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** David Beckham (94) acumula **+84.3% em 7 dias** a 48k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lazar Carević (92) acumula **+87.2% em 7 dias** a 35k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.9% em 24h** e **+73.2% em 7 dias**.
+- A mediana é de **+19.7% em 24h** e **+81.2% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| David Beckham | 94 | — | 48k coins | +29% | +84.3% | Esticada |
-| Kyle Walker | 97 | — | 250k coins | +8.9% | +80% | Esticada |
-| Kerim Alajbegović | 95 | — | 25k coins | +20.5% | +78.6% | Esticada |
-| Yasin Ayari | 95 | — | 46k coins | +8.1% | +77.8% | Esticada |
-| Maria Méndez | 93 | — | 22k coins | +23.3% | +76.7% | Esticada |
-| Noelia Ramos | 92 | — | 22k coins | +4.8% | +76% | Esticada |
-| Lisandro Martínez | 95 | — | 22k coins | +5% | +75% | Esticada |
-| Nathan Zézé | 91 | — | 55k coins | +22.2% | +73.2% | Esticada |
-| Diney | 94 | — | 20k coins | +6.5% | +70.8% | Esticada |
-| Roberto Baggio | 94 | — | 220k coins | +10% | +69.2% | Esticada |
-| Marco van Basten | 91 | Icons | 174k coins | +16.8% | +67.3% | Esticada |
-| Lionel Messi | 96 | — | 249k coins | +25.1% | +67.1% | Esticada |
-| Hannah Hampton | 92 | — | 48k coins | +25.3% | +66.4% | Esticada |
-| Olivia Moultrie | 93 | — | 40k coins | +5% | +65.2% | Esticada |
-| Fernando Muslera | 94 | — | 24k coins | +11.9% | +64.9% | Esticada |
+| Lazar Carević | 92 | — | 35k coins | +13.2% | +87.2% | Esticada |
+| Vincent Kompany | 92 | — | 29k coins | +28.9% | +87.1% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 100k coins | +25% | +86.9% | Esticada |
+| Marcelo | 96 | — | 155k coins | +17.6% | +86.7% | Esticada |
+| Sidny Cabral | 93 | — | 30k coins | +6.2% | +85.9% | Esticada |
+| Maghnes Akliouche | 91 | — | 38k coins | +21.5% | +85.9% | Esticada |
+| Federico Bernardeschi | 91 | — | 30k coins | +32.6% | +81.5% | Esticada |
+| Çağlar Söyüncü | 93 | — | 30k coins | +6.4% | +81.2% | Esticada |
+| Orlando Gill | 95 | — | 80k coins | +19.7% | +80.9% | Esticada |
+| Gabriel Sara | 94 | — | 40k coins | +37.7% | +79% | Esticada |
+| Luc De Fougerolles | 93 | — | 26k coins | +21.4% | +78.9% | Esticada |
+| Wesley | 91 | — | 39k coins | +14.3% | +77.8% | Esticada |
+| Noelia Ramos | 92 | — | 24k coins | +8.1% | +75.5% | Esticada |
+| Hidetoshi Nakata | 92 | — | 25k coins | +15.6% | +73.3% | Esticada |
+| Trincão | 94 | — | 33k coins | +24.5% | +71.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **David Beckham (94)** — 48k coins, **+84.3% em 7 dias** (+29% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lazar Carević (92)** — 35k coins, **+87.2% em 7 dias** (+13.2% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kyle Walker (97)** — 250k coins, **+80% em 7 dias** (+8.9% em 24h). Preço +90% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vincent Kompany (92)** — 29k coins, **+87.1% em 7 dias** (+28.9% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kerim Alajbegović (95)** — 25k coins, **+78.6% em 7 dias** (+20.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nuno Tavares (91)** — 100k coins, **+86.9% em 7 dias** (+25% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yasin Ayari (95)** — 46k coins, **+77.8% em 7 dias** (+8.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcelo (96)** — 155k coins, **+86.7% em 7 dias** (+17.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maria Méndez (93)** — 22k coins, **+76.7% em 7 dias** (+23.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidny Cabral (93)** — 30k coins, **+85.9% em 7 dias** (+6.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-David Beckham (94, sem liga) lidera, com +84.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lazar Carević (92, sem liga) lidera, com +87.2% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

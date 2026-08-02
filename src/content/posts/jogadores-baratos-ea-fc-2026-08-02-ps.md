@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:58:12.000Z
+pubDatetime: 2026-08-02T22:58:10.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 02/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (02/08/2026)?"
-    a: "Manuela Giugliano (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS)."
+    a: "Grace Geyoro (96, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **02/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Manuela Giugliano (96) por apenas 11.000 coins.
+> 💰 **Melhor pechincha:** Grace Geyoro (96) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 02/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-02-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.200 coins.
+- **Preço médio das 15 opções:** 12.250 coins.
 - **Posição mais frequente:** CM, com 5 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Manuela Giugliano | 96 | CM | — | 11.000 coins | -2.1% |
-| Moussa Diaby | 96 | RM | — | 11.500 coins | 0% |
-| Grace Geyoro | 96 | CM | — | 12.000 coins | +2.1% |
-| Jessie Fleming | 96 | CM | — | 12.000 coins | +2.1% |
-| Jess Park | 96 | CM | — | 12.250 coins | +2.1% |
-| Melween N'Dongala | 96 | RB | — | 13.000 coins | -1.9% |
-| Rodrigo Mora | 96 | CAM | — | 13.000 coins | 0% |
-| Ethan Mbappé | 96 | CM | — | 13.500 coins | +1.9% |
-| Zion Suzuki | 96 | GK | — | 13.500 coins | -1.9% |
-| Eduardo Quaresma | 96 | CB | — | 14.000 coins | 0% |
-| Chidera Ejuke | 95 | LM | — | 11.000 coins | 0% |
-| Anis Hadj-Moussa | 95 | RW | — | 11.500 coins | 0% |
-| Cornelia Kramer | 95 | ST | — | 11.500 coins | 0% |
-| Cole Campbell | 95 | RM | — | 11.500 coins | 0% |
-| Tahith Chong | 95 | CAM | — | 11.750 coins | 0% |
+| Grace Geyoro | 96 | CM | — | 11.500 coins | +2% |
+| Manuela Giugliano | 96 | CM | — | 11.750 coins | 0% |
+| Moussa Diaby | 96 | RM | — | 11.750 coins | 0% |
+| Rodrigo Mora | 96 | CAM | — | 12.000 coins | 0% |
+| Patri Guijarro | 96 | CDM | — | 12.000 coins | +10.8% |
+| Zion Suzuki | 96 | GK | — | 12.250 coins | -1.9% |
+| Jessie Fleming | 96 | CM | — | 12.250 coins | +2.1% |
+| Jess Park | 96 | CM | — | 12.500 coins | +4.2% |
+| Eduardo Quaresma | 96 | CB | — | 13.000 coins | +2% |
+| Melween N'Dongala | 96 | RB | — | 13.500 coins | -3.7% |
+| Ethan Mbappé | 96 | CM | — | 14.000 coins | +5.7% |
+| Tahith Chong | 95 | CAM | — | 11.500 coins | 0% |
+| Janou Levels | 95 | LB | — | 11.750 coins | 0% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | +9.6% |
+| Joshua King | 95 | ST | — | 12.000 coins | +2.1% |
 
 
 ## 📈 Destaques
 
-- **Manuela Giugliano (96, CM)** da —, a apenas **11.000 coins**
+- **Grace Geyoro (96, CM)** da —, a apenas **11.500 coins**
 
-- **Moussa Diaby (96, RM)** da —, a apenas **11.500 coins**
+- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
 
-- **Grace Geyoro (96, CM)** da —, a apenas **12.000 coins**
+- **Moussa Diaby (96, RM)** da —, a apenas **11.750 coins**
 
-- **Jessie Fleming (96, CM)** da —, a apenas **12.000 coins**
+- **Rodrigo Mora (96, CAM)** da —, a apenas **12.000 coins**
 
-- **Jess Park (96, CM)** da —, a apenas **12.250 coins**
+- **Patri Guijarro (96, CDM)** da —, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Melween N'Dongala (96, RB) por 13.000 coins é a referência de rating deste recorte.
+- **Defesa:** Zion Suzuki (96, GK) por 12.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Manuela Giugliano (96, CM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Grace Geyoro (96, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Anis Hadj-Moussa (95, RW) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Joshua King (95, ST) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (02/08/2026)?**  
-Manuela Giugliano (96, sem liga) aparece como melhor custo-benefício, a 11.000 coins no Console (PS).
+Grace Geyoro (96, sem liga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
