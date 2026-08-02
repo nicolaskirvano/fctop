@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:58:19.000Z
+pubDatetime: 2026-08-02T01:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Zinedine Zidane (96, sem liga) lidera, com +86% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Zinedine Zidane (96, sem liga) lidera, com +87.3% em 7 dias a 140k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Zinedine Zidane (96) acumula **+86% em 7 dias** a 128k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Zinedine Zidane (96) acumula **+87.3% em 7 dias** a 140k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.4% em 24h** e **+77.4% em 7 dias**.
+- A mediana é de **+16.3% em 24h** e **+72.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 96 | — | 128k coins | +20% | +86% | Esticada |
-| Gianluigi Donnarumma | 95 | — | 200k coins | +21.8% | +84.6% | Esticada |
-| Kojo Peprah Oppong | 93 | — | 25k coins | +34.2% | +82.1% | Esticada |
-| Ben Doak | 94 | — | 25k coins | +28.2% | +81.8% | Esticada |
-| Roberto Lopes | 95 | — | 48k coins | +10.5% | +81% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 204k coins | +8.9% | +79.3% | Esticada |
-| Malik Tillman | 95 | — | 23k coins | +26.6% | +78.6% | Esticada |
-| Arseniy Batagov | 94 | — | 41k coins | +8.6% | +77.4% | Esticada |
-| Jakob Glesnes | 93 | — | 39k coins | +21.7% | +74.4% | Esticada |
-| Vincent Kompany | 92 | — | 25k coins | +15.5% | +73.2% | Esticada |
-| Weston McKennie | 92 | Serie A TIM | 96k coins | +9.1% | +71.4% | Esticada |
-| Marcelo | 96 | — | 115k coins | +10% | +70.5% | Esticada |
-| Esperanza Pizarro | 92 | — | 19.250 coins | +18.2% | +69.6% | Esticada |
-| Freya Godfrey | 91 | — | 19.750 coins | +16.4% | +69.6% | Esticada |
-| Elijah Just | 94 | — | 19.000 coins | +8.3% | +69.6% | Esticada |
+| Zinedine Zidane | 96 | — | 140k coins | +12.4% | +87.3% | Esticada |
+| Hidetoshi Nakata | 92 | — | 26k coins | +12.2% | +83.3% | Esticada |
+| Kojo Peprah Oppong | 93 | — | 26k coins | +30.8% | +82.1% | Esticada |
+| Lothar Matthäus | 95 | — | 250k coins | +18.9% | +79.4% | Esticada |
+| Arseniy Batagov | 94 | — | 41k coins | +16.2% | +77.4% | Esticada |
+| Roberto Carlos | 95 | — | 110k coins | +18.1% | +77.1% | Esticada |
+| Oumar Camara | 90 | — | 18.750 coins | +18.2% | +73.3% | Esticada |
+| Enzo Fernández | 93 | — | 70k coins | +14.8% | +72.8% | Esticada |
+| Vedat Muriqi | 95 | — | 39k coins | +30% | +69.6% | Esticada |
+| Guéla Doué | 94 | — | 20k coins | +19.2% | +69.1% | Esticada |
+| Dayot Upamecano | 93 | — | 26k coins | +8.3% | +68.8% | Esticada |
+| Ismael Saibari | 96 | — | 20k coins | +18.6% | +67.2% | Esticada |
+| Ian Rush | 92 | — | 30k coins | +3.4% | +66.7% | Esticada |
+| Jakob Glesnes | 93 | — | 38k coins | +16.3% | +66.7% | Esticada |
+| Gregor Kobel | 95 | — | 20k coins | +11.1% | +66.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Zinedine Zidane (96)** — 128k coins, **+86% em 7 dias** (+20% em 24h). Preço +107% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Zinedine Zidane (96)** — 140k coins, **+87.3% em 7 dias** (+12.4% em 24h). Preço +123% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Donnarumma (95)** — 200k coins, **+84.6% em 7 dias** (+21.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hidetoshi Nakata (92)** — 26k coins, **+83.3% em 7 dias** (+12.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kojo Peprah Oppong (93)** — 25k coins, **+82.1% em 7 dias** (+34.2% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kojo Peprah Oppong (93)** — 26k coins, **+82.1% em 7 dias** (+30.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ben Doak (94)** — 25k coins, **+81.8% em 7 dias** (+28.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lothar Matthäus (95)** — 250k coins, **+79.4% em 7 dias** (+18.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Lopes (95)** — 48k coins, **+81% em 7 dias** (+10.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Arseniy Batagov (94)** — 41k coins, **+77.4% em 7 dias** (+16.2% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Zinedine Zidane (96, sem liga) lidera, com +86% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Zinedine Zidane (96, sem liga) lidera, com +87.3% em 7 dias a 140k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

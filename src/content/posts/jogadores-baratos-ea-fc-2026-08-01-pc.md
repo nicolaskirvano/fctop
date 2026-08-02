@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:58:21.000Z
+pubDatetime: 2026-08-02T01:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 01/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 01/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/08/2026)?"
-    a: "Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC."
+    a: "Bremer (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ademola Lookman (97) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Bremer (97) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 01/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-01-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.183 coins.
+- **Preço médio das 15 opções:** 12.250 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.750 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,43 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ademola Lookman | 97 | ST | — | 12.750 coins | -5.3% |
-| Arnaut Danjuma | 96 | LM | — | 11.750 coins | +4.3% |
-| Ciro Immobile | 96 | ST | — | 11.750 coins | +6.4% |
-| Tyrhys Dolan | 96 | RM | — | 11.750 coins | +4.2% |
-| Rodrigo Mora | 96 | CAM | — | 12.000 coins | +2.1% |
-| Ivan Perišić | 96 | RW | — | 12.000 coins | +2.1% |
-| Randal Kolo Muani | 96 | ST | — | 12.000 coins | 0% |
-| Mayra Ramírez | 96 | ST | — | 12.000 coins | 0% |
-| Jess Park | 96 | CM | — | 12.000 coins | +2.1% |
-| Héctor Bellerín | 96 | RB | — | 12.250 coins | +10.2% |
-| Lorenzo Insigne | 96 | CAM | — | 12.250 coins | +2.1% |
-| Xherdan Shaqiri | 96 | CAM | — | 12.500 coins | +12.2% |
-| Manuela Giugliano | 96 | CM | — | 12.500 coins | 0% |
-| Jessie Fleming | 96 | CM | — | 12.500 coins | -2.1% |
-| Manuel Lanzini | 96 | CAM | — | 12.750 coins | +2.1% |
+| Bremer | 97 | CB | — | 14.000 coins | -3.2% |
+| Rodrigo Mora | 96 | CAM | — | 11.500 coins | +2.1% |
+| Randal Kolo Muani | 96 | ST | — | 11.750 coins | -2.1% |
+| Jess Park | 96 | CM | — | 11.750 coins | +2.1% |
+| Manuela Giugliano | 96 | CM | — | 12.000 coins | 0% |
+| Jessie Fleming | 96 | CM | — | 12.000 coins | 0% |
+| Lorenzo Insigne | 96 | CAM | — | 12.000 coins | 0% |
+| Arnaut Danjuma | 96 | LM | — | 12.000 coins | +2.1% |
+| Ciro Immobile | 96 | ST | — | 12.250 coins | +2.1% |
+| Ayoze | 96 | ST | — | 12.250 coins | +4.2% |
+| Zion Suzuki | 96 | GK | — | 12.250 coins | -3.8% |
+| Eduardo Quaresma | 96 | CB | — | 12.500 coins | -7.7% |
+| Mayra Ramírez | 96 | ST | — | 12.500 coins | +4.2% |
+| Xherdan Shaqiri | 96 | CAM | — | 12.500 coins | +2.1% |
+| Moussa Diaby | 96 | RM | — | 12.500 coins | +4.2% |
 
 
 ## 📈 Destaques
 
-- **Ademola Lookman (97, ST)** da —, a apenas **12.750 coins**
+- **Bremer (97, CB)** da —, a apenas **14.000 coins**
 
-- **Arnaut Danjuma (96, LM)** da —, a apenas **11.750 coins**
+- **Rodrigo Mora (96, CAM)** da —, a apenas **11.500 coins**
 
-- **Ciro Immobile (96, ST)** da —, a apenas **11.750 coins**
+- **Randal Kolo Muani (96, ST)** da —, a apenas **11.750 coins**
 
-- **Tyrhys Dolan (96, RM)** da —, a apenas **11.750 coins**
+- **Jess Park (96, CM)** da —, a apenas **11.750 coins**
 
-- **Rodrigo Mora (96, CAM)** da —, a apenas **12.000 coins**
+- **Manuela Giugliano (96, CM)** da —, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Héctor Bellerín (96, RB) por 12.250 coins é a referência de rating deste recorte.
+- **Defesa:** Bremer (97, CB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Arnaut Danjuma (96, LM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Rodrigo Mora (96, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ademola Lookman (97, ST) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Randal Kolo Muani (96, ST) por 11.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/08/2026)?**  
-Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 12.750 coins no PC.
+Bremer (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
