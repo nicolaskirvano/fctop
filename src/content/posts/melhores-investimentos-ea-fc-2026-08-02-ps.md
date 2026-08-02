@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:09.000Z
+pubDatetime: 2026-08-02T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Leah Williamson (95, Barclays WSL) lidera, com +89.5% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Vózinha (96, sem liga) lidera, com +88.4% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Leah Williamson (95) acumula **+89.5% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Vózinha (96) acumula **+88.4% em 7 dias** a 41k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+78.1% em 7 dias**.
+- A mediana é de **+13.8% em 24h** e **+76.8% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **ROSHN Saudi League** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Leah Williamson | 95 | Barclays WSL | 110k coins | +31.8% | +89.5% | Esticada |
-| Vózinha | 96 | — | 40k coins | +2.5% | +88.4% | Esticada |
-| Zinedine Zidane | 96 | — | 102k coins | +13.3% | +83.8% | Esticada |
-| Selina Cerci | 95 | — | 72k coins | +2.1% | +83.4% | Esticada |
-| Saeed Al Owairan | 91 | ROSHN Saudi League | 100k coins | +19.3% | +79.7% | Esticada |
-| Ashley Cole | 92 | — | 130k coins | +2.4% | +79.3% | Esticada |
-| Sergi Domínguez | 92 | — | 25k coins | +9.9% | +78.6% | Esticada |
-| Vitinha | 90 | Ligue 1 McDonald's | 176k coins | +33.6% | +78.1% | Esticada |
-| David Beckham | 94 | — | 49k coins | +26.9% | +76.8% | Esticada |
+| Vózinha | 96 | — | 41k coins | +1.9% | +88.4% | Esticada |
+| Zinedine Zidane | 96 | — | 101k coins | +13.3% | +83.8% | Esticada |
+| Selina Cerci | 95 | — | 72k coins | +29.7% | +83.4% | Esticada |
+| Saeed Al Owairan | 91 | ROSHN Saudi League | 127k coins | +22.4% | +79.7% | Esticada |
+| Lothar Matthäus | 95 | — | 233k coins | +17.9% | +78.8% | Esticada |
+| Sergi Domínguez | 92 | — | 19.000 coins | +13.6% | +78.6% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +2.4% | +78.1% | Esticada |
+| David Beckham | 94 | — | 48k coins | +26.9% | +76.8% | Esticada |
 | Marc Cucurella | 95 | — | 43k coins | +11.6% | +76.5% | Esticada |
-| Eric García | 96 | — | 190k coins | +2.2% | +75.9% | Esticada |
-| Bobby Moore | 93 | — | 48k coins | +17.8% | +74.5% | Esticada |
+| Eric García | 96 | — | 190k coins | +2.7% | +75.9% | Esticada |
+| Marcel Desailly | 93 | — | 99k coins | +13.8% | +73.7% | Esticada |
 | Darko Nejašmić | 93 | — | 30k coins | +19% | +72.5% | Esticada |
-| Alessandro Nesta | 92 | — | 60k coins | +38.3% | +71.1% | Esticada |
-| Mario Götze | 96 | — | 32k coins | +4% | +69.7% | Esticada |
+| Alessandro Nesta | 92 | — | 53k coins | +33.3% | +71.1% | Esticada |
+| Kalidou Koulibaly | 92 | — | 28k coins | +18.1% | +70.8% | Esticada |
+| Mario Götze | 96 | — | 15.250 coins | +4% | +69.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Leah Williamson (95)** — 110k coins, **+89.5% em 7 dias** (+31.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vózinha (96)** — 41k coins, **+88.4% em 7 dias** (+1.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vózinha (96)** — 40k coins, **+88.4% em 7 dias** (+2.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Zinedine Zidane (96)** — 101k coins, **+83.8% em 7 dias** (+13.3% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Zinedine Zidane (96)** — 102k coins, **+83.8% em 7 dias** (+13.3% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selina Cerci (95)** — 72k coins, **+83.4% em 7 dias** (+29.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (95)** — 72k coins, **+83.4% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Saeed Al Owairan (91)** — 127k coins, **+79.7% em 7 dias** (+22.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Saeed Al Owairan (91)** — 100k coins, **+79.7% em 7 dias** (+19.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lothar Matthäus (95)** — 233k coins, **+78.8% em 7 dias** (+17.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Leah Williamson (95, Barclays WSL) lidera, com +89.5% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Vózinha (96, sem liga) lidera, com +88.4% em 7 dias a 41k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

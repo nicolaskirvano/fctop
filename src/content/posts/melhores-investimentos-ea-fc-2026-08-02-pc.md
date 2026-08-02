@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:19.000Z
+pubDatetime: 2026-08-02T10:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Chris Richards (96, sem liga) lidera, com +87.4% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Cafu (96, sem liga) lidera, com +87.2% em 7 dias a 109k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Chris Richards (96) acumula **+87.4% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Cafu (96) acumula **+87.2% em 7 dias** a 109k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+75.0% em 7 dias**.
+- A mediana é de **+18.6% em 24h** e **+75.0% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Chris Richards | 96 | — | 60k coins | +24.2% | +87.4% | Esticada |
-| Marc Cucurella | 95 | — | 42k coins | +24.5% | +86.8% | Esticada |
+| Cafu | 96 | — | 109k coins | +32.7% | +87.2% | Esticada |
+| Roberto Carlos | 95 | — | 110k coins | +10.2% | +85.7% | Esticada |
 | Orlando Gill | 95 | — | 90k coins | +5.9% | +79% | Esticada |
-| Franz Beckenbauer | 92 | Icons | 226k coins | +8.5% | +76.6% | Esticada |
 | Christoph Baumgartner | 93 | — | 30k coins | +27.7% | +76.5% | Esticada |
 | Corentin Tolisso | 92 | — | 27k coins | +23.3% | +76.2% | Esticada |
-| Kyle Walker | 97 | — | 233k coins | +26.5% | +75% | Esticada |
-| Claudio Pizarro | 94 | — | 66k coins | +6.1% | +75% | Esticada |
-| Oliver Kahn | 91 | Icons | 82k coins | +17.1% | +74.5% | Esticada |
+| Chris Richards | 96 | — | 69k coins | +18.6% | +76.1% | Esticada |
+| Claudio Pizarro | 94 | — | 79k coins | +6.1% | +75% | Esticada |
+| Kyle Walker | 97 | — | 225k coins | +23.5% | +75% | Esticada |
+| Oliver Kahn | 91 | Icons | 80k coins | +17.1% | +74.5% | Esticada |
+| Reece James | 91 | — | 44k coins | +36.6% | +73.2% | Esticada |
 | Oston Urunov | 91 | — | 38k coins | +14.7% | +71.4% | Esticada |
+| Maya Le Tissier | 95 | — | 28k coins | +12.2% | +69.2% | Esticada |
+| Vincent Kompany | 92 | — | 24k coins | +35.2% | +68.4% | Esticada |
 | Roberto Carlos | 90 | Icons | 218k coins | +33.7% | +66.4% | Esticada |
-| Sakina Karchaoui | 95 | — | 24k coins | +14.3% | +65.5% | Esticada |
-| Manuel Akanji | 91 | — | 35k coins | +12.9% | +65.3% | Esticada |
-| Vedat Muriqi | 95 | — | 35k coins | +16.7% | +64.7% | Esticada |
-| Aleksandar Pavlović | 94 | — | 22k coins | +29.3% | +64.4% | Esticada |
+| Manuel Akanji | 91 | — | 32k coins | +12.9% | +65.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Chris Richards (96)** — 60k coins, **+87.4% em 7 dias** (+24.2% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cafu (96)** — 109k coins, **+87.2% em 7 dias** (+32.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (95)** — 42k coins, **+86.8% em 7 dias** (+24.5% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 110k coins, **+85.7% em 7 dias** (+10.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Orlando Gill (95)** — 90k coins, **+79% em 7 dias** (+5.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franz Beckenbauer (92)** — 226k coins, **+76.6% em 7 dias** (+8.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Christoph Baumgartner (93)** — 30k coins, **+76.5% em 7 dias** (+27.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Corentin Tolisso (92)** — 27k coins, **+76.2% em 7 dias** (+23.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Chris Richards (96, sem liga) lidera, com +87.4% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Cafu (96, sem liga) lidera, com +87.2% em 7 dias a 109k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
