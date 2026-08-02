@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:58:09.000Z
+pubDatetime: 2026-08-02T16:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Marcelo (96, sem liga) lidera, com +87.5% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ashley Cole (92, sem liga) lidera, com +87.1% em 7 dias a 130k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcelo (96) acumula **+87.5% em 7 dias** a 128k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ashley Cole (92) acumula **+87.1% em 7 dias** a 130k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.9% em 24h** e **+74.5% em 7 dias**.
+- A mediana é de **+12.3% em 24h** e **+76.1% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcelo | 96 | — | 128k coins | +13.2% | +87.5% | Esticada |
-| Ashley Cole | 92 | — | 130k coins | +8.3% | +85.7% | Esticada |
-| Marc Cucurella | 93 | — | 31k coins | +5.8% | +84.1% | Esticada |
-| Lautaro Martínez | 95 | — | 80k coins | +13.9% | +81.4% | Esticada |
-| Selina Cerci | 95 | — | 71k coins | +27.9% | +80.9% | Esticada |
-| Eric Cantona | 92 | — | 205k coins | +32.7% | +76.1% | Esticada |
-| Daniel Muñoz | 97 | — | 187k coins | +27.5% | +76% | Esticada |
-| Marc Cucurella | 95 | — | 43k coins | +11.8% | +74.5% | Esticada |
-| Vitinha | 90 | Ligue 1 McDonald's | 173k coins | +25.4% | +73% | Esticada |
-| Stine Ballisager | 93 | — | 23k coins | +25.5% | +71% | Esticada |
-| Lionel Messi | 96 | — | 200k coins | +22% | +70.9% | Esticada |
-| Jonathan Tah | 95 | — | 94k coins | +1.8% | +69.7% | Esticada |
-| Lisa Baum | 90 | — | 24k coins | +39.2% | +68.9% | Esticada |
-| David Beckham | 94 | — | 48k coins | +10.2% | +67.2% | Esticada |
-| Hannah Hampton | 92 | — | 37k coins | +7.3% | +67% | Esticada |
+| Ashley Cole | 92 | — | 130k coins | +8.3% | +87.1% | Esticada |
+| Raphinha | 90 | LALIGA EA SPORTS | 97k coins | +15.4% | +86% | Esticada |
+| Marcos Llorente | 95 | — | 160k coins | +31.9% | +82.1% | Esticada |
+| Ibañez | 93 | — | 46k coins | +23.7% | +80.8% | Esticada |
+| Noelia Ramos | 92 | — | 23k coins | +5.3% | +80% | Esticada |
+| Roberto Lopes | 95 | — | 54k coins | +19.6% | +77.4% | Esticada |
+| Lionel Messi | 96 | — | 200k coins | +16% | +76.5% | Esticada |
+| Eric Cantona | 92 | — | 184k coins | +32.7% | +76.1% | Esticada |
+| Christos Tzolis | 92 | — | 42k coins | +28.8% | +75.3% | Esticada |
+| Nico O'Reilly | 96 | — | 109k coins | +4.5% | +74.2% | Esticada |
+| Vitinha | 90 | Ligue 1 McDonald's | 155k coins | +12.3% | +74.2% | Esticada |
+| Darko Nejašmić | 93 | — | 30k coins | +8.1% | +73.9% | Esticada |
+| Ayyoub Bouaddi | 95 | — | 34k coins | +5.1% | +71.4% | Esticada |
+| Fernando Muslera | 94 | — | 24k coins | +6.4% | +69.5% | Esticada |
+| Deja Davis | 92 | — | 23k coins | +1.1% | +67.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcelo (96)** — 128k coins, **+87.5% em 7 dias** (+13.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Cole (92)** — 130k coins, **+87.1% em 7 dias** (+8.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Cole (92)** — 130k coins, **+85.7% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Raphinha (90)** — 97k coins, **+86% em 7 dias** (+15.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marc Cucurella (93)** — 31k coins, **+84.1% em 7 dias** (+5.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcos Llorente (95)** — 160k coins, **+82.1% em 7 dias** (+31.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lautaro Martínez (95)** — 80k coins, **+81.4% em 7 dias** (+13.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ibañez (93)** — 46k coins, **+80.8% em 7 dias** (+23.7% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Selina Cerci (95)** — 71k coins, **+80.9% em 7 dias** (+27.9% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noelia Ramos (92)** — 23k coins, **+80% em 7 dias** (+5.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Marcelo (96, sem liga) lidera, com +87.5% em 7 dias a 128k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ashley Cole (92, sem liga) lidera, com +87.1% em 7 dias a 130k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
