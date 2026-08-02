@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:58:20.000Z
+pubDatetime: 2026-08-02T13:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.083 coins.
-- **Posição mais frequente:** CM, com 4 cartas.
-- **Faixa real:** 11.000 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.300 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,40 +41,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ademola Lookman | 97 | ST | — | 13.500 coins | -8.5% |
-| Manuela Giugliano | 96 | CM | — | 11.000 coins | 0% |
-| Moussa Diaby | 96 | RM | — | 12.000 coins | 0% |
-| Rodrigo Mora | 96 | CAM | — | 12.000 coins | +2.1% |
-| Tyrhys Dolan | 96 | RM | — | 12.000 coins | +8.3% |
-| Ivan Perišić | 96 | RW | — | 12.000 coins | -2.1% |
-| Eduardo Quaresma | 96 | CB | — | 12.000 coins | -7.7% |
-| Grace Geyoro | 96 | CM | — | 12.000 coins | 0% |
-| Gelson Martins | 96 | RM | — | 12.000 coins | -1.9% |
-| Randal Kolo Muani | 96 | ST | — | 12.000 coins | +2.1% |
+| Bremer | 97 | CB | — | 14.750 coins | 0% |
+| Jessie Fleming | 96 | CM | — | 11.750 coins | 0% |
+| Arnaut Danjuma | 96 | LM | — | 11.750 coins | 0% |
+| Randal Kolo Muani | 96 | ST | — | 12.000 coins | 0% |
+| Grace Geyoro | 96 | CM | — | 12.000 coins | -2% |
+| Manuela Giugliano | 96 | CM | — | 12.000 coins | 0% |
+| Manuel Lanzini | 96 | CAM | — | 12.000 coins | 0% |
+| Lorenzo Insigne | 96 | CAM | — | 12.000 coins | 0% |
 | Jess Park | 96 | CM | — | 12.000 coins | -2.1% |
-| Ciro Immobile | 96 | ST | — | 12.000 coins | -2.1% |
-| Manuel Lanzini | 96 | CAM | — | 12.250 coins | 0% |
-| Jessie Fleming | 96 | CM | — | 12.250 coins | 0% |
-| Arnaut Danjuma | 96 | LM | — | 12.250 coins | 0% |
+| Tyrhys Dolan | 96 | RM | — | 12.000 coins | -2% |
+| Ayoze | 96 | ST | — | 12.000 coins | 0% |
+| Moussa Diaby | 96 | RM | — | 12.000 coins | 0% |
+| Ethan Mbappé | 96 | CM | — | 12.250 coins | +2.1% |
+| Zion Suzuki | 96 | GK | — | 12.500 coins | -3.8% |
 
 
 ## 📈 Destaques
 
 - **Ademola Lookman (97, ST)** da —, a apenas **13.500 coins**
 
-- **Manuela Giugliano (96, CM)** da —, a apenas **11.000 coins**
+- **Bremer (97, CB)** da —, a apenas **14.750 coins**
 
-- **Moussa Diaby (96, RM)** da —, a apenas **12.000 coins**
+- **Jessie Fleming (96, CM)** da —, a apenas **11.750 coins**
 
-- **Rodrigo Mora (96, CAM)** da —, a apenas **12.000 coins**
+- **Arnaut Danjuma (96, LM)** da —, a apenas **11.750 coins**
 
-- **Tyrhys Dolan (96, RM)** da —, a apenas **12.000 coins**
+- **Randal Kolo Muani (96, ST)** da —, a apenas **12.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Eduardo Quaresma (96, CB) por 12.000 coins é a referência de rating deste recorte.
+- **Defesa:** Bremer (97, CB) por 14.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Manuela Giugliano (96, CM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Jessie Fleming (96, CM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Ademola Lookman (97, ST) por 13.500 coins é a referência de rating deste recorte.
 
