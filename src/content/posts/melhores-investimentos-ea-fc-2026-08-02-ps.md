@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:58:09.000Z
+pubDatetime: 2026-08-03T01:58:10.000Z
 title: "Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Caleb Taylor (92, sem liga) lidera, com +90% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Luis Díaz (91, Bundesliga) lidera, com +89% em 7 dias a 190k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caleb Taylor (92) acumula **+90% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Luis Díaz (91) acumula **+89% em 7 dias** a 190k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+77.0% em 7 dias**.
+- A mediana é de **+17.1% em 24h** e **+76.5% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **sem liga dominante** concentra 0 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Bundesliga** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caleb Taylor | 92 | — | 28k coins | +26.7% | +90% | Esticada |
-| Dominik Szoboszlai | 94 | — | 140k coins | +16% | +89% | Esticada |
-| Roberto Carlos | 95 | — | 127k coins | +13% | +85.7% | Esticada |
-| Hakan Çalhanoğlu | 95 | — | 100k coins | +6.3% | +81.5% | Esticada |
-| Jonathan Tah | 95 | — | 139k coins | +26.9% | +78.8% | Esticada |
-| Sakina Karchaoui | 95 | — | 26k coins | +9.8% | +77.8% | Esticada |
-| Roberto Lopes | 95 | — | 44k coins | +37.5% | +77.4% | Esticada |
-| Eric Cantona | 92 | — | 150k coins | +2.6% | +77% | Esticada |
-| Jakob Glesnes | 93 | — | 26k coins | +14.3% | +76.5% | Esticada |
-| Christopher Bonsu Baah | 90 | — | 24k coins | +26.1% | +75.8% | Esticada |
-| Oumar Camara | 90 | — | 21k coins | +3.7% | +75% | Esticada |
-| Marcelo | 96 | — | 125k coins | +7.2% | +73.7% | Esticada |
-| Paul Onuachu | 95 | — | 70k coins | +30% | +72.4% | Esticada |
-| Vózinha | 96 | — | 40k coins | +5% | +71.4% | Esticada |
-| Ibañez | 93 | — | 44k coins | +36.2% | +70.2% | Esticada |
+| Luis Díaz | 91 | Bundesliga | 190k coins | +18.9% | +89% | Esticada |
+| Hugo Ekitiké | 93 | — | 33k coins | +23.6% | +88% | Esticada |
+| Roberto Carlos | 90 | Icons | 239k coins | +17.1% | +87.5% | Esticada |
+| Paul Onuachu | 95 | — | 70k coins | +18.8% | +83.7% | Esticada |
+| Roberto Baggio | 94 | — | 210k coins | +3% | +81.7% | Esticada |
+| Orlando Gill | 96 | — | 30k coins | +3.1% | +79.3% | Esticada |
+| Ryan Yates | 92 | — | 59k coins | +29.7% | +76.5% | Esticada |
+| Orlando Gill | 95 | — | 128k coins | +7.1% | +76.5% | Esticada |
+| Daniel Muñoz | 97 | — | 190k coins | +13.9% | +74.6% | Esticada |
+| Anaële Le Moguédec | 92 | — | 28k coins | +7.6% | +73.8% | Esticada |
+| Dominik Szoboszlai | 90 | Premier League | 230k coins | +27.8% | +72.9% | Esticada |
+| Marcelo | 96 | — | 120k coins | +7.1% | +72.9% | Esticada |
+| Mateusz Lis | 92 | — | 35k coins | +3.3% | +72.2% | Esticada |
+| Caleb Taylor | 92 | — | 27k coins | +30.1% | +71.4% | Esticada |
+| Nikola Katić | 90 | — | 187k coins | +24.7% | +69.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Caleb Taylor (92)** — 28k coins, **+90% em 7 dias** (+26.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Díaz (91)** — 190k coins, **+89% em 7 dias** (+18.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominik Szoboszlai (94)** — 140k coins, **+89% em 7 dias** (+16% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (93)** — 33k coins, **+88% em 7 dias** (+23.6% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Carlos (95)** — 127k coins, **+85.7% em 7 dias** (+13% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (90)** — 239k coins, **+87.5% em 7 dias** (+17.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hakan Çalhanoğlu (95)** — 100k coins, **+81.5% em 7 dias** (+6.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paul Onuachu (95)** — 70k coins, **+83.7% em 7 dias** (+18.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Tah (95)** — 139k coins, **+78.8% em 7 dias** (+26.9% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Baggio (94)** — 210k coins, **+81.7% em 7 dias** (+3% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Caleb Taylor (92, sem liga) lidera, com +90% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Luis Díaz (91, Bundesliga) lidera, com +89% em 7 dias a 190k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

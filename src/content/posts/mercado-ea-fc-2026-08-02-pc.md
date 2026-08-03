@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:58:17.000Z
+pubDatetime: 2026-08-03T01:58:18.000Z
 title: "Mercado EA FC em 02/08: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Vitinha (90, Ligue 1 McDonald's), com +58.8% em 24h, a 100k coins no PC."
+    a: "Oliver Kahn (91, Icons), com +60% em 24h, a 80k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Tsuyoshi Watanabe (91), -50% em 24h, a 26k coins."
+    a: "Ahmed Fathi (91), -48.7% em 24h, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 525 cartas em alta contra 269 em queda (média 4.72%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 512 cartas em alta contra 280 em queda (média 5.27%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **525 em alta** e **269 em queda**, média de **4.72%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **512 em alta** e **280 em queda**, média de **5.27%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Vitinha (90) **+58.8%** · 🔴 **Maior baixa:** Tsuyoshi Watanabe (91) **-50%**
+> 🟢 **Maior alta:** Oliver Kahn (91) **+60%** · 🔴 **Maior baixa:** Ahmed Fathi (91) **-48.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 66.1% entre as cartas que se moveram; o universo observado reúne 1009 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.6% entre as cartas que se moveram; o universo observado reúne 1029 cartas.
+- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vitinha | 90 | Ligue 1 McDonald's | 100k coins | +58.8% | -33.2% |
-| Angelo Stiller | 91 | Bundesliga | 68k coins | +58.3% | -6.3% |
-| Gary Lineker | 91 | — | 22k coins | +57.1% | -9.3% |
-| Andriy Shevchenko | 93 | — | 94k coins | +56.9% | +59.5% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 62k coins | +56.2% | +7.8% |
-| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +34% |
-| Jaydee Canvot | 96 | — | 93k coins | +53.8% | -58.2% |
-| Virgil van Dijk | 90 | Premier League | 2.30M coins | +53.2% | -34.3% |
-| Zinedine Zidane | 94 | Icons | 750k coins | +52.1% | +8.4% |
-| Roony Bardghji | 90 | LALIGA EA SPORTS | 50k coins | +51.9% | +99% |
+| Oliver Kahn | 91 | Icons | 80k coins | +60% | -14.4% |
+| Celia Šašić | 92 | GPFBL | 24k coins | +59.7% | -10% |
+| João Pedro | 92 | — | 33k coins | +58.1% | +38.8% |
+| Daniele De Rossi | 95 | — | 780k coins | +56% | +11.4% |
+| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +37.7% |
+| Fredrik Aursnes | 92 | — | 35k coins | +54.2% | +85% |
+| Vitinha | 97 | — | 381k coins | +51.5% | +60.7% |
+| Issa Diop | 95 | — | 200k coins | +50.4% | +42.9% |
+| Ismaïla Sarr | 96 | — | 330k coins | +50% | +65.8% |
+| Lily Yohannes | 91 | — | 30k coins | +50% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Vitinha (90)** subiu **+58.8%** em 24h, a **100k coins** (faixa do dia: 80k–149k). Está -33% abaixo da média de 7 dias (descontada).
+- **Oliver Kahn (91)** subiu **+60%** em 24h, a **80k coins** (faixa do dia: 47k–86k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Angelo Stiller (91)** subiu **+58.3%** em 24h, a **68k coins** (faixa do dia: 17.250–68k). Está +121% acima da média de 7 dias (aquecida).
+- **Celia Šašić (92)** subiu **+59.7%** em 24h, a **24k coins** (faixa do dia: 14.000–60k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Gary Lineker (91)** subiu **+57.1%** em 24h, a **22k coins** (faixa do dia: 12.000–22k). Está +11% acima da média de 7 dias (aquecida).
+- **João Pedro (92)** subiu **+58.1%** em 24h, a **33k coins** (faixa do dia: 22k–36k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tsuyoshi Watanabe | 91 | — | 26k coins | -50% | -34.3% |
-| Alessandro Del Piero | 90 | Icons | 68k coins | -49.3% | -1.4% |
-| Caroline Weir | 95 | — | 27k coins | -48.6% | -31.9% |
-| Ingrid Syrstad Engen | 90 | — | 24k coins | -48.5% | -52.4% |
-| Kerim Alajbegović | 94 | — | 23k coins | -48.3% | +2.2% |
-| Carles Puyol | 94 | — | 68k coins | -47.7% | -32.5% |
-| Tabitha Chawinga | 97 | — | 43k coins | -46.7% | -79.4% |
-| Diego Armando Maradona | 95 | Icons | 2.50M coins | -42.5% | +119.3% |
-| Lucy Bronze | 95 | Barclays WSL | 88k coins | -42.3% | +12.5% |
-| Fernando Torres | 90 | Icons | 334k coins | -42% | -48.6% |
+| Ahmed Fathi | 91 | — | 23k coins | -48.7% | -14.3% |
+| Caroline Weir | 95 | — | 27k coins | -48.6% | -26.8% |
+| Kerim Alajbegović | 94 | — | 23k coins | -48.3% | 0% |
+| Eden Hazard | 96 | — | 1.05M coins | -47.5% | -34.4% |
+| Mario Gomez | 92 | — | 22k coins | -46.4% | -21.1% |
+| Selma Bacha | 94 | — | 28k coins | -45.7% | -5% |
+| Alex Pfeiffer | 97 | — | 67k coins | -45.6% | — |
+| Claudio Pizarro | 92 | — | 31k coins | -44.1% | -23.6% |
+| Fernando Torres | 90 | Icons | 323k coins | -43.9% | -50.3% |
+| Romée Leuchter | 97 | — | 35k coins | -42.9% | — |
 
 
 ### Análise das baixas
 
-- **Tsuyoshi Watanabe (91)** caiu **-50%** em 24h, a **26k coins** (faixa do dia: 23k–50k). Está -37% abaixo da média de 7 dias (descontada).
-
-- **Alessandro Del Piero (90)** caiu **-49.3%** em 24h, a **68k coins** (faixa do dia: 68k–173k). Está -53% abaixo da média de 7 dias (descontada).
+- **Ahmed Fathi (91)** caiu **-48.7%** em 24h, a **23k coins** (faixa do dia: 22k–46k). Está -14% abaixo da média de 7 dias (descontada).
 
 - **Caroline Weir (95)** caiu **-48.6%** em 24h, a **27k coins** (faixa do dia: 27k–53k). Está -37% abaixo da média de 7 dias (descontada).
+
+- **Kerim Alajbegović (94)** caiu **-48.3%** em 24h, a **23k coins** (faixa do dia: 23k–45k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Vitinha já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Oliver Kahn já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Tsuyoshi Watanabe recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ahmed Fathi recuou -48.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Vitinha (90, Ligue 1 McDonald's), com +58.8% em 24h, a 100k coins no PC.
+Oliver Kahn (91, Icons), com +60% em 24h, a 80k coins no PC.
 
 **E a maior queda do dia?**
-Tsuyoshi Watanabe (91), -50% em 24h, a 26k coins.
+Ahmed Fathi (91), -48.7% em 24h, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 525 cartas em alta contra 269 em queda (média 4.72%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 512 cartas em alta contra 280 em queda (média 5.27%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
