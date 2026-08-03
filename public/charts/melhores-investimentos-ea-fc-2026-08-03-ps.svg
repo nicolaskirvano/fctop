@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Çağlar Söyüncü</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emilio Butragueño</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jamie Carragher</text>
-<rect x="285" y="153" width="475" height="28" rx="7" fill="#22c55e"/>
-<text x="770" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Leah Williamson</text>
-<rect x="285" y="211" width="463" height="28" rx="7" fill="#22c55e"/>
-<text x="758" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Agnes Beever-Jones</text>
-<rect x="285" y="269" width="424" height="28" rx="7" fill="#22c55e"/>
-<text x="719" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kevin Lenini</text>
-<rect x="285" y="327" width="423" height="28" rx="7" fill="#22c55e"/>
-<text x="718" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+78.5%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Kyle Walker</text>
-<rect x="285" y="385" width="418" height="28" rx="7" fill="#22c55e"/>
-<text x="713" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marcus Rashford</text>
+<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
+<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christos Tzolis</text>
+<rect x="285" y="211" width="469" height="28" rx="7" fill="#22c55e"/>
+<text x="764" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+86.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fernando Morientes</text>
+<rect x="285" y="269" width="462" height="28" rx="7" fill="#22c55e"/>
+<text x="757" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+84.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carlos Tévez</text>
+<rect x="285" y="327" width="418" height="28" rx="7" fill="#22c55e"/>
+<text x="713" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Götze</text>
+<rect x="285" y="385" width="409" height="28" rx="7" fill="#22c55e"/>
+<text x="704" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.0%</text>
 </svg>
