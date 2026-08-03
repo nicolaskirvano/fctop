@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:58:17.000Z
+pubDatetime: 2026-08-03T19:58:18.000Z
 title: "Mercado EA FC em 03/08: Cartas 90+ — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Caroline Seger (91, Icons), com +58.9% em 24h, a 27k coins no PC."
+    a: "Jamie Carragher (92, sem liga), com +58.7% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jaap Stam (91), -49% em 24h, a 40k coins."
+    a: "Roony Bardghji (90), -49.5% em 24h, a 26k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 515 cartas em alta contra 316 em queda (média 5.87%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 456 cartas em alta contra 388 em queda (média 2.85%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — predominam as valorizações: **515 cartas subiram** e **316 caíram** (80+ acima de 5k coins), variação média de **5.87%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — predominam as valorizações: **456 cartas subiram** e **388 caíram** (80+ acima de 5k coins), variação média de **2.85%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Caroline Seger (91) **+58.9%** · 🔴 **Maior baixa:** Jaap Stam (91) **-49%**
+> 🟢 **Maior alta:** Jamie Carragher (92) **+58.7%** · 🔴 **Maior baixa:** Roony Bardghji (90) **-49.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Cartas 90+ — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 62.0% entre as cartas que se moveram; o universo observado reúne 1001 cartas.
-- **Concentração:** Icons aparece em 2 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.0% entre as cartas que se moveram; o universo observado reúne 1014 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caroline Seger | 91 | Icons | 27k coins | +58.9% | -52.2% |
-| Marc Cucurella | 95 | — | 71k coins | +58.9% | +85.7% |
-| James Garner | 90 | — | 30k coins | +57.5% | +18.9% |
-| Tabitha Chawinga | 97 | — | 65k coins | +56% | -61.2% |
-| Alan Shearer | 92 | — | 20k coins | +54.5% | -13.3% |
-| Nathan Zézé | 91 | — | 20k coins | +53% | +26.2% |
-| Bradley Barcola | 96 | — | 450k coins | +51.7% | -7.6% |
+| Jamie Carragher | 92 | — | 50k coins | +58.7% | +92.3% |
+| Malang Sarr | 96 | — | 77k coins | +58.2% | +0.7% |
+| Raphinha | 90 | LALIGA EA SPORTS | 80k coins | +56% | +23.4% |
+| Mapi León | 90 | Liga F | 60k coins | +55.6% | -15% |
+| Ian Rush | 92 | — | 24k coins | +55.3% | +65% |
+| Pelé | 96 | Icons | 20k coins | +54.1% | -4.1% |
+| Aya Miyama | 90 | Icons | 149k coins | +52% | +119.1% |
 | Dennis Bergkamp | 93 | Icons | 178k coins | +50.8% | -38.2% |
-| Daniel Muñoz | 96 | — | 118k coins | +49.1% | -73.4% |
-| Mario Gomez | 92 | — | 60k coins | +49.1% | +158.1% |
+| Oliver Kahn | 94 | — | 45k coins | +50% | +59.3% |
+| Fernando Hierro | 93 | — | 97k coins | +49.2% | +52.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Caroline Seger (91)** subiu **+58.9%** em 24h, a **27k coins** (faixa do dia: 25k–80k). Está -41% abaixo da média de 7 dias (descontada).
+- **Jamie Carragher (92)** subiu **+58.7%** em 24h, a **50k coins** (faixa do dia: 19.000–57k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Marc Cucurella (95)** subiu **+58.9%** em 24h, a **71k coins** (faixa do dia: 30k–80k). Está +44% acima da média de 7 dias (aquecida).
+- **Malang Sarr (96)** subiu **+58.2%** em 24h, a **77k coins** (faixa do dia: 39k–77k). Está +29% acima da média de 7 dias (aquecida).
 
-- **James Garner (90)** subiu **+57.5%** em 24h, a **30k coins** (faixa do dia: 18.500–36k). Está em linha com a média de 7 dias (+2%).
+- **Raphinha (90)** subiu **+56%** em 24h, a **80k coins** (faixa do dia: 54k–98k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Roony Bardghji | 90 | LALIGA EA SPORTS | 26k coins | -49.5% | 0% |
 | Jaap Stam | 91 | Eredivisie | 40k coins | -49% | -97.4% |
-| Kylian Mbappé | 93 | — | 133k coins | -46.4% | -97.2% |
-| Paulo Futre | 92 | Liga Portugal | 24k coins | -46.1% | -55.9% |
-| Christiane Endler | 94 | D1 Arkema | 100k coins | -44.4% | -27.5% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 173k coins | -44% | -26.1% |
+| Hannah Hampton | 92 | — | 27k coins | -47.4% | -21.1% |
+| Tasos Douvikas | 90 | — | 22k coins | -47.2% | -66.4% |
+| George Best | 90 | Icons | 138k coins | -46.6% | +19.3% |
+| Robin Risser | 90 | — | 35k coins | -46.2% | +4.5% |
+| Douglas Luiz | 96 | — | 51k coins | -44.4% | -68.2% |
+| Olivia Holdt | 90 | — | 38k coins | -43.7% | -16.7% |
 | Cesc Fàbregas | 91 | Premier League | 200k coins | -42.9% | -45.8% |
-| Kevin Mac Allister | 94 | — | 28k coins | -41.1% | -17.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 910k coins | -39.3% | -54.5% |
-| Kaká | 90 | — | 210k coins | -36.4% | -25% |
-| Roberto Baggio | 94 | — | 140k coins | -36.4% | -4.1% |
+| Dennis Bergkamp | 90 | Icons | 113k coins | -42.4% | -26.9% |
 
 
 ### Análise das baixas
 
+- **Roony Bardghji (90)** caiu **-49.5%** em 24h, a **26k coins** (faixa do dia: 26k–55k). Está -37% abaixo da média de 7 dias (descontada).
+
 - **Jaap Stam (91)** caiu **-49%** em 24h, a **40k coins** (faixa do dia: 40k–78k). Está -95% abaixo da média de 7 dias (descontada).
 
-- **Kylian Mbappé (93)** caiu **-46.4%** em 24h, a **133k coins** (faixa do dia: 90k–196k). Está -92% abaixo da média de 7 dias (descontada).
-
-- **Paulo Futre (92)** caiu **-46.1%** em 24h, a **24k coins** (faixa do dia: 24k–110k). Está -48% abaixo da média de 7 dias (descontada).
+- **Hannah Hampton (92)** caiu **-47.4%** em 24h, a **27k coins** (faixa do dia: 24k–50k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Caroline Seger já avançou 58.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Jamie Carragher já avançou 58.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaap Stam recuou -49%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Roony Bardghji recuou -49.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Caroline Seger (91, Icons), com +58.9% em 24h, a 27k coins no PC.
+Jamie Carragher (92, sem liga), com +58.7% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Jaap Stam (91), -49% em 24h, a 40k coins.
+Roony Bardghji (90), -49.5% em 24h, a 26k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 515 cartas em alta contra 316 em queda (média 5.87%).
+Hoje o mercado está em alta — predominam as valorizações, com 456 cartas em alta contra 388 em queda (média 2.85%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
