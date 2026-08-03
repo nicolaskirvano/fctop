@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:32:21.000Z
+pubDatetime: 2026-08-03T10:58:20.000Z
 title: "Jogadores baratos EA FC: Cartas 90+ em 03/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 14.250 coins no PC."
+    a: "Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ademola Lookman (97) por apenas 14.250 coins.
+> 💰 **Melhor pechincha:** Ademola Lookman (97) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Cartas 90+ em 03/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-03-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.633 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 12.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 12.567 coins.
+- **Posição mais frequente:** CM, com 5 cartas.
+- **Faixa real:** 11.750 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,43 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ademola Lookman | 97 | ST | — | 14.250 coins | +5.6% |
-| Jess Park | 96 | CM | — | 12.000 coins | +8.5% |
-| Manuela Giugliano | 96 | CM | — | 12.000 coins | +2.1% |
-| Rodrigo Mora | 96 | CAM | — | 12.000 coins | +6.4% |
+| Ademola Lookman | 97 | ST | — | 14.000 coins | +3.7% |
+| Manuela Giugliano | 96 | CM | — | 11.750 coins | +2.1% |
+| Jess Park | 96 | CM | — | 12.000 coins | +2.1% |
 | Arnaut Danjuma | 96 | LM | — | 12.250 coins | +2.1% |
-| Randal Kolo Muani | 96 | ST | — | 12.250 coins | +4.2% |
-| Jessie Fleming | 96 | CM | — | 12.500 coins | +4.2% |
-| Eduardo Quaresma | 96 | CB | — | 12.500 coins | +4.2% |
-| Ethan Mbappé | 96 | CM | — | 12.500 coins | +10% |
-| Ciro Immobile | 96 | ST | — | 12.750 coins | +4.2% |
+| Rodrigo Mora | 96 | CAM | — | 12.250 coins | +2.1% |
+| Moussa Diaby | 96 | RM | — | 12.250 coins | +2.1% |
+| Jessie Fleming | 96 | CM | — | 12.250 coins | +6.4% |
+| Grace Geyoro | 96 | CM | — | 12.500 coins | +6.2% |
+| Randal Kolo Muani | 96 | ST | — | 12.500 coins | +4.2% |
+| Ayoze | 96 | ST | — | 12.500 coins | +6.1% |
+| Ethan Mbappé | 96 | CM | — | 12.750 coins | +2% |
+| Ciro Immobile | 96 | ST | — | 12.750 coins | +6.2% |
 | Manuel Lanzini | 96 | CAM | — | 12.750 coins | +8.3% |
-| Moussa Diaby | 96 | RM | — | 12.750 coins | +6.2% |
-| Ivan Perišić | 96 | RW | — | 13.000 coins | +4.2% |
+| Ivan Perišić | 96 | RW | — | 13.000 coins | +6.4% |
 | Lorenzo Insigne | 96 | CAM | — | 13.000 coins | +6.1% |
-| Ayoze | 96 | ST | — | 13.000 coins | +6.1% |
 
 
 ## 📈 Destaques
 
-- **Ademola Lookman (97, ST)** da —, a apenas **14.250 coins**
+- **Ademola Lookman (97, ST)** da —, a apenas **14.000 coins**
+
+- **Manuela Giugliano (96, CM)** da —, a apenas **11.750 coins**
 
 - **Jess Park (96, CM)** da —, a apenas **12.000 coins**
 
-- **Manuela Giugliano (96, CM)** da —, a apenas **12.000 coins**
-
-- **Rodrigo Mora (96, CAM)** da —, a apenas **12.000 coins**
-
 - **Arnaut Danjuma (96, LM)** da —, a apenas **12.250 coins**
+
+- **Rodrigo Mora (96, CAM)** da —, a apenas **12.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Eduardo Quaresma (96, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Manuela Giugliano (96, CM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Jess Park (96, CM) por 12.000 coins é a referência de rating deste recorte.
-
-- **Ataque:** Ademola Lookman (97, ST) por 14.250 coins é a referência de rating deste recorte.
+- **Ataque:** Ademola Lookman (97, ST) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -105,7 +103,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 14.250 coins no PC.
+Ademola Lookman (97, sem liga) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

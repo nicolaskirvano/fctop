@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:32:19.000Z
+pubDatetime: 2026-08-03T10:58:19.000Z
 title: "Investimentos EA FC: Cartas 90+ em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Mario Mandžukić (92, sem liga) lidera, com +90% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Roberto Carlos (95, sem liga) lidera, com +87.3% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mario Mandžukić (92) acumula **+90% em 7 dias** a 37k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Roberto Carlos (95) acumula **+87.3% em 7 dias** a 160k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.3% em 24h** e **+72.3% em 7 dias**.
+- A mediana é de **+14.2% em 24h** e **+72.6% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mario Mandžukić | 92 | — | 37k coins | +31% | +90% | Esticada |
-| Alberto Costa | 91 | — | 34k coins | +33% | +88.6% | Esticada |
-| Gerd Müller | 92 | Icons | 213k coins | +6.9% | +83.9% | Esticada |
-| Roberto Carlos | 95 | — | 151k coins | +9.8% | +83.5% | Esticada |
-| Kyle Walker | 97 | — | 213k coins | +3.3% | +80.8% | Esticada |
+| Roberto Carlos | 95 | — | 160k coins | +12.1% | +87.3% | Esticada |
+| Mario Mandžukić | 92 | — | 29k coins | +27.6% | +85% | Esticada |
+| Kyle Walker | 97 | — | 208k coins | +3.3% | +80.8% | Esticada |
 | Dayot Upamecano | 93 | — | 34k coins | +39% | +80.5% | Esticada |
-| Harry Maguire | 97 | — | 129k coins | +19.3% | +73.3% | Esticada |
-| Nuno Tavares | 91 | Serie A TIM | 87k coins | +1.2% | +72.3% | Esticada |
-| Vózinha | 96 | — | 36k coins | +15.3% | +70.7% | Esticada |
-| Ayyoub Bouaddi | 95 | — | 42k coins | +32.2% | +69.6% | Esticada |
+| Steven Gerrard | 90 | Icons | 233k coins | +1.7% | +79.2% | Esticada |
+| Gerd Müller | 92 | Icons | 213k coins | +6.9% | +76.4% | Esticada |
+| Alberto Costa | 91 | — | 39k coins | +14.2% | +73.4% | Esticada |
+| Jan Bednarek | 94 | — | 32k coins | +38.1% | +72.6% | Esticada |
+| Nuno Tavares | 91 | Serie A TIM | 85k coins | +6.1% | +72.3% | Esticada |
+| Mario Götze | 96 | — | 31k coins | +6% | +72.2% | Esticada |
+| Harry Maguire | 97 | — | 129k coins | +19.4% | +72% | Esticada |
+| Noussair Mazraoui | 95 | — | 22k coins | +30.7% | +71.9% | Esticada |
+| Vózinha | 96 | — | 26k coins | +15.3% | +70.7% | Esticada |
 | Claudio Pizarro | 94 | — | 87k coins | +27.1% | +69.5% | Esticada |
-| Santiago Sosa | 93 | — | 44k coins | +31.9% | +69.1% | Esticada |
-| Nene Dorgeles | 91 | — | 49k coins | +34.7% | +68.3% | Esticada |
 | Ibañez | 93 | — | 50k coins | +7.6% | +67.3% | Esticada |
-| Mario Götze | 96 | — | 32k coins | +2.6% | +66.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mario Mandžukić (92)** — 37k coins, **+90% em 7 dias** (+31% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Carlos (95)** — 160k coins, **+87.3% em 7 dias** (+12.1% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alberto Costa (91)** — 34k coins, **+88.6% em 7 dias** (+33% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mario Mandžukić (92)** — 29k coins, **+85% em 7 dias** (+27.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerd Müller (92)** — 213k coins, **+83.9% em 7 dias** (+6.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kyle Walker (97)** — 208k coins, **+80.8% em 7 dias** (+3.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roberto Carlos (95)** — 151k coins, **+83.5% em 7 dias** (+9.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dayot Upamecano (93)** — 34k coins, **+80.5% em 7 dias** (+39% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kyle Walker (97)** — 213k coins, **+80.8% em 7 dias** (+3.3% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Gerrard (90)** — 233k coins, **+79.2% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Mario Mandžukić (92, sem liga) lidera, com +90% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Roberto Carlos (95, sem liga) lidera, com +87.3% em 7 dias a 160k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

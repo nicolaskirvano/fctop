@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:32:10.000Z
+pubDatetime: 2026-08-03T10:58:09.000Z
 title: "Investimentos EA FC: Cartas 90+ em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Jamie Carragher (92, sem liga) lidera, com +88.1% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Çağlar Söyüncü (93, sem liga) lidera, com +89.1% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jamie Carragher (92) acumula **+88.1% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Çağlar Söyüncü (93) acumula **+89.1% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Cartas 90+ em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.0% em 24h** e **+72.1% em 7 dias**.
+- A mediana é de **+16.8% em 24h** e **+72.5% em 7 dias**.
 - **15 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Barclays WSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Barclays WSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jamie Carragher | 92 | — | 32k coins | +40% | +88.1% | Esticada |
-| Leah Williamson | 95 | Barclays WSL | 172k coins | +35.4% | +85.9% | Esticada |
-| Çağlar Söyüncü | 93 | — | 28k coins | +5.5% | +81.2% | Esticada |
-| Kevin Lenini | 95 | — | 58k coins | +16% | +78.5% | Esticada |
-| Sidny Cabral | 93 | — | 23k coins | +11.1% | +74.6% | Esticada |
-| Kyle Walker | 97 | — | 245k coins | +17.1% | +73.9% | Esticada |
-| Christiane Endler | 94 | D1 Arkema | 138k coins | +6.2% | +72.5% | Esticada |
-| Rúben Neves | 95 | — | 44k coins | +17.8% | +72.1% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 230k coins | +16.8% | +71.6% | Esticada |
-| Ryan Yates | 92 | — | 60k coins | +22.4% | +71.4% | Esticada |
-| Roberto Carlos | 95 | — | 135k coins | +4.8% | +68.2% | Esticada |
-| Wouter Burger | 90 | — | 32k coins | +11.1% | +66.7% | Esticada |
-| Cesc Fàbregas | 93 | — | 22k coins | +24.1% | +66.2% | Esticada |
-| Marcelo | 96 | — | 130k coins | +5.8% | +66% | Esticada |
-| Lilian Thuram | 95 | — | 195k coins | +13.4% | +65.9% | Esticada |
+| Çağlar Söyüncü | 93 | — | 32k coins | +13.1% | +89.1% | Esticada |
+| Jamie Carragher | 92 | — | 17.000 coins | +40% | +88.1% | Esticada |
+| Leah Williamson | 95 | Barclays WSL | 90k coins | +35.4% | +85.9% | Esticada |
+| Agnes Beever-Jones | 90 | Barclays WSL | 67k coins | +39.6% | +78.7% | Esticada |
+| Kevin Lenini | 95 | — | 58k coins | +12.6% | +78.5% | Esticada |
+| Kyle Walker | 97 | — | 230k coins | +19% | +77.6% | Esticada |
+| Sidny Cabral | 93 | — | 26k coins | +19.6% | +74.6% | Esticada |
+| Christiane Endler | 94 | D1 Arkema | 135k coins | +8.7% | +72.5% | Esticada |
+| Ryan Yates | 92 | — | 60k coins | +20% | +71.4% | Esticada |
+| Gianluigi Buffon | 91 | Icons | 230k coins | +16.8% | +70.4% | Esticada |
+| Paul Onuachu | 95 | — | 72k coins | +1.3% | +68.4% | Esticada |
+| Roberto Carlos | 95 | — | 126k coins | +4.8% | +68.2% | Esticada |
+| Wouter Burger | 90 | — | 22k coins | +10.2% | +66.7% | Esticada |
+| Lilian Thuram | 95 | — | 210k coins | +14.5% | +65.9% | Esticada |
+| Melle Meulensteen | 91 | — | 30k coins | +32.6% | +65.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jamie Carragher (92)** — 32k coins, **+88.1% em 7 dias** (+40% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Çağlar Söyüncü (93)** — 32k coins, **+89.1% em 7 dias** (+13.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Leah Williamson (95)** — 172k coins, **+85.9% em 7 dias** (+35.4% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jamie Carragher (92)** — 17.000 coins, **+88.1% em 7 dias** (+40% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Çağlar Söyüncü (93)** — 28k coins, **+81.2% em 7 dias** (+5.5% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leah Williamson (95)** — 90k coins, **+85.9% em 7 dias** (+35.4% em 24h). Preço -24% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kevin Lenini (95)** — 58k coins, **+78.5% em 7 dias** (+16% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Agnes Beever-Jones (90)** — 67k coins, **+78.7% em 7 dias** (+39.6% em 24h). Preço +73% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sidny Cabral (93)** — 23k coins, **+74.6% em 7 dias** (+11.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Lenini (95)** — 58k coins, **+78.5% em 7 dias** (+12.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Jamie Carragher (92, sem liga) lidera, com +88.1% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Çağlar Söyüncü (93, sem liga) lidera, com +89.1% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
