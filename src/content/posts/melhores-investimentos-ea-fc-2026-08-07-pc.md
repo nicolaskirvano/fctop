@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T22:58:18.000Z
+pubDatetime: 2026-08-08T01:58:18.000Z
 title: "Investimentos EA FC: Cartas 90+ em 07/08 — PC"
 draft: false
 featured: true
